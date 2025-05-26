@@ -1,0 +1,105 @@
+INFO:     Started server process [15644]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     127.0.0.1:58577 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58579 - "POST /messages/?session_id=3b3fafae761246088a6d295da3b53781 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58579 - "POST /messages/?session_id=3b3fafae761246088a6d295da3b53781 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58579 - "POST /messages/?session_id=3b3fafae761246088a6d295da3b53781 HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:58579 - "POST /messages/?session_id=3b3fafae761246088a6d295da3b53781 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58586 - "POST /messages/?session_id=3b3fafae761246088a6d295da3b53781 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58586 - "POST /messages/?session_id=3b3fafae761246088a6d295da3b53781 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58586 - "POST /messages/?session_id=3b3fafae761246088a6d295da3b53781 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58595 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58597 - "POST /messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58597 - "POST /messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58597 - "POST /messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:58597 - "POST /messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58597 - "POST /messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58597 - "POST /messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58597 - "POST /messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58604 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58606 - "POST /messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58606 - "POST /messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58606 - "POST /messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1 HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:58606 - "POST /messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58606 - "POST /messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58665 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58667 - "POST /messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58667 - "POST /messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58667 - "POST /messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0 HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:58667 - "POST /messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58667 - "POST /messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58684 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58686 - "POST /messages/?session_id=a042cae4fe9d4361bb8239076d69f5c9 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58686 - "POST /messages/?session_id=a042cae4fe9d4361bb8239076d69f5c9 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58686 - "POST /messages/?session_id=a042cae4fe9d4361bb8239076d69f5c9 HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:58768 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58770 - "POST /messages/?session_id=2287842000994031aa564b4e65d6e010 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58770 - "POST /messages/?session_id=2287842000994031aa564b4e65d6e010 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58770 - "POST /messages/?session_id=2287842000994031aa564b4e65d6e010 HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:58770 - "POST /messages/?session_id=2287842000994031aa564b4e65d6e010 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58770 - "POST /messages/?session_id=2287842000994031aa564b4e65d6e010 HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58807 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58809 - "POST /messages/?session_id=7653808f79ff44d882f1f83d51884c57 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58809 - "POST /messages/?session_id=7653808f79ff44d882f1f83d51884c57 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58809 - "POST /messages/?session_id=7653808f79ff44d882f1f83d51884c57 HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:58925 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58927 - "POST /messages/?session_id=079696917687469e8eb648a86b36432e HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58927 - "POST /messages/?session_id=079696917687469e8eb648a86b36432e HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58927 - "POST /messages/?session_id=079696917687469e8eb648a86b36432e HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:58927 - "POST /messages/?session_id=079696917687469e8eb648a86b36432e HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58927 - "POST /messages/?session_id=079696917687469e8eb648a86b36432e HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58938 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58940 - "POST /messages/?session_id=159c5ce4ac914541945739f33f0dc74e HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58940 - "POST /messages/?session_id=159c5ce4ac914541945739f33f0dc74e HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58940 - "POST /messages/?session_id=159c5ce4ac914541945739f33f0dc74e HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:58940 - "POST /messages/?session_id=159c5ce4ac914541945739f33f0dc74e HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:58946 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58948 - "POST /messages/?session_id=6080c96bc567416f89dc63052599006a HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58948 - "POST /messages/?session_id=6080c96bc567416f89dc63052599006a HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58948 - "POST /messages/?session_id=6080c96bc567416f89dc63052599006a HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:58948 - "POST /messages/?session_id=6080c96bc567416f89dc63052599006a HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:59041 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59043 - "POST /messages/?session_id=4e4804d2f4f4486a8cb7445a8ade3f0d HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:59043 - "POST /messages/?session_id=4e4804d2f4f4486a8cb7445a8ade3f0d HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:59043 - "POST /messages/?session_id=4e4804d2f4f4486a8cb7445a8ade3f0d HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:59050 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59052 - "POST /messages/?session_id=505d6b1cec10492b8a783e6cbe83b84f HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:59052 - "POST /messages/?session_id=505d6b1cec10492b8a783e6cbe83b84f HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:59052 - "POST /messages/?session_id=505d6b1cec10492b8a783e6cbe83b84f HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:59066 - "GET /sse HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59068 - "POST /messages/?session_id=074fb2c58cd649b6a665ae6d434b0b24 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:59068 - "POST /messages/?session_id=074fb2c58cd649b6a665ae6d434b0b24 HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:59068 - "POST /messages/?session_id=074fb2c58cd649b6a665ae6d434b0b24 HTTP/1.1" 202 Accepted
+Processing request of type ListToolsRequest

@@ -1,0 +1,352 @@
+INFO:api.api:OpenAI model initialized successfully.
+INFO:     Started server process [15661]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:api.api:Working directory set to: /Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant
+INFO:     127.0.0.1:58571 - "POST /set_working_directory HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}]...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=3b3fafae761246088a6d295da3b53781
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=3b3fafae761246088a6d295da3b53781
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=3b3fafae761246088a6d295da3b53781 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=3b3fafae761246088a6d295da3b53781 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=3b3fafae761246088a6d295da3b53781 "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=3b3fafae761246088a6d295da3b53781 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=3b3fafae761246088a6d295da3b53781 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=3b3fafae761246088a6d295da3b53781 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=3b3fafae761246088a6d295da3b53781 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: After reviewing the contents of `api/api.py`, `api/utils.py`, and `streamlit_app.py`, here is how La...
+INFO:     127.0.0.1:58575 - "POST /generate HTTP/1.1" 200 OK
+INFO:     192.168.1.1:42692 - "GET / HTTP/1.1" 404 Not Found
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=9a517dcd91cd4f189b8725ed81bef021
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=9a517dcd91cd4f189b8725ed81bef021
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=9a517dcd91cd4f189b8725ed81bef021 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: To address the question of adding observability to the application, let's consider the structure and...
+INFO:     127.0.0.1:58592 - "POST /generate HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1 "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=f8ec287fc90d4c189b8fe32863ca11f1 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: The function `load_agent(client, model, logger)` from `utils.py` in the project plays a critical rol...
+INFO:     127.0.0.1:58602 - "POST /generate HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0 "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=feaf6f8564654ae5b597bedbbb23e3d0 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: After reviewing the provided content in `api/utils.py`, here is a detailed explanation of `create_re...
+INFO:     127.0.0.1:58663 - "POST /generate HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=a042cae4fe9d4361bb8239076d69f5c9
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=a042cae4fe9d4361bb8239076d69f5c9
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=a042cae4fe9d4361bb8239076d69f5c9 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=a042cae4fe9d4361bb8239076d69f5c9 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=a042cae4fe9d4361bb8239076d69f5c9 "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: To describe the agent workflow at a high level, it's necessary to understand how the LangGraph agent...
+INFO:     127.0.0.1:58682 - "POST /generate HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=2287842000994031aa564b4e65d6e010
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=2287842000994031aa564b4e65d6e010
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=2287842000994031aa564b4e65d6e010 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=2287842000994031aa564b4e65d6e010 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=2287842000994031aa564b4e65d6e010 "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=2287842000994031aa564b4e65d6e010 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=2287842000994031aa564b4e65d6e010 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: After examining the project structure and the contents of `api/utils.py`, I found key insights into ...
+INFO:     127.0.0.1:58766 - "POST /generate HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=7653808f79ff44d882f1f83d51884c57
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=7653808f79ff44d882f1f83d51884c57
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=7653808f79ff44d882f1f83d51884c57 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=7653808f79ff44d882f1f83d51884c57 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=7653808f79ff44d882f1f83d51884c57 "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: Based on the details provided earlier, particularly around the `load_agent` function from `api/utils...
+INFO:     127.0.0.1:58805 - "POST /generate HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=079696917687469e8eb648a86b36432e
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=079696917687469e8eb648a86b36432e
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=079696917687469e8eb648a86b36432e "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=079696917687469e8eb648a86b36432e "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=079696917687469e8eb648a86b36432e "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=079696917687469e8eb648a86b36432e "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=079696917687469e8eb648a86b36432e "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: The MCP (MultiServerMCPClient) server lists several tools defined within `mcp_server.py`. These tool...
+INFO:     127.0.0.1:58922 - "POST /generate HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=159c5ce4ac914541945739f33f0dc74e
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=159c5ce4ac914541945739f33f0dc74e
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=159c5ce4ac914541945739f33f0dc74e "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=159c5ce4ac914541945739f33f0dc74e "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=159c5ce4ac914541945739f33f0dc74e "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=159c5ce4ac914541945739f33f0dc74e "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: The structure of the MCP Coding Assistant project is based on a well-organized directory that encaps...
+INFO:     127.0.0.1:58936 - "POST /generate HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=6080c96bc567416f89dc63052599006a
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=6080c96bc567416f89dc63052599006a
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=6080c96bc567416f89dc63052599006a "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=6080c96bc567416f89dc63052599006a "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=6080c96bc567416f89dc63052599006a "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=6080c96bc567416f89dc63052599006a "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: The folder hierarchy of the MCP Coding Assistant project is as follows:
+
+```
+mcp-coding-assistant/
+├...
+INFO:     127.0.0.1:58944 - "POST /generate HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=4e4804d2f4f4486a8cb7445a8ade3f0d
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=4e4804d2f4f4486a8cb7445a8ade3f0d
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=4e4804d2f4f4486a8cb7445a8ade3f0d "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=4e4804d2f4f4486a8cb7445a8ade3f0d "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=4e4804d2f4f4486a8cb7445a8ade3f0d "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: I'm sorry, but I can't provide real-time data or predictions on events such as the Super Bowl. My kn...
+INFO:     127.0.0.1:59039 - "POST /generate HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=505d6b1cec10492b8a783e6cbe83b84f
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=505d6b1cec10492b8a783e6cbe83b84f
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=505d6b1cec10492b8a783e6cbe83b84f "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=505d6b1cec10492b8a783e6cbe83b84f "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=505d6b1cec10492b8a783e6cbe83b84f "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: World War I was won by the Allies, which consisted of several nations including but not limited to F...
+INFO:     127.0.0.1:59048 - "POST /generate HTTP/1.1" 200 OK
+INFO:api.api:Received /generate request. Query: '[{"role": "user", "content": "Exapln how LangGraph is used?"}, {"role": "assistant", "content": "Aft...'. Current WD: '/Users/ericchasin/github/sentivera/sentivera-agentic-examples/mcp-coding-assistant'
+INFO:api.api:Attempting to connect to MCP server at http://localhost:8001/sse
+INFO:mcp.client.sse:Connecting to SSE endpoint: http://localhost:8001/sse
+INFO:httpx:HTTP Request: GET http://localhost:8001/sse "HTTP/1.1 200 OK"
+INFO:mcp.client.sse:Received endpoint URL: http://localhost:8001/messages/?session_id=074fb2c58cd649b6a665ae6d434b0b24
+INFO:mcp.client.sse:Starting post writer with endpoint URL: http://localhost:8001/messages/?session_id=074fb2c58cd649b6a665ae6d434b0b24
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=074fb2c58cd649b6a665ae6d434b0b24 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=074fb2c58cd649b6a665ae6d434b0b24 "HTTP/1.1 202 Accepted"
+INFO:httpx:HTTP Request: POST http://localhost:8001/messages/?session_id=074fb2c58cd649b6a665ae6d434b0b24 "HTTP/1.1 202 Accepted"
+INFO:api.api:Successfully connected to MCP server.
+INFO:api.api:Available tools from MCP: ['read_file', 'list_directory', 'get_file_info', 'get_tree_folders']
+INFO:api.api:ReAct agent created.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:api.api:Agent invocation successful.
+INFO:api.api:Successfully extracted final AI response from agent.
+INFO:api.api:Sending response: To create a mermaid diagram to visualize function dependencies in markdown, one common approach is t...
+INFO:     127.0.0.1:59064 - "POST /generate HTTP/1.1" 200 OK
+INFO:     192.168.1.1:52966 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:55722 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:55988 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:46448 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:44214 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:47874 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:56184 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:53628 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:50352 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:43504 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:55590 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:53418 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:59650 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:42178 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:43160 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:50198 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:46228 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:37376 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:53382 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:55752 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:54356 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:38866 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:60984 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:59856 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:58442 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:42612 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:38632 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:35128 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:57246 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:38984 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:56474 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:57836 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:39076 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:60018 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:60704 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:42160 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:57104 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:36942 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:48308 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:50622 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:51736 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:57152 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:45868 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:36714 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:57568 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:46150 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:50536 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:50538 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:58566 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:45096 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:51524 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:57702 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:60472 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:47750 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:52242 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:40970 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:57526 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:60290 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:54502 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:45784 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:54066 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:43318 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:57466 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:45774 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:44278 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:46594 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:47060 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:46628 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:56120 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:43900 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:32832 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:54706 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:53336 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:52862 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:39744 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:56100 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:44250 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:36786 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:60922 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:47938 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:41792 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:53782 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:46672 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:48158 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:56900 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:45672 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:36582 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.1.1:53144 - "GET / HTTP/1.1" 404 Not Found
