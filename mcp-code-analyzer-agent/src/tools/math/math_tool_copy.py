@@ -6,10 +6,10 @@ provided as strings. It can handle basic arithmetic operations and returns eithe
 the calculated result or an error message if the expression is invalid.
 """
 
-from src.mcp.tool_registry import mcp_tool
+from src.mcp.tool_registry import mcp_tool_copy
 
-@mcp_tool(description="Evaluates mathematical expressions and returns the result")
-async def math_tool(expression: str) -> str:
+@mcp_tool_copy(description="Evaluates mathematical expressions and returns the result")
+async def math_tool_copy(expression: str) -> str:
     """
     Evaluates a mathematical expression provided as a string.
 

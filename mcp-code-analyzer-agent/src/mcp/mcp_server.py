@@ -2,12 +2,16 @@ from fastapi import FastAPI, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from src.mcp.schemas import MCPRequest, MCPResponse
 from src.mcp.handler import MCPHandler
+from src.mcp.tool_registry import TOOL_REGISTRY
 from typing import Dict, Any, List, Optional
 import uvicorn
 import logging
 from datetime import datetime
 from src.mcp.config import settings
 import requests
+
+# Import tools to ensure they are registered
+from src.tools.math import math_tool, math_tool_copy
 
 # Configure logging
 logging.basicConfig(
@@ -45,6 +49,26 @@ async def health_check() -> Dict[str, str]:
         "version": "1.0.0"
     }
 
+# List available tools endpoint
+@app.get("/tools")
+async def list_tools() -> Dict[str, List[str]]:
+    """List all available tools"""
+    return {
+        "tools": list(TOOL_REGISTRY.keys())
+    }
+
+# Execute tool endpoint
+@app.post("/tools/{tool_name}")
+async def execute_tool(tool_name: str, request: MCPRequest) -> MCPResponse:
+    """Execute a specific tool"""
+    if tool_name not in TOOL_REGISTRY:
+        raise HTTPException(status_code=404, detail=f"Tool '{tool_name}' not found")
+    
+    try:
+        return await TOOL_REGISTRY[tool_name](request)
+    except Exception as e:
+        logger.error(f"Error executing tool {tool_name}: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":
     uvicorn.run(
