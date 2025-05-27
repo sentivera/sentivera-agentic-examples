@@ -10,7 +10,6 @@ sys.path.append(str(src_path))
 
 from src.mcp.mcp_server import app
 from src.mcp.schemas import MCPRequest
-from src.mcp.models import ModelType
 import json
 
 client = TestClient(app)

@@ -1,6 +1,5 @@
 from fastapi import FastAPI, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
-from src.mcp.models import ModelType
 from src.mcp.schemas import MCPRequest, MCPResponse
 from src.mcp.handler import MCPHandler
 from typing import Dict, Any, List, Optional
@@ -46,21 +45,6 @@ async def health_check() -> Dict[str, str]:
         "version": "1.0.0"
     }
 
-# Model info endpoint
-@app.get("/mcp/models")
-async def list_models() -> Dict[str, Any]:
-    """List available models and their capabilities"""
-    return {
-        "models": [
-            {
-                "id": model.value,
-                "name": model.name,
-                "description": model.description,
-                "capabilities": model.capabilities
-            }
-            for model in ModelType
-        ]
-    }
 
 if __name__ == "__main__":
     uvicorn.run(
