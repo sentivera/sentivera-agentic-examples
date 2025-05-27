@@ -1,7 +1,16 @@
 import pytest
 from fastapi.testclient import TestClient
-from server.mcp_server import app
-from mcp import MCPRequest, ModelType
+import sys
+from pathlib import Path
+
+# Add the src directory to the Python path
+project_root = Path(__file__).parent.parent
+src_path = project_root / "src"
+sys.path.append(str(src_path))
+
+from src.mcp.mcp_server import app
+from src.mcp.schemas import MCPRequest
+from src.mcp.models import ModelType
 import json
 
 client = TestClient(app)
@@ -101,7 +110,7 @@ def test_missing_content():
     }
     
     response = client.post("/mcp/analyze", json=request_data)
-    assert response.status_code == 400
+    assert response.status_code == 422
     data = response.json()
     assert "detail" in data
 

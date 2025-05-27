@@ -1,4 +1,4 @@
-from pydantic import BaseSettings
+from pydantic_settings import BaseSettings
 from typing import List, Optional
 import os
 from pathlib import Path
@@ -8,7 +8,7 @@ class ServerSettings(BaseSettings):
     
     # Server settings
     HOST: str = "0.0.0.0"
-    PORT: int = 8000
+    PORT: int = 8001
     DEBUG: bool = False
     RELOAD: bool = True
     
@@ -22,7 +22,7 @@ class ServerSettings(BaseSettings):
     DEFAULT_MODEL: str = "ast_parser"
     
     # File paths
-    BASE_DIR: Path = Path(__file__).parent.parent
+    BASE_DIR: Path = Path(__file__).parent.parent.parent
     LOG_DIR: Path = BASE_DIR / "logs"
     OUTPUT_DIR: Path = BASE_DIR / "output"
     
@@ -30,9 +30,11 @@ class ServerSettings(BaseSettings):
     LOG_LEVEL: str = "INFO"
     LOG_FORMAT: str = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
     
-    class Config:
-        env_file = ".env"
-        case_sensitive = True
+    model_config = {
+        "env_file": ".env",
+        "case_sensitive": True,
+        "extra": "allow"  # Allow extra fields from environment variables
+    }
 
 # Create settings instance
 settings = ServerSettings()

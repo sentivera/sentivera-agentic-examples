@@ -1,7 +1,8 @@
 from fastapi import FastAPI, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
-from mcp import MCPRequest, MCPResponse, MCPHandler
-from mcp.models import ModelType
+from .models import ModelType
+from .schemas import MCPRequest, MCPResponse
+from .handler import MCPHandler
 from typing import Dict, Any, List, Optional
 import uvicorn
 import logging
@@ -65,6 +66,9 @@ async def analyze_code(request: MCPRequest) -> MCPResponse:
             }
         )
         
+    except ValueError as e:
+        logger.error(f"Error processing request: {str(e)}")
+        raise HTTPException(status_code=400, detail=str(e))
     except Exception as e:
         logger.error(f"Error processing request: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
@@ -97,7 +101,7 @@ async def list_models() -> Dict[str, Any]:
 
 if __name__ == "__main__":
     uvicorn.run(
-        "mcp_server:app",
+        "src.mcp.mcp_server:app",
         host=settings.HOST,
         port=settings.PORT,
         reload=settings.RELOAD
