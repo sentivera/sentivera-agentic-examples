@@ -94,8 +94,12 @@ async def main():
     print(f"Nodes: {nodes_props}")
     print(f"Relationships: {relationships_props}")
 
-    # Add the graph documents to Neo4j
+    # Add both filtered and property-based graph documents to Neo4j
+    graph_documents_filtered = await llm_transformer_filtered.aconvert_to_graph_documents([Document(page_content=text)])
     graph_documents_props = await llm_transformer_props.aconvert_to_graph_documents([Document(page_content=text)])
+    
+    # Add both sets of documents to Neo4j
+    graph.add_graph_documents(graph_documents_filtered)
     graph.add_graph_documents(graph_documents_props)
     print("\n✅ Graph documents added to Neo4j successfully!")
 
