@@ -25,3 +25,6 @@ build/
 .env.local
 
 venv/bin/pip
+.DS_Store
+
+neo4j/
