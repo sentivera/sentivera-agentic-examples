@@ -1,0 +1,742 @@
+
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Servicing Step Status
+
+Indicator the step is completed or is still pending completion by the user
+
+Servicing Type
+
+Type of servicing activity assigned to a loan in the form of a predefined template of servicing
+activity steps
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Lend Amt From
+
+Original principal amount of the loan in dollars (numerals only)
+
+Scheduled Date
+
+The date that a servicing activity step is scheduled to be completed by the user.
+
+Servicing Completed Date
+
+The date that a servicing activity step is actually completed by the user
+
+Keyword
+
+Keyword search.
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Table 3: Servicing Search Fields
+
+SMART USER MANUAL | HUD.ACCOUNTING | VERSION 1.43.0 | JUNE 2, 2020 | 62
+
+
+Step 3:
+
+Step 4:
+Step 5:
+
+5.1.2
+
+®SMART
+Click [START SEARCH].
+Figure 160: Servicing Search Screen Buttons
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Once the Loan Record is open, you will be automatically directed to the Servicing tab.
+
+Searching for Loans without Servicing History
+
+Loans without servicing history can be retrieved through various combinations of the search criteria
+available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Servicing tab.
+
+Note: You can also access loans with servicing history through this process.
+
+SMART USER MANUAL | HUD.ACCOUNTING | VERSION 1.43.0 | JUNE 2, 2020 | 63
+
+@SMART
+
+5.2 Servicing Tab
+
+Once the Loan record is open, the Servicing Module is found on the Servicing Tab. If mortgage servicing
+activity has been initiated for a Loan, the Servicing tab in the Loan Record window will be highlighted in
+light blue and will display the current servicing activity of that Loan.
+
+i cc EEE |r Sj 3
+
+@ Servicing
+
+B.Cert of indebtedness
+(con iay
+B.Cmt of ndebtednens Payott Request Received 03/2018 0310372018 030372018 [Adve]
+(Conta) 12.2729 AM EST
+1B Payot Request (A) Payoft Letter issued owoa2018 owo32018 oxoa2018 oxoxz018
+1227-29 AM EST 12:35:57 AM EST
+B Payott Request (f)
+Payot Amount Recewee 0403/2018 oxoa2018
+122729 AM EST
+Payot! Amount Forwarded to Lock-Bax 04/04/2018 04092018 [ Actwe
+122720 aM Est
+Showing 1 to 4 of 4 entries |
+
+Figure 161: Servicing Tab (Partial Claim)
+
+Description
+Export to Excel BiExcel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Service Management View the information for the Servicing Activity selected for
+the Loan.
+View Notes Takes you to the Notes tab for the loan. See Section 3.2.8.
+Search search Search and filter the page by specific keywords. The main
+table will filter based off of the keyword search.
+
+Table 4: Data Table Buttons
+
+The Servicing Activity table at the left side of the Servicing Tab will change depending on what Loan
+Program is associated with the loan. This information is read-only, and the user can not add new
+servicing activities for loan programs.
+
+5.2.1 View an Active Servicing Activity
+
+In the Servicing Activity table, a green document icon (8) and (A) means that the Servicing Activity is
+Active. The active servicing activity will open with its timeline displayed in the main data table. See the
+above table for a description of the buttons that display on top of the main Data Table.
+
+Servicing Activity
+Loon Summary || LoonDetsl || LoenFuing || Loen Recording || Borrowers | | Propertyinapecson || Documents || Hotes | Mortgage Reise || Exceptions (IRMINIIIMIR rorecicre || Gantruptcy || later
+
+@ Servicing
+
+i Cert of Indebtedness
+[oss Par [ore | osecnnemm [wenn [rere | (CON (A)
+Bc Indebtedness.
+B.certotincebteeness Pay Reaset Raced onoa0%e enoazore onoazote Gi Cert of Indebtedness
+B Payot Request (1)
+shoves tte 6et4 tie 6 Payoff Request (I)
+
+Figure 162: Active Servicing Activity (Payoff Request — Partial Claim)
+
+SMART USER MANUAL | HUD.ACCOUNTING | VERSION 1.43.0 | JUNE 2, 2020 | 64
+
+@SMART
+
+5.2.2 View an Inactive Servicing Activity
+
+In the Servicing Activity table, a grey document icon (8) and (1) means that the Servicing Activity is
+Inactive. The active servicing activity will open with its timeline displayed in the main data table. See
+the above table for a description of the buttons that display on top of the main Data Table.
+
+Servicing Activity
+Loan Summary | LoanDetal | LoanFuing Loan Recording Borrowers Propertyinspecton || Documents Wotes  Morigage Release | Excepsons Forecowure Bankruptcy OA
+
+@ Servicing
+Gi Cert of Indebtedness
+B Cert of Indebtedness:
+1B Cert of indebtedness Payot Request Received owo7ro1e cxera2018 cxw7a018 Gi Cert of Indebtedness
+most Reet
+B Payot Reaves) Pater ved cxoncee cserane (COl) (A)
+eranan PuesT
+B Payott Request (1)
+a a laa aoa
+seme’ or2932 PEST Bi Payoff Request (A)
+oe aon
+Showing to 44 ees 6 Payoff Request (I)
+
+Figure 163: Active Servicing Activity (Payoff Request — Partial Claim)
+
+5.2.3. Service Management
+The Service Management button offers a general summary of the servicing activity.
+
+Loan Summary Loan Detail Loan Filing Loan Recording =» Borrowers. © Property Inspection Documents Notes «© Mortgage Release = Exceptions [IRSUTIIym Foreclosure = Bankruptcy Disbursements Payot! =—=—Transactions.§©—_Customer Service
+
+B Servicing Management (EDIT MODE):
+
+Servicing Management Information For Payoff Request
+Status: { inactive “
+Remittance Type Cashiers Check
+
+Payot Amount Due: 0.00
+Payott Amount Received:
+emitter Name |
+Check Number:
+
+Check Date: 11292018
+
+Voucher No:
+
+Cert of indebtedness (COI: Select 8 COI Status
+
+Figure 164: Service Management (Payoff Request — Partial Claim)
+
+5.2.4 View Notes
+
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record. To go back to the Servicing Tab, click on [BACK TO SERVICING].
+
+SMART USER MANUAL | HUD.ACCOUNTING | VERSION 1.43.0 | JUNE 2, 2020 | 65
+
+@SMART
+
+6 Using the Bankruptcy Module
+
+6.1 Search
+6.1.1
+
+Searching for Loans with Bankruptcy History
+
+Loans in the Bankruptcy module can be retrieved through various combinations of the search criteria
+available on the Bankruptcy Search Screen.
+
+Q Bankruptcy Search Screen
+Search Database: SMART PRODUCTION DATABASE
+FHA Case #
+
+Loan Skey
+
+Loan
+
+Lender Name: Select a Lendes
+
+Close Box #
+
+Last 4 Digits of SSW
+
+Bankruptcy Case
+
+Note Type Selecta Note Type +
+
+Result Headers:
+
+Step 1:
+Step 2:
+
+* Borrower Name:
+
++ | Property Address:
+
+7 | Property State:
+
++ | Bankruptcy Chapter:
+
++ | Assigned:
+
++ | Keyword:
+
+Note Created By: Select a Note Crested By + Note Create Date >=
+
+‘Loan Skay ) (= FHA Case No] (Loan No) (Loan Program | | * Bankruptcy Chapter) (= Case Number] (= Borrower Name) | = Borrower Address | = Onginal Prin Bal] ( * Bankruptcy Status
+
+ks
+Figure 165: Bankruptcy Search Screen
+
+Click [BANKRUPTCY] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Bankruptcy Search Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 digits of SSN The last four digits of the Borrower's Social Security Number
+Bankruptcy Case # Case filing number.
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Bankruptcy Status Shows whether the bankruptcy is Active or Inactive
+
+Bankruptcy Step Bankruptcy actions that have been or need to be completed.
+
+Bankruptcy Step Status Shows whether the bankruptcy step is Pending or Completed
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Bankruptcy Chapter Bankruptcy Chapter
+
+Assigned Name of employee assigned to manage the loan through the bankruptcy.
+Keyword Keyword search.
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Prin Amt
+
+Original principal amount of the loan in dollars (numerals only)
+
+Bankruptcy Scheduled Date
+
+Date bankruptcy step was created or added to a loan
+
+Bankruptcy Completed Date
+
+Date bankruptcy step was completed
+
+SMART USER MANUAL | HUD.ACCOUNTING | VERSION 1.43.0 | JUNE 2, 2020 | 66
+
+
+@®SMART
+Search Field Definition
+
+Attorney Name of Attorney or Law Firm handling the Bankruptcy process.
+Note Create Date Date that the Note in the Notes tab was created
+Table 5: Bankruptcy Search Fields
+
+Step 3: — Click [START SEARCH].
+
+Figure 166: Bankruptcy Search Screen Buttons
+
+Step 4: = Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Step5: Once the Loan Record is open, you will be automatically directed to the Bankruptcy tab.
+
+6.1.2 Searching for Loans without Bankruptcy History
+
+Loans without bankruptcy history can be retrieved through various combinations of the search criteria
+available on the Loan Search Screen.
+
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 3: — Click [START SEARCH].
+
+Step 4: — Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Step5: Once the Loan Record is open, click on the Bankruptcy tab.
+
+Note: You can also access loans with bankruptcy history through this process.
+
+SMART USER MANUAL | HUD.ACCOUNTING | VERSION 1.43.0 | JUNE 2, 2020 | 67
+
+@SMART
+
+6.2 Bankruptcy Tab
+
+Once the Loan record is open, the Bankruptcy Module is found on the Bankruptcy Tab. If mortgage
+bankruptcy activity has been initiated for a Loan, the Bankruptcy tab in the Loan Record window will be
+highlighted in light blue and will display the current bankruptcy activity of that Loan.
+
+Lown summary | LownOetat | Loerie | Lote neceeang | eonowen | mrepenyimapecten || Documents wots  Morgegeraiese || Excpuene | Secng ronson | EEE | meses Fae] aE | core coves
+
+@ Bankruptcy
+
+Bi Chapter 7 (A)
+
+les 12062018, 1270672018 1210672018
+Bankrupt ceived 1206/2018 120082018
+Proof of claim ted 1279972018 1210672018
+
+0108/2019 120082018
+
+Proot of Claim Re 0105/2019 121082018
+
+Figure 167: Bankruptcy Tab (Partial Claim)
+
+: Exports the data from the table into an excel
+E E ] Bi Excel
+xport to Exce (= spreadsheet.
+Export to PDF BPDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Bankruptcy } © Bankruptcy Management| View the information for the Bankruptcy Activity
+® Bankruptcy Management
+Management selected for the Loan.
+View Notes BW View Notes ae you to the Notes tab for the loan. See Section
+Search search Search and filter the page by specific keywords. The
+main table will filter based off of the keyword search.
+
+Table 6: Data Table Buttons
+
+The following Bankruptcy Activities apply to all loan programs: Chapter 7, Chapter 11, Chapter 12, and
+Chapter 13. This information is read-only, and the user can not add new bankruptcy activities for loan
+programs.
+
+6.2.1 View an Active Bankruptcy Activity
+
+In the Bankruptcy Activity table, a green document icon (&) and (A) means that the Bankruptcy Activity is
+Active. The active Bankruptcy type will open with its timeline displayed in the main data table. See
+Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Bankruptcy Activity
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure (EWEEEMN  Disbur
+
+© Bankruptcy
+
+B.chapter 134A)
+
+& Chapter 13 (A)
+
+G Chapter 13 (I)
+
+B Chapter 13 (0
+
+B lea 03042018 03042018 03/04/2018
+
+03042018 03042018
+
+Bankruptcy Dismissed 0304/2018 03212018 0042018
+
+0309/2018
+
+0403/2018 0304/2018
+
+Proot of Ciain Recorded 04/03/2018 03042018
+
+Confirmation of Plan/Statement of Intention 05032018 0304/2018
+
+Figure 168: Active Bankruptcy Activity (Chapter 13 — Partial Claim)
+
+SMART USER MANUAL | HUD.ACCOUNTING | VERSION 1.43.0 | JUNE 2, 2020 | 68
+
+SMART
+
+6.2.2. View an Inactive Bankruptcy Activity
+
+In the Bankruptcy Activity table, a grey document icon (8) and (1) means that the Bankruptcy Activity is
+Inactive. The active Bankruptcy Activity will open with its timeline displayed in the main data table. See
+the above table for a description of the buttons that display on top of the main Data Table.
+
+Ss ee ed se ss ss = Bankruptcy Activity
+
+© Bankruptcy
+
+GB Chapter 13 (A)
+
+ma § Chapter 13 (I)
+
+Bankruptcy Filed 0672372000 062372000 067232009
+
+Bankruptcy notification is received 082372009 06/23/2008 06/23/2008
+
+Proot of cain fed 082372009 0623/2009 067232009
+
+Review of Pian/Statement of intention o7ran009 06/23/2009
+
+Proot of Claim Recorded o7z32009 067232009
+
+082272009 06232000
+
+127082010 02/15/2008 1208/2010
+
+Figure 169: Inactive Bankruptcy Activity (Chapter 13 — Partial Claim)
+
+6.2.3. Bankruptcy Management
+
+The Bankruptcy Management button offers a general summary of the bankruptcy activity.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection _Oocuments Notes Mortgage Release Exceptions Servicing Foreclosure Disbursements Payot ‘Transactions Customer Service
+
+A Bankruptcy Management (EDIT MODE):
+
+Bankruptcy Management For Chapter 7
+
+District: ‘Select a District
+
+Who Filed: Select a Who Filed
+
+Contested Action Concluded: ‘Select a Contested Action Concluded
+
+Figure 170: Bankruptcy Management (Chapter 7 — Partial Claim)
+
+6.2.4 View Notes
+
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record. To go back to the Bankruptcy Tab, click on [BACK TO BANKRUPTCY].
+
+SMART USER MANUAL | HUD.ACCOUNTING | VERSION 1.43.0 | JUNE 2, 2020 | 69
+
+@SMART
+
+7 Using the Foreclosure Module
+
+7.1 Search
+7.1.1
+
+Searching for Loans with Foreclosure History
+
+Loans in the Foreclosure module can be retrieved through various combinations of the search criteria
+available on the Foreclosure Search Screen.
+
+Q Foreclosure Search Screen
+Search Database: SMART PRODUCTION DATABASE
+FHA Case #:
+
+Loan Skey:
+
+Last 4 Digits of SSN:
+Foreclosure Case #: Keyword:
+
+Note Type Select a Note Type | Note Text
+
++ Borrower Name:
+
++ Property Address:
+
++ Property State:
+
++ Attomey:
+
++ Attorney Firm:
+
++ Foreclosure Step: Select a Foreclosure Step
+
+Note Created By: ‘Select a Note Created By + | Note Create Date >=
+
+Result Headers: Loan Skey (= FHA Case No) =Loan No) (*Loan Program) = Parcel Number ) ( * Foreclosure Step) | = Borrower Name ) (= Property Address {= Attomey Name) |= Loan Status
+
+Step 1:
+Step 2:
+Screen.
+
+Search Field Definition
+
+= Oe
+
+Figure 171: Foreclosure Search Screen
+
+Click [FORECLOSURE] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Foreclosure Search
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+Foreclosure Case # Case filing number.
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State
+
+Detailed Status of the loan
+
+Payment Plan
+
+Type of Payment Plan associated with the loan
+
+Foreclosure Step Status
+
+Shows whether the foreclosure step is Pending or Completed.
+
+Foreclosure Status
+
+Shows whether the foreclosure is Active or Inactive.
+
+Keyword Keyword search.
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Attorney Name of Attorney handling the foreclosure process.
+
+Attorney Firm
+
+Name of Law Firm handling the foreclosure process.
+
+Foreclosure Step
+
+Foreclosure actions that have been or need to be completed.
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Prin Amt
+
+Original principal amount of the loan in dollars (numerals only)
+
+Foreclosure Scheduled Date
+
+Date foreclosure step was created or added to a loan
+
+SMART USER MANUAL | HUD.ACCOUNTING | VERSION 1.43.0 | JUNE 2, 2020 | 70
+
+
+@SMART
+
+Search Field Definition
+
+Foreclosure Completed Date Date foreclosure step was completed
+Last Inspect Date Date of last property inspection
+Note Create Date Date that the Note in the Notes tab was created
+
+Step 3:
+
+Step 4:
+Step 5:
+
+7.1.2
+
+Table 7: Foreclosure Search Fields
+Click [START SEARCH].
+Figure 172: Foreclosure Search Screen Buttons
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Once the Loan Record is open, you will be automatically directed to the Foreclosure tab.
+
+Searching for Loans without Foreclosure History
+
+Loans without Foreclosure history can be retrieved through various combinations of the search criteria
+available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Foreclosure tab.
+
+Note: You can also access loans with Foreclosure history through this process.
+
+SMART USER MANUAL | HUD.ACCOUNTING | VERSION 1.43.0 | JUNE 2, 2020 | 71
+
+@SMART
+
+7.2 Foreclosure Tab
+
+Once the Loan record is open, the Foreclosure Module is found on the Foreclosure Tab. If mortgage
+Foreclosure activity has been initiated for a Loan, the Foreclosure tab in the Loan Record window will be
+highlighted in light blue and will display the current Foreclosure activity of that Loan.
+
+Loan Summary Loan Detall_ Loan Filing © Loan Recording Borrowers Property Inspection Documents
+
+@ Foreclosure
+
+ctual Date
+
+127062018
+
+Request to HUD to assign commissioner
+
+121082018
+
+Commissioner assigned by HUD s2aor8
+
+127082018
+
+Loan referred to Commissioner/D0J 12132018
+
+12152018 1210672018
+
+12082018
+
+s22a2018
+
+127082018
+
+Notice of Saie mailed to borrowersiennolders o12772019
+
+Publication of Saie 211112019 127082018
+
+Order Occupancy Inspection 0211112019 127082018
+
+Figure 173: Foreclosure Tab (Partial Claim)
+
+: Exports the data from the table into an excel
+E E | Bi Excel
+xport to Exce (= spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Foreclosure View the

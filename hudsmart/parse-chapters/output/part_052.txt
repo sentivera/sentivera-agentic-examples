@@ -1,0 +1,594 @@
+bmitted / Checks Status
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 75
+
+@SMART
+
+10 Using the Customer Service Module
+
+Within the Customer Service Module, there are two types of tickets: SMART and CRM. SMART tickets
+are created using the SMART application. CRM (Customer Relationship Management), tickets are
+created in a separate program used to track customer service tickets. CRM tickets are then imported
+into SMART. The @ icon will appear before or after the CRM Ticket Number anywhere a Ticket appears
+(such as My Tickets, All Inboxes, Ticket Search Screen, and within the Customer Service Module Ticket
+Information Screen).
+
+Additionally, there are two types of tickets: sys tickets and non-sys tickets. If a Loan No. exists for a
+ticket, then that system is sys. If a Loan No. exists for a ticket, then that system is non-sys.
+
+10.1 Ticket Search
+
+Customer Service Tickets can be retrieved through various combinations of the search criteria available
+on the Ticket Search Screen.
+
+Q Ticket Search Screen
+
+FHA Case #: ~ Borrower Name:
+
+Loan Skey:
+
+* Property Address:
+
+~ Property State
+
+‘Ticket No| | Tecat Loan Program (FHA Case Ne) Loan No) (Aging) Reason) (*Piionty) Cal Date) «Caer Name) Caller Phone | (x Designee |» Ticket Created By |» Ticket Creates Date
+
+Figure 175: Ticket Search Screen
+
+Step 1: Click [CUSTOMER SERVICE] from the top Navigation menu. Select [TICKET SEARCH] from the
+dropdown.
+
+Step 2: Select the search criteria from the displayed search fields in the Ticket Search Screen.
+
+Step 3: — Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+Ticket Skey SMART system identification number unique to each ticket
+Control No Ticket Control Number
+
+CRM Service Request No
+
+CRM system identification number
+
+CRM Company Name
+
+Name of Company for CRM ticket.
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Ticket Status Current high-level status of the ticket (Open or Closed)
+Created By User that created the ticket
+
+Designee User that is assigned to the ticket
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 76
+
+@SMART
+Search Field Definition
+
+Note Text Searches any word w/in the content of notes within the Notes tab of the Loan Record
+Note Type Type of note within the Notes tab of the Loan Record
+
+CRM Client Type Type of CRM Client (Real Estate Professional, Home Owner, Closing Agent, etc.)
+Ticket Creation Type Date the ticket was created
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Caller Name Name of the Caller
+
+Ticket No. Identification number for that ticket
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Ticket Loan Program
+
+Loan Program associated with the Ticket
+
+CRM Service Request Created Date
+
+Date the CRM ticket was created
+
+Keyword
+
+Keyword search.
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Call Date Date of the customer service call
+Ticket Create Date Date the ticket was created
+Ticket Closed Date Date the ticket was closed
+Disposition Where the ticket is assigned
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Reason For Calling
+
+Reason for the customer service call
+
+CRM Escalated Date
+
+Date the CRM ticket was escalated
+
+Table 13: Ticket Search Fields
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 77
+
+
+@®SMART
+
+10.2 Accessing Detailed Customer Service Information
+
+From the Search Result Dashboard, click on the Ticket No. to open the ticket. The user is redirected to
+the ticket’s Ticket Detail tab in the Customer Service Module.
+
+~ Loan Record - Partial Claim 9
+
+FHA Cane — Lom Progam: Loan sey a Loan No seraranss
+= 2 Borrower & Property Information + © Additional Loan Information
+Borrower Name: Phone (Work Next Payment Ove Date Gt code
+Borrower Addrets: Prone (Home a Contractual Doe Date: mati ry
+City State = 6 << Forebearance Agreement: Branch Code:
+
+4&3 Customer Service - Ticket No. 853442
+
+conicg BEES) vescscson noes conmens 6] senomertety
+
+Ticket 653467 (1) 40 B Ticket Information (EDIT MODE)
+Ticket 853463 (9 4)
+
+Tichot 853462 () 40
+
+Tichet 853458 (1) FHA Case: es Y Loan Program: Partai Cann A) Loan: Ts
+
+Ticket 053457 (I) 42
+
+Tichet 853455 () 40
+
+Ticket 853454 (1) 40
+
+Ticket: 53442 Ticket Loan Program: | PAN | FC Sate Date:
+Ticket 053443 () 40 @
+
+Orsposibon: { Mande by Contractor WH) Mkt statue: [oren | Designee ; ~
+‘Ticket 663442 (A)@0 ~) q
+esto: (Ptr ane Fi) revetrreay: — [aw ZF) $aptes [io acon nom Compt
+ete
+CRM Service — Ra Service (CRM Escalated
+Request (cAS-T935061-00C814 Ye Sree vate: | 10012019 sem
+
+Mature of issue (Ticket Description):
+
+Figure 176: Customer Service Module
+
+10.2.1 View Ticket Detail
+
+The default page within a Customer Service Ticket is the Ticket Detail page. To view the Ticket
+Information, click on the [TICKET DETAIL] tab.
+
+4 Customer Service - Ticket No. 853442
+
+ten, Ln os
+
+Tenet CnDeeT a B Ticket Information (EDIT MODE)
+Tiohet 063489 () 40
+
+Ticket 63462 (4
+Tiehet 63480 () 40
+
+Tiohet 63467 () 0
+
+Tot 063488 ()
+Tenet 083484 ( Tenet ose Ticket Loan Programe [PMN A) rc sae ate
+Tet 0859449 () 40 @ - —
+
+Diepoeition { Mandiea vy Comractar A) Ticket Status: OPEN A) Devignen ; wo
+‘Toke On442 (A) 49) re
+
+Reason: | Paral tease | Ticket Priority tow | Completed Nu Actow teem Compete
+
+Kehoe
+fieauest Mor CAS. TH35001.00CeH Y  fiequeet Created Date; 10012010 Seems
+
+Mature of wave (Ticket Description)
+
+a
+
+Figure 177: View/Edit Ticket Detail
+
+10.2.2 View Call Log
+Inside the Customer Service Module, click on the [CALL Log] tab to view the Call Logs.
+
+#23 Customer Service - Ticket No. 853442
+
+EST] GRETSEY (E) eS
+
+Ticket 853467 (1) 4 & Call Logs For Ticket No 853442
+Tichot 853463 () 49 fre |
+f Bee | Ca B Prot
+Ticket 863462 () 49
+Fiewt Mam
+
+Ticket 853458 () 49
+
+Ticket 9594570) P|
+
+11292019
+11:00:19 aM EST
+
+Ticket 853456 () 49
+
+Ticket 953454 49
+
+Ticket 853443 () 40)
+
+Figure 178: View Call Log
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 78
+
+@®SMART
+
+10.2.3 View Ticket Action
+
+Inside the Customer Service Module, click on the [TICKET ACTION] tab to view the Ticket Actions.
+
+cattse _Tettoo oo
+
+ett. © Ticket Action For Ticket No 868566
+
+[Bex | [Bro | a
+Authored Tee Pay iasaote 1202018 0
+‘Courtesy Contact 19202018 11262018 3
+
+Figure 179: View Ticket Action
+
+10.2.4 View Notes
+
+Inside the Customer Service Module, all the notes associated with that Ticket Number will display in
+chronological order on the Notes tab.
+
+‘Ticket 868566 (A) GB Notes
+
+989565
+
+Figure 180: View Notes
+
+10.2.5 View All Notes
+
+Inside the Notes tab, click on the View All Notes button. All the notes associated with that FHA Case
+Number will display in chronological order. To go back to the Notes associated only with the Ticket
+Number, click on the Notes tab.
+
+10.2.6 View Documents
+Inside the Customer Service Module, click on the Documents tab. All the documents associated with
+that FHA Case Number will display in chronological order.
+
+CallLog Ticket Detail Ticket Action —_Notes
+
+ene Documents
+
+Ticket 865813 (I)
+
+@ Exit Document
+
+@ Eait Document
+
+Jocument Name nt Croated B Create Date
+0016A030.pat note 1172072017
+12.0028 PM EST
+0015C9B4,pat NCF Mortgage 1152017
+08:22:35 AM EST
+(001536A7.pat NCF Mortgage 1415/2017
+08.16.34 AM EST
+
+@ Exit Document
+
+Figure 181: View Documents
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 79
+
+@®SMART
+
+10.2.7 View Borrower History
+Inside the Customer Service Module, if a non_sys ticket has been merged with a sys ticket, the borrower
+name, address, and phone number form the non_sys ticket is saved into the Borrower History.
+
+Ticket No. CallLog Ticket Detail Ticket Action Notes. Documents @ iE
+
+Ticket 102268 (1) 4 &B Borrower History Information
+
+| Bex | a
+
+Figure 182: View Borrower History
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 80
+
+@SMART
+
+11 User Information
+
+11.1 Manage Account
+
+To view your personal identification and contact information, click your user name from the top
+navigation menu. From this page you can update your account and change your password.
+
+j2 | & Role: fharc.readonly +
+
+Figure 183: Navigation Menu Links
+
+@ User Information (EDIT MODE)
+
+Factor
+
+Account Type: HUD Empoyee |
+
+Role:
+
+Manage Password:
+
+Current Password: — seremanseee
+New Password:
+
+Confirm Password:
+
+Figure 184: Example User Information (Edit Mode)
+To update your account, follow these steps:
+
+Step 1: Edit your User Information as appropriate.
+Step 2: Click [SAVE] to save your changes or [CANCEL] to abandon the changes.
+
+Instructions on how to change your password are described in Section 2.5.
+
+11.2 Change Roles
+
+Many users are assigned multiple different roles. In order to jz | & Role: hud.admin +
+change between the user roles, click on your [ROLE] in the
+
+top navigation menu. The dropdown menu will show all hud eseupervisor
+your assigned roles. Select the role you want, and the hud.poweruser
+website will automatically update to be viewed as the role hud.servicingsupervisor
+selected.
+
+Figure 185: Example User Role Options
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 81
+
+@SMART
+
+12 Getting Help
+12.1 Tech Support
+
+On each page of the solution, there is a small blue tab on the right side of the screen with a question
+mark. This is our Technical Support function. The Technical Support function enables the user to
+
+contact Help Desk personnel live via a text-based chat conversation.
+
+@®SMART
+
+_- Unauthorized Access Warning
+
+Figure 186: Landing Page
+
+@ Tech Support
+
+Figure 187: Tech Support Tab Open
+
+In order to access this function, follow the steps below:
+
+Step 1: = Click the [?] on the blue tab on the right of the screen.
+Step 2: — Click [TECH SUPPORT].
+
+® TECH SUPPORT
+
+Your name:
+
+Question:
+
+& Chat Now
+
+Figure 188: Tech Support PopUp
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 82
+
+@SMART
+
+Step 3: Enter “Your Name” and a Question into the popup box. (You may input your email
+address, but that is not required) Click the box next to “I’m not a robot.”
+Step 4: — Click [CHAT Now]
+
+®CHAT SUPPORT © End chat 0:21
+ee
+
+Question: need help
+
+We will be with you shortly...
+Figure 189: PopUp Chat Window
+
+Once the chat window is open, a member of the Help Desk team will get with the user as soon as
+possible.
+
+12.2 Solutions to Common Problems
+
+Problems with SMART fall into three categories: internet issues, browser issues, and SMART issues.
+Please follow the steps below to resolve each issue.
+
+12.2.1 Internet and Browser Issues
+
+The Primary characteristic of this issue is a delay when loading a page. At the conclusion of this long
+delay, a message may display indicating there is a problem with internet access. Alternatively, pages
+may seem to load but appear blank. If a page has not loaded or displayed after 30 seconds, please
+follow the steps below.
+
+Note: Not all steps have to be completed; start with Step 1 and keep working until the issue is resolved.
+Once the issue is resolved, skip all remaining steps and return to your training session.
+
+Step1: Refresh the page using the browser’s [REFRESH] button.
+
+Step 2: If the issue still exists, close all browser windows, wait 10 seconds, then open a new
+browser window and return to SMART.
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 83
+
+Step 3:
+
+Step 4:
+
+@SMART
+
+Check your internet connectivity — do other sites display without issue? If so, proceed to
+Step 2. Otherwise, the issue may be that the browser is unable to connect to the internet.
+Check all connections and try again. If the problem persists, contact your network
+administrator or your Internet Service Provider.
+
+Send email to he!pdesk@hudnsc.org. Include your email address, your contact
+information, and a description of what happened leading up to and following the issue.
+
+12.2.2. SMART Issues
+
+SMART issues may be errors which display on-screen or situations where data may not be saved
+properly. If you experience either of these problems, please contact Support via email.
+
+Step 1:
+Step 2:
+
+Step 3:
+
+Use [PRTSC] on the keyboard to capture an image of the screen.
+
+Compose a new email message and paste ([CTRL+V} on the keyboard) the screen image
+into the message. Be sure to include your Username, your contact information, a
+description of what module or page you were viewing, and what you were doing (or trying
+to do) at the time the error occurred.
+
+Send the email to helpdesk@hudnsc.org.
+
+12.3 Getting More Help
+
+If you are experiencing technical difficulties, please contact the SMART support team via email at
+helpdesk@hudnsc.org. For general questions and/or class availability concerns, please contact the
+SMART administration team via email at helpdesk@hudnsc.org.
+
+When emailing, pleases include as much information as possible relating to the problem, including print
+screen(s) of the error.
+
+12.4 Help Desk
+
+Email Address helpdesk@hudnsc.org
+Phone Number 1-866-657-5893
+Hours of Operation 7am — 7pm CST
+
+Response Time Time to Resolution
+
+Customer Calls Inquiries | As quickly as possible; normally within one (1) minute of the caller’s choice
+Customer Calls Outside Respond no later than 12 noon the next business day
+
+of normal business hours
+
+Customer emails Respond to inquiries no later than 24 to 48 hours of receipt
+
+Customer On-line chat As quickly as possible; normally within five (5) minutes of the caller’s chat
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 84
+
+«SMART
+
+Single-Family Mortgage Asset Recovery Technology
+
+hud.accc
+
+JUNE 2, 2020
+
+This document shall not be disclosed outside of the Government and shall not be duplicated, used or
+disclosed in whole or in part for any purpose other than for HUD training. The data subject to this
+restriction is contained on every page throughout this document.
+
+@SMART
+
+Table of Contents
+
+1
+
+5
+
+6
+
+Yo) [Ui do) a s10] 00) 000-] 8 Ape 1
+1.1 FOATUIES 2... eece cece eec ccc e eee e cena nett eee ee eee aan EEA eA GEE AAA G nee AeA Gn E EEE AGG HE EA AAG aE ee ec ane ee cca ae eeeaaaaeeeeaaaeeeeaaaeeeeeaaes 1
+Getting Started 0... cccccccccssseseeeeeeeeeeea ee eeeeeeeeeeeaaeeeeeeeeeeeeeesasesSESEEEE;;;;AAAAASEEEESESES;;GA OSES EESEEESEE EEA AAEEEEES 2
+2.1  —_ SOFEWALE VELSION oo. eeeeceeeteeeeeeeeeeeee teen etn E EEE EEE E EEE E LEELA AEE A EAE E EGE A GEESE GAGES EGE aaa aaa 2
+2.2 —_ SOIUTION REQUIPFEMENHS ..........ccccceeeseccccceeeeeeeeeeeeceeeeeaaeeeeeeeeeeeeeaaeeeseeeeeeeeessaaeesseeeeeeessauaaaeeeeeeeeeaaa 2
+2.3 LOSSING ON... ccc cseecccccseeecccneeeececeeeeeeeeeeeeeeeaeeeeeeseeeeeeeseeeeeeeseeeeesseueeeeaeuseeesseuecesseueessaeuseesseesessages 2
+2.4 — SOIUTION M@NU 0... eeeeeeeeeeeeeeeeeeeee eee eeee nent nnn n nnn EEE EEE EAE AEA E EEE E AGG G EES E EEA a aaa 4
+2.4.1 My Dashboard... eeecesccceesseeeeeesececcesceeeeesaeeeceeaeeesesaeeeceesaeeeceeaaeeesesaeeeeseaeeeseeaeeeesenaeeeseeaeeeseneeeess 5
+2.4.2 LOAN... eee eeeccec cece eneeeeeeeeececeaeaeeeeeeececeaaaueeeeeeeeceaaaaeeeeeeeeeeaaaaeeeeeeeeeeaaauaeeeeeeeeeauaaeeeeeeeeeeauaaeeeeeeeeeeaaaaeeeeeees 5
+2.4.3 SOPVICING........eeeeeeeeeesseeseeeeeeeeeeeeeeeeeeeeenenEEEE SEES EEEEED EEE; EEEES ESE EDSSSSSSDSS DSSS SSO S SOSA OOOO OOOO OOOO OOOO SOOO OOOO OOOO OOO OOOOOOOES 5
+2.4.4  — BaAMkrUptcy ...... ee eeeseccecesseeceeesneeceeeneeeeceeeeeesesaeeeceesaeeeseeaeeeceeaeeeseeeeeesesaeeeesenaeeeseeaeeessenaeeeseeneeeeseeeeeess 5
+2.4.5  FOLPECIOSULE ........ecesessccccceceeseeseeeeeeeeeseeeeeeeeeeeeeeeeeaeeeeeeeeeseeeaaeeeeeeeeeeeeaaaeeeeeeeeeeeaeeeeeeeeseeeeaaeeeeseseseeeaaea 5
+2.4.6 Mortgage Release........ececeessceccseseeeecesneeeeseseeeceenaeeecesaeeeceenaeeeceseeeesesaeeeeseaeeeseeaeeeesenaeeeseenaeeeseeeeeess 5
+2.4.7 Cash Manageme nt............ccccecsscecesesereeceeneeeeeesaeeeceeaeeesesaeeeceeaeeecesaeeeesesaeeesseaaeeeseeaeeeesenaeeeseeaeeesenaeeeess 5
+72. We. Sa 3 \-) 0 0) 66 epee EEE EEE E TEES EEEEEEEESESTSTOSEOSSESOSEESSOSSSSOSOOSOOOOSSOSOOSOOSOTOSOOOOOOOOOOOOOSOOSOOOOOOOOOOSOSSOOOSOOOOOSOOOOSOOOOOOOOOOOOOOSONN 5
+2.4.9 User Information and Roles ..........ccccccssssscccccccessssnneeeeeeceessseseeeeeeeeeseeeneeeeeeeeesseeseeeeeeesseeeesaeeeeeeseeeeeeaaea 5
+2.5 CHANGING PASSWOM..........cccccccccsssseeeeeeeeeeeeeeseeeeeeeeeesaeeeeeeeeeeeeeesaeeeeeeeeeeeesssseeseeeeeeeeesauaaaeseeeeeeeeaaa 5
+2.5.1 Forgot Password (Recover PaSSWOId)........ccccccssssssseeccccesssesseeeeceeeseseeneeeeeceeesseeseeeeeeeeseeeeaeeeeeeceseeeeaaea 7
+V2 oa =>, <1 ese) (01d (0) 9 PRP 7
+Using My Dashboard ..........ccccccccssssssseecceeeeseeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeesaaeeesseeeeeeeesaaaaaseseeeeeesaaaaasss 8
+3.1 My LOANS .......ccccceeecccccseeecccneecceeeeeeeeeaeeeeeeeaeeeeeesseeeeeeaeeeeeeeseeeeeeseeueeesaeaseeessaueeeeseueeesauscessueeseesages 8
+3.1.1 Pin Loan to My Loans DaShboard ............cecceeessceceeeseeeeeeeneeeceenaeeeceeeeeeeeaeeeeeeaeeesesaeeeeeenaeeeseeeeeeseneeeess 8
+3.1.2 Unpin Loan from My Loans Dashboard...........ceccceeesecceeesseeeceeseceeeeeeeeeeesaeeeeeesaeeesesaeeeceenaeeeseeaeeeseneeeess 9
+Using the Loan MOUle..........ccccccssssssseeccceeecaeeeeeeeeeeeeeesaeeeeeeeeeeeeeeeseeeeeeeeeeeeesseeaaseseeeeeesasaaasseeeeeeeesaaa 10
+72 Fas SY =X | 0) 9 10
+4.1.1 Loan Search — Production Database ............ccssccccccccssssssseeeecccessessneeeeceeesseesneeeeeeecesseenaaeeeeceeeseesaaeeeees 11
+4.1.2 Loan Search — Legacy Database............eecccceesscccesesneeeceeneeeeeeseeeeeeaeeeceeaeeesesaeeeeeenaeeeesenaeeeeeseeeeseneeeess 11
+4.1.3 Loan Search — DAT C Database... eecccsssssccccccesssssneeeecccessessnseeeececeseeesaeaeeeeceseseeaaeeeeeeeseeenaaeeeess 12
+4.1.4 Search R@SUItS ..........cccceesssccccccssssesneeeeeceeesseeseeeeeeeesseeeseeeeeeeeeeeeeesaeeeeeeseseeeeaeaeeeeceseseaaeeeeeeeseeeeeaeeneess 12
+4.2 Accessing Detailed Loan Information ...........ccccccssssseccccccccceeeseeeccceeeesaeeeeeeeceeeessaseseeeeeeesessaaggees 14
+4.2.1 Access Details of Partial Claim Loan ReCOrdS ............ccsesssscccecesesesnceeececesseesneeeeeccceseeeaseeeeceeeeeensaaeeeees 15
+4.2.2 Access Details of PMM Loan ReCOIdS ..........sssssccccccessssssneeeececcsseesneeeeeccceseesseeeeeeccesseeeaueeeeeeseseeeaaeeeees 21
+4.2.3 Access Details of Secretary Held Loan RECOIdS ............scccceesseeceeesneeeeeeneeeeeesaeeeeeesaeeeseeaeeeeeeaeeeeseneeeess 26
+4.2.4 Access Details of H4H Loan RECOIS............cssscccccccesssessseeeeccceessesneeeececeseeesaeeeeeceeeseeaseeeeceseseeeaaeeeees 33
+4.2.5 Access Details of EHLP Loan R@COIGS...........sssssscccccessssssseeeeccecsesesnseeeeeccesseeseaeeeecessseeaseeeeeseeseeeaaeeeees 39
+4.2.6 Access Details of Default Loan RECOIrS .........ccccccccccsssssssecceccccsesesneeeccccesseesnseeeecceesseesuseeeeceseseeesaaeeeees 44
+4.2.7 Access Details of HECM-Assured Loan RECOIdS...........cssssccccccessssssseeeececesseesnseeeecccesseesaeeeeeeeseseenaaeeeees 49
+4.2.8 Access Details of HECM-Insured & SF Data Request Loan ReCOIdS ...........::sccccseseeeeeeeseeeeeesteeeeeeneeeess 56
+Using the Servicing MOdUIe ...........ccccccccccccccseeesseeeeeeeeesaeeeeeeeeeeeeeesseeesseeeeeeeeesaaeaaseeeeeeeesaeaaesseeeeeeeesaaa 62
+ioe MS <T- 1 0) 9 eee 62
+5.1.1 Searching for Loans with Servicing HistOry ...........ccccceseseceeeesneeeeeeseeeceseeeeeesaeeeseeaeeeceseeeesenaeeeseeaaees 62
+5.1.2 Searching for Loans without Servicing HiStOry ............ccescccceesseeceeesneeeeeeeeeee

@@ -1,0 +1,645 @@
+ from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Add Release Steps ‘eae Release Step to the Mortgage Release Activity
+
+Mortgage Release View the information for the Mortgage Release Activity
+Management = selected for the Loan.
+
+View Notes Takes you to the Notes tab for the loan. See Section 3.2.8.
+Search and filter the page by specific keywords. The main
+table will filter based off of the keyword search.
+
+Table 11: Data Table Buttons
+
+Search Search:
+
+HECM-Assigned, HECM-Insured, and SF Data Request is read-only and the user can not add new
+Mortgage Release Activities for these loan programs.
+
+GRISEA Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff Transactions Customer Service
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Documents,
+
+@B Mortgage Release
+
+eee | Bee peor Pr: | =
+BiChecks
+Check # Check Amount Check Date Pay To i” OK Clear c Created Date c By c Printed By Printed Dat
+
+Bi Add New Mortgage
+Release
+
+No data avatable in table
+
+Figure 230: Mortgage Release Tab — No Mortgage Release Activity (Partial Claim)
+
+If there is no Mortgage Release Activity recorded for the loan, there will be no Data Table displayed on
+the right side of the Mortgage Release tab (see Figure 9). The Release Activity data table will display on
+the left displayed with a blue plus mark (&).
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 105
+
+@®SMART
+8.2.1 View an Active Mortgage Release Activity
+
+In the Release Activity table, a green document icon (&) and (A) means that the Mortgage Release
+Activity is Active. The active Mortgage Release Activity will open with its timeline displayed in the main
+data table. See Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Loan Summary Loan eta Loan Filing Loan Recording orowers PropertyInpecton Documents Notes EEMMMEWMNMINE eaceptons Serving Forectonue Garkruptey Disbursements Payot Transactions Release Activity
+® Mortgage Release
+
+Full Relea:
+
+mem 6) Full Release (A)
+
+GiChecks
+
+2] Add New Mortgage
+3) Release
+
+Figure 231: Active Mortgage Release Activity (Partial Claim)
+
+8.2.2 Add New Mortgage Release
+
+In the Release Activity table, a blue plus mark (&) means that there is no current Mortgage Release
+
+Activity. From here, you can add a New Mortgage Release.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes
+
+@B Mortgage Release Gi Checks
+moo El Add New Mortgage
+= Release
+
+Add New Mortgage
+Release
+
+No Gata avazabile in table
+
+Figure 232: No Mortgage Release Activity (Partial Claim)
+
+Step1: Click on [ADD NEW MortTGAGE RELEASE] from the Release Activity table.
+Step 2: Select Release Type.
+
+Loan Summary LoanDetail_ Loan Filing Loan Recording Borrowers Property Inspection Documents Notes RMEONENNIRIR cxcestions Serving Foreclosure Gankruptcy _Dabursements Payot Transactions Customer Service
+
+B Mortgage Release Management (ADD MODE).
+
+Figure 233: Mortgage Release Tab — No Mortgage Release Activity (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have created the New Mortgage Release Activity, the selected release timeline will display in
+the Release Activity table as Active.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 106
+
+@®SMART
+8.2.3 Add Mortgage Release Steps
+
+A predefined template of Mortgage Release Activity steps is generated for a loan when the user adds a
+Mortgage Release Activity. Various additional Mortgage Release activity steps are also available and
+may be added as needed.
+
+Step1: Click on the [ADD RELEASE STEPS] button.
+Step 2: Complete all required fields.
+
+B Mortgage Release Steps (ADD MODE):
+
+=
+
+Mortgage Release Steps For Release Request ReceivediInitiated
+
+Figure 234: Add New Mortgage Release Step (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Mortgage Release step and all information inserted in the add screen will display in the correct
+Mortgage Release Activity’s timeline. If the user inserts a note into the Note field, then a Mortgage
+Release note will generate in the notes tab.
+
+8.2.4 Mortgage Release Management
+
+The Mortgage Release Management button offers the user the ability to update the status of the
+selected Mortgage Release to be either Active or Inactive.
+
+Step1: Click on the [MORTGAGE RELEASE MANAGEMENT] button. Change the status to either Active
+or Inactive.
+
+Loan Summary Loan Detail LoanFilng Loan Recording Borrowers Property inspection Documents Notes, (EEMINMERNIRI exceptions Servicing Forecosure Bankruptcy Disbursements Payot ‘Transactions. Customer Service
+
+B Mortgage Release Management (EDIT MODE):
+
+Mortgage Release Management
+
+Figure 235: Mortgage Release Management (Partial Claim)
+Step 2: — Click [SAVE] then click [SUBMIT] on the Confirmation Pop-up.
+
+The new servicing management information will display in the main table and the Service Management
+screen.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 107
+
+@SMART
+
+8.2.5 View Notes
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents Morgage Release Exceptions Servicing Foreclosure ‘Sankruptcy _Oesbursements Payoff Transactions Customer Service
+&B Notes
+=o
+[net] nvoe J orm |
+Note type High importance
+
+1
+055
+
+Figure 236: Notes Tab (Partial Claim)
+
+To go back to the Mortgage Release Tab, click on [BACK TO MORTGAGE RELEASE].
+
+8.2.6 Edit Mortgage Release Step
+The Edit Item action permits the user to update the status of the selected Mortgage Release step when
+there is a need for an update or change.
+
+Step 1: Click on [EpIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Documents Notes,
+
+B Mortgage Release Steps (EDIT MODE):
+
+Figure 237: Edit Mortgage Release Step (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Mortgage Release step and all edited information will display in that timeline’s step.
+If the user saves the actual date for any of the Mortgage Release steps below, then an auto-note will
+generate.
+
+e Lien Release package sent for recording
+e Recorded Release received from County
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 108
+
+@SMART
+
+8.3 Check Search
+
+8.3.1 Searching for Loans with Disbursement Checks
+
+Checks in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Check Search Screen.
+
+Q Check Search Screen
+Search Database: SMART PRODUCTION DATABASE
+
+FHA Case &: Loan Program:
+
+Loan Skey: Loan Status
+
+Loan #: Loan State:
+
+Lender Name: Select a Lender + | Printed By:
+
+Reimbursable: Select a Status * | Prepared By: Select a Prepared By
+
+Last 4 Digits of SSW: Pay To: Cleared:
+
+Check #: Keyword: Voiaed:
+
+Note Type: + | Note Text Note Created By:
+
+Pay To Type: ject 8 Pay to Type + | TOPS Withnela?: Select TOPS vatnnela * TOPSCheck Status: | Select a TOPS Check Statu + | TOPS Amount From: To:
+
+Loan Skey | (= FHA Case No) Loan No} (= Loan Program) |= Borrower Name || «Pay To |» Disbursement Type || «Printed | « Voided) (= Cieared «Check Number) (= Printed Check Date) = Check Amount) (= Bank info
+
+<==
+
+Result Headers:
+
+Figure 238: Check Search Screen
+
+Step 1: Click [MORTGAGE RELEASE] from the top Navigation menu. Select [CHECK SEARCH] from the
+dropdown.
+Step 2: Select the search criteria from the displayed search fields in the Check Search Screen.
+
+Select any option EXCEPT Release Checks from the Search Field Disbursement Type.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name
+
+Lender associated with the FHA Case
+
+Reimbursable
+
+Included or Excluded
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+Check # Check Number
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Pay To Type Borrower or Vendor
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Printed By User who printed the check
+
+Prepared By User who prepared the check
+
+Pay To The recipient of the check
+
+Keyword Searches any word within the Search Results data table
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+TOPS Withheld? Yes or No
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Print Status
+
+Printed or Unprinted
+
+Disbursement Type
+
+Type of expenditure
+
+Cleared
+
+Included or Excluded
+
+Voided Included or Excluded
+Note Created By SMART User who created Notes in the Notes tab
+TOPS Check Status Cleared, Voided, Partially Cleared, or Partially Voided
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 109
+
+@SMART
+
+Search Field Definition
+
+Loan Close Date Date that a loan was closed
+
+Check Amount From Amount of the check
+
+Printed Date Date the check was printed
+
+Check Created Date Date the check was issued
+
+Cleared Date Date the check was cleared
+
+Voided Date Date the check was voided
+
+Note Create Date Date that the Note in the Notes tab was created
+TOPS Amount From Amount of the TOPS
+
+Table 12: Check Search Fields
+
+Step 3: — Click [START SEARCH].
+Step 4: = Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Step5: Once the Loan Record is open, you will be automatically directed to the Disbursement tab.
+
+Figure 239: Disbursement Checks (Partial Claim)
+
+Note; Disbursement instructions can be found per Loan Program within Section 4.3 Accessing Detailed
+Loan Information.
+
+8.3.2
+
+Searching for Loans with Release Checks
+
+Checks in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Check Search Screen.
+
+Step 1: — Click [MORTGAGE RELEASE] from the top Navigation menu. Select [CHECK SEARCH] from the
+dropdown.
+Step 2: Select the search criteria from the displayed search fields in the Check Search Screen.
+Select Release Checks from the Search Field Disbursement Type.
+Step 3: — Click [START SEARCH].
+Step 4: — Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Step5: Once the Loan Record is open, you will be automatically directed to the Mortgage Release
+tab.
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents Notes Exceptions Servicing Foreciosure Bankruptcy OSB BA) Full Release (A) ner Service
+@B Mortgage Release Bi checks
+Pos [ore J ors |
+- ] ;
+Figure 240: Release Checks (Partial Claim)
+Step 6: From the Mortgage Release tab, click on the Checks link from the Release Activity table.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 110
+
+@SMART
+
+8.3.3 Edit Release Check
+
+Loan Summary Loan Detail + Loan Filing Loan Recording Borrowers Property Inspection Documents Notes [EUREEEENPAIN exceptions Servicing Foreclosure Bankruptcy Disbursements ayo =—Transactions. Customer Service
+
+B Checks (EDIT MODE):
+
+a Step 1: Click on [EDIT CHEcK], located in the
+
+Action column of the main table.
+Step 2: Complete all required fields.
+Step 3: — Click [SAVE].
+Step 4: On the Confirmation Pop-up, click
+[Susur].
+
+Figure 241: Edit Check (Partial Claim)
+
+8.3.4 Print Check
+
+Release Check information that is entered into the Mortgage Release Module can be reported and
+printed in the approved check format by users with designated security access.
+
+Step 1: Click on [PRINT CHECK], located in the Actions column of the main table.
+
+Check printed successfully. x
+
+Close
+
+Figure 242: Check Printed Confirmation
+
+Step 2: Onthe Confirmation Pop-up, click [CLOSE].
+
+After selecting the check to print, a PDF of the check automatically downloads. The user can now open
+the PDF file and Print as needed.
+
+NIZE Only Release Checks can be printed (as in a PDF is downloaded). All other checks will not generate
+a PDF. This also applies to the pages Print Batch Checks and Print Rejects Checks.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 111
+
+@SMART
+
+9 Using the Cash Management Module
+
+Within the Cash Management Module, there are two types of transactions: SMART and Pay.Gov.
+SMART tickets are created using the SMART application. Pay.Gov transactions are payments that are
+made on Pay.Gov and submitted via a validated submission forum to SMART. The © icon will appear
+before or after the Pay.Gov Ticket Number anywhere a transaction appears (such as the Transactions
+Tab within the Loan Module, Trial Balance - USSGL Account, and the Transaction Search Screen).
+
+Data is refreshed on a nightly basis; however, if users need to refresh the data for today’s transactions,
+they can do so from Cash Management. The Cash Management screens will display Transactions as of
+the last data refresh.
+
+@ Trial Balance
+
+Start Month 111201 >| End Month: 1/2 + | Display Type: snmary .
+Summary of Account Chi
+
+Figure 243: Data Refresh
+
+Cc Last Data Refresh 12/04/2019 03-51-03 PM EST
+
+Figure 244: Last Data Refresh
+
+From any non-Pay.Gov screen under the Cash Management header, users will see a gold button below
+the Help Desk button. By clicking it once, users can see the last time transaction data was refreshed. By
+clicking it once more, users will refresh the data. Allow 1-2 minutes for the page to load.
+
+9.1 Trial Balance
+To access the Trial Balance, click [CASH MANAGEMENT] from the top Navigation menu and then select
+[TRIAL BALANCE] from the dropdown.
+
+Gi Trial Balance
+
+Start Month: 2 © End Month: 1172019 * | Display Type:
+
+JSSGL Account
+
+shment
+
+$85.00)
+
+Figure 245: Trial Balance
+
+By default, the Trial Balance screen will display the most recently completed month within the dates in
+the fields.
+
+Users can customize the display by Start Month, End Month, and Display Type (as a Summary or
+
+Breakdown by Months). These are the following available actions from the Trial Balance page:
+1. Update Report — This button will update the page with the selected dates/display type.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 112
+
+@SMART
+
+2. Summary of Account Changes — This button will open a page that summarizes account.
+Start/End Month can be selected.
+
+@ summary of Account Changes
+
+start Month ar018 ~ | na Monin 22019
+== eee eet
+
+Fund Balance with Treasury as of 12/2019 $1,043,310,77797
+Cash -Collection (317,422.48)
+Cash - Disbursement $2.00
+
+Ending Balance as of 122019 $1,043628,200.45
+
+Accounts Recetvable as of 122019 ($41,821.20
+Accounts Receivable Establishment $92,804.00
+‘Accounts Recelvable . Collections ($28,333.00)
+Accounts Receivable - Write OfT $0.00
+
+Ending Balance $24549.90
+
+Figure 246: Summary of Account Changes
+
+3. Trial Balance Summary — This button will open a page that displays the Unadjusted Trial Balance
+Summary for the most recently completed month. Start/End Month can be selected. Export
+capabilities include Excel, PDF, and Print.
+
+@ Unadjusted Trial Balance Summary (December 2019)
+
+Start Month 122019 * End Month: 122019
+
+mast
+
+Fund Balance with Treasury $1,043,628,200.45
+
+Accounts Recelvabie $24,649.80
+
+ble ($64.00
+
+Loans Rec $14,765 621,993.90
+Allowance for Loss on Loans Receivable 30.00
+Penalties and Fines Recervable - Loans $2,649.60
+Allowance for Subsidy $274540.904 45
+Advances and Prepayments s72.22481
+Accounts Payable $7222481
+Other Deferred Revenue $725 295.00
+Labinty for Non-Fiduciary Deposit Funds and Undeposites $15,896 202,135.60
+Cosections
+Interest Revenue $254,11253
+Penalties and Fines Revenue 3284960
+Other Revenue $0.00
+
+Bad Debt Expense $277,406.43
+
+[EE Ee ee Berl
+Figure 247: Trial Balance Summary
+
+4. Clicking a USSGL Accounting will open the details of that specific USSGL Account. Start/End
+Month can be selected. Users can narrow the search within the USSGL account through Loan
+Program and Transaction Code. Export capabilities include Excel, PDF, and Print.
+
+GIUSSGL Account
++ 13-1067-00 (Accounts Recehatle- Veto OM
+
+Figure 248: USSGL Account
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 113
+
+@®SMART
+9.2 TROR Report
+
+To access the Treasury Report on Receivables and Debt Collection Activities Report, click [CASH
+MANAGEMENT] from the top Navigation menu and then select [TROR REPORT] from the dropdown.
+
+Gi Treasury Report on Receivables and Debt Collection Activities Report
+
+Start Quarter 4 - 2019 + | End Quarter
+
+(A) AtAgency $0.00
+
+(B) At Third Party $0.00
+{C) Asset Sale $0.00
+(0) Collections by Treasury through Offset and Cross-Savings
+{E) Collections by Sale After Foreclosure $0.00
+(F) Collections by Department of Justice $0.00
+{G) Other . must footnote $0.00
+
+5. Adjustments (0)
+
+(A) ReclassifiediAdjusted Amounts $0.00
+{B) Adjustments Due to Sale of Assets $0.00
+{C) Consolidations $0.00
+
+(0) Foreciosure Adjustments
+
+Mt Debts Reinstated for Collection $0.00
+
+$14,772,401,525.40
+
+Figure 249: Treasury Report on Receivables and Debt Collection Activities Report
+
+The TROR screen displays the most recently completed quarter by default. Users have the ability to set
+their display preferences by Start Quarter and End Quarter. These are the following notable options
+available from this page:
+1. The number in parenthesis reflects the number of FHA Case Numbers included in that item.
+2. Selecting a line item (in blue) will open a page listing the USSGL Accounts used for that line item.
+Start/End Month can be selected. Users can narrow the search within the line item through
+Loan Program and Transaction Code.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 114
+
+@SMART
+
+9.3 Transaction Search
+
+Transactions can be retrieved through various combinations of the search criteria available on the
+Transaction Search Screen.
+
+Q Transaction Search Screen
+
+FHA Case #: Loan Status
+
+Multiple FHA Case #'s:
+
+USSGL Account:
+
+“FHA Case No| (Mortgage insurance Date | ( Cohort) |= Transaction Date | (= Transaction Code | ( Transaction Descrption | AE) (»GLOR)(*GLCR) (*Fund) [=Fund Type) “= Activity Type | [= Fund Code) (ADP Code = Transaction Amount) | «interest Amount
+Loan Status
+
+Figure 250: Ticket Search Screen
+
+Step 1: Click [CASH MANAGEMENT] from the top Navigation menu. Select [TRANSACTION SEARCH] from
+the dropdown.
+
+Step 2: Select the search criteria from the displayed search fields in the Transaction Search
+Screen.
+
+Step 3: — Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Transaction Created By SMART User who created the transaction
+
+Multiple FHA Case #’s Search by multiple FHA Case numbers
+
+USSGL Account US Government Standard General Ledger (USSGL) Account
+
+Loan Program Type of program associated with the loan
+Transaction Code Code for the transaction
+
+Result Headers Search criteria columns to be displayed in the Search Results table
+
+Loan Status Current high-level status of the Loan (Open or Closed)
+
+ADP Code Automated Data Processing (ADP) Code
+
+Fund Fund (G, H, M)
+
+Activity Type Type of activity (ASSG, DLON, H4HO, PADS, PART)
+
+Pay.Gov Tracking ID
+
+Tracking number for a Pay.Gov transaction.
+
+Transaction Type
+
+Type of transaction (Pay.Gov, Pay.Gov CSV, SMART)
+
+Fund Code
+
+Code for the Fund
+
+Fund Type
+
+Type of fund (Financing (F), Liquidating (L))
+
+Transaction Date
+
+D

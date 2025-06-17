@@ -1,0 +1,488 @@
+e ee oo
+
+® Mortgage Release
+BFull Retease (A)
+
+Bicheces
+
+Release Request Recervediiahited ce072019 on072019 =—
+
+Len release package pines cerso1e one72019 =
+
+Len Release package sent for recording cezazers oner2019 =—
+
+Recorces Rewase received Yom County orzoceet oBe72019 =
+
+Com to tmaging sage eonsaeat one72019 [ scte
+
+Fe to Storage Process Complete corona ower2019 =—s
+
+‘Showing 106 of 6 ents Previows + | Next
+
+Figure 33: Mortgage Release Tab
+
+4.2.1.10 View Exceptions
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents Notes Mortgage Release Servicing Foreclosure Bankruptcy Disbursements Payot Transactions Customer Service
+
+A Exceptions
+
+oc
+
+03062018 Borrower Deceased $1.00 0306/2018 [we]
+10.05.28 AM EST
+
+owoaz018 Bankruptcy Dismissed 03002018 [awe]
+09:32:57 AM EST
+
+owoazo18 ‘Active Bankruptey owoa2018
+09:32:38 AM EST
+
+owoazors ACAIVRS Block has been added $87.00 030472018 [ce]
+(09.29.07 AM EST
+
+121082010 Bankruptcy Discharged 1210872010 [ce]
+(04:20:36 PM EST
+
+06/23/2009 ‘Active Bankruptey 062372009
+10:56:39 PM EST
+
+04/16:2009 ‘Active Bankruptcy 04/16/7200
+12:19:19 AM EST
+
+‘03042009 ‘Active Bankruptcy 0310472009
+(05:34:32 PM EST
+
+Showing 1 to 8 of 8 entries rovous BR
+
+Figure 34: View Exceptions
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 16
+
+4.2.1.11 View Servicing
+
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents. Notes Mortgage Release Exceptions [RMMENMIM roreciosure Bankruptcy Disbursements. Payoff Transactions Customer Service
+@ Servicing
+
+B Cert of indebtedness
+(CON (A) ne Schedule Date
+
+B cor ot meiedness Pavol Request Received comnz0%e eaeaz0%8 canaz0%8
+(con) 127728 aM EST
+
+Lh i ls) Payot Leter issued oxoaz018 owon2018 oxoazore owoxz018
+1227-29 AM EST 123557 AMEST
+Bi Payott Request (f)
+Payot! Amount Received 04/03/2018 30372018
+1227.29 AM EST
+
+Payot Amount Forwarded to Lock-Box owa2018 030372018
+1227-29 AM EST
+
+Figure 35: Servicing Tab (Partial Claim)
+
+4,2.1.12 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Fling Loan Recording Borrowers Propertyinspection Documents Notes MortgageRelease Exceptions Serving (IEEMENEAMM| Ganaruptcy Disbursements Payot Transactions Customer Service
+
+© Foreclosure
+
+GiForectosure (A)
+
+Request to HUD to assign commissioner 1262018 129062018
+
+Commissioner assigned by HUD s2is2018 129062018
+
+Recid Acknowledgement of referral 12152018 12062018
+
+‘Loan reterred to CommissionecDOJ 121132018 129062018 am
+
+Title Search Recewed 12282018 12062018
+
+Figure 36: Foreclosure Tab (Partial Claim)
+
+4.2.1.13 View Bankruptcy
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property mspecton Cocuments Notes Morigage Release Exceptions Servicing Foreclosure EEMERII) sursements Payot Transactions Customer Service
+
+@ Bankruptcy
+‘EiChapter 7 (A)
+
+Bankruptcy Steps
+
+Bankruptcy Filed 1270672018 12062018, 120062018
+
+Bankruptcy notification is received 121062018 121062018
+
+Proof of ciaim fled 121072018 1210672018
+
+Proof of Claim Recorded 0105/2019 1210672018
+
+Renew of Pian/Statement of intention 01/05/2019 1290672018
+
+Contrmation of PlanyStatement of Intention 0210472019 12062018
+
+Figure 37: Bankruptcy Tab
+
+4,2.1.14 View Disbursements
+To access Disbursements, click on the [DISBURSEMENTS] tab within the Loan Record page.
+
+ay) ee ee ee) ee eo ee | ee me | en | || oa
+
+$ Disbursements
+
+oats =
+
+Check Voided Date Partially Voided
+
+5968562 Partial Claims 160- 120772018 $56,435.61 $1,500.00 YES 12072018 yes $54,935.61
+Disbursement -Check Unscheduled PC
+Overrage Refund
+
+Figure 38: View Disbursements
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 17
+
+@®SMART
+
+4.2.1.15 View Payoff
+
+To access Payoff, click on the [PAYOFF] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers, Property inspection Documents Notes Morigage Release: Exceptions: Servicing Forectosure Bankruptcy ‘Disbursements: Payot Transactions: Customer Service
+Payot
+Payoff Information | As e | 0v07/2018
+
+nina Amount e702
+
+Aerncee s000
+
+Other increases 32800
+
+Payments. ($188.00)
+
+Transterred Amount: ($67.00)
+
+ite Of Amount sao
+
+Paid Oft Amount: ($6,385.25)
+
+Total Payott Amount: $7048
+
+Figure 39: View Payoff
+
+4.2.1.16 View Transactions
+To view Transactions, click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail’ Loan Filing Loan Recording Borrowers Property inspection Documents Notes Mortgage Release Exceptions. ©» Servicing Foreclosure Bankruptcy Dtsbursements Payoff
+
+@ Transactions
+
+[oat | aver ] or | -_
+
+Trans Description
+
+1200772018 RCTB Reversal - Type 15 Terminaton Conveyance of Tite for Benetts $57,935.61 12/07/2018 04:14:59 PM
+1207/2018 cre Type 15 Termination Conveyance of Title for Benefits (857,935.61) 1210772018 04:12:19 PM
+120772018 RUSCHPC ‘Void - Unscheduled PC Disbursement Overage / Refund ($54,935.61) 12072018 03-2958 PM
+1207/2018 uscHPc Unscheduled PC Disbursement Overage/Refund $56,425.61 1210772018 03:24:51 PM
+1210572018 o Loan Setup - Principal Balance 356,435.61 12/05/2018 02:00:46 AM
+
+ae
+Figure 40: View Transactions
+
+4.2.1.17 View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes «Mortgage Release Exceptions §— Servicing Foreclosure Bankruptcy Disbursements Payoff ‘Transactions
+
+a& Customer Service
+
+[tesa P peor Pare | a
+
+Ticket Loan Program
+
+Create Date
+
+873282 Partai Ciaim a o TEST CALL-HUD Low 12072018 02.2322 PM §— 12/07/2018 0223:20 PM
+
+Figure 41: View Customer Service
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 18
+
+@SMART
+
+5 User Information
+
+5.1 Manage Account
+
+To view your personal identification and contact information, click your user name from the top
+navigation menu. From this page you can update your account and change your password.
+
+Figure 42: Navigation Menu Links
+
+@ User Information (EDIT MODE)
+
+Enforce Two Factor [
+Authentication:
+
+Role:
+
+Manage Password:
+
+Current Password: sms
+
+Figure 43: Example User Information (Edit Mode)
+
+To update your account, follow these steps:
+
+Step 1: Edit your User Information as appropriate.
+Step 2: Click [SAVE] to save your changes or [CANCEL] to abandon the changes.
+
+Instructions on how to change your password are described in Section 2.5.
+
+5.2 Change Roles
+
+Many users are assigned multiple different roles. In order to 2 |
+change between the user roles, click on your [ROLE] in the
+
+& Role: hud.admin +
+
+top navigation menu. The dropdown menu will show all hud eseupervisor
+your assigned roles. Select the role you want, and the hud.poweruser
+website will automatically update to be viewed as the role hud.servicingsupervisor
+selected.
+
+Figure 44: Example User Role Options
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 19
+
+@SMART
+
+6 Getting Help
+6.1 Tech Support
+
+On each page of the solution, there is a small blue tab on the right side of the screen with a question
+mark. This is our Technical Support function. The Technical Support function enables the user to
+contact Help Desk personnel live via a text-based chat conversation.
+
+@®SMART
+
+_- Unauthorized Access Warning
+
+Figure 45: Landing Page
+
+@ Tech Support
+
+Figure 46: Tech Support Tab Open
+In order to access this function, follow the steps below:
+
+Step 1: = Click the [?] on the blue tab on the right of the screen.
+Step 2: — Click [TECH SUPPORT].
+
+® TECH SUPPORT
+
+Your name:
+
+Question:
+
+& Chat Now
+
+Figure 47: Tech Support PopUp
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 20
+
+@SMART
+
+Step 3: Enter “Your Name” and a Question into the popup box. (You may input your email
+address, but that is not required) Click the box next to “I’m not a robot.”
+Step 4: — Click [CHAT Now]
+
+®CHAT SUPPORT © End chat 0:21
+ee
+
+Question: need help
+
+We will be with you shortly...
+Figure 48: PopUp Chat Window
+
+Once the chat window is open, a member of the Help Desk team will get with the user as soon as
+possible.
+
+6.2 Solutions to Common Problems
+
+Problems with SMART fall into three categories: internet issues, browser issues, and SMART issues.
+Please follow the steps below to resolve each issue.
+
+6.2.1 Internet and Browser Issues
+
+The Primary characteristic of this issue is a delay when loading a page. At the conclusion of this long
+delay, a message may display indicating there is a problem with internet access. Alternatively, pages
+may seem to load but appear blank. If a page has not loaded or displayed after 30 seconds, please
+follow the steps below.
+
+Note: Not all steps have to be completed; start with Step 1 and keep working until the issue is resolved.
+Once the issue is resolved, skip all remaining steps and return to your training session.
+
+Step1: Refresh the page using the browser’s [REFRESH] button.
+
+Step 2: If the issue still exists, close all browser windows, wait 10 seconds, then open a new
+browser window and return to SMART.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 21
+
+@SMART
+
+Step 3: Check your internet connectivity — do other sites display without issue? If so, proceed to
+Step 2. Otherwise, the issue may be that the browser is unable to connect to the internet.
+Check all connections and try again. If the problem persists, contact your network
+administrator or your Internet Service Provider.
+
+Step 4: Send email to helpdesk@hudnsc.org. Include your email address, your contact
+information, and a description of what happened leading up to and following the issue.
+
+6.2.2 SMART Issues
+
+SMART issues may be errors which display on-screen or situations where data may not be saved
+properly. If you experience either of these problems, please contact Support via email.
+
+Step 1: Use [PRTSC] on the keyboard to capture an image of the screen.
+
+Step 2: Compose a new email message and paste ([CTRL+V} on the keyboard) the screen image
+into the message. Be sure to include your Username, your contact information, a
+description of what module or page you were viewing, and what you were doing (or trying
+to do) at the time the error occurred.
+
+Step 3: Send the email to helopdesk@hudnsc.org.
+
+6.3 Getting More Help
+
+If you are experiencing technical difficulties, please contact the SMART support team via email at
+helpdesk@hudnsc.org. For general questions and/or class availability concerns, please contact the
+SMART administration team via email at helpdesk@hudnsc.org.
+
+When emailing, pleases include as much information as possible relating to the problem, including print
+screen(s) of the error.
+
+6.4 Help Desk
+Help Desk Contact Information
+Email Address helpdesk@hudnsc.org
+Phone Number 1-866-657-5893
+Hours of Operation 7am — 7pm CST
+
+Response Time Time to Resolution
+
+Customer Calls Inquiries | As quickly as possible; normally within one (1) minute of the caller’s choice
+Customer Calls Outside Respond no later than 12 noon the next business day
+
+of normal business hours
+
+Customer emails Respond to inquiries no later than 24 to 48 hours of receipt
+
+Customer On-line chat As quickly as possible; normally within five (5) minutes of the caller’s chat
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 22
+
+SMART
+
+Single-Family Mortgage Asset Recovery Technology
+
+MEN? Gy
+a “>
+f %
+S e
+cS ,
+> Ww * 2
+Py
+ro. or
+ay newt’
+
+oe
+
+JUNE 2, 2020
+
+This document shall not be disclosed outside of the Government and shall not be duplicated, used or
+disclosed in whole or in part for any purpose other than for HUD training. The data subject to this
+restriction is contained on every page throughout this document.
+
+@SMART
+
+Table of Contents
+
+1
+
+Yo) [Ui do) a s10] 00) 000-] 8 Ape 1
+1.1 FOATUIES 2... eece cece eec ccc e eee e cena nett eee ee eee aan EEA eA GEE AAA G nee AeA Gn E EEE AGG HE EA AAG aE ee ec ane ee cca ae eeeaaaaeeeeaaaeeeeaaaeeeeeaaes 1
+Getting Started 0... cccccccccssseseeeeeeeeeeea ee eeeeeeeeeeeaaeeeeeeeeeeeeeesasesSESEEEE;;;;AAAAASEEEESESES;;GA OSES EESEEESEE EEA AAEEEEES 2
+2.1  —_ SOFEWALE VELSION oo. eeeeceeeteeeeeeeeeeeee teen etn E EEE EEE E EEE E LEELA AEE A EAE E EGE A GEESE GAGES EGE aaa aaa 2
+2.2 —_ SOIUTION REQUIPFEMENHS ..........ccccceeeseccccceeeeeeeeeeeeceeeeeaaeeeeeeeeeeeeeaaeeeseeeeeeeeessaaeesseeeeeeessauaaaeeeeeeeeeaaa 2
+2.3 LOSSING ON... ccc cseecccccseeecccneeeececeeeeeeeeeeeeeeeaeeeeeeseeeeeeeseeeeeeeseeeeesseueeeeaeuseeesseuecesseueessaeuseesseesessages 2
+2.4 — SOIUTION M@NU 0... eeeeeeeeeeeeeeeeeeeee eee eeee nent nnn n nnn EEE EEE EAE AEA E EEE E AGG G EES E EEA a aaa 4
+2.4.1 My Dashboard... eeecesccceesseeeeeesececcesceeeeesaeeeceeaeeesesaeeeceesaeeeceeaaeeesesaeeeeseaeeeseeaeeeesenaeeeseeaeeeseneeeess 5
+2.4.2 LOAN ANA Mail........ccccccccccccsssessneeccceceeeeesneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeaeeeeeeeeeeeeeaaeeeeseseeeeeaaea 5
+2.4.3 SOPVICING........eeeeeeeeeesseeseeeeeeeeeeeeeeeeeeeeenenEEEE SEES EEEEED EEE; EEEES ESE EDSSSSSSDSS DSSS SSO S SOSA OOOO OOOO OOOO OOOO SOOO OOOO OOOO OOO OOOOOOOES 5
+2.4.4  — BaAMkrUptcy ...... ee eeeseccecesseeceeesneeceeeneeeeceeeeeesesaeeeceesaeeeseeaeeeceeaeeeseeeeeesesaeeeesenaeeeseeaeeessenaeeeseeneeeeseeeeeess 5
+2.4.5  FOLPECIOSULE ........ecesessccccceceeseeseeeeeeeeeseeeeeeeeeeeeeeeeeaeeeeeeeeeseeeaaeeeeeeeeeeeeaaaeeeeeeeeeeeaeeeeeeeeseeeeaaeeeeseseseeeaaea 5
+2.4.6 Mortgage Release........ececeessceccseseeeecesneeeeseseeeceenaeeecesaeeeceenaeeeceseeeesesaeeeeseaeeeseeaeeeesenaeeeseenaeeeseeeeeess 5
+2.4.7 Cash Manageme nt............ccccecsscecesesereeceeneeeeeesaeeeceeaeeesesaeeeceeaeeecesaeeeesesaeeesseaaeeeseeaeeeesenaeeeseeaeeesenaeeeess 5
+2.4.8  CUSTOMEL SELVICE 0.0... cess eeeeeeeceeceaeeeeeeeeeeeeaaeaeeeeeeeeceaaaaeeeeeeeeeeaaaaaeeeeeeeeeeauaaeeeeeeeeeeauaaeeeeeeeeeeaaaaeeeeeees 5
+72 ho RS \-) 0) 96 epee EEE EEE TEESE EEEEEEEEEEESSSSSSEOSSESESESESOSSOSOSSOSOOSOSSOSSSOSOOSOOSOSOOOOOSOSOOOSOUSOOOOOOSSOSOOSOOSOOSSOOOSOOOOSOOOSOOOSOOOOOSOOO® 5
+2.4.10 User Information and Roles ..........ccccccsessscccccceessssnseeeececeesseeseeeeeeeeeseeeneeeeeeeeeeseeseeeeeeeeseeeeaeeeeseeeeeeeeaaea 5
+2.4.11 Maintenance’ ............ccccecccceeeeeeeeeeceeceaeeeeeeeeeeeecaaaaeeeeeeeeeaaaaaeeeeeeeecaaauaeeeeeeeeaauaaeeeeeeeeeeauaaeeeeeeeeeeauaaeeeeeees 6
+2.5 CHANGING PASSWOM.........ccccccccccesessseeeceeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeesseaeasseeeeeeesaaaaaaseseeeeeeeaaa 6
+2.5.1 Forgot Password (Recover PaSSWOId)........ccccccssssssseeccccesssesseeeeceeeseseeneeeeeceeesseeseeeeeeeeseeeeaeeeeeeceseeeeaaea 7
+V2 oa =>, <1 ese) (01d (0) 9 PRP 7
+Using My Dashboard .........cccccccccsssssseeecceeeeseeesseeeeeeeeeaseeeeeeeeeeeeeseeeeeeeeeeeeeessaeeesseeeeeeeessaaaaseeeeeeessaggaass 8
+3.1 My LOANS .......ccccceeecccccseeecccneecceeeeeeeeeaeeeeeeeaeeeeeesseeeeeeaeeeeeeeseeeeeeseeueeesaeaseeessaueeeeseueeesauscessueeseesages 8
+3.1.1 Pin Loan to My Loans Dashboard ............cccceeesseeeeesseeeeeeeeeeceesaeeeceseeeesesaeeeeeeaeeesesaeeeesenaeeeseeeeeeseneeeess 8
+3.1.2 Unpin Loan from My Loans Dashboard...........ceccceeesecceeesseeeceeseceeeeeeeeeeesaeeeeeesaeeesesaeeeceenaeeeseeaeeeseneeeess 9
+3.2 MY TICK@tS 0... eccceececcccceeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaeeeeeeeeeeeeeeeaseeeeeeeeeeeessaaeeesseeeeesesaaaeaaseeeeeeeeeaaa 10
+3.2.1 Pin Ticket to My Tickets DaShboard...........ceeesecccesseeeecesneeeeseeaeecesenaeeecesaaeecsesaeeeceeaeeecesaeeeeseeaeeeseeaaees 10
+3.2.2 Unpin Tickets from My Tickets Dashboard ...........csccccessececeesseeeeeeseeeeeseeeeeeeaeeeeseaeeecesaeeeesenaeeeeseaaees 11
+cis a Bs) Ol |] 00) ee ee 12
+3.3.1 Filter LSC INDOX..... eee cecccesesssecceeceeesesseneeeeeeeeeeeeeenaeeeeeeeeeeeeeeeeeeeeeeeseeeaaeeeeeeeeseeeeaaeeeeeeeseeeeeaaeeeeeeesenee 12
+3.3.2 Batch Reassign Tickets ............ccccccssseccceesseeeeeesneeeeeesaeeeceeaeeeeesaeeecsesaeeeceseeeeseseeeesenaeeeeeeaeeeesesaeeeeeeaaees 13
+rr 1] 01-1 a7 10) a [0] 00), Geen 14
+3.4.1 Change Disposition ..........ceeesccecsesneceeeeseeeeseseeeeeesaeeeceeaeeeeeeaeeeeseaeeesesaaeecsesaeeesseaeeeceeaeeeesenaeeeseeaaees 14
+3.4.2  AUTO-ASSIQN ....... ee eeeeeesseeeeeeseeeteeeeeeeeeeeeeeeneneteennSSESEEEEE SESS ES ESSE SDSS ESSE SSDS OOOO OOOO SOOO OOO OOO OOOO OOOO OOO OO OOOO OOOO OOOOES 16
+3.5 HUD INDOX 000. nnn nn nn nn nnn renee nen ene e nee ee ee ee ee eee eeeeeeeeeeeeeeeeeeeeeeeeeeeeees 17
+3.5.1 Filter HUD INDOX oo. ececccessstececeeeeessssneeeeeeeeeeeseeaeeeeeeeeeeeeeeeeeeeeeeseeeaeeeeeeeeeseeeaaeeeeceseeeeeeaaaeeeeeeeenes 17
+3.5.2 Batch Reassign Tickets ............c:cccssseccceeeseeeeeesneeeeeesaceeceeaeeceesaeeeceesaeeecesaeeeseeeeeceenaeeeseeaeeeeseseeeeeeaaees 18
+3.6 ACTION LIST... eee cece cece eae eeeeeeeeeeeeaaaaaeeeeeeeeeeeaaaaaeeeeeeeeeeaaaaaaaeeeeeeeeeaaaaaaaeeeeeeeeeaaaaaaeeeeeeeeeeaaa 19
+3.6.1 — Filter Action List........ccceccessssccccccesssssneeeeecceesseseneeeeeeeeeeeeeseeeeeeeeeeseeeaeeeeeeeesseesaaeeeeeeeeeeeessaaeeeeeeeeses 19
+3.7 > Unsigned Tickets ..........cccccccssssseecccccecaeeesseeeeeeeeesaeeeeeeeeeeeeeeseeeeeeeeeeeeeesaaeeeseeeeeeeessaaeaaeeeeeeeeaaaa 20
+3.7.1 — Filter Unassigned Tickets .0........cceesecccessseeeeeesneeeeeesaceeceeeeeccesaeeeesesaeeeceeaeeeceesaeeesseaeeeseeaeeeeseeaeeeseeaaees 20
+3.7.2 Batch Reassign Tickets ............ccccceseseccceeeseeeeesneeeeeesaeeecesnaeeceesaeeeceesaeeeceeeeeceesaeeeseenaeeeeesaeeeesenaeeeseeaaees 21
+Using the Loan Module & Mail.........ccccccccccccsssssseeeccceeesaaeeeseeeeeeeeesseeeseeeeeeeessseeesseeeeeeeesesaaaeseeeeeeeeeaaa 22
+72 Fas SY =X | 0) 9 22
+4.1.1 Loan Search — Production Database ............ccssccccccccssssssseeeecccessessneeeeceeesseesneeeeeeecesseenaaeeeeceeeseesaaeeeees 23
+4.1.2 Loan Search — Legacy Database............eecccceesscccesesneeeceeneeeeeeseeeeeeaeeeceeaeeesesaeeeeeenaeeeesenaeeeeeseeeeseneeeess 23
+4.1.3 Loan Search — DAT C Database ........ccececcsssssccccccesessesneeeecccessseenseeeececesseesaeeeeeeeceseeesnaeeeeesesseeeaaeneees 24
+4.1.4 Search R@SUItS ..........cccceesssccccccssssesneeeeeceeesseeseeeeeeeesseeeseeeeeeeeeeeeeesaeeeeeeseseeeeaeaeeeeceseseaaeeeeeeeseeeeeaeeneess 24
+
+SMART USER MANUAL | HUD.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | i
+
+@SMART
+
+7/7 ams OY 10 AAA £-] 6 ¢ 26
+4.2.1 Add New PMM Loan RECOMGS.........:cccesscccesesseeeeeeseeeceseeeeseeaeeecesaeeeceeaeeesesaeeeceesaeeesseaeeeeeeaeeeeseneeeess 26
+4.2.2 Add New Common Loan ReCOMdS ..........:cccsesscccesesneeeeeeneeeeseseeeceeeaeeeceeaeecsesaeeeeeenaeeesseaeeeeeseeeeseneeeess 28
+
+4.3 PMC QUeUC 2... eeeeceecce cece eeeeeeeeeeeeeaaaeaeeeeeeeeeeeaaaaeeeeeeeeeeaaaaaaaeeeeeeeeeaaaaaeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaes 30
+
+4.4 Accessing Detailed Loan Information ...........ccccccssscsecccccccceeeeseeecececessaeeeeeeeceeeesaaseaseeeeeeeeessaaagsss 31
+4.4.1 Access Details of Partial Claim Loan RECOIdS ...........ccssecceeesseeeeeeneeeceeneeeesesaeeeeeesaeeeeeeaeeesesaeeeeseteeeess 32
+4.4.2 Access Details of PMM Loan ReCOIdS ...........:ccceeeseeceeeeneeeeseseeeeeeeaeeeceeaeeesesaeeeceenaeeeceeaeeesesaeeeeeeteeeess 39
+4.4.3 Access Details of Secretary Held Loan RECOrdS ............sccccsesseeceeesneeeeeeneeeesesaeeeeeesaeeeseesaeeeseseeeeeetneeeess 44
+4.4.4 Access Details of HAH Loan RECOIS............eseeccesesseceeseneeeeeeseeeesesaeeeceeaeeesesaeeeceesaeeeeeenaeeeeeeeeeesetaeeeess 52
+4.4.5 Access Details of EHLP Loan RECOrdS...........cccccesesecceeseseeeeeesneeeeseeaeeeceenaeeesesaeeeceesaeeeeseaeeeseseeeeeeteeeess 58
+4.4.6 Access Details of Default Loan RECOrS ..........:ceseccceseseeeceesneeeeeeeaeeeceenaeeesesaeeeeeesaeeeeeeaeeeeeeeeeeseeeeeess 64
+4.4.7 Access Details of HECM-Assured Loan ReCOICS............s:ccceesseeeeeesneeeceeneeeeeesaeeeeeesaeeeeeeaeeeseeaeeeeeenaeeeess 70
+4.4.8 Access Details of HECM-Insured & SF Data Request Loan ReCO

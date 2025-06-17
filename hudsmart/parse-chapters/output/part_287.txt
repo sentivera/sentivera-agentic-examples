@@ -1,0 +1,264 @@
+all browser windows, wait 10 seconds, then open a new
+browser window and return to SMART.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 72
+
+Step 3:
+
+Step 4:
+
+@SMART
+
+Check your internet connectivity — do other sites display without issue? If so, proceed to
+Step 2. Otherwise, the issue may be that the browser is unable to connect to the internet.
+Check all connections and try again. If the problem persists, contact your network
+administrator or your Internet Service Provider.
+
+Send email to helpdesk@hudnsc.org. Include your email address, your contact
+information, and a description of what happened leading up to and following the issue.
+
+9.2.2. SMART Issues
+
+SMART issues may be errors which display on-screen or situations where data may not be saved
+properly. If you experience either of these problems, please contact Support via email.
+
+Step 1:
+Step 2:
+
+Step 3:
+
+Use [PRTSC] on the keyboard to capture an image of the screen.
+
+Compose a new email message and paste ([CTRL+V} on the keyboard) the screen image
+into the message. Be sure to include your Username, your contact information, a
+description of what module or page you were viewing, and what you were doing (or trying
+to do) at the time the error occurred.
+
+Send the email to helpdesk@hudnsc.org.
+
+9.3 Getting More Help
+
+If you are experiencing technical difficulties, please contact the SMART support team via email at
+helpdesk@hudnsc.org. For general questions and/or class availability concerns, please contact the
+SMART administration team via email at helodesk@hudnsc.org.
+
+When emailing, pleases include as much information as possible relating to the problem, including print
+screen(s) of the error.
+
+9.4 Help Desk
+Help Desk Contact Information
+Email Address helpdesk@hudnsc.org
+Phone Number 1-866-657-5893
+Hours of Operation 7am — 7pm CST
+
+Response Time Time to Resolution
+
+Customer Calls Inquiries | As quickly as possible; normally within one (1) minute of the caller’s choice
+Customer Calls Outside Respond no later than 12 noon the next business day
+
+of normal business hours
+
+Customer emails Respond to inquiries no later than 24 to 48 hours of receipt
+
+Customer On-line chat As quickly as possible; normally within five (5) minutes of the caller’s chat
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 73
+
+\SMART
+
+Single-Family Mortgage Asset Recovery Technology
+
+JUNE 10, 2019
+
+This document shall not be disclosed outside of the Government and shall not be duplicated, used or
+disclosed in whole or in part for any purpose other than for HUD training. The data subject to this
+restriction is contained on every page throughout this document.
+
+@SMART
+
+Table of Contents
+
+1
+
+SOLUTION SUMIMALY...........ccccssccececessessneceeeeecesseseaaeeeeeeeeeseeseaaeeeeeeeseesesaeaeeeeesessesaaaeaeeeescesaaaaeaeesessessesaaeas 1
+1.1 FOACUIES ooo. eeccccsseseseececccenneneeeeeeeeeene ease eeeeeeeeeeaeeeeeeeeeeeeeeeasae sees eeeeee Ge GG SE eEEE;C;;;; AGE EEEECECEGE GAGE EEEESEHEEE OES 1
+Getting Started ooo... ecccesssscccecsssessnseseeeeeeesseseeaeeeeeeesesseeaaeeeeeeeseeeeseeaeeeeeceseeseeaeaeeeescesseaaeaeesesseeseaaaeass 2
+2.1 ——_ SOFtWare VELSION .........ccccccccccecessssenneseceeeceseeseaaeaeeeeeceseeseaaeeeeeeeseseeseaaeeeeeeesessaaaeeeeeessessesaaaeeeeeeesessegs 2
+2.2 —-_ SOIUTION REQUIPFEMENTS .0.........cececeessscecececeseessaeseeeeeceseeseaaeseeeeecessesasaeseeeeesesesaaaeeeeeceseseaaaaeeeeeessensegs 2
+2.3 LOBBING ON ...........cceesessssseseseseseseseseseseseseseseseseseseseseseseseseseseseseeeseseseseseeeeeeeeeseeeeeseseeeseeeeeeseeeeeeeeeeeeeees 2
+2.4 —-_ SOIUTION MON ou... ..cececeesessccececeseeseaeseeeeeceseeeaaeaeeeeeceseeseeaeeeeeeeseseesaaaeeeeeeeseseeseaaeeeeeeuseeseaaaaeeeeseesensees 4
+2.4.1 My DasShboard.........ccesccccesscecesseececeeneececseneecesseeecseaececeeneecsesuececseaaececeeeeecsesaeeeceeaaececeeeeceesaeeeseeaaeeeseeeeeees 5
+2.4.2 LOAN oe ceeeeeececscccesseececeesececseaceceeuneecseaececeeaaeceseaeeecseaaeeeceeaeecseaueeeceeaaececeeeeeceeaeeeceeauececeeeeeceesaeeeseeaaeeeseeeeeeees 5
+2.4.3 — CUSTOME|™ SELVICE .0... ee eeeececeececesssececeensececeeneececueeeceeaaececeeneecsesueeecseaaececeeeeceesaeeeceeaaececeeeeeceesaeeeseeaaeeeseeeeeeees 5
+2.4.4 REPOS eee eeeccececseececsessececseneececsncecseaececseneecesaeeeceeaaececeeneeceeaaeeeceeaaececeeeeceesaeeeceeaaececeeeeeceesaeeeseeaueeeseeeeeeees 5
+2.4.5 User Information .......c.cccccccsscecesssececsesnececsencecessececeeaeeeceeneeceesaececseaaececeeeeeceesaeeeceeaaececeeeeceesaeseceeaueeeseeeeeeees 5
+2.4.6 — ROLC .....eeeeececceccecesssececeesaececeeneecessneecseaececeeneecesaeeeceesaeeeseeaeecsesaeeeceeaaececeeeeeceesaeeecseaaececeeeeceesaeeeceeaaeessneeeeeees 5
+2.4.7 Maintenance ........ ce cecescecescceceeseececseaececeenceceeseeeeceenaeeeceeneecseaececseaaececeeeeeceesaeeeceeauececeeaeeceesaeeeceeaueeseeeeeeeees 5
+2.5 Changing PASSWOM........ccccccccccssssssssseeececessesenseseeeeeceseeseaaeeeeeeeseseeseaseseeeeeseseesaaaeeeeeeesesseaaaaeseseesseesaes 5
+2.5.1 Forgot Password (Recover PaSSWOId)........cccsscccsssecssecesseecssecseeeecsseceeeeecueceeeecueceeeeecaeceeeescaueceeeeesaeseenee ss 6
+2.6 —_EEXIt SOLURION wo. ceccccccsscccececeeseseaeaeeeeeceseeaaeseeeeeceseeseaaeeeeeeeseseeseaaeeeeeeesesseseaaeeeeecesessesaaaeseeeeeseesegs 7
+Using My Dashboard.uu........ccccccssssccececessesenseaeceeecssseseseeaeeeeeceseeeeeaeaeeeeeeeseeseaaeaeeeeeceseeseaaeaeeeessesseeaaeaeeeesens 8
+3.1 MY TICKOtS ....... cc ceecccccccscessesneaeeeeececeeseeeaeeeeeeeseeseeaeaeeeeeeeseeeeaeaeeeeeseseeseeaeaeeeeseeseeeaaaeaeeeesessseseuaeaeeeeeens 8
+3.1.1 Pin Ticket to My Tickets DaShbOard.........eccesseseceessececeenceceesececeeaaececeeeeeceeaeeeceeauececeeeecesaeeeceeaueeeseeeeeeees 8
+3.1.2 Unpin Tickets from My Tickets Dashboard ............ccsccecssscecesssececeeneececeeeeeceesaeeeceeauececseeeecessaeeeceeaueeeseeeeeeees 9
+3.2 SUPE rViSOL INDOX ........ecececesssscecececesseseaeeeeeeecesseeaaeeeeeeeceeseaaeeeeeessesensaeaesesecesseseaaeaeeeesessseaaeaeeeeeens 10
+3.2.1 Change Disposition ...........ccccccecesscecseseececseseececsseeeceeaececeeaeececeeeeceeauececeeaaeceeseneecsesueeeceeaaecesaeeecsesaeeseeenaees 10
+3.2.2 — AUTO-ASSIGN ooo... eeeececesssececeescececseececeesueeeceeaaececuneeceesaececeeasecessueeeceeaueeeceeaseceesueeeceeaueeeceeaaececueeeceeaaeeeseenaess 12
+3.3 LSC INDOX. ooo. cecececesssssececececessesnnaeeeeeeeeeseesaeaeeeeeeeseeeeeeaeeeeeeeseeseeaeaeeeeseeseesseaeaeeeessessusaaaeseeseseessesaaeeas 13
+3.3.1 Filter LSC INDOX. 0. cece ecececstececseececeeeeeeceenaececeeeecsesaececeeaeececseeeceeaaececeeaaeceesanseceesaeeeceeaaecesueeeceeaaeeeseenaees 13
+3.3.2 Batch Reassign Tickets ...........cccsccccesssececsseececseececeeaececeeaeececsnceceeaaececeesseceeeneeceesueesceeaaecesaeeeceeaaeeeeeeneees 14
+Using the Loan Module & Mail ...........ccccsesscccccecessessaececececeeseeaeeececssesseaaaeeeeeesseeseaaeaeeeeeessseseaeaeeeesens 15
+7. Fas SY <Y- | 60) 0 eee 15
+4.1.1 Loan Search — Production Database .............cecccessceceessececeesececeenceceeseeeecseaeesceeaaeceeseeeceesueeeceeaaeeeseneeeeees 16
+4.1.2 Loan Search — Legacy Database ............ceccccccssececsenceceeseececeeuececeeeeeceseeeeceeaeeeceeaaeceeseeeeceesaeeeceeaaeeeeeeeeeees 16
+4.1.3 Loan Search — DAT C Database .........cececccccsssececsececeeseececeeueeeceeneececeeeeceesaeeeceenaeeeeeeeeceesaeeeceeaaeeeeeeeeeees 16
+4.1.4 Search R@SUIts 0.0... .eecceesssccceessececseeeeceeseeeecseaaececsenceceeaeeeceeaaececeeeaeceseaeeecsesaeeeceeaaeeeesaeeeceesaeeeceeaaeeesseeeeeees 17
+4.2 Accessing Detailed Loan Information ...........ccccccsesssecececessesesseceeeeecessessaaeeeeeesessseseaeseesessesseseeaees 19
+4.2.1 Access Details of HECM-Assured Loan R@COIS ..........sscccceessececeeseececseececeeaeeeceeeeeceesneeceesaeeeceeaaeeeseeeeeees 20
+4.2.2 Access Details Of HECM-INSUrE 2.0.0... eeeececeessececeeececeeseececeeaaececeeneececuececseaaeeeceenaeceeeeeeceesaeeeceeaueseseeeeeees 27
+Using the Customer Service MOdUIe .........cccccccccesssssssececececeesesseaeeeeecesesseaeaeeeeecsseesnsaeaeeessesseeseaeaeeeesens 32
+5.1 Ticket SQ arch .....ccccccccccccssssssceceeecesseseaeseeeeeeesseseeaeeeeeeeceseesaeaeeeeeessesseeaeaeeeeeseseeseaaeaeeeeeeeseesaaaeaeeeeeens 32
+5.2 Accessing Detailed Customer Service Information. .........cccccccccccsssssssssecececeesesscneaeeeeecessesesteaeeeeeens 34
+5.2.1 View/Edit Ticket Detail.........c.ccccccscccssecsssceessecesssecssecesseccssecesseccssecesssecsaecsseceasecesseseasecesseseasecesseeeasecenees 34
+5.2.2 Create New Call LOg .........eescccccsssccceesnececsseeececseeeeceesaececeeaeececeeeeceeaaeeeceesaeceesaneeceesaeesceeaaecssueeeceesaeeeeeeneess 35
+5.2.3 View/Add Ticket Action .......c:ccccscccsssccssecessseessecesseecssecesseccssecesseceasecsseeesaecsseceaaecesseeeaaecesseseasecesseseasecenees 35
+5.2.4 Complete Ticket Action ..........cccccccccssscecsssececseececsesaeeeceeneececneeeeceeauececeeasececsaneecsesaeeeceeaeececaeeeceeaaeeeeseneees 36
+5.2.5  ViEW/A NOteS........ccccccssecessceessecesseecssecesseecssecesseccssecesseccasecessescasecsseeesaecseseecasecsseseasecesseseaseceseeeeaaecenees 36
+5.2.6 View All NOte@S .......cecsecccceeseceessececeenaececsenaececseeeceesaececeeasececsaeeceeaaececeeasecessaeeecsesueeeceeaaecesueeeceesaeeeeeenaees 37
+5.2.7 — ViQW DOCUMENTS 0.0... .eeeeeccceessececseececeesueeececaaececueeeceesaececeeaeececsueeeceeaaeeeceeasececsaeeeceeaueeeceeaaececaeeeceeaaeeeseenaees 37
+5.2.8 View Borrower HiStOry.........cccccssccccssssececseneececssececeeaeeeceencececseececeeauececeeseeceesaeeeceeaueeeceeaaeceeaeeeceesaeeseeenaees 37
+5.2.9 — CloS@ Ticket 0.0... ceecececsscecseneececssececeeneeeecseeaececsneeecseaeeeceeaeeceeeeeeceeaaececeesaeceeeesecsesueeeceeaaeceeeeeeceeaeeeseenaees 37
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | i
+
+@SMART
+
+5.2.10 Re-Open Ticket.........ccccccccesssecesssececseseeecseaeececseeeceeaececeeaeececeeeeceeaaececeesaeceesaneeceeaueeeceeaaececaeeeceeueeseeeneees 38
+5.2.11 Editing a Closed Ticket .........cecscccesssececseneeceessececeeaeeeceeaeececseeeceeauececeeasececsaneecsesueeeceeaaeesseaeeeceesaeesenenaees 38
+5.3 Create NEW Ticket... eeccesssssecessececeeseneecessenaecesseaaeceeseaaeceseeaaeeeseesaeeeeeeaaececseaaeeeeseaaeeseseaeeeesenaes 40
+5.3.1 Create New Ticket from Header ........cceccssccesssncecseseececeeaceceeseececeeuececeeaeecessneeceeaaeesceeaaecesaeeeceesaeeeseeeaees 40
+5.3.2 Create New Ticket from Tab for Specific FHA Case NO. .......cccccccesssececseseeceeseececseaeeeceeneecesseeeeceeueeeeeeneees 41
+6 —CUUSSING REPOMtS ...............cccesesssesesseeeeeseseeeeeeeeeeeseeeeeeeeeeeeeeeeeeeseeeseeeeeeeeeeeeeeeeeeeeseeseeeeeeeeeeeseeeeeeeeeeeeeeeeeeeeeeees 42
+G.1 —-_ Customer Service REPOrts ......cccccccccccecccecececeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeGeeeeeEEEEEEEEEEEEEEEEEES 42
+6.2 DirectOr REPOmts ............:cccccssssssseseseseseseseseseseseseseseseseseseseseseseeeseseseseceeeeeeeseseeeeeeeeeeeeseeeeeeeseeeeeeeeeees 42
+6.3 Servicing/Release Reports ..........ccccsccccssscesscccssseeesseceesseceseccsseeecssecesseeceseeecaaececaeecesseeesateeeaaeceeseeees 43
+7 —_— Ue r Inforimation.....c.ccccccccccsssececsesneeecsesececsenaeeecsesaececeeaaeeeceeaaeeeceesaeeeceeaaeeeceesaeeeceeaueeeceeaaeeeeseaueeeceenaes 44
+7.1 Manage ACCOUNL.......ccccccssssseeecececeneeeeseeeeeeeeneaeeeeeeeeeeeeaeeeeeeeeeeeeeaeeaeeseeeeeeeeeaaaaaseeeeeeeeaeaaaaseeeeeeneaaags 44
+9 fo ams ©) Y- 101208 3 (0) (=: eee 44
+8 —_— Using the Maintenance MOdulle ..........c.cccccccesssssssscececeseesesneaesececscecseseaeeeeeesseesesaeaeeeeeeeseeesaeaeeeseesseesags 45
+8.1 Ticket ROUNC RODIN... ceeeessecessececeesensececsenaeceeseaaececseaaececeeaaeeeceeaaececeeaaececseaaeeeeseaaeeseseaaeeeeseaas 45
+8.1.1 Change Agent QUEUC 2... eeeecececeeeeceestececeeaaececeeneeceesuececeeaaececsueeeceesaececeeauececeeeecsesueeeceeaaeceseeeeceeeeeeseegas 45
+8.1.2 Change Agent Status... cccccccccescecesssececseeececseneecsesaeeecseaaececeeeecessaeeeceeaaececeeeeecsesueeeceeaaececeeaeeceeeaeeesegas 45
+8.1.3 Add New DeSIgNe....... eee ececssccecssceceessececeeaececeeneeceeaececeeaaececeeeeeceesueseceeaaececeeeeecseaeeeceesaeceseeaeeceeaeeesegas 46
+Q —-_—_ GOCHING HEIP oi... cecccssssssececeeeeeesesseaeeeeeeeceseeeeaeeeeeeeeeeeeeaeaeeeeeeeseeseeaeaeeeeeeeseeseeaeaeeeeeesseeseaaeaeseeeesseesags 47
+1° Fad a =X og SL ©) 00) 6 ee ee 47
+9.2 Solutions tO COMMON PrObleMS ............ccsscceseenececseeececseeececseaeceeeeaececseaaececseaaeeeeseaeeseeeqaeeeeeenaes 48
+9.2.1 Internet and Browser ISSUES ........c:cccesssececsessececseeeeceeuececeeaaececeeeeeceesueeeceeauececeeeecsesueeeceeaaececeaeeceeaeeeseegas 48
+9.2.2 SMART ISSUCS ........cccccceessececeenececseececesaeeecseaaececeeneecsesuececeeaaececeeeeceesaeseceeaueceseeeecsesaeeeceeauececeeeeeceseaeeeseeaas 49
+9.3 Getting More Help ..........cccccscccccecsssssssseceeececssseseeaeseceeecesseseaaeeeeeeesessesaeaeeeeeceseeseaaeaeeeesesssuseaaeaeeeeeens 49
+1° Fe (=) | 0 D5), eee 49
+Figures
+Figure 1: LaNdiINg Page .......c.ccccccccccsssssssecececeseeseeseaeeeeeceseeeeaeseeeeeceseeseaaeaeeeeeceseeseaaeaeeeeeceseeseaaeaeeeescessuseaaeaeeeesens 2
+Figure 2: MFA Phone Set-Up...........cccssssccccecessesesseaeeececeseeseaeseeeeeeeseeeaaeaeeeeeceseessaaeaeeeeeceseeseaaeaeeeeesesseeaaeaeesesens 2
+Figure 3: MFA Phone Set Up ........cccccsssscccecessesenseaeeeeeceseeseeeseeeeeeesseesaeaeeeeeceseeseeaeaeeeeeceseeseaaeaeeeeecessesaaaeaeeeesens 3
+Figure 4: MFA Phone Verification ........c.cccccccccssssssccecececsesenneseeeeecessesesaeaeceeeceseeseaaeaeeeeecesseseaaeaeeeeesesseseaaeaeeeesens 3
+Figure 5: Multi-Factor AUtheNtication ............ccccccccccecessssesssseceeeceeseseeeaeeececesseesaeaeeeeeceseeseaaeaeeeeesusseeuaeaeeeesens 3
+Figure 6: Setting Up Security QUESTIONS PAE ou... cecesesesssesseceeeseeeseaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeauaeaeaeanaeanaes 4
+Figure 7: Default Page ........c.ccccccccccsssssssecececessesesseaeeeeeeeseseeseeaeeeeeeeseeseaaeaeeeeeceseeseaaeaeeeescuseeseaaeaeeeeecesseseaaeaeeeesens 4
+Figure 8: Manage PaSSWOIK..........ccssssssccececeseesenneaeeececesesseseaeeeeeceseesesaeaeeeeeceseessaaeaeeeeeeeseeseaaeaeeeeesessesaaaeaeeeesens 6
+Figure 9: Login Page — Forgot PaSSWOIG .........ccssssccccccessssessseceeecesseseaeseeeeeceseeseaaeaeeeeeceseeseaaeaeeeeecesseseaaeaeesesens 6
+Figure 10. Forgot PaSSWOrd Page......ccccccccccccssssssssecececessesesseseeeeecesesseaeaeeeeeceseeseaaeaeeeeecesseseaaeaeeeeesesseseaaeaeeeeeens 6
+Figure 11: My Tickets DaShbOard.......c.ccccccccccsssssssecececessesenseseeeeecesseseaeaeeeeeceseeseeaeaeeeescesseseaaeaeeeeecesseseaaeaeeeesens 8
+Figure 12: Pin to Dashboard (Ticket RECOM) ..........ccccssscccecssecececssecececsececeeaeeececsaeeeceesseeesecsaeeecsesaeeecsesseeeeeees 8
+Figure 13: Unpin from Dashboard (Ticket RECOM) ..........cccsccccccsssceceessecececsnecececseeececsaeeeceesaeeeceesaeeeseeaeeeeeees 9
+Figure 14: SUperviSOr INDOX .........cccsessssccececessessaeceeececessesnaeeeeeeseesseeeuaeeeeeeeseeeeaeaeeeseceseeseaaeaeeeeeessseseaaeaeseesens 10
+Figure 15: Change Disposition (Edit MOde) ............cccccccsccccssssececssscececssscececssssececssseececessececseesececsssaeesessaaeees 10
+Figure 16: Disposition WOrkflOW........c.ccccccccssssssscecccecessessnaesececscesseeeaeeeeecesesseseaeeeeeceseeseaaeaeeeeeessseseaaeaeeeesens 11
+Figure 17: AUtO-ASSISN TiCket..........ccccccccccecesssssnsesecececessessaaeeeeeeseeseeseeaeeeeeceseeeeaeaeeeeecsseeseeaeaeeeeeesseeaaeaeeeesens 12
+FiGUre 18: LSC INDOX........ccccccccccecesssssnnececeeecesseseeaeeeeeeeeeseeseuaeeeeeeeseseesaeaeeeeeeesesesaeaeeeeecsseeseaaeaeeeesesseuseuaeaeeeesess 13
+Figure 19: Filter by LSC USEF ..........cccssscccccecsssssenseceeeeecessesenaeseeeesseseeaeaeeeeeceseeseaeaeeesecsseeseeaeaeeeeeeesseseaaeaeeeeeess 13
+Figure 20: Filtered LSC INDOX...........ccccscccccecssssssnseceeeeecessessnaeeeeeeeseseeaeeeeeeeceseseeaeaeeeeecssseseaaeseeeeeessseaaeaeeeesess 13
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | ii
+
+Figure 21:
+Figure 22:
+Figure 23:
+Figure 24:
+Figure 25:
+Figure 26:
+Figure 27:
+Figure 28:
+Figure 29:
+Figure 30:
+Figure 31:
+Figure 32:
+Figure 33:
+Figure 34:
+Figure 35:
+Figure 36:
+Figure 37:
+Figure 38:
+Figure 39:
+Figure 40:
+Figure 41:
+Figure 42:
+Figure 43:
+Figure 44:
+Figure 45:
+Figure 46:
+Figure 47:
+Figure 48:
+Figure 49:
+Figure 50:
+Figure 51:
+Figure 52:
+Figure 53:
+Figure 54:
+Figure 55:
+Figure 56:
+Figure 57:
+Figure 58:
+Figure 59:
+Figure 60:
+Figure 61:
+Figure 62:
+Figure 63:
+Figure 64:
+Figure 65:
+Figure 66:
+Figure 67:
+Figure 68:
+
+@SMART
+
+HUD Inbox Batch Ticket ReassiSNMent............cccccsscccccecessessssececeeecessesssaeseeeeseeesecaaeeeeeesseeseseaaeess 14
+oY Ta es 1-1-1 001 0 S10 8-1 =) 9 15
+Search Database — Production Database ..........cccccsessssccececessesenneceeeeecesseseeaeseeeescessesseaeeeeeeesesees 16
+Start Search BUttON .......cccccccccsssssssececececsesesneaeeeeeceseesesaeseeeeeeeseeseeaeeeeeeesessesaeaeseseessessaeaeseeeeeseesees 16
+Search Database — Legacy Database..........ccccccccccssssssssssecececsssesenneseeeeecesseseeaeseeeesseesesneaeeeeeeeseeees 16
+Search Database — DAT C Database ..........ccccccccccccssssssssseeeeecesseseaeseeeeecesseeaeseeeessessessaeeeeeeeseeees 17
+Search R@SUILS .........ccccsssscccccecessessaeeeeececeeseeeeaeeeeeeeseeseeaeseeeeeeeseeseaaeseeeeeseseesaeaeseeeescessesaeaeeeeeeessegees 17
+R@SUIt HEACELS 00... cccccesessessececececessesnnaeseeeeeceseeseaaeseeeeeceseeseaaeaeeeeeceseesaaaeeeesescussusaaaeseseesensseseaaeess 18
+
+Search Results — Result HEaderS.............ccccccccesssesesesesesesesesesesesesesesesesesesesesecesesesesesesesesesesesesesens 18
+Search RESUItS — S@Ach .....ccccccccccccccecececececeseseseseseseseseseseseeeeeseeeseseseeeeeeeeeseseeeeeseeeeeeeeeeseseeeeesenenses 18
+Search RESUItS — SOL. ....cccccccccccccccececececeseceseseseseeeseseseseseseseseseseeeseseseseeeeeeeeeeeseeeseeeeeeeeeeeeeeeeneneneeses 18
+Loan Record (CXAMple) .........ccccccccesscceesscececssssececsssseceesssseceesessececsesseeecsesaeeeesesaececsesaeceeseaaeeeeneaaes 19
+VAT Saas ey-] 0m DY =) f-| | 20
+VIEW LOAN Filing ..........cccsesssccccecessesssaececcescesseeaaeeeeececeseeeaseeeeecssseseeaeaeseescsseuseueeaeeesecesseseuaeaeeeesens 20
+VIEW LOAN RECOICING........:cccccccccssssssssececececesseseaaecececscseseeaseeeeeeeseessaeaeeeescssseseaaeaeeeeseeseeaaeaeeeesens 20
+ViCW BOFrOWETSS.......c:cssseececcccccenssescecececeausnsseececeeeaeeusaeseeceeeeesueesseececeeeaeeusesseeeeeeseaaagsseeeeeeeeauauagsnees 21
+VIEW Property INSPECTION ..........cccccccccccecececeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeees 21
+VIEW DOCUMENTS .........ccccceccccscesssescecececesuenssesceceeeaseusseseeceeeceaueasseececeeeaeauansseeeeeesesuansseeseeeeeauagagssees 21
+VieEW LOAN Balance Transfer .......ccccccccccccccccccecscsceceseeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeneneeeeeeeeses 22
+VICW NOTES .......cccceceesessseececececeensseseecececeaueesseececeeeaeeusseseeceeecesaeesseececeeeaeeusesseeeeeeseauansseeseeeeeseauagsees 22
+View Mortgage Release ..........ccccseessssscecececessessnaeeeeececessesaaaeeeceesssesesaeaeeesecsseeseaaeaeeeeeeessesesaeaeeeesens 23
+VIEW EXCEPTIONS .........ccccccccccccececececeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeenes 23
+VIGW SOLVICING ......ccccecccccccccecececececeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeGeeeeeGeEeEeEEEEEEEEEEEEEEEES 23
+VATSA VA me) 010 (0910 | (- 23
+VIEW Bankruptcy ...........ccccsccccccecessessaececccscesseseaaeeeeeescessesasseeeeeesseeseaaaaeeeesceseuseaaeaeeeeeceseeeaaeaeeeesens 24
+VIEW DiSDULPSEMENKS ........ccccccccccccccececececeeeeeeeeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeueneneneeeeeeses 24
+VIEW Property TAaxeS .......cccccccccccccecececeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeenes 24
+VI@W ACH INFOrmation .......cccccccccccccccccccceceeeceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseneneeeneeeeeeses 24
+View Monthly Statements ...........ccccscccccccecsssessaececececsssesaaeeececeseeseae

@@ -1,0 +1,662 @@
+eceeeesaaaeaeceeeeeeeesaaaececeeeeeeesaaaececeeeeeesaaaaaececeseseeuaaeaeeeeeees 61
+VIEW BOrrowerr HiStOLy...........cccccccccecececeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeseeeeeees 61
+View/Edit Ticket Detail... icccceeescsecccccecsessssececceecessessnaececcescecsensaeceecseceessnneaeeeeecessesenteaeesesees 61
+View/Edit Ticket Detail... icccceeescsecccccecsessssececceecessessnaececcescecsensaeceecseceessnneaeeeeecessesenteaeesesees 62
+Edit Closed Ticket (NON_SYS) ........cccccccssssceceessececeesececeesaececeessececeesaeeecsessececsesseeecsesaececeesaeeeeseaaes 62
+Edit Close Ticket (SYS) ........ccccscccccsssccccssssececsessececeesaececsesaeeecsesseeecsesseeeceessececeesaececsesaeeeceesaeeeeseaaes 63
+Merge Tickets ......ccccccccccccssssssssecccecsssesseaeeeeeceeeesesseaeeececsseeesaeaeeeeseeseesaeaeaeeeeeceesesaaaeseeseseesseaaaeass 63
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | v
+
+@SMART
+
+Figure 161: Merged Tickets............ccccsscccccecessessnseceeececsssesenaeseeeeseeseeseeaeeeeecesesseaeaeeeeecsseeseaaeaeeeesesssesaaaeaeeeesess 63
+Figure 162: Create NOW TiCket.........ccccccccccccsssssssececececsssessnaeeeeeeseesseaeaeeeeeeeseeseaeaeeeseceseeseaaeseeeesesseeeaaeaeeeeeens 64
+Figure 163: Customer Service MOUIC............:cccccccccecsssessnececececsesesseaeeececeseeseaaaeeesecsseeseaasaeeeeeessseseaaeaeeeesens 65
+Figure 164: Create N@W TiCket........ccccccccccccsssssssscecececessesenaeseeeescesseseaeeeeeeeseeseaeaeeesecsseeseeaeaeeeesesseeseaaeaeeeeeens 65
+Figure 165: Reports — Customer Service DaShbOard .........ccccccccccsssssssesecececessssneaeeeeecessesennsaeeeeeesseessnneseeeesens 66
+Figure 166: Generate Report in either Excel, PDF, Or HTM. ..........cccsssccccccesessesnaeceeecessesssaeeeeeesssessaeaeeeeeens 66
+Figure 167: Reports — Director Reports DaShboard.........cccccccccscssssssssesecececessesnsaeeeeeceeseseasseeeeeesssessseaeeeesens 66
+Figure 168: Reports — Servicing/Release Reports Dashboard ..........cs:cccsscesssecssssecseceesceceeseecsseeeesaeeeeseeeees 67
+Figure 169: Navigation M@Nu LiNKS.............ccccssssscccececessessnaeeeceeeceesesenaeeeeecesesseeaaeeeeecesseseaaeaeeeesessseseaaeaeeeesees 68
+Figure 170: Example User Information (Edit MOde) ............cccccccesceceessceceesssseeecssseececssssececssssececessaeeeessaaeees 68
+Figure 171: Example User Role Options..........ccccccccccccsssessnsesecececessesseaeeeeeceesesesneaeeeeecssseseeasaeeeeeesssessaeaeeeesens 68
+Figure 172: Ticket ROUNC RODIN .........c.ccccccccsssssssececeeecessessaaeeececscesseuaesececesesseeaeaeeeeecsseeseaaeaeeeeeesseeseaaeaeeeesens 69
+Figure 173: Maintenance Roundrobin (Edit MOde).............c:ccccccssseceessscececssssececssseeceessesececssesececeesaeesesssaeees 69
+Figure 174: Maintenance Roundrobin (Add Modle)............ssscccecsssseceesssceceessssececssseececsnssececsseseeeesssaeesessaaeees 70
+Figure 175: Landing Page ...........cccccssssssccececesseseeeeeeeecesseseeaeseeeeeeeseeseaeeeeeeeseesesaeaeeeseceseeseaaeaeeeseessseeaaeaeeeeeens 71
+Figure 176: Tech Support Tab Open ..........cccccsessccceceesssessnaeeecececessesenaeeeeecesesseaaaeeeeecsseeeaaeaeeeeeessseseaaeaeeeeeess 71
+Figure 177: Tech SUPPOrt POPUP... cecccesssssecececeeessesseaeeeceescessesnaeeececeseeseaeaeeesecesseseaaeaeeeeeeesensaaeaeeeeeess 71
+Figure 178: PopUp Chat WindOW...........cccccccssssssssccececessesenaeeeeeeseessesanaeeeeeceseeseaeaeeeeeceseeseaaeaeeeesesseesaaeaeeeesens 72
+
+Tables
+
+Table 1: Disposition Types .0........cccccessssccccecessessseceeeeecessesneaeeeeeeeceeseseaaeeeeeeeseeseeaeaeeeeecesseseaaaaeeeeeeeseesaaaeaeeeesens 11
+Table 2: Loan Search Fields ............ccccsscccccecessssenneceeeeecsssesneaeeeeeescesseseaaeeeeeeesesesaeaeeeeecesseseaaaaeeeeeceseeseaaeaeeeesens 15
+Table 3: Data Table Buttons ...........ccccccccccccessssssseceeeeecessesseaeeeeeeeeesseseaaeseeeessesseeaeaeeeeeceseeseasaaeeeeseeseeeaaeaeeeegens 17
+Table 4: Ticket Search Fields ...........ccccscccccccessssssseceeeeecssseseeaeeeeeeecesseseaaeeeeeeeseeeeaeaeeeeeseseesesaaaeeeeeessseseaaeaeeeesens 57
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | vi
+
+Document History
+
+@®SMART
+
+Version Date
+
+Author Description
+Original release.
+
+Updated release.
+
+1.0 3/12/2018
+1.34.0 | 12/14/2018
+1.34.0 06/10/2019
+
+No changes made.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | vii
+
+@SMART
+
+1 Solution Summary
+
+This manual is designed to guide Lenders through the use of the Single-Family Mortgage Asset Recovery
+Technology (SMART) System.
+
+1.1 Features
+
+The Single-Family Mortgage Asset Recovery Technology (SMART) System is comprised of individual
+modules designed to assist the user in searching for specific loan information and performing related
+functions. The modules currently available include the following:
+
+Loan Module: Query and review loan information at a detailed level, add new loan records to
+the system, and edit existing loan information.
+
+Servicing Module: Assign mortgage servicing templates to individual loans, track the status of
+each servicing template, and generate the corresponding servicing forms and letters.
+Bankruptcy Module: Maintain, track, and edit bankruptcy information for individual loan
+records.
+
+Foreclosure Module: Manage loan records in the foreclosure process. Module provides a
+timeline of the required foreclosure steps and tracks the scheduled foreclosure activity vs. the
+completed foreclosure activity.
+
+Mortgage Release Module: Initiate the loan release process for satisfied loans, track the release
+status, and generate the corresponding release forms and letters.
+
+Customer Service Module: Create, view, and manage tickets. Create and edit call logs and ticket
+actions.
+
+Maintenance Module: Manage user account, reset user passwords, and update ticket round
+robin.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 1
+
+@SMART
+
+2 Getting Started
+
+2.1 Software Version
+To access the SMART web application, open your web browser and go to: https://smart.hudnsc.org.
+
+2.2 Solution Requirements
+Users must have the following to use the SMART System:
+e Screen Resolution 1920x1080 optimal
+e Internet Connection
+e Web Browser (IE, Chrome, Firefox)
+e Avalid user name, email address, and password
+e Adobe Acrobat Reader or other .pdf reader (recommended)
+
+Users may not use the following to access the SMART System:
+e Mobile device with a screen size of 760px or less
+
+As a web-based application, SMART is accessed through a web browser, and is not “installed” onto any
+user’s computer.
+
+2.3 Logging On
+Once your SMART user profile has been created and approved, you may begin using the site. To Login,
+follow the steps outlined below.
+
+Step1: To access the SMART web application, open your web browser and go to
+
+https://smart.hudnsc.org.
+
+SMART a
+
+Password
+
+Unauthorized Access Warning
+
+Figure 1: Landing Page
+
+Step 2: Input your User Name. Input your Password. @®SMART
+Step 3: Click [LOGIN]. A pop-up will appear to initiate
+setting up Multi-Factor Authentication (MFA). What type of device are you adding?
+Click [START SETUP]. © Moniie phone recoumencen
+Landline
+Step 4: Select Mobile Phone or Landline and click
+[CONTINUE].
+
+Figure 2: MFA Phone Set-Up
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 2
+
+SMART
+
+Step 5: Enter your phone number, click the box to verify the phone number, and click [CONTINUE].
+
+®SMART
+
+Enter your phone number
+
+United States A
+
+ex: (201) 234-5678
+
+2] You entered [MMs this tne correct number?
+
++41
+
+Figure 3: MFA Phone Set Up
+
+Step 6: Verify the ownership of your phone. To get a phone call verification, select [CALL ME]. To
+get a text verification, select [TEXT ME]. Both options will provide you with a 6-digit code.
+Enter in the code and click [VERIFY]. When verified, click [CONTINUE].
+
+@SMART
+Verify Ownership of PY
+
+1. We can call or text you with a verification code.
+
+} came | °r Textsent
+
+2. Enter your 6-digit code:
+
+“oe | very | ¥
+EI
+
+Figure 4: MFA Phone Verification
+
+Step 7: Verify your settings on the My Settings & Devices page then click [CONTINUE TO LOGIN].
+
+@®SMART
+
+a
+
+bx. 867539
+
+(Remember me for 60 days
+
+@®SMART
+
+Enter a Passcode
+
+(¥) Remember me for 60 days
+
+Enrollment successful! This is the Duo login prompt that you'll normally
+see when logging in.
+
+Dismiss
+
+Figure 5: Multi-Factor Authentication
+
+Enter a passcode from a text.
+
+Dismiss Text me new codes
+
+Note; When you have checked the [REMEMBER ME FOR 60 Days] checkbox, this bypasses the 2 factor log in for 60 days.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 3
+
+®SMART
+
+Step 8: Select either [CALL ME] or [ENTER A PASSCODE].
+
+Step 9: Selecting [CALL ME] will prompt the system to call your phone. Follow the instructions in
+the phone call and you will be redirected to your default page.
+
+Step 10: Select [ENTER A PASSCODE] and click on [TExT ME New CobeEs] at the bottom. This will prompt
+the system to send a text message to your phone containing a 6-digit code. Enter in the
+code and click log in. You will be redirected to your default page, logging you in.
+
+The first time you log in you will be asked to reset your password and input three Security Questions.
+
+@SMART
+
+O First Time Password Reset
+
+© Setting Up Security Questions
+
+Figure 6: Setting up Security Questions Page
+
+Enter in a new password and all three questions and answers and click [UPDATE]. After clicking update,
+you will be taken to your default page.
+
+2.4 Solution Menu
+
+After you have successfully logged into SMART your default page is the My Dashboard Page.
+
+B Role: Isc.csteamlead + | 6% Maintenance ~
+
+Figure 7: Default Page
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 4
+
+@SMART
+
+From the Dashboard page you can access every point in the site needed via the Top Navigation Menu.
+From left to right, the options are: My Dashboard, Loan, Customer Service, Reports, User Information,
+Role, and Maintenance.
+
+2.4.1. My Dashboard
+
+The default page you come to after you have logged into SMART is the [My DASHBOARD] page. Under the
+tab [My DASHBOARD] you have three options: My Tickets, LSC Inbox, and Supervisor Inbox.
+
+2.4.2. Loan
+
+The [LOAN] tab directs the user to the Loan Module in SMART. Here you have one option: Search.
+
+2.4.3. Customer Service
+The [CUSTOMER SERVICE] tab directs the user to the Customer Service Module. Here you have two
+options: Ticket Search and Create New Ticket.
+
+2.4.4 Reports
+
+Under [REPORTS] you have three options: Customer Service, Director Reports, and Servicing/Release
+Reports.
+
+2.4.5 User Information
+Select your user name to view and update your personal identification and contact information. You
+may also change your password and security questions.
+
+2.4.6 Role
+
+From the [ROLE] drop-down menu, select the role in which to view the SMART System.
+
+2.4.7. Maintenance
+
+The [MAINTENANCE] tab directs the user to the Maintenance Module. Here you have one option: Ticket
+Round Robin.
+
+2.5 Changing Password
+To comply with security policies requiring periodic modification to all access passwords, SMART includes
+the Change Password functionality on the My Account page. Follow the steps below to change your
+
+current passwo rd.
+
+Step 2: Scroll down the User Information (Edit Mode) page to the Manage Password header.
+
+Step 1: From the top Navigation Menu, click your User Name.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 5
+
+C
+
+®SMART
+
+Manage Password:
+
+New Password:
+
+Confirm Password:
+
+Figure 8: Manage Password
+
+Step 3: Input your current password. Note:
+Password must contain at least:
+
+Step 4: Input your new password.
+
+~ Twelve alphanumeric characters
+~v One special character
+
+~ One uppercase letter
+
+v One lowercase letter
+
+Step 6: Click [SAVE] at the bottom of the page. V' One number
+
+Step 5: Re-enter your new password to confirm accuracy.
+
+The user is required to change their password every 30 days. The system maintains a password history,
+so that 24 passwords cannot be reused.
+
+If the user logs into SMART after their password is expired between 30 days and 90 days from their last
+password change, they will be redirected to change their password. If the user has not logged on for 90
+days, their account will be disabled. In order to reactivate their account, they will need to contact the
+Help Desk. For information on how to contact the Help Desk, see Section 14: Getting Help.
+
+2.5.1 Forgot Password (Recover Password)
+To retrieve a lost password, go to the SMART Login Page and click [FORGOT PASsworD].
+
+@SMART
+
+Username
+
+Password
+
+_ Unauthorized Access Warning Password Reset
+
+This warning banner provides privacy and security notices consistent with
+applicable federal laws, directives, and other federal guidance for accessing this |
+
+Work Email Address
+
+Government system, which includes all devices/storage media attached to this
+system. This system is provided for Government-authorized use only.
+Unauthorized or improper use of this system is prohibited and may result in
+disciplinary action and/or civil and criminal penalties. At any time, and for any
+lawful Government purpose, the government may monitor, record, and audit
+your system usage and/or intercept, search and seize any communication or
+
+data transiting or stored on this system. Therefore, you have no reasonable pose
+
+expectation of privacy. Any communication or data transiting or stored on this
+system may be disclosed or used for any lawful Government purpose.
+
+Forgot Password Login
+
+Figure 9: Login Page — Forgot Password Figure 10. Forgot Password Page
+
+The user is prompted to input a valid email address and select one security challenge question. Enter in
+the work email address and click [SUBMIT].
+
+If the user is registered to access SMART, an email is sent to their validated email address containing a
+
+temporary password to use to access their account. If the user is not registered, the user is prompted to
+complete the registration process.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 6
+
+@SMART
+
+2.6 Exit Solution
+
+To end your SMART session, click [LOGOUT]. Be sure to [UPDATE] any work prior to exiting the system.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 7
+
+®SMART
+
+3 Using My Dashboard
+
+3.1 My Tickets
+
+After you have successfully logged into SMART your default page is the My Dashboard Page. The default
+tab of My Dashboard is the My Tickets Dashboard.
+
+EB My PIN Tickets
+
+moc
+
+Figure 11: My Tickets Dashboard
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the My Tickets
+page, click on the “Back to My Tickets Tab” button.
+
+If you have never pinned a ticket to the My Tickets tab of My Dashboard, then you will only see the Top
+20 Most Recent Tickets. If you have pinned a loan to the My Tickets tab, then you will see all the loans
+you have pinned and the Top 20 Most Recent Tickets.
+
+3.1.1 Pin Ticket to My Tickets Dashboard
+
+Step 1: Identify a ticket you would like to pin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to pin, open that ticket.
+Step 3: Click [PIN TO DASHBOARD] button located under the “Ticket Information (Edit Mode)” title.
+
+Catt Lop TAR ticket Action Notes. © Documents,
+
+B Ticket Information (EDIT MODE)
+
+Figure 12: Pin to Dashboard (Ticket Record)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 8
+
+@SMART
+
+Once you have pinned a ticket it will display on the My Tickets Dashboard. If the ticket has multiple
+property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will display in
+
+the My Tickets Dashboard.
+
+3.1.2. Unpin Tickets from My Tickets Dashboard
+
+Step 1: Identify a ticket you would like to unpin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to unpin, open that ticket.
+Step 3: Click [UNPIN FROM DASHBOARD] button located under the “Ticket Information (Edit Mode)”
+
+title.
+a&s Customer Service - Ticket No. 102622
+
+natn, Fett Acton at _ Once
+
+Ticket 102622 (t) B Ticket Information (EDIT MODE)
+FHA Case # az Y | Loan Progra i Non FHA A | Loan #
+Figure 13: Unpin from Dashboard (Ticket Record)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have unpinned a ticket it will no longer display in the My Tickets Dashboard. If the ticket has
+multiple property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will no
+
+longer display in the My Tickets Dashboard.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 9
+
+®SMART
+
+3.2 Supervisor Inbox
+
+The Supervisor Inbox displays all tickets with an open status. To open the Supervisor Inbox, click [My
+DASHBOARD] from the top Navigation menu and select [SUPERVISOR INBOX] from the dropdown.
+
+Figure 14: Supervisor Inbox
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Supervisor
+Inbox page, click on the “Back to Supervisor Inbox” button.
+
+3.2.1 Change Disposition
+
+Step 1: Inside the Supervisor Inbox, click on the [CHANGE Disposition] link from the Actions
+
+column.
+B Change Disposition (EDIT MODE)
+
+Ticket Information
+Ticket #
+
+Figure 15: Change Disposition (Edit Mode)
+
+Step 2: Select a new disposition from the Disposition dropdown menu. Options in Table 1.
+Step 3: Click [SAve].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+Disposition Type Queue
+
+Refer to NSC (Servicing) Servicing Queue
+
+Refer to NSC (Loss Mitigation) Loss Queue
+
+Refer to NSC (Other) Other Queue
+
+Refer to NSC (HECM Assigned) HECM Queue
+
+Refer to NSC (Sec Held) Sec Held Queue
+
+Refer to NSC (HECM Endorsed) HECM Endorsed Queue
+Referred for GTR Approval GTR Approval Queue
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 10
+
+@SMART
+
+Disposition Type Queue
+
+HECM (CM)
+
+HECM (CM) Queue
+
+HECM (Assigned Servicing)
+
+HECM (Assigned Servicing) Queue
+
+HECM (Endorsed)
+
+HECM Endorsed Queue
+
+Refer to Other HUD/HOC
+
+Servicing Queue
+
+Refer to Housing Counseling
+
+Servicing Queue
+
+Refer to Lender
+
+Servicing Queue
+
+Refer to Servicing
+
+Servicing Queue
+
+Controlled Correspondence
+
+Servicing Queue
+
+Handled by Contractor
+
+Servicing Queue
+
+Referred to (800) CALLFHA
+
+Servicing Queue
+
+Resource Center
+
+Servicing Queue
+
+Transferred to BAC Escalation Team
+
+Servicing Queue
+
+Claim Block
+
+Servicing Queue
+
+RQST Third Party Authorization
+
+Servicing Queue
+
+Pending Concessions
+
+Servicing Queue
+
+NSC Referred to Contractor
+
+Servicing Queue
+
+Handled by NSC
+
+Servicing Queue
+
+Escalation
+
+Servicing Queue
+
+Transferred to WF Escalation Team
+
+Servicing Queue
+
+Table 1: Disposition Types
+
+SMART Customer Service Module | Disposition Workflow
+
+Customer Service Is the
+Rep. creates new disposition type
+
+ticket and selects in the Disposition
+disposition type Type box?
+
+Disposition Type:
+Ticket enters the
+Customer Service
+
+Rep’s My Ticket
+. Refer to NSC (Other) Dashboard
+
+. Refer to NSC (HECM Assigned)
+. Refer to NSC (Sec Held)
+
+. Refer to NSC (Servicing)
+. Refer to NSC (Loss Mitigation)
+
+Supervisor
+selects the
+disposition and
+clicks save
+
+Supervisor clicks
+on the Change
+Disposition link
+
+* Is that
+Ticket enters the correct
+Supervisor Inbox disposition?
+
+Ticket gets auto
+assigned, leaves
+Supervisor inbox
+and enters into
+new assignee My
+Ticket Dashboard
+
+Supervisor clicks
+on the Auto
+Assign link
+
+. Referred for GTR Approval
+
+1
+2
+3
+4
+5
+6. Refer to NSC (HECM Endorsed)
+7
+8. HECM (CM)
+
+9
+
+1
+
+. uenee a Start bX] List of
+. HECM (Assigned Servicing) LEGEND: —— process Disposition Email sent
+0. HECM (Endorsed) EMAIL types !
+
+to Assignee
+
+Figure 16: Disposition Workflow
+
+The disposition column will update to display the new edit. Changing the disposition from the
+Supervisor Inbox will enter the ticket into the respective round robin queen and assign to a new agent
+from the respective round robin queue. The ticket can only enter the round robin queue through the
+Supervisor Inbox. The new designee will receive an email.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 11
+
+
+@®SMART
+
+3.2.2 Auto-Assign
+
+Inside the Supervisor Inbox, click on the [AUTO-AssIGN] link from the Actions column. A pop-up will
+display asking you to choose a New Designee from a drop down.
+
+Figure 17: Auto-Assign Ticket
+
+S

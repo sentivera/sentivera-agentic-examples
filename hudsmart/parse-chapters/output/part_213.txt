@@ -1,0 +1,660 @@
+oard to navigate to the
+
+Disbursement (Edit Mode).
+
+B Disbursement (EDIT MODE)
+
+Loan Check Detail information
+
+Figure 166: Clear Disbursement
+
+Step 2: Select “No” from the TOPS Withheld? drop down field.
+Step 3: Select “Cleared” from the Check Status field.
+Step 4: — Click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying edited disbursement.
+2. Inthe Disbursement data table, the status in the Check Cleared column will display YES and the
+
+amount Cleared will display in the Cleared Amount column.
+3. An auto-note is created to the Notes tab.
+
+SMART USER MANUAL | LSC.CASHMGMIT | VERSION 1.43.0 | JUNE 2, 2020 | 72
+
+@SMART
+
+4.5.2.4 Partially Void Disbursement
+Step 1: Click on [EpDIT ITEM] located in the Actions column of the dashboard to navigate to the
+
+Disbursement (Edit Mode).
+
+B Disbursement (EDIT MODE):
+
+Loan Check Detail Information
+
+Figure 167: Partially Void Disbursement
+
+Step 2: Select “Yes” from the TOPS Withheld? drop down field.
+Step 3: Select “Partially Voided” from the Check Status field.
+Step 4: — Click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying edited disbursement.
+2. Inthe Disbursement data table, the status in the Partially Voided column will display YES and the
+amount Voided will display in the Voided Amount column.
+3. An auto-note is created to the Notes tab.
+4. A transaction with the code RUSCHPC, RUSCHPMM, or RUSCHHA4H is added to the Transactions
+
+tab.
+
+4.5.2.5 Partially Clear Disbursement
+Step 1: — Click on [EpIT ITEM] located in the Actions column of the dashboard to navigate to the
+
+Disbursement (Edit Mode).
+
+B Disbursement (EDIT MODE):
+
+Loan Check Detail Information
+
+Figure 168: Partially Clear Disbursement
+
+Step 2: Select “Yes” from the TOPS Withheld? drop down field.
+Step 3: Select “Partially Cleared” from the Check Status field.
+Step 4: — Click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying edited disbursement.
+2. Inthe Disbursement data table, the status in the Partially Cleared column will display YES and
+the amount Cleared will display in the Cleared Amount column.
+3. An auto-note is created to the Notes tab.
+
+SMART USER MANUAL | LSC.CASHMGMT | VERSION 1.43.0 | JUNE 2, 2020 | 73
+
+4.5.3 Payoff Request
+
+When a mortgage has been satisfied, the user can initiate the release process and assign a predefined
+template of release activity steps to the satisfied Loan Record. The release activity templates provide
+the user with a list of required steps in a timeline format so that the user can schedule and track the
+progress of the Mortgage Release Activity. Payoff Requests are available for the following Loan
+Programs: Partial Claim, PMM, and EHLP.
+
+4.5.3.1 Scenario 1: Received Request for Payoff
+Step 1: — Click [SERVICING] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: Search for a Loan Record by selecting the search criteria and click [START SEARCH].
+Step 3: From the Search Result Dashboard, click on either Loan Skey, FHA Case #, or Loan # to
+open the Loan Record. You are automatically directed to the Servicing tab.
+
+Servicing Activity
+
+Te ee ene | ee | | | | ee SSS) (SS (=
+@ Servicing
+G Cert of Indebtedness
+Po | : (CON (A)
+B Cert of Indebtedness:
+{CON (A) Creat c By ch |
+8. ert of
+mt conn — Add Cert of
+Baad Daman Indebtedness (COl)
+
+COI Matied To Requestor 03022018
+Tracking
+
+Bi Add Payott Request
+‘Showing 1 to 2 of 2 entries
+
+Add Demand
+Tracking
+
+< Add Payoff Request
+
+Step 4: Click on the Add Payoff Request link from the Servicing Activity | Ada Subordination
+table.
+
+EiAdd Subordination
+
+Figure 169: Servicing Module — Partial Claim
+
+Lose Somnary || Usenet | LemnFang || Lomecorang || Gonowere || Fonery mepecon || Documents || Woes | Mange neene | eacemton Force || Bowpcy || Osbenenens |[lFal [|NSMGSSa!)| cosoner sac
+
+B Servicing Management (ADD MODE)
+
+==_——ts
+Servicing Type Payoff Request
+Initiation Date [osorz0%8 v]
+, . 03012018 v}
+a ' ‘oan22018 vi
+. * ow012018 v}
+Payot Amount Forwarded to Lock-Box 32 [ow =i |
+Request Received From: { x |
+fequete | x]
+Figure 170: Add Payoff Request
+Servicing Activity
+Step5: Complete all required fields. Ei Cert of Indebtedness
+Step 6: Click [Save] and click [SUBMIT] on the confirmation pop-up. (CON) (A)
+& Payoff Request (A)
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers, Property Inspection Documents Notes. Mortgage Release Exceptions Foreclosure Bankruptcy Disb
+© servicing Add Cert of
+Indebtedness (COI)
+con Servicing Step Schedule Date plete Date Created By reate Date a Add Demand B
+
+= Payott Request Receives 0228/2018 02/28/2018 |] ob |] Tracking
+
+indebtedness (CON ‘Payot Letter issued 03/01/2018 0228/2018
+
+Ae mend “—e Add Payoff Request
+Figure 171: Servicing Module — Payoff Request
+
+Add Subordination
+
+SMART USER MANUAL | LSC.CASHMGMIT | VERSION 1.43.0 | JUNE 2, 2020 | 74
+
+@SMART
+
+Step 7: To print the Payoff Letter, you can either click [PRINT PAYOFF LETTER] on the Servicing tab or
+[PAYOFF/LETTER] on the Payoff tab.
+
+—
+Exce B PDF Add Servicing Steps @ Service Management BB View Notes ( BB Print Payoff Letter )
+s
+
+Servicing Step Schedule Date Complete Date Createa by Create Date
+
+Figure 172: Servicing Module — Print Payoff Letter
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Noles Mortgage Release Exceptions Servicing Foreclosure. = Bankruptey Disbursements [EMMI Transactions
+
+© Payoff =—
+
+Customer Service
+
+Payoft Information Jason | cnovaore |
+
+Original Amount: $11,087.47
+
+Figure 173: Payoff Tab — Print Payoff Letter
+
+Step 8: The PDF letter will be auto downloaded to your computer and uploaded to the Documents
+tab.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property nspecton [TRSIMSMIRMM| Notes Mortgage Release Exceptions Servicing Foreclosure Gankruptcy Disbursements Payot ‘Transactions___Customer Service
+
+@ Documents
+
+Attachment Descnipbon
+
+Pay_Otf_Letter_2827670.pat Payot! Letter oxo12018 [Actwe & Edit Document
+11:05:05 AM EST
+
+(COl_Leter2827670.pat CO! Letter 0228/2018 (@& Eait Document
+06:20:14 PM EST
+
+Figure 174: Documents Tab — Payoff Letter
+
+Step 9: Click on the Servicing tab and click on Payoff Request from the Servicing Activity table.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents Notes Mortgage Release Exceptions [IREREUGIg Foreclosure Bankruptcy Disbursements Payoff Transactions. © Customer Service
+
+@ Servicing
+
+B Cort of indebtedness
+(con (A)
+
+Schedule Date
+
+(Change Date
+
+B Payoft Request (A)
+
+Payot Request Received 02/28/2018 027282018 0228/2018 zx @ Edit tem
+c 06.20.00 PM EST
+Indebtedness (C08 Payomt Letter issued oxovz018 ozzez018 <>
+0820.00 PM EST
+Add Demand
+Tacing Payot! Amount Received 0331/2018 02/28/2018 @& Edit tem
+06-2000 PM EST
+Add Payor Request
+Payoff! Amount Forwarded to Lock-Box 04012018 0228/2018 [Ace @ Edit tem
+0:20.00 PM EST
+Aad Subordination
+
+Figure 175: Servicing Module — Payoff Request
+
+Step 10: Click on the Edit Link for the 2™ step in the Payoff Request Timeline (Payoff Letter Issued).
+
+Loan Summary Loan Detail, Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions JIRSIZSINI Foreclosure Bankruptcy Disbursements Payot = Transactions. © Customer Service
+
+B Servicing Step (EDIT MODE):
+
+Servicing Type
+
+——
+
+Figure 176: Payoff Letter Issued - Edit
+
+Step 11: Insert Complete Date. Then click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+SMART USER MANUAL | LSC.CASHMGMIT | VERSION 1.43.0 | JUNE 2, 2020 | 75
+
+SMART
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers Property Inspection ‘Documents Noles Mortgage Release. Exceptions
+
+Foreclosure Bankruptcy Disbursements | Payoff Transactions | Customer Service
+@ Servicing
+
+moo
+
+B Cert of indevtedness
+(CON (A)
+
+B Payott Request (A) Payoff Request Received 02/28/2018 02/28/2018
+
+=m
+
+05:20:00 MEST
+
+Baas Cent ot
+
+indebtedness (C08 Payot Leter issued 03012018 0282018 oxo12018 DF Fate
+06:20:00 PM EST 10:59:39 AM EST
+
+BAdd Demand
+
+Tracking Payot Amount Recewed oxsiz018 o2zez018 SZ Eaten
+082000 PM EST
+
+{Ads Payott Request
+
+Payot! Amount Forwarded to Lock-Bax owov2018 oae2018 I? fatten
+
+06:20:00 PM EST
+
+Add Subordination
+
+Figure 177: Servicing Module — Payoff Request
+
+Step 12: Click on the Payoff tab.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. © Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements EGE Transactions Customer Service
+
+© Payoff
+
+Payoff Information E cf 0301/2018
+
+Original Amount $11,047.47
+Advances: $456.00
+Other Increases: $0.00
+Payments: $0.00
+Transferred Amount: $0.00
+Wnite Off Amount: $0.00
+
+Paid Off Amount: $0.00
+Total Payoft Amount: $11,503.47
+
+Figure 178: Payoff Tab
+
+Step 13: Click on [PAYOFF/PAYMENT] and complete all required fields.
+
+Loan Summary Loan Detail Loan Fitng Loan Recording Borrowers Property Inspection Documents Motes Mortgage Reloase Exceptions Servicing Foreclosure Bankruptcy Ossbursements, ERNIE) transactions Customer Sernce
+
+Payoff / Payment
+
+Payment Information
+
+Compton Date [moon v|
+
+—_—e
+
+Request Received From: west v
+— =
+
+Teneecton Ti PPC. Poet Pata am ¥|
+
+Figure 179: Submit Payoff Payment
+
+Step 14: Click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+Loan Summary Loan Detail Loan Filing Lean Recording Borrowers Property inspection Documents Notes. © Mortgage Release Exceptions Servicing Foreclosure © Bankruptcy Disbursements EUR Transactions Customer Service
+
+@ Payoff
+
+Payoff Information ox012018
+
+Original Amount: $11,047.47
+Advances: $456.00
+Other increases: $0.00
+Payments: 30.00
+Transterred Amount: $0.00
+
+Write Off Amount: 0.00
+
+Paid Off Amount: ($11,503.47)
+Total Payott Amount: $0.00
+
+Figure 180: Payoff Tab — Payoff Process Completed
+
+SMART USER MANUAL | LSC.CASHMGMIT | VERSION 1.43.0 | JUNE 2, 2020 | 76
+
+If the Total Payoff Amount is now SO, then the following will occur: -_ _
+. . . . . Servicing Activity
+1. Payoff Request Timeline will automatically close with the last two
+steps marked as complete with today’s timestamp. oes uaebtedness
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Bi Payoff Request (I)
+@ Servicing
+[bea f per | ome | Add Cert of
+Bcarinabnes —— == cheney Indebtedness (COI)
+B Payott Request (1) Payoff Request Recewed ozrzar2018 037012018 02282018 og
+Sacee 06.20.00 PM EST 11:06:37] Add Demand
+— Pert aa povaoe ee Tracking
+Trecking Payofl Amount Recewed oyav2018 02012018 ees * =
+Base neren Geawes Payofl Amount Forwarded to Lock-Bax 04012018 037012018 Add Payoff Request
+
+02282018 ong
+06.20.00 PM EST 11:08:33
+
+Fi Ada Subordination
+
+Figure 181: Servicing Module — Payoff Process Completed | 444 Subordination
+
+2. Mortgage Release Timeline will automatically open with the first step marked as complete with
+today’s timestamp.
+
+Loan Summary Loan Detail Loan Fling Loan Recording Borrowers, Property nspection Documents Notes FEXEIEIIAR xcoptons Servicing ForeciosureBankrupicy | Disbursements Payot Transactions Customer Service
+
+@® Mortgage Release
+
+GB Full Release (A)
+Bichecks
+Release Request Receved/Intiated 12/05/2018 120052018 120052018 Gf Eait nem
+B® Add New Mortgage
+Lien release package printed 121072018 1205/2018 k= & Eait tem
+Lien Release package sent for recording 12/18/2018 129052018 @& Eait tem
+Recorded Release received trom County 05/19/2020 1205/2018 [Ache @& Eait nem
+Copy to Imaging Image 06/03/2020 127082018 zx @& Eait tem
+File to Storage/Process Complete 06/17/2020 12/05/2018 xa Gf Eait nem
+
+Figure 182: Mortgage Release Module — Payoff Process Completed
+
+3. Arecord will automatically insert into the Transaction Tab
+
+Loan Summary | Loan Detail Loan Fling Loan Recording Borrowers | Property inspection Documents Noles Morigage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoft Customer Service
+@ Transactions
+Aad Tr
+
+Emtective Date rans Code Principal Amount
+
+0301/2018 ‘MCT ‘Multiple Partat Claim ~ 3rd $333.00 ox012018
+0901/2018 PPC Payoft Partial Claim (811,503.47) 030172018
+11:08:29 AM EST
+“
+
+Figure 183: Transaction Tab — Payoff Process Completed
+4. The Loan will close after the user refreshes the page.
+5. The amount in the Payoff letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is $0.00.
+
+If the Total Payoff Amount is SO and there is already an open Mortgage Release Timeline, then the
+following will occur:
+1. Payoff Request Timeline will automatically close with the last two steps marked as complete
+with today’s timestamp.
+2. Arecord will automatically insert in the Transaction tab.
+The Loan will close after the user refreshes the page.
+4. The amount in the Payoff Letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is $0.00.
+
+w
+
+SMART USER MANUAL | LSC.CASHMGMIT | VERSION 1.43.0 | JUNE 2, 2020 | 77
+
+@SMART
+
+4.5.3.2 Scenario 2: Received Payoff Check Without Payoff Request
+
+If the Payoff Check was received prior to entering a Payoff Request in the Servicing Module, the user can
+enter the payoff directly through the Payoff tab. In the steps listed above, begin the process at Step 13.
+
+If the Total Payoff Amount is now SO, then the following will occur:
+1. Payoff Request Timeline will automatically open and close with all steps marked as complete
+with today’s timestamp.
+2. Mortgage Release Timeline will automatically open with the first step marked as complete with
+today’s timestamp.
+3. Arecord will automatically insert in the Transaction tab.
+The Loan will close after the user refreshes the page.
+5. The amount in the Payoff letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is $0.00.
+
+5
+
+If the Total Payoff Amount is SO and there is already an open Mortgage Release Timeline, then the
+following will occur:
+
+1. Payoff Request Timeline will automatically open and close with the last two steps marked as
+
+complete with today’s timestamp.
+
+2. Arecord will automatically insert in the Transaction tab.
+
+3. The Loan will close after the user refreshes the page.
+The amount in the Payoff Letter will update to reflect the new Total Payoff Amount found in the Payoff
+Tab, which is $0.00.
+
+SMART USER MANUAL | LSC.CASHMGMIT | VERSION 1.43.0 | JUNE 2, 2020 | 78
+
+@SMART
+
+5 Using the Servicing Module
+
+5.1 Search
+5.1.1
+
+Searching for Loans with Servicing History
+
+Loans with servicing history can be retrieved through various combinations of the search criteria
+available on the Servicing Search Screen.
+
+Q Servicing Search Screen
+
+earch Database: MART PRODUCTION DATABASE
+
+Lender Name:
+Close Box #
+Last 4 Digits of SSN.
+
+Note Type: Select a Note Type +
+
+Step 1:
+Step 2:
+
+ase No| * Loan No
+
+Loan Stata
+
+Loan Program = Parcel Number || « Borrower Name
+
+Property Adcress
+
+<== ==
+
+Figure 184: Servicing Search Screen
+
+Click [SERVICING] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Servicing Search Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files.
+
+Last 4 digits of SSN The last four digits of the Borrower's Social Security Number
+Note Type Type of note within the Notes tab of the Loan Record
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State
+
+Detailed Status of the loan
+
+Payment Plan
+
+Type of Payment Plan associated with the loan
+
+Servicing Status
+
+Indicator that the servicing type is completed or is still pending completion by the user.
+
+Servicing Step
+
+Servicing activity step associated with the servicing activity timeline
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Servicing Step Status
+
+Indicator the step is completed or is still pending completion by the user
+
+Servicing Type
+
+Type of servicing activity assigned to a loan in the form of a predefined template of servicing
+activity steps
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Lend Amt From
+
+Original principal amount of the loan in dollars (numerals only)
+
+Scheduled Date
+
+The date that a servicing activity step is scheduled to be completed by the user.
+
+Servicing Completed Date
+
+The date that a servicing activity step is actually completed by the user
+
+Keyword
+
+Keyword search.
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Table 3: Servicing Search Fields
+
+SMART USER MANUAL | LSC.CASHMGMIT | VERSION 1.43.0 | JUNE 2, 2020 | 79
+
+
+Step 3:
+
+Step 4:
+Step 5:
+
+5.1.2
+
+®SMART
+Click [START SEARCH].
+Figure 185: Servicing Search Screen Buttons
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Once the Loan Record is open, you will be automatically directed to the Servicing tab.
+
+Searching for Loans without Servicing History
+
+Loans without servicing history can be retrieved through various combinations of the search criteria
+available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Servicing tab.
+
+Note: You can also access loans with servicing history through this process.
+
+SMART USER MANUAL | LSC.CASHMGMIT | VERSION 1.43.0 | JUNE 2, 2020 | 80
+
+@SMART
+
+5.2 Servicing Tab
+
+Once the Loan record is open, the Servicing Module is found on the Servicing Tab. If mortgage servicing
+activity has been initiated for a Loan, the Servicing tab in the Loan Record window will be highlighted in
+light blue and will display the current servicing activity of that Loan.
+
+i cc EEE |r Sj 3
+
+@ Servicing
+
+B.Cert of indebtedness
+(con iay
+B.Cmt of ndebtednens Payott Request Received 03/2018 0310372018 030372018 [Adve]
+(Conta) 12.2729 AM EST
+1B Payot Request (A) Payoft Letter issued owoa2018 owo32018 oxoa2018 oxoxz018
+1227-29 AM EST 12:35:57 AM EST
+B Payott Request (f)
+Payot Amount Recewee 0403/2018 oxoa2018
+122729 AM EST
+Payot! Amount Forwarded to Lock-Bax 04/04/2018 04092018 [ Actwe
+122720 aM Est
+Showing 1 to 4 of 4 entries |
+
+Figure 186: Servicing Tab (Partial Claim)
+
+Description
+Export to Excel BiExcel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Service Management View the information for the Servicing Activity selected for
+the Loan.
+View Notes Takes you to the Notes tab for the loan. See Section 3.2.8.
+Search search Search and filter the page by specific keywords. The main
+table will filter based off of the keyword search.
+
+Table 4: Data Table Buttons
+
+The Servicing Activity table at the left side of the Servicing Tab will change depending on what Loan
+Program is associated with the loan. This information is read-only, and the user can not add new
+servicing activities for loan programs.
+
+5.2.1 View an Active Servicing Activity
+
+In the Servicing Activity table, a green document icon 

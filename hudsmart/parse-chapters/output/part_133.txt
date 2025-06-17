@@ -1,0 +1,698 @@
+e) page to the Manage Password header.
+
+Step1: From the top Navigation Menu, click your User Name.
+
+Manage Password
+
+a
+Figure 8: Manage Password
+
+Step 3: Input your current password. Password must contain at least:
+Step 4: Input your new password.
+
+~ Twelve alphanumeric characters
+
+~Y One special character
+Step5: Re-enter your new password to confirm accuracy. ~ One uppercase letter
+
+~Y One lowercase letter
+
+v One number
+
+Step 6: Click [SAVE] at the bottom of the page. :
+
+The user is required to change their password every 30 days. The system maintains a password history,
+so that 24 passwords cannot be reused.
+
+If the user logs into SMART after their password is expired between 30 days and 90 days from their last
+password change, they will be redirected to change their password. If the user has not logged on for 90
+days, their account will be disabled. In order to reactivate their account, they will need to contact the
+Help Desk. For information on how to contact the Help Desk, see Section 14: Getting Help.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 5
+
+=)
+
+C
+
+SMART
+
+2.5.1 Forgot Password (Recover Password)
+To retrieve a lost password, go to the SMART Login Page and click [FORGOT PASSWORD].
+
+@SMART
+
+Username
+
+Password
+
+_ Unauthorized Access Warning Password Reset
+
+This warning banner provides privacy and security notices consistent with
+applicable federal laws, directives, and other federal guidance for accessing this
+Government system, which includes all devices/storage media attached to this
+system. This system is provided for Government-authorized use only.
+Unauthorized or improper use of this system is prohibited and may result in
+disciplinary action and/or civil and criminal penalties. At any time, and for any
+lawful Government purpose, the government may monitor, record, and audit
+your system usage and/or intercept, search and seize any communication or
+data transiting or stored on this system. Therefore, you have no reasonable
+expectation of privacy. Any communication or data transiting or stored on this
+system may be disclosed or used for any lawful Government purpose.
+
+Forgot Password Login
+
+Figure 9: Login Page — Forgot Password Figure 10. Forgot Password Page
+
+Work Email Address
+
+The user is prompted to input a valid email address and select one security challenge question. Enter in
+the work email address and click [SUBMIT].
+
+If the user is registered to access SMART, an email is sent to their validated email address containing a
+
+temporary password to use to access their account. If the user is not registered, the user is prompted to
+complete the registration process.
+
+2.6 Exit Solution
+
+To end your SMART session, click [LOGOUT]. Be sure to [UPDATE] any work prior to exiting the system.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 6
+
+@SMART
+3 Using My Dashboard
+3.1 My Loans
+
+After you have successfully logged into SMART your default page is the My Dashboard Page. The default
+tab of My Dashboard is the My Loans Dashboard.
+
+Bi My Loans
+
+Loan Shey FHA Case # Loan # Lown Prograsn Orgel Prin Bat Pi oan Statue
+Showing 1 '0 2.02 enkes
+
+Progen Sones ae Property Adaress Lender Marne toned Box #
+acti Cia s2300087
+ae 3000
+
+§B Top 20 Most Recent Loans
+
+moos . —
+
+Figure 11: My Loans Dashboard
+
+Note: Each data table throughout the SMART system can generate reports in Excel, PDF or Print. The
+Excel file is downloaded to your computer. Both PDF and Print opens in a new tab. You can also use the
+search bar on any column to filter the data table results.
+
+To open a Loan Record, click on the Loan Skey, FHA Case #, or Loan #.
+
+If you have never pinned a loan to the My Loans tab of My Dashboard, then you will only see the Top 20
+Most Recent Loans. If you have pinned a loan to the My Loans tab, then you will see all the loans you
+have pinned and the Top 20 Most Recent Loans.
+
+3.1.1 Pin Loan to My Loans Dashboard
+Step 1: Identify a loan you would like to pin to the My Loans Dashboard.
+Step 2: Once you have identified a loan you would like to pin, open that loan record.
+Step 3: — Click [PIN TO DASHBOARD] button located in the top right corner of that loan record.
+
+» ClLoan Record - Partial Claim Gp
+
+FHA Case &: Py Loan Skey: Pe Loan No: a Aerts: ‘No Present Alerts
+
+Figure 12: Pin to Dashboard
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have pinned a loan it will display on the My Loans Dashboard. If the loan has multiple
+
+property inspection addresses, then the multiple Loan Records tied to that Loan Skey will display in the
+My Loans Dashboard.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 7
+
+@SMART
+
+3.1.2 | Unpin Loan from My Loans Dashboard
+
+Step 1: Identify a loan you would like to unpin to the My Loans Dashboard.
+Step 2: Once you have identified a loan you would like to unpin, open that loan record.
+Step 3: = Click [UNPIN FROM DASHBOARD] button located in the top right corner of that loan record.
+
+~ ClLoan Record - Partial Claim
+
+FHA Case #: [| Loan Skey: [el Loan No: a Avert No Present Alerts
+
+ay at - ial Loan at
+
+rrowor Name: Phone (Work): xt Payment Due Date GL Code:
+Phone (Home): Contractual Due Date: GL Matrix:
+
+city: State me: ss: Forebearance Agreement: Branch Code:
+
+Figure 13: Unpin from Dashboard
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have unpinned a loan it will no longer display in the My Loans Dashboard. If the loan has
+
+multiple property inspection addresses, then the multiple Loan Records tied to that Loan Skey will no
+longer display in the My Loans Dashboard.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 8
+
+@SMART
+
+4 Using the Loan Module
+
+4.1 Search
+
+Loans can be retrieved through various combinations of the search criteria available on the Loan Search
+Screen.
+
+Q Loan Search Screen
+Search Database SMART PRODUCTION DATABASE
++ Borrower Name: Loan Create Date >=
+
+FHA Case ®: Loan Program:
+
+Loan Skey: Label Printed: * | Property Address:
+
+Loan #: Loan Status: + | Property City
+
+Last 4 Digits of SSN: Loan State: + | Property State: Select a State + EHLP Project #:
+
+Closed Box #: Payment Pian 7 | Property Zip Code: Keyword:
+
++ | Note Create Date >=
+
+Note Text Note Type: + | Note Created By:
+
+Lender Admin
+
+. 7 ~ | Payee / Holder of a ea
+Contact Claim Servicer: Freel Select a Payee / Holder of Record
+
+[Loan Skey) “FHA Case No ) (= Loan Program | | * Borrower Name | |* Property Address | (= Lender Name ) (Closed Bax No) |= Original Prin Bal) | = Updated By | (* Updated Date | |* Loan Status
+
+Figure 14: Loan Search Screen
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+
+Close Box # Physical location of stored files
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Current Servicer Servicer/Lender associated with the FHA Case
+
+Exception Type Type of Exception filed in the Exceptions tab
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Label Printed
+
+Indicator of whether or not a hard copy file has been generated for the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Note Type Type of note within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property City City wherein the loan property is located
+
+Property State State wherein the loan property is located
+
+Property Zip Code Zip Code wherein the loan property is located
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Claim Servicer
+
+Servicer/Lender associated with a Claim
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+File Rec’d Date
+
+The File Received Date of a loan
+
+EHLP Project # EHLP Project Number
+
+Keyword Searches any word within the Search Results data table
+Note Create Date Date that the Note in the Notes tab was created
+Payee/Holder of Record Servicer/Lender assigned as a Holder of Record
+
+Table 1: Loan Search Fields
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 9
+
+
+@SMART
+
+4.1.1 Loan Search — Production Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Production Database.”
+
+Search Database: SMART PRODUCTION DATABASE
+
+FHA Case #: Po
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 15: Search Database — Production Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+
+Step 4: — Click [START SEARCH].
+
+Figure 16: Start Search Button
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.2 Loan Search — Legacy Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Legacy Database.”
+
+Search Database: SMART LEGACY DATABASE
+
+FHA Case #: |
+
+SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+SMART DAT C DATABASE
+
+Loan Skey:
+
+Loan #:
+
+Figure 17: Search Database — Legacy Database
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 10
+
+@®SMART
+4.1.3. Loan Search — DAT C Database
+
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the “DAT
+C Database.”
+
+Search Database: | SMART DAT C DATABASE
+FHA Case #: |
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+
+SMART DAT C DATABASE
+Figure 18: Search Database — DAT C Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.4 Search Results
+
+On the Loan Search page, the search results will display in the table below the search screen.
+
+&B Search Results
+
+~ | xs
+Cramton] tet ty | tee | toe Sa
+
+$22.00 1207/2018 {Open
+ont
+
+sas <r
+onan,
+
+$4880.00 12/07/2018
+F--
+
+$48,262.65 121052018 [ Open
+02:00:46 AM
+
+$7,900.67 12/05/2018
+02.00.46 AM
+
+$8410.46 12052018
+—
+
+$20,378.70 127052018 [ Open |
+aee
+
+Figure 19: Search Results
+
+4.1.4.1 Actions
+
+From the Search Results page, you can generate three different reports. The table below describes the
+capabilities of the buttons located on the top left of the Search Results table. These options are also
+available on all other Search Results pages within SMART.
+
+Description
+Export to Excel Bi Excel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+
+Table 2: Data Table Buttons
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 11
+
+@SMART
+
+4.1.4.2. Result Headers, Search, and Sort
+
+In order to customize your view of the data tables for the Search Results page, the user has three
+options: Result Headers, Search, and Sort. When a user performs a search using these options, their
+options will be saved. For example, when a user navigates to a page from the Search Results page, then
+returns back, the search criteria previously used will still show in the Search Screen Fields.
+
+Q Loan Search Screen
+Search Database ‘SMART PRODUCTION DATABASE
+FHA Case Loan Program
+Loan Skey
+
+Last 4 Digits of SSN:
+
+Closed Box #: Payment Pian:
+
+Note Text Note Type:
+
+Current Servicer: Selecta Lender + | Lender Adm Claim Servicer:
+
+“Loan Skey | “= FHA Case No ) = Loan Program | { * Borrower Name | | Property Address | [= Lender Name | | « Closed Bax No) (= Original Prin Bal) { = Updated By | | * Updated Date | | « Loan Status
+
+Figure 20: Result Headers
+
+&B Search Results
+
+04:07:44 PM
+
+Figure 21: Search Results — Result Headers
+
+The user can change the columns in the Search Results page by changing the options within the Result
+Header field prior to clicking [START SEARCH].
+
+&B Search Results
+
+Loan Sk Lender Nan Loan Status
+$22.00 120772018
+04:07:44 PM
+
+Figure 22: Search Results — Search
+
+The user can use the search bar to filter the page by specific keywords. The user can search by entering
+their search criteria into the field and clicking on Search. To clear out the search criteria, select Clear.
+
+&B Search Results
+
+-
+
+n Skey FHA Case No Loan Program Borrower Name Property Address Lender Name
+
+Loan Status
+$22.00 120772018
+04:07:44 PM
+
+Figure 23: Search Results — Sort
+
+The user can use the arrows next to each column title to sort the requests by any of the columns of the
+table.
+
+4.1.4.3. Clear Search Fields
+
+To clear the search fields in the Loan Search Screen, click the [CLEAR SEARCH FIELDS] button. The
+information in the search fields will be cleared. Ten records will still remain in the Dashboard.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 12
+
+@SMART
+
+4.2 Accessing Detailed Loan Information
+
+Opening a Loan Record from the search results will navigate the user to the Loan Record page. The Loan
+Record page consists of multiple tabs that provide detailed Loan information.
+
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+
+Step 2: In the Loan Search Screen, select the Loan Program from the Loan Program drop down.
+
+Step 3: Click [START SEARCH]. 50 records will display in the Search Results Dashboard.
+
+Step 4: From the Search Results Dashboard, click on either the Loan Skey, FHA Case #, and Loan #
+to open the loan.
+
+Figure 24: Loan Record (example)
+
+To minimize the loan record, click on the black arrow (+) located left of the Loan Record page title. To
+maximize, re-click on the black arrow.
+
+To minimize the Borrower & Property Information and Additional Loan Information, click on the white
+arrow (Ez) located left of the of the Borrower & Property information box or the white arrow located left
+of the Additional Loan Information. To maximize, re-click on the white arrow.
+
+On each Loan Record page, the selection of tabs displayed is dynamic and varies depending on the Loan
+program of the selected loan. The colors of the tabs show at a glance whether data exists in the tab or
+
+not.
+
+Note: Loans that are Closed are all Read Only.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 13
+
+@®SMART
+
+4.2.1 Access Details of Partial Claim Loan Records
+
+4.2.1.1 View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record page.
+
+FEES noes caning Loan recording Borrowers Propertyinspection Documents Noles Morigage Release Exceptions. Servicing Foreclosure ankrupicy Disbursements Payot ‘Transactions Customer Service
+B.Loan Summary
+Year To Date Amount Paid
+
+Original Prin Amt: $1.00 Unpaid Prin Bat: $3,897.03 Pay Type Code: =. Payment Status: 90-NO PAYMENT DUE
+
+Pay App Code: N Prin Paid Yea. (8331361)
+
+Audit Information
+
+Created By: LoanConv Created Date: 0228/2009 12:00:00 AM
+
+Last Updated By: MN = Last Updated Date: 02/07/2018 09-48:05 AM
+
+Figure 25: View Loan Summary
+
+4.2.1.2. View Loan Detail
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record page.
+
+SS) SS on
+
+# Loan Detail
+
+(een Tome (rg Loan Date: reara0n Mold Code t
+Len Sat: ‘cLoseo Moturty Oat: e0ra041 Mots Code 2
+Lown Statue Due Date Dating WC: ots Code 3
+Lown State 2 Mortgage nwur Certo: 19912011 Accrual toe: 80
+Lown Perpove Code oP Code 703
+Loan Clase Code PC - Paral Ciam branch Code
+
+rent Serncer Se MERS Number
+Lender Admin Contac Prin Statement: no
+Lender Admin Emal
+ng Amn Seconry
+
+Figure 26: View Loan Detail
+
+4.2.1.3 View Loan Filing
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record page.
+
+som mary | ou Da Lose Recrang | Suoowes | Poperymapecion | Docent Noms Mocope Rene | Exceptions | Sencing  Fuecnnwe  Bamey | Ohbunements | Fay! Tmacone Cason Serie
+
+i Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Name: Hara Fe Sates Contract Closing Date
+Prior Servicer Phone: Label Printed uo Settement Expiration Date:
+Project Name Deed Restriction ome Owner Fe Entered Dat
+Project Wo ot,gert (Form ore Fe Recetved Date
+Project 10 Voucher Number: VRS Number: once Recowved
+80x Number
+
+Cam Processed Date 12052018 Claim Amount; $56,435.61 QvemTide Claim Exclude trom assing Docs Report
+:
+Signatures: ‘Missing Pages: No Document: Note not Original:
+:
+
+Figure 27: View Loan Filing
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 14
+
+®SMART
+4.2.1.4. View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+= aaa |
+
+Mortgage Release Exceptions Servicing Foreclosure
+4 Loan Recording
+
+Bankruptcy Disbursements Payoff ~—Transactions Customer Service
+
+Release Prepared Date: 12052018
+
+Notary
+Page N Origination Date: Prepared By:
+Instrument Loan Recorded Date Original Trustee
+Payot Dat Clam Amount $56,43561 Substtve Trustee
+Autnorized Waness 1
+
+Figure 28: View Loan Recording
+4.2.1.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record page.
+
+(se meer || eer || Ln Fag || Les cre
+
+& Borrowers Information
+
+Property inspection Documents Notes. ©» Mortgage Release Exceptions © Servicing Foreclosure Bankruptcy Disbursements Payoff ~—‘Transactions Customer Service
+
+Borrower Information
+
+Co-Borrower Information
+SSN:
+
+First Name:
+
+First Name:
+
+fart Barth
+Last Name: Barth Last Name: Bath
+Home Work
+Phone: Phone: Prone:
+Marita!
+
+Status
+
+\ddress
+Access
+
+4.2.1.6 View Property Inspection
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers,
+
+% Property Inspection
+
+moc
+
+Proper No
+
+‘Showing 1 10 1 of t entries
+
+Figure 30: View Property Inspection
+
+4.2.1.7 View Documents
+
+To access Documents, click on the [DOCUMENTS] tab within the Loan Record page.
+
+Loan Summary Loan Detaif_ Loan Filing Loan Recording Borrowers.
+
+Mortgage Release — Exceptions Servicing ‘Foreclosure Bankruptcy ‘Disbursements Payoff
+& Documents
+
+ooo
+
+Transactions Customer Service
+
+Create Date Changed By
+Pay_Off_Letter_49171.pat
+
+Pont ste puaee =
+Pay_Off_Letter_49171.pdt Payot Letter 0042018 [Ace
+Pay_Off_Letior_49171 pdt Payot Letter 0304/2018 [Acts
+
+Figure 31: View Documents
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 15
+
+@®SMART
+
+4.2.1.8 View Notes
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab. To access
+Notes, click on the [NOTES] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents EMER worigage Retease Exceptions Servicing Foreclosure Sankruptcy Disbursements Payoff ‘Transactions’ Customer Service
+
+EB Notes
+Note type ’ ote Create Date Changed By Change Date Ticket 10
+‘to Note oxo72018
+01:29:32 PM EST
+Nature of Issue Vimportant 0307/2018
+09.49.56 AM EST
+General Note important 030772018
+0752.09 AM EST
+Auto Note 03062018
+10:05:28 AM EST
+General Note important 03062018
+0959.31 AMEST
+Nature of tsue oxoa2018 oxoa2018
+10:19:27 PMEST 19:16:25 PM EST
+‘to Note oxoaz018
+083257 AM EST
+Auto Note ox0uz018
+003238 AM EST
+Ferecionure ox0a2018
+Adibes 093213 AM EST
+
+Figure 32: View Notes
+
+4.2.1.9 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+
+page.
+
+SS oo) oS e

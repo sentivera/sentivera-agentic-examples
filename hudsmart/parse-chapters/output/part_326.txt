@@ -1,0 +1,715 @@
+e_20181204190110.PDF 12042018
+2021103 PM
+
+NCF Note 351-6826535_NCF Note_20181204180110.PDF 127042018
+202102 PM
+
+NCF Note 566.1257709_NCF Note_20181204190110.PDF 12042018
+20.2102 PM
+
+Figure 163: NCF Queue
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 71
+
+@SMART
+
+44.2 Document Wizard
+
+Step1: Click [MAIL] from the top Navigation menu. Select [DOCUMENT WIZARD] from the
+dropdown.
+
+Step 2: Complete all the required fields shown in red. For Loan Program, select any Loan Program
+except those noted above. When the Loan Program has been selected, the following tabs
+will display: Borrowers and Documents.
+
+Step 3: On the Borrowers Tab, complete all required fields shown in red. Click [NEXT].
+
++ New Document Wizard (ADD MODE)
+
+=.
+
+B Borrower Information
+
+Figure 164: New Document Wizard — Borrowers
+Step 4: Onthe Documents Tab, complete all required fields shown in red. Click [NEXT].
+
+— =
+
+B Documents
+
+Figure 165: New Document Wizard — Documents
+Step5: After all required fields are completed, click on the [SUBMIT] button located in the
+Documents Tab.
+
+Step6: From the confirmation pop-up, click on the [SUBMIT] button.
+
+Note: If all required fields are not completed, a warning pop-up will display saying “Marked fields are
+required. Please re-submit them again.”
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 72
+
+@SMART
+
+5 Using the Servicing Module
+
+5.1 Search
+
+5.1.1 Searching for Loans with Servicing History
+Loans with servicing history can be retrieved through various combinations of the search criteria
+available on the Servicing Search Screen.
+
+Q Servicing Search Screen
+
+earch Database: MART PRODUCTION DATABASE
+
+FHA Case #:
+
+Loan Skey’
+
+Loan #:
+
+Lender Name: + | Servicing Step Status: | $2
+
+Close Box # + | Servicing Type
+
+Last 4 Digits of SSN
+Note Type: Select a Note Type + | Note Text: Note Created By: Select a Note Created 8 * | Mote Create Oate >
+
+iRebiatt tenses: Loan Skey | (* FHA Case No) “Loan No («Loan Program |= Parcel Number] | * Borrower Name | |« Property Address ||» Loan Statua
+
+<== ==
+
+Figure 166: Servicing Search Screen
+
+Step1: Click [SERVICING] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: Select the search criteria from the displayed search fields in the Servicing Search Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files.
+
+Last 4 digits of SSN The last four digits of the Borrower’s Social Security Number
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Result Headers Search criteria columns to be displayed in the Search Results table
+
+Loan Program Type of program associated with the loan
+
+Loan Status Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Servicing Status Indicator that the servicing type is completed or is still pending completion by the user.
+
+Servicing Step Servicing activity step associated with the servicing activity timeline
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Servicing Step Status Indicator the step is completed or is still pending completion by the user
+
+Servicing Type Type of servicing activity assigned to a loan in the form of a predefined template of servicing
+activity steps
+
+Note Created By SMART User who created Notes in the Notes tab
+
+Loan Create Date Date that a loan was entered into the SMART system
+
+Loan Close Date Date that a loan was closed
+
+Orig Lend Amt From Original principal amount of the loan in dollars (numerals only)
+
+Scheduled Date The date that a servicing activity step is scheduled to be completed by the user.
+
+Servicing Completed Date | The date that a servicing activity step is actually completed by the user
+
+Keyword Keyword search.
+
+Note Create Date Date that the Note in the Notes tab was created
+
+Table 3: Servicing Search Fields
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 73
+
+Step 3:
+
+Step 4:
+Step 5:
+
+5.1.2
+
+®SMART
+Click [START SEARCH].
+Figure 167: Servicing Search Screen Buttons
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Once the Loan Record is open, you will be automatically directed to the Servicing tab.
+
+Searching for Loans without Servicing History
+
+Loans without servicing history can be retrieved through various combinations of the search criteria
+available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Servicing tab.
+
+Note: You can also access loans with servicing history through this process.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 74
+
+@SMART
+
+5.2 Servicing Tab
+
+Once the Loan record is open, the Servicing Module is found on the Servicing Tab. If mortgage servicing
+activity has been initiated for a Loan, the Servicing tab in the Loan Record window will be highlighted in
+light blue and will display the current servicing activity of that Loan.
+
+Toon Samay | [ ComsOoun || Comrmny | | Comrocwene || Sonmees || Peoee iepecaoe || Cream || oem || Hoenn mmen cel EER J i
+
+@ Servicing
+B Cert of indebtedness
+(con (a) Create
+B.Cort of indebtedness ayo! Req ved 03032018 oxesz018 03032018 © Edit hem
+(CON (A) 122729 MEST
+Breyer Request Payot Letter Issued oxoaz018 owasz018 030372018 oxox2018 Gf Eait tem
+12:27:29 AM EST 12:38:57 AM EST
+1B Payott Request ()
+Payoff Amount Receives owor2018 owar2018 © East teen
+
+Add Cert of SESS
+Indebtedness {CO}
+
+Payot! Amount Forwarded to Lock-Box owoszor8 03032018 Eat tem
+Aad Demans 122729 MEST
+Tracking
+Add Payot Request Showing 1 10.4 of 4 entries Previou + | Nex
+
+Aad Subordination
+
+Figure 168: Servicing Tab (Partial Claim)
+
+Export to Excel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Add Servicing Steps Adds a new Servicing Step to the Servicing Activity selected
+for the Loan.
+Service Management View the information for the Servicing Activity selected for
+the Loan.
+View Notes Takes you to the Notes tab for the loan. See Section 3.2.8.
+Search search Search and filter the page by specific keywords. The main
+table will filter based off of the keyword search.
+
+Table 4: Data Table Buttons
+
+Servicing Tab will change depending on what Loan Program is associated with the loan. If
+
+The Servicing Activity table at the left side of the Loan Program selected is “Other,” the Servicing Activity
+available is only “Certificate of Indebtedness (COl).” HECM-Assigned, HECM-Insured, and SF Data
+Request is read-only and the user can not add new servicing activities for these loan programs. All other
+loan programs’ options of servicing activity are displayed in the table on the next page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property inspection Documents Notes Morlgage Release Exceptions Foreclosure Bankruptcy Disbursements Payoff = ‘Transactions Customer Service
+
+@ Servicing
+
+Servicing Activity
+
+Badd Cert ot
+Indebtedness (CON)
+
+BAdd Demand
+Tracking
+
+B Add Payott Request
+
+B Aad Subordination
+
+Figure 169: Servicing Tab — No Servicing Activity (Partial Claim)
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 75
+
+@SMART
+
+Servicing Activities
+
+Partial Claim
+
+Secretary Held
+
+H4H
+
+EHLP
+
+PMM
+
+e Cert of
+Indebtedness (COl)
+
+e Demand Tracking
+
+e Payoff Request
+
+e Subordination
+
+e Annual
+Recertification — Sec
+Held
+
+e Calculation
+Worksheet — Sec
+Held
+
+© Cert of
+Indebtedness (COl)
+
+e Escrow Analysis
+
+e Insurance — Flood
+Policy
+
+e Insurance — Main
+Policy
+
+e IRR Modification —
+Sec Held
+
+e Loss Mitigation —
+Compromise Sale —
+Sec Held
+
+e Loss Mitigation —
+Deed in Lieu
+
+e Loss Mitigation —
+Family Sale Pending
+
+e Loss Mitigation —
+Pre Foreclosure —
+Sec Held
+
+e Partial Release
+
+e Payoff Request —
+Sec Held
+
+e Pre Loss Mitigation
+— Sec Held
+
+e Subordination
+
+e Taxes Delinquent —
+Sec Held
+
+e Calculation
+Worksheet — H4H
+
+e Extension H4H
+
+e Payoff Request
+
+e Subordination
+Requests
+
+e Title Search
+
+e Annual Certification
+EHLP
+
+e Payoff Request
+
+e Title Search
+
+e Cert of
+Indebtedness (COl)
+
+e Payoff Request
+
+e Request for Files
+
+GNND Nehemiah 235-Insured ACA-Enforcement ACA-Compliance
+
+e Annual Certification | ¢ Calculation e Calculation © Cert of © Cert of
+
+e Cert of Worksheet - Worksheet — 235 Indebtedness (COl) Indebtedness (COl)
+Indebtedness (COl) Nehemiah Insured e Payoff Request e Payoff Request
+
+e Payoff Request e Cert of © Cert of e Request for Files e Request for Files
+
+e Subordination Indebtedness (COl) Indebtedness (COl) e Subordination
+
+e Violation e Payoff Request e Payoff Request
+
+Investigation
+
+e Request for Files
+e Subordination
+
+e Request for Files
+e Subordination
+
+Table 5: Servicing Activities
+
+If there is no Servicing Activity recorded for the loan, there will be no Data Table displayed on the right
+side of the servicing tab (see Figure 9). The Servicing Activity data table will display on the left with all of
+the Servicing Activities displayed with a blue plus mark (&).
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 76
+
+@®SMART
+
+5.2.1 View an Active Servicing Activity
+
+In the Servicing Activity table, a green document icon (&) and (A) means that the Servicing Activity is
+Active. The active servicing activity will open with its timeline displayed in the main data table. See
+Table 5 for a description of the buttons that display on top of the main Data Table.
+
+Servicing Activity
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Noles Mortgage Release Exceptions Foreclosure Bankruptcy Disbur
+
+@ Servicing
+E Cert of Indebtedness
+Jove [om Tome] (CON (A)
+B Cert of indebtedness
+Borat mates Pye Races Received ovmna0re oamaa0i8 <—e E Cert of Indebtedness
+yet Rena a Pao ete se nxouzo%e oaoszors oansaors (CON) (A)
+seataoanest
+1B Payott Request (l)
+Pave Arar Races oeoazoe oon
+Indebtedness (COD earsaesy E Payoff Request (A)
+Payot Anout Frere Lobo owounore ovnszns
+Aas ome earaeAWest
+Gass Perch Rowman || Sewing 1104004 ete 6 Payoff Request (I)
+Aas Subordination Add Cert of
+Indebtedness (COl)
+
+Figure 170: Active Servicing Activity (Payoff Request — Partial Claim)
+Add Demand
+Tracking
+
+Add Payoff Request
+
+Add Subordination
+
+5.2.2. View an Inactive Servicing Activity
+
+In the Servicing Activity table, a grey document icon (8) and (I) means that the Servicing Activity is
+Inactive. The active servicing activity will open with its timeline displayed in the main data table. See
+Table 5 for a description of the buttons that display on top of the main Data Table.
+
+SS od Lo SS 1c Servicing Activity
+
+@ Servicing
+E Cert of Indebtedness
+Pex | == Noes | Pet Payot ene (CON) (A)
+B Cert of indebtedness:
+Ben otnseresess Payot Request Racine agraove caera0ie frat E Cert of Indebtedness
+1B Payot Request (A) Payom Later Issued oxosz018 oxora0%8 (COl) (A)
+B Payott Request (1) 04:29:32 PMEST
+Payot Amount Raced owornove esora0re
+BAdaconot ae aoa ‘ 01202 PMEST Ei Payoff Request (A)
+Payot Amount Forwarded Lok Be ouonco%e oxorao18
+Badd Demons 01:29:32 PM EST
+Enea Peron eet || Son 1h otis 6 Payoff Request (I)
+Ada Subordination Add Cert of
+
+Indebtedness (CO!)
+Figure 171: Inactive Servicing Activity (Payoff Request — Partial Claim )
+
+Add Demand
+
+Tracking
+
+Add Payoff Request
+
+Add Subordination
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 77
+
+5.2.3. Add New Servicing Activity
+
+@SMART
+
+In the Servicing Activity table, a blue plus box () means add new servicing activity.
+
+Step 1: Click on the blue plus box (&) for the servicing activity.
+
+Step 2: Inthe add screen for that servicing activity, complete all the required fields.
+
+Loan Summary Loam Detail Loan Filing Loam Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Payot ‘Transactions Customer Service
+
+B Servicing Management (ADD MODE):
+
+Servicing Type Demand Tracking
+
+Initiation Date: 0307/2018 v
+
+° oso72018 v}
+
+Cra)
+
+Figure 172: Add New Servicing Activity (Demand Tracking — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Loan Summary Loan Detail Loan Filmg Loan Recording «Borrowers Property Inspection Documents Notes Mortgage Release Exceptions [EMMINNMIR Foreciosure Bankruptcy Disb
+@ Servicing
+
+Bi Cert of indebtedness
+(CON (A) icing Step Schedule Date
+
+B Cert of indebtedness
+{CON |
+
+Complete Date Created By Create Date
+Due ang Payable Event o3r2018 030772018
+A) 01:56:54 PM EST
+ei Demand Lette Mated owoazors ova72018
+01:56:54 PM EST
+B Payott Request (A)
+
+Bi Payott Request (1) ‘Showing 1 to 2 of 2 entnes
+
+BlAda Cert of
+Indebtedness (CON
+
+FlAdd Demand
+Tracking
+
+Bl Add Payott Request
+
+1 Add Subordination
+
+Figure 173: New Servicing Activity Added (Demand Tracking — Partial Claim)
+
+The new servicing activity will display in the Servicing Activity table located
+on the left and all information inserted in the add screen will save in the
+main table and the Service Management screen.
+
+Servicing Activity
+
+G Cert of Indebtedness
+(COl) (A)
+
+E Cert of Indebtedness |
+(COI) (A)
+
+G Demand Tracking (A) -
+B Payoff Request (A)
+6 Payoff Request (I)
+
+Add Cert of
+Indebtedness (COl)
+
+Add Demand
+Tracking
+
+Add Payoff Request
+
+Add Subordination
+
+Note: Each servicing activity will require different information with regards to the activity and loan
+program. Dates in the required fields will auto populate based off of the initial date selected in the first
+
+field.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 78
+
+@SMART
+
+5.2.4 Add Servicing Steps
+
+A predefined template of Servicing Activity steps is generated for a loan when the user adds a servicing
+activity. Various additional servicing activity steps are also available and may be added as needed.
+
+Step1: Click on the [ADD SERVICING STEPS] button.
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filing Loam Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Payoff ‘Transactions Customer Service
+
+B Servicing Step (ADD MODE):
+
+Figure 174: Add New Servicing Step (Demand Tracking — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new servicing step and all information inserted in the add screen will display in the correct Servicing
+Activity’s timeline.
+
+Note; The Servicing Activities Certificate of Indebtedness (COI) and Loss Mitigation - Compromise Sale —
+Sec Held, does not have the [ADD SERVICING STEPS] button.
+
+5.2.5 Service Management
+The Servicing Management button offers a general summary of the Servicing template and permits the
+user to update the status of the selected servicing template.
+
+Step1: Click on the [SERVICE MANAGEMENT] button.
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspect jon Documents Notes Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Payot ‘Transactions Customer Service
+
+B Servicing Management (EDIT MODE)
+
+Figure 175: Service Management (Demand Tracking — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new servicing management information will display in the main table and the Service Management
+screen.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 79
+
+@SMART
+
+5.2.6 — Inactivate Servicing Activity
+
+The status of servicing steps activities may be changed to inactive if the user added them in error or if
+they are no longer applicable for the loan.
+
+Step1: Select Servicing Activity to inactivate and click on the [SERVICE MANAGEMENT] button.
+Step 2: From the status column, select “Inactive”.
+
+Loan Summary Loan Detall_ Loan Filing Loan Recording Borrowers Property Inspection Documents Notes ©» Mortgage Release == Exceptions [IRSSISIrmm Foreclosure © Bankruptcy Disbursements Payoff’ ~—Transactions. «Customer Service
+
+Status: Inactive
+
+B Servicing Management (EDIT MODE).
+
+Servicing Management Inform =tinn For Payoff Request
+
+Payott Amount Due: 904.39
+
+Voucher No:
+
+Cert of indebtedness (CON: Select a CO! Status
+
+Figure 176: Service Management (Payoff Request — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Servicing tab. The selected servicing activity will now display with a
+grey document icon (8) and (I) in the name.
+
+5.2.7. View Notes
+
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+Loan Summary Loan Detal_ Loan Fling Loan Recording Borrowers Property inspection Documents EEE ortwaye Retease Excoptions Servicing Foreclosure Bankruptcy Disbursements Payot Transactions. Customer Service
+
+EB Notes
+
+Auto Note Payot request received
+
+Limportant charles is dong a grea tod 03/07/2018
+09:49:56 AM EST
+
+General Note Limportant charles is doing great job 0307/2018
+07:52:09 AM EST
+
+‘Auto Note Received notice of death, borrower deceased 03/06/2018 03/06/2018
+10:05:28 AM EST
+
+General Note Limportant test 03/06/2018
+
+09:59:31 AM EST
+
+03042018
+10:19:27 PM EST
+
+owoa2018 @ raas73
+
+This ts a test
+asckkhiacktas dhfsakdinlasntsfasidsjwichrawewerty wodtghkbscvbnm, wertyulozxcvondighjtietryudychynhdgbnmbycvonm,m nbvexv;cikuinghighuiopiuytr345678909 11:16:25 PMEST
+
+‘Auto Note Bankruptcy Dsmissed 03042018
+09:32:57 AM EST
+
+‘Auto Note Bankruptcy Filed 0304/2018
+09:32:38 AM EST
+
+Foreciosure Foreciosure Step: Fc! Contested Transfer to DOJ - Judicia Fel 03042018
+
+Figure 177: Notes Tab (Partial Claim)
+
+To go back to the Servicing Tab, click on [BACK TO SERVICING].
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 80
+
+@®SMART
+5.2.8 Edit Servicing Step
+
+The Edit Item action permits the user to update the status of the selected servicing step when there is a
+need for an update or change.
+
+Step 1: = Click on [EpIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+Soo a | Sime |/ Peper |[ Oommen [now || ue ase || Expo seo
+
+B Servicing Step (EDIT MODE):
+
+Active:
+
+Figure 178: Edit Servicing Step (Demand Tracking — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited servicing step and all edited information will display in that timeline’s step.
+
+5.2.9 Inactivate Servicing Step
+
+The status of servicing steps may be changed to inactive if the user added them in error or if they are no
+longer applicable for the loan.
+
+Step5: Click on the [Epi ITEM] link for the desired servicing step.
+Step 6: From the status column, select Inactive.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Payot!
+
+B Servicing Step (EDIT MODE):
+
+| Active: Inactive
+
+Figure 179: Inactivate Servicing Step (Demand Tracking — Partial Claim)
+
+Step 7: Click [SAVE].
+Step 8: On the Confirmation Pop-up, click [SUBMIT].
+
+This directs the user back to the Servicing tab. The selected servicing step will now display a grey
+inactive button in the status column.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2

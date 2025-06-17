@@ -1,0 +1,614 @@
+d page.
+
+Loan Summary Loan Detail
+
+Loan Filing Loan Recording Property Inspection Documents
+
+Notes Mortgage Release Exceptions: Servicing Forectosure ‘Bankruptcy, Disbursements. Payott Transactions: Customer Service
+& Borrowers Information
+
+it
+tat
+
+:
+
+Aadress 1
+
+Mail To Name:
+
+Address 2: Address 1
+City: soc: Address 2:
+Zip Code: County: Address 3:
+
+4.4.1.6 View Property Inspection
+
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Noles Mortgage Release Exceptions Servicing __—Forectos Bankruptcy Disbursements Payot ‘Transactions Customer Service
+# Property Inspection
+Property Address || Parcel No 4 107 Last inspect Date Last Appraisal Date Appraised Value
+
+Prop Type Code
+
+Prop Desc Code
+
+Figure 51: View Property Inspection
+
+4.4.1.7 View/Add/Edit Documents
+
+Step 1: Click on the [DOCUMENTS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Bon
+
+rowers Property inspecton | documents | Notes Mortgage Release Exceptions
+@ Documents
+
+check Isolation level.txt
+
+amibarua 02212018 02212018 @& Eait Document
+11:08:05 AM EST 041931 PM EST
+‘e-filed 18.10207 pat recorded poc acasas: 0126/2018 @ Edit Document
+02.20.45 PM EST
+‘e-fled 17-13585.pat fecodedpoc = cans
+
+Figure 52: View Documents
+
+B Document (ADD MODE)
+
+2. Drag and Drop fies here or Citck here to upload
+
+Figure 53: Add Document
+
+Step 2: To adda document, click on [ADD DOCUMENT] located under the Documents title to
+navigate to Document (Add Mode). To edit a document, click on [EDIT DOCUMENT] located
+
+in the Actions column of the Documents dashboard to navigate to Document (Edit Mode).
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 26
+
+®SMART
+
+Step 3: Drag and drop a document or click on the Document Upload button to upload a file (if you
+are using Internet Explorer, you can only click to upload). Note; Only PDF, ZIP, DOC, DOX,
+XLS, XLSX, PPT, PPTX, and TXT files are accepted.
+
+Step 4: Complete all required fields and click [SAVE].
+
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+4.4.1.8 View/Add Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab.
+
+Perri Mortgage Release Exceptions = Servicing Foreclosure Bankruptcy
+
+Loan Summary Loan Detail Loan Fling = Loan Recording Borrowers Property Inspection Documents
+
+Figure 54: View Notes
+
+Step1: Click on the [NoTEs] tab within the Loan Record page.
+Step 2: Click on the [ADD NoTE] button located under the Notes title to navigate to the Add Note
+
+window.
+
+B Add Note
+
+Figure 55: Add Notes
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.1.9 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+
+page. For further information, see Mortgage Release Tab.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 27
+
+@SMART
+
+4.4.1.10 View Exceptions
+
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents Notes Mortgage Release Servicing Foreclosure Bankruptcy Disbursements Payoff Transactions Customer Service
+
+A Exceptions
+
+‘cepbon Date ‘Amou Create Date
+201 orto $1.00
+0304201 2d 8
+031042018 042018
+09:32:38 AM EST
+
+Figure 56: View Exceptions
+
+4.4,1.11 View Servicing
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page. For further
+information, see Servicing Tab.
+
+4.4.1.12 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page. For
+further information, see Foreclosure Tab.
+
+4.4.1.13 View Bankruptcy
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page. For
+further information, see Bankruptcy Tab.
+
+4.4.1.14 View/Add/Edit Disbursements
+
+To access Disbursements, click on the [DISBURSEMENTS] tab within the Loan Record page.
+
+(i ea | oo
+
+$ Disbursements
+
+Figure 57: View Disbursements
+
+4.4.1.14.1 Add Disbursement
+Step 1: Click on [ADD DiIsBURSEMENT] located under the Disbursements title to navigate to
+
+Disbursement (Add Mode).
+
+B Disbursement (ADD MODE):
+
+Figure 58: Add Disbursement
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 28
+
+@SMART
+
+Step 2: The field for Transaction Amount auto-populates with the Unpaid Principal Balance.
+Step 3: Select Method of Payment, the Transaction Code USCHPC, and Pay To Type.
+
+Step 4: Verify that the information is correct and click [SAVE].
+
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying new disbursement.
+2. An auto-note is created to the Notes tab.
+3. Atransaction with the code USCHPC is added to the Transactions tab.
+
+4.4.1.14.2 Void Disbursement
+Step 1: Click on [EpiT ITEM] located in the Actions column of the dashboard to navigate to the
+
+Disbursement (Edit Mode).
+
+B Disbursement (EDIT MODE):
+
+Ban
+
+oa
+veoed
+Figure 59: Void Disbursement
+Step 2: Select “No” from the TOPS Withheld? drop down field.
+Step 3: Select “Voided” from the Check Status field. This will automatically change the
+Transaction Code to RUSCHPC.
+Step 4: — Click [SAVE].
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+Note: After saving, the following occurs:
+4. User redirects to Disbursement tab displaying edited disbursement.
+5. Inthe Disbursement data table, the status in the Check Voided column will display YES and the
+amount Voided will display in the Voided Amount column.
+6. An aquto-note is created to the Notes tab.
+7. Atransaction with the code RUSCHPC is added to the Transactions tab.
+
+4.4.1.14.3 Clear Disbursement
+Step 1: Click on [EDIT ITEM] located in the Actions column of the dashboard to navigate to the
+
+Disbursement (Edit Mode).
+
+B Disbursement (EDIT MODE)
+
+Figure 60: Clear Disbursement
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 29
+
+@SMART
+
+Step 2: Select “No” from the TOPS Withheld? drop down field.
+Step 3: Select “Cleared” from the Check Status field.
+
+Step 4: — Click [SAVE].
+
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying edited disbursement.
+2. Inthe Disbursement data table, the status in the Check Cleared column will display YES and the
+amount Cleared will display in the Cleared Amount column.
+3. An auto-note is created to the Notes tab.
+
+4.4.1.14.4 Partially Void Disbursement
+Step 1: Click on [EpiT ITEM] located in the Actions column of the dashboard to navigate to the
+
+Disbursement (Edit Mode).
+
+B Disbursement (EDIT MODE):
+
+Figure 61: Partially Void Disbursement
+
+Step 2: Select “Yes” from the TOPS Withheld? drop down field.
+Step 3: Select “Partially Voided” from the Check Status field.
+Step 4: — Click [SAVE].
+
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying edited disbursement.
+2. Inthe Disbursement data table, the status in the Partially Voided column will display YES and the
+amount Voided will display in the Voided Amount column.
+3. An auto-note is created to the Notes tab.
+4. Atransaction with the code RUSCHPC is added to the Transactions tab.
+
+4.4.1.14.5 Partially Clear Disbursement
+Step 1: Click on [EDIT ITEM] located in the Actions column of the dashboard to navigate to the
+
+Disbursement (Edit Mode).
+
+@ Disbursement (EDIT MODE):
+
+Loan Check Detail Information
+
+Figure 62: Partially Clear Disbursement
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 30
+
+@SMART
+
+Step 2: Select “Yes” from the TOPS Withheld? drop down field.
+Step 3: Select “Partially Cleared” from the Check Status field.
+Step 4: — Click [SAVE].
+
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying edited disbursement.
+2. Inthe Disbursement data table, the status in the Partially Cleared column will display YES and
+the amount Cleared will display in the Cleared Amount column.
+3. An auto-note is created to the Notes tab.
+
+4.4.1.15 View Payoff
+
+To access Payoff, click on the [PAYOFF] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Cocuments Notes Mortgage Release Exceptions Servicing ‘Foreclosure Bankruptcy Disbursements Transactons Customer Service
+
+© Payoff
+
+Payoff Information pasor | 02212018
+
+Original Amount: $9,291.15
+Advances: $0.00
+Other increases: $0.00
+
+Payment
+
+$0.00
+
+Transferred Amount $0.00
+
+Write Off Amount: $0.00
+
+Paid Off Amount: $0.00
+
+Total Payoff Amount: $9,291.15,
+
+Audit Information
+
+Last Updated By:
+
+Figure 63: View Payoff
+
+For detailed instructions on how to initiate payoff, see Section 8.6 Payoff Request.
+
+4.4.1.16 View/Add Transactions
+
+4.4.1.16.1 Transaction
+Step 1: Click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure ‘Bankruptcy Disbursements Payoff Customer Service
+
+@ Transactions
+
+Search
+
+RCTB Reve
+Te 1p
+RUSCHPC void
+
+uUscHPC u
+
+Figure 64: View Transactions
+
+Step 2: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+Add Transaction window.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 31
+
+@SMART
+
+Loan Summary _Losn Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes
+
+BAdd Transaction
+
+Figure 65: Add Transactions
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.1.16.2 Transaction that requires Check Information
+Step 1: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+Add Transaction window.
+Step 2: From the Transaction Type drop down menu, select one of the below Transaction Codes
+
+(ICT, PIAC, PICTA, MDPP, MDRP, MNDB, PCPA, PCSA, PMTB, PMTC, RICT, RIPCTA, RMNDB,
+RTRSF, TRSF).
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Noles Morigage Release Exceptions Servicing ‘Foreclosure © Bankruptcy Disbursements Payoff Customer Service
+
+Bi Add Transaction
+
+x
+
+Check Reference Number: { x |
+
+Figure 66: Add Transaction that requires Check Information
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.1.16.3 CTB Transaction
+The Transaction, CTB — Type 15 Termination Conveyance of Title for Benefits, is only available to be
+entered into the system between the 1st and the 25" of the month. Once one CTB Transaction has
+
+been entered, no other transaction may be entered except a RCTB — Reversal — Type 15 Termination
+Conveyance of Title for Benefits.
+
+Step 1: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+Add Transaction window.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 32
+
+@SMART
+
+Loan Summary Loan Detal_Loan Filng Loan Recording BortowersPropertyinspection Documents Notes Mortpage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payort (RECERENEEI customer service
+
+B Add Transaction
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Morigage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff Customer Service
+
+B Add Transaction
+
+Figure 68: Add Transaction After CTB Transaction Submitted
+
+Step 2: From the Transaction Type drop down menu, select CTB.
+
+Step 3: The Transaction Amount will auto-fill to the Unpaid Principal Balance and is not editable.
+Step 4: Complete all required fields and click [SAVE].
+
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+If the transaction reduces the Unpaid Principal Balance to SO then the following will occur:
+
+1. Payoff Request Timeline in the Servicing Module will automatically open and close with all steps
+marked as complete with today’s timestamp.
+
+2. Mortgage Release Timeline in the Mortgage Release Module will automatically open with the
+first step marked as complete with today’s timestamp.
+
+3. The Loan will close after the user refreshes the page.
+
+4. The amount in the Payoff Letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is SO.
+
+5. Arecord will automatically insert into the Transaction Tab.
+
+If the transaction reduces the Unpaid Principal Balance to SO and there is already an open Mortgage
+Release Timeline, then the following will occur:
+1. Payoff Request Timeline in the Servicing Module will automatically open and close with all steps
+marked as complete with today’s timestamp.
+2. The Loan will close after the user refreshes the page.
+3. The amount in the Payoff Letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is SO.
+4. Arecord will automatically insert into the Transaction Tab.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 33
+
+@SMART
+
+4.4.1.17 View Customer Service
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Documents Noles. Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payot ~— Transactions fi
+
+a& Customer Service
+
+Call Date Caller Naene
+
+873282 Partai Clam ee ° TEST CALL-HuD Low 2072018022322 a20720:8022320P"
+
+Figure 69: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 34
+
+@SMART
+
+4.4.2. Access Details of Secretary Held Loan Records
+
+4.4.2.1 View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record.
+
+Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff
+Disbursements Mth Statements Customer Service
+BLoan Summary
+‘Original Principal Amount: $32,500.00 Number of Payments Delinquent: Monthly P&I Amount: $32,500.00 Effective Date:
+Unpaid Principal Balance: ay Type Code: Monty Tax Escrom 59.09 Date Lest Ceriied:
+Tax Escrow Balance: Pay Application Code: —_o 000 Date Next Certified:
+Forretam Satnce Payment status Monty Service Fee 53.99 Duration (a months
+Insurance Damage Batance: Principal Paid YTD: ($500.00) Gronthy interest Tax $9.00 Formula 2 Factor:
+Service Fee Balance: Interest Paid YTD: ‘Adjusted income:
+Interest Tax Balance: Late Charge Paid YTD: Torte: $22,500.00 Formmuta 4 Pay:
+Suspense Escrow Balance: Real Estate Tax Paid YTD: Formula 2 Pay:
+Late Charge Balance: Times Late YTD
+Forbearance . Start
+‘Current Loan Balance: Times Late Total: Date:
+Creait Line Balance: Claim Pay Date: Forbearance - Duration:
+Forbearance
+Payott Date: ‘Scheduled Amount:
+
+Figure 70: View Loan Summary
+
+4.4.2.2 View/Edit Loan Detail
+Step 1: Click on the [LOAN DETAIL] tab within the Loan Record page.
+
+town summay (ERESEIER) orrane | tconracring | sorowers | Propntyimaecton | Oocments ame Mongap ens Teectont
+
+Disbursements Mth Statements Customer Service
+
+Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff Loan History
+
+# Loan Detail
+
+Officer Code: sw (Curr Prin Limit: ‘Signed Date: Hold Code 1:
+Loan Type: ‘Expected int Rate: Funded Date: Hold Code 2:
+FHA Ast: Current Wet Prin Limit: (402.075 65) tginscertoate: vases Wold Code 3:
+Loan Term: 30 yrs 0 mos: Repair Set Aside: Assmt Accepted: ‘Accrual Method: AO
+Loan status oren Mx Clam Amt ssmt Recorded: ov241004 Assess tate came: ON
+Loan Sate First Your Set Asie: Clam Pai: Coecttax Escrow: =
+Loan state 2 Serv Fee Set Aside: Tite Approva: Custos
+Loan Purpose Code: Orig Credit Line: ‘At Contractor On: Vacancy Status:
+Loan Class Code: Prin Limit At Closing: ARM Change Date: Vacancy Date:
+Contract Type code: ty surance (nig Loan Dat: raw section ott Act case
+Program Type Curriteest Rate: 1400 stats Date Print Statements: y
+Last CO Response: Maturity Oat: raovaora
+
+ce. cen sent
+
+Due bateDetna NC: owo12008
+
+Figure 71: View Loan Detail
+
+#2 Loan Detail (EDIT MODE)
+
+ao SS ms
+
+Otcer Coa a cut Prin Lint Signed Date Hold Code 1 Select» Held Code 1 .
+Loan Type: ‘Select ° Expected int Rate: Funded Date: ‘Mold Code 2: ‘Select a Hold Code 2 °
+FHA © tt Mtg: Current Net Prin Limit: 40207565 ‘Mig Ins Cert Date: owon1983 ‘Hold Code 3: ‘Select a Hold Code 3
+Loan Term (Months) 00 Repair Set Aside ‘Asamt Accepted Accrual Method no
+Loan Status: Open Loans ° Max Claw Amt: Asamt Recorded: oneaton Assess Lote Charge: No .
+Loan Status 4 Select» Loan Stas 1 Fest Your Set Asie awn Pata Coect Tax Escrow ves
+Loan status 2: Select @ Loan Stats 2 . Serv Fee Set Aside: Tie Aporovat: Custooat Sevect
+Loan Purpose Code: Select» Loon Purpose Code . (ong Credit Line ‘At contractor On Vacancy Status Sevet .
+Loan Class Code Select» Loan Class Code . Prin Limit At Closing ‘ARM Change Date vacancy Date
+Contract Type Code F ° Mig insurance (ig Loan Date 1201/1082 Section of the Act 286
+Last CO Response: Curr interest Rate 1400 Status Date Prot Statements ves .
+aturty Oate wwo1z012
+ce, Cort Sent
+ve Date Detina nc: {040172000
+
+Figure 72: Edit Loan Detail
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 35
+
+@SMART
+
+Step 2: — Click on [EpIt] located under the Loan Detail title to navigate to Loan Detail (Edit Mode).
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.2.3 View/Edit Loan Filing
+Step 1: Click on the [LOAN FILING] tab within the Loan Record page.
+
+Loan Summary Loan deta IRESERRI Loan ecorsing Borrowers Property nspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payot ‘Transactions. Loan History
+
+Disbursements Mh Statements Customer Service
+i Loan Filing Information
+
+Eat
+
+Loan Filing Information
+
+Project No som Home Owner yes pate: 02202018
+
+OT Type: Fire Fighter
+
+ate:
+Lender Name: |
+
+Project ID:
+
+42
+Voucher Number
+VRS Number:
+
+Figure 73: View Loan Filing
+
+Step 2: Click on [EpiT] located under the Loan Filing title to navigate to Loan Filing (Edit Mode).
+Step 3: Make the necessary changes and complete all required fields.
+
+B Loan Filing Information (EDIT MODE)
+
+Project Name 4-30 Expiration Oat e2aanote
+ara Fe e2za2018
+Let Printed: caaar018
+img Doe Exists: | Ve ~ | Note Doe Exists: Wotice Received Date: | 2202018
+——— VRS Number Te
+
+Figure 74: Edit Loan Filing
+
+Step 4: Make the necessary changes, complete all required fields, and click [SAVE].
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+4.4.2.4 View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing [AECUMISERETIE Borrowers Property Inspection Documents Notes Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy Reinstatement Payot Transactions §—_Loan History
+
+Disbursements Mth Statements Customer Service
+
+(4 Loan Recording
+
+Loan Recording Information
+
+Page No: Origination Date: Prepared By:
+tostrument Loan Recorded Date: Onginat Trustee:
+ern new —
+
+Figure 75: View Loan Recording
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 36
+
+@SMART
+
+4.4.2.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Property Inspection Documents Notes Mortgage Release Exceptions. Servicing Foreclosure Gankruptcy Reinstatement Payoff Transactions. Loan History
+
+Disbursements Mth Statements Customer Service
+
+& Borrowers Information
+
+First Name: | Fest Name: ssw
+Btn Birth
+
+Last Name bartn Last Name Bern
+
+ome Wor
+
+Prom: Prone:
+
+Marital
+Status:
+
+Figure 76: View Borrowers
+
+4.4.2.6 View Property

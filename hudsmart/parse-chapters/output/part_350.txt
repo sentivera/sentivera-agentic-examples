@@ -1,0 +1,717 @@
+he loan.
+
+Figure 24: Loan Record (example)
+
+To minimize the loan record, click on the black arrow (+) located left of the Loan Record page title. To
+maximize, re-click on the black arrow.
+
+To minimize the Borrower & Property Information and Additional Loan Information, click on the white
+arrow (Ez) located left of the of the Borrower & Property information box or the white arrow located left
+of the Additional Loan Information. To maximize, re-click on the white arrow.
+
+On each Loan Record page, the selection of tabs displayed is dynamic and varies depending on the Loan
+program of the selected loan. The colors of the tabs show at a glance whether data exists in the tab or
+
+not.
+
+Note: Loans that are Closed are all Read Only.
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 14
+
+@®SMART
+
+4.2.1 Access Details of Partial Claim Loan Records
+
+4.2.1.1 View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record page.
+
+FEES noes caning Loan recording Borrowers Propertyinspection Documents Noles Morigage Release Exceptions. Servicing Foreclosure ankrupicy Disbursements Payot ‘Transactions Customer Service
+B.Loan Summary
+Year To Date Amount Paid
+
+Original Prin Amt: $1.00 Unpaid Prin Bat: $3,897.03 Pay Type Code: =. Payment Status: 90-NO PAYMENT DUE
+
+Pay App Code: N Prin Paid Yea. (8331361)
+
+Audit Information
+
+Created By: LoanConv Created Date: 0228/2009 12:00:00 AM
+
+Last Updated By: MN = Last Updated Date: 02/07/2018 09-48:05 AM
+
+Figure 25: View Loan Summary
+
+4.2.1.2. View Loan Detail
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record page.
+
+SS) SS on
+
+# Loan Detail
+
+(een Tome (rg Loan Date: reara0n Mold Code t
+Len Sat: ‘cLoseo Moturty Oat: e0ra041 Mots Code 2
+Lown Statue Due Date Dating WC: ots Code 3
+Lown State 2 Mortgage nwur Certo: 19912011 Accrual toe: 80
+Lown Perpove Code oP Code 703
+Loan Clase Code PC - Paral Ciam branch Code
+
+rent Serncer Se MERS Number
+Lender Admin Contac Prin Statement: no
+Lender Admin Emal
+ng Amn Seconry
+
+Figure 26: View Loan Detail
+
+4.2.1.3 View Loan Filing
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record page.
+
+som mary | ou Da Lose Recrang | Suoowes | Poperymapecion | Docent Noms Mocope Rene | Exceptions | Sencing  Fuecnnwe  Bamey | Ohbunements | Fay! Tmacone Cason Serie
+
+i Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Name: Hara Fe Sates Contract Closing Date
+Prior Servicer Phone: Label Printed uo Settement Expiration Date:
+Project Name Deed Restriction ome Owner Fe Entered Dat
+Project Wo ot,gert (Form ore Fe Recetved Date
+Project 10 Voucher Number: VRS Number: once Recowved
+80x Number
+
+Cam Processed Date 12052018 Claim Amount; $56,435.61 QvemTide Claim Exclude trom assing Docs Report
+:
+Signatures: ‘Missing Pages: No Document: Note not Original:
+:
+
+Figure 27: View Loan Filing
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 15
+
+@SMART
+4.2.1.4
+
+View Loan Recording
+
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary
+
+toon || Lom na ——
+
+Property Inspection Documents
+4 Loan Recording
+
+Notes Mortgage Release Exceptions. © Servicing Foreclosure
+
+Bankruptcy Disbursements
+
+Payott Transactions Customer Service
+
+Book W Release Prepared Date: 12082018 Notary
+
+Page Ongination Date: Prepared By
+Instrument Loan Record Date: Original Trustee:
+Payott Dat Clam Amount $90,435 substive Trustee
+Autnorzed wines 1 witness 2
+
+Figure 28: View Loan Recording
+
+4.2.1.5 View Borrowers
+
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing
+
+Notes Mortgage Release
+& Borrowers Information
+
+‘Exceptions: Servicing Forectosure ‘Bankruptcy, Disbursements Payot Transactions: Customer Service
+Borrower information Co-Borrower Information
+
+First Name: S80 a First Name: Sm
+firm Btn
+
+Last Name: Bern Last Name Bartn
+
+Home Wort
+
+Phone: Phone: Prone:
+
+Marat
+
+Stone
+
+meaning Adarwos
+Access
+
+Mail To Name:
+
+Address 2: Address 1
+City: ee Address 2:
+Zip Code: County: Address 3:
+
+4.2.1.6 View Property Inspection
+
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers,
+
+% Property Inspection
+
+moc
+
+Proper No
+
+‘Showing 1 10 1 of t entries
+
+Figure 30: View Property Inspection
+
+4.2.1.7 View Documents
+
+To access Documents, click on the [DOCUMENTS] tab within the Loan Record page.
+
+Loan Summary Loan Detail. Loan Fiting
+
+Loan Recording
+
+Borrowers Mortgage Release — Exceptions — Servicing Foreclosure Bankruptcy —-Désbursements Payoff ‘Transactions Customer Service
+& Documents
+Document Name cr Changed By Change Date Status
+Pay_Off_Letior 49171 pdt Payoff Letter 034042018 fc |
+1047.19 AM EST
+Pay_Off_Letter_49171.pat Payot Letter ox042018 Pe]
+1047-11 AMEST
+Pay_Off_Letior_49171 pdt Payot Letter 0304/2018 [Acts
+10.47.02 AM EST
+
+Figure 31: View Documents
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 16
+
+@SMART
+
+4.2.1.8 View Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab. To access
+Notes, click on the [NOTES] tab within the Loan Record page.
+
+Bankruptcy Disbursements Payoff Transactions.
+
+i on ooo
+
+EBNotes
+Search
+
+Po
+
+re Note Created By Create Date Changed By Change Date Ticket 1D
+Auto Note o3072018
+01.2932 PMEST
+Nature of Issue Limportant osm7201g
+09.4956 AM EST
+General Note Simponant 03/07/2018
+07:52:09 AMEST
+
+Figure 32: View Notes
+
+4.2.1.9 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+
+page. For further information, see Mortgage Release Tab.
+
+4.2.1.10 View Exceptions
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Documents Notes. Mortgage Release Servicing Foreclosure Bankruptcy ‘Disbursements Payoff Transactions Customer Service
+A Exceptions
+03062018 Bor Deceased $1.00 eee
+omoazors Bankruptcy Otsmissed |] oo pen 8 [Ace]
+Figure 33: View Exceptions
+4.2.1.11 View Servicing
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page.
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Payot —_Transactio ns Customer Servic
+@ Servicing
+Brot tec vicing Step: Sct ite Complete Date Cream Create Date c ged By ChangeDate = | States
+ff Letter issued 1205/2018 1204/2018 . a a cea {Active
+Payot Amount Recelved 01182019 casa {| Actve
+
+Payoll Amount Forwarded to Lock-Box orz22019 12042018
+10:47:45 AM EST
+
+Figure 34: View Servicing
+
+4.2.1.12 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page. For
+
+further information, see Foreclosure Tab.
+
+4.2.1.13 View Bankruptcy
+
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page. For
+further information, see Bankruptcy Tab.
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 17
+
+@®SMART
+
+4,2.1.14 View Disbursements
+To access Disbursements, click on the [DISBURSEMENTS] tab within the Loan Record page.
+
+ay) ana ree es) ee (Se | ee | ee [mee | ee =] || omen
+
+$ Disbursements
+E ; ;
+
+Check Voided Date Partially Voided Voided Am
+
+5988562 Partial Claims 160- 1200772018 $56,435.61 $1,500.00 YES 120072018 Yes $54,935.61
+Disbursement -Check Unscheduled PC
+Overrage Refund
+
+Figure 35: View Disbursements
+
+4.2.1.15 View Payoff
+
+To access Payoff, click on the [PAYOFF] tab within the Loan Record.
+
+‘Loan Summary Loan Detail Loan Filing Loan Recording Borrowers, Property inspection Documents Notes Morigage Release: Exceptions: Servicing Forectosure Bankruptcy ‘Disbursements: Payot Transactions: Customer Service
+Payot
+Payoff Information | As e | 0v07/2018
+
+nina Amount e702
+
+Aerncee s000
+
+Other increases 32800
+
+Payments. ($188.00)
+
+Transterred Amount: ($67.00)
+
+ite Of Amount sao
+
+Paid Oft Amount: ($6,385.25)
+
+Total Payott Amount: $7048
+
+Figure 36: View Payoff
+
+4.2.1.16 View Transactions
+To view Transactions, click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail, Loan Filing Loan Recording Borrowers Property inspection Documents Notes. © Mortgage Release Exceptions. = Servicing Foreclosure Bankruptcy Drsbursements Payoff Customer Service
+
+@ Transactions
+
+Eftective Date Principal Amount
+1200772018 RCTB Reversal - Type 15 Terminaton Conveyance of Tite for Benetts $57,935.61 12/07/2018 04:14:59 PM
+1207/2018 cre Type 15 Termination Conveyance of Title for Benefits (857,935.61) 1210772018 04:12:19 PM
+120772018 RUSCHPC ‘Void - Unscheduled PC Disbursement Overage / Refund ($54,935.61) 12072018 03-2958 PM
+1207/2018 uscHPc Unscheduled PC Disbursement Overage/Refund $56,425.61 1210772018 03:24:51 PM
+1210572018 o Loan Setup - Principal Balance 356,435.61 12/05/2018 02:00:46 AM
+
+ae
+Figure 37: View Transactions
+
+4.2.1.17 View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes «Mortgage Release Exceptions §— Servicing Foreclosure Bankruptcy Disbursements Payoff ‘Transactions
+
+a& Customer Service
+
+| Bex | [Br | | Brit | a
+
+Ticket Loan Program oan No 1 0 Catt Date Calter Phone 3 Create Date
+
+a72262 Partai Claim Es ° TEST CALL ~ HUD Low 1207/2019 02:23:22 PM §— 12/07/2018 02 23:20 PM
+
+Figure 38: View Customer Service
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 18
+
+@®SMART
+
+4.2.2 Access Details of PMM Loan Records
+
+4.2.2.1. View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record page.
+
+Exceptions Servicing Foreclosure Wankruptcy Disbursements Payoff ‘Transactions Customer Service
+
+eee (bom Octal = Loan Filing Loan Recording Borrower / Entity Documents Notes. © Mortgage Release
+
+BLoan Summary
+
+‘$400 00 Unpaid Principal Balance: 5899.00 Pay Type Code: Payment Status:
+
+$0.00 Unpaid Interest Balance: $0.00 Pay App Code: Prin Paid Ye: sooo
+
+Figure 39: View Loan Summary
+
+4.2.2.2 View Loan Detail
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record page.
+
+eS nn ee ee
+
+B Loan Detail
+
+Figure 40: View Loan Detail
+
+4.2.2.3. View Loan Filing
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record page.
+
+Loan Summary Loan Detsit FRSRTESAI Loan Recording Borrower Entity Documents Notes Mortgage Release Exceptions Servicing Forectoure Bankruptcy Disbursements Payoff Transactions. Customer Service
+
+B Loan Filing
+
+Figure 41: View Loan Filing
+
+4.2.2.4. View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Orta Loan Filing ESE SEEAR sorower/ Entity Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Oiabursements Payot Transactions Customer Service
+
+Loan Recording
+
+Book Wo: Release Prepared Date’ Notary:
+
+Page No: Origination Date: razar2018 Prepared By:
+Instrument No: Loan Recorded Date Original Trustee:
+Asthorized Mortgage Amount 3600.00 Subsuive Trustee:
+
+wrtness 1 Woiness 2:
+
+Figure 42: View Loan Recording
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 19
+
+@®SMART
+4.2.2.5 View Borrower/Entity
+To access Borrower/Entity, click on the [BORROWER/ENTITY] tab within the Loan Record page.
+
+ee Sede
+
+B Borrower / Entity Information
+
+State
+
+County
+
+Address 1
+
+Figure 43: View Borrower/Entity
+
+4.2.2.6 View Documents
+To access Documents, click on the [DOCUMENTS] tab within the Loan Record page.
+
+es ee en ee ee ees ee ee
+
+Documents
+
+[ teat J aror J ona |
+
+CS MePGOvevrwrongUPB.<¥4 Usoodes tom Pay go Suominson Pay go Tracing © SFPOGSOP +4 25200
+ovgasapuest
+
+Figure 44: View Documents
+
+4.2.2.7 View Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab. To access
+Notes, click on the [NOTES] tab within the Loan Record page.
+
+SS ee EE Ee Ee) ee, ee |
+
+&B Notes
+
+mo
+
+Figure 45: View Notes
+
+4.2.2.8 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+
+page. For further information, see Mortgage Release Tab.
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 20
+
+@SMART
+
+4.2.2.9 View Exceptions
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record page.
+
+toon oy || tose | tou || Cos Sl es
+
+A Exceptions
+
+[tie favor far | a
+; created Create Date changed By change Date
+
+Facepton Oute Description ni seated By reat Date
+12042019 Active Backruptcy $1000 12092019
+0420.36 PM EST
+
+Figure 46: View Exceptions
+
+4.2.2.10 View Servicing
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page.
+
+@ Servicing
+
+:
+
+G Payott Request (A)
+
+Servicing Step
+
+Figure 47: View Servicing
+
+4.2.2.11 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page. For
+further information, see Foreclosure Tab.
+
+4,2.2.12 View Bankruptcy
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page. For
+further information, see Bankruptcy Tab.
+
+4,2.2.13 View Disbursements
+To access Disbursements, click on the [DISBURSEMENTS] tab within the Loan Record page.
+
+Se es a | es) SS ee Ee ee
+
+$ Disbursements
+
+Oeaburnement Iype
+
+Figure 48: View Disbursements
+
+4.2.2.14 View Payoff
+
+To access Payoff, click on the [PAYOFF] tab within the Loan Record.
+
+i os
+
+'S Payoff
+
+Figure 49: View Payoff
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 21
+
+@®SMART
+4.2.2.15 View Transactions
+
+To view Transactions, click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrower Entity Documents. Notes
+
+Morigage Relesse Exceptions Servicing Foreclosure Bankruptcy Disbursements Payot
+
+= =
+{@ Transactions
+moos =
+—
+— = —
+na = ee
+es =
+
+Figure 50: View Transactions
+
+4.2.2.16 View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail, © Loan Filing Loan Recording Borrower Entity Documents,
+
+Notes Mortgage Release Exceptions — Servicing «Foreclosure Bankruptcy Disbursements. Payoff ‘Transactions
+4&3 Customer Service
+ooo ~
+ice ich eason = | i Cait Date Calter Name Calter Phone Designee Created By reate Date
+253473 Pane ~S™S ° DEATH NOTIFICATION Low 3200201906350) 32002019 08.3503 Pu
+Showing 1 to 1 of 1 entries
+
+Figure 51: View Customer Service
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 22
+
+4.2.3
+4.2.3.1
+
+Loan Detait
+
+Loan Filing
+Disbursements Mth Statements.
+
+BLoan Summary
+
+View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record.
+
+Loan Recording Borrowers. Property Inspection Documents Notes. Mortgage Release Exceptions
+Customer Service
+
+Servicing
+
+Foreclosure Bankruptcy
+
+Reinstatement Payot Transactions
+
+@®SMART
+
+Access Details of Secretary Held Loan Records
+
+Subsidy
+
+Loan History
+
+Onginal Principal Amount: $32,500.00 Number of Payments Delinquent: Monthly P&I Amount: $32,500.00 Effective Date:
+Unpaid Principal Balance: ay Type Code: Monthly Tax EScrOM 59 09 Date Last Certieg
+Tax Escrow Balance: Pay Application Code: (aoamnay Fervetcam $0.00 Date Next Certified:
+Farretzm Balance Payment status: Monthy Sewvice Fet 5509 Duration fm months}
+Insurance Damage Batance: Principal Paid YTD: ($500.00) ——! paeroat am 0.00 Formula 2 Factor:
+Service Fee Balance: Interest Paid YTD: Adjusted Income:
+Interest Tax Balance: Late Charge Paid YTD: Totes: ‘$32,500.00 Formula 1 Pay:
+Sunpense Eacrow atance: RealEstate Tax Paid YTD: Forma 2 Py:
+Late Charge Balance: Times Late YTD
+Forbearance - Sar
+Curent Loan Balance Tames Late Tota: be
+Credit Line Balance: Claim Pay Date: Forbearance - Duration:
+Forbearance
+Payoff Date: Scheduled Amount:
+
+Figure 52: View Loan Summary
+
+4.2.3.2. View Loan Detail
+
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record.
+
+too Somme ESTEE) on a
+
+Disbursements Mth Statements Customer Service
+
+Loan Recording Borrowers Property Inspection Documents Notes © Mortgage Release Exceptions Servicing Foreclosure Bankruptcy “Reinstatement = Payoff. ~— Transactions. Loan History
+
+# Loan Detail
+
+FHA # tt Mtg: Current Net Prin Limat: Mig ins Cert Date: owo22011 Hold Code 3:
+Loan Class Code: PM - Purchased Money ARM Change Date: Vacancy Date:
+Contract Type Code: F Orig Loan Date: owo220n ADP Code: 0703
+Last CO Response: Maturity Date: 04012012
+Due Date Deting NC:
+
+Figure 53: View Loan Detail
+
+4.2.3.3, View Loan Filing
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Recording
+
+Disbursements Mth Statements Customer Service
+
+Loan Filing Borrowers Property inspection © Documents Notes Mortgage Release Exceptions ~— Servicing Foreclosure = Bankruptcy Reinstatement Payoff Transactions. Loan History
+
+i Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Name: ara Fie Sates Contract: Cloning Date:
+Prior Servicer Phone: Labet Prine: HUD Setement: Expiration Date
+Project Name: tig Doe Exists: Note Doc Exists: File Entered Date:
+Project No: Deed Restriction: Home Owner File Received Date:
+Project 10 gr,gat orm or type hotce Recenved
+Voucher Number: Box Number: Lender Nome:
+
+VRS Number:
+
+Figure 54: View Loan Filing
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 23
+
+@®SMART
+
+4.2.3.4. View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing [AECUMISERETIE Borrowers Property Inspection Documents Notes Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy Reinstatement Payot Transactions §—_Loan History
+Disbursements Mth Statements Customer Service
+
+4 Loan Recording
+
+Loan Recording Information
+
+Book Wo: Release Prepared Dste Notary:
+Page No: Origination Date: Prepared By:
+lastrument Loan Recorded Date: Onigina Trustee:
+Payot bat mortgage Amount $32,500.00 Susie trustee
+Autnonzed wines 4 wines 2
+
+Figure 55: View Loan Recording
+
+4.2.3.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording [ESMEAIEEE Property Inspection Documents Notes Mortgage Release © Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff Transactions. Loan History
+Disbursements Mth Statements Customer Service
+
+& Borrowers Information
+
+Borrower Information Co-Borrower Information
+SSW:
+
+First Name: SSN: Pe First Name:
+Barth Birth
+Last Name: Ee Last Name: Ha
+Home Work
+Phone. Phone: Phone:
+!
+
+Marital
+Status:
+
+es eee
+
+Address 1 as Mail To Name:
+Address 2 Address 1:
+it ite: Address 2:
+
+7 iz __
+Zip Code: County; Address 3:
+
+Figure 56: View Borrowers
+
+4.2.3.6 View Property Inspection
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+
+Notes Mortgage Release Exceptions. §— Servicing Foreclosure = Bankruptcy Reinstatement Payoff =—Transactions. ©—_Loan History
+Disbursements Mth Statements Customer Service
+
+# Property Inspection
+
+Figure 57: View Property Inspection
+
+4.2.3.7. View Documents
+To access Documents, click on the [DOCUMENTS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Fifing Loan Recording Borrowers Property Inspection [EEE Notes © Mortgage Release Exceptions © Servicimg Foreclosure Bankruptcy Reinstatement Payoff’ ~—Transactions. «Loan History
+Disbursements Mth Statements Customer Service
+
+G Documents
+
+ption Crea « te Status
+
+223058.pat Comesponcence 02222013 [we
+0527.00 PM EST
+
+195665.pdt Escrow 10242012
+02:18:07 PM EST
+
+Figure 58: View Documents
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 

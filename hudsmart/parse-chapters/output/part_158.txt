@@ -1,0 +1,731 @@
+ and the user can not add new foreclosure activities for loan programs.
+
+7.2.1. View an Active Foreclosure Activity
+
+In the Foreclosure Activity table, a green document icon (8) and (A) means that the Foreclosure Activity
+is Active. The active Foreclosure Activity will open with its timeline displayed in the main data table.
+See Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Foreclosure Activity
+
+B Foreclosure (A)
+
+Loan Summary Loan Detail Loan Filing = Loan Recording Borrowers Property Inspection Documents Notes. © Mortgage Release Exceptions © Servicing [EIEN Bankruptcy —_Disbur
+
+© Foreclosure
+
+Request to HUD to assign commissioner 12062018 127082018
+Commissioner assigned by HUO 121112018 1210672018
+
+Loan referred to Commissioner/00J 12032018 121082018
+Rec Acknowledgement of reterrat 12152018 1210672018
+
+Title Search Received r2e82018 121082018
+Notice of Sale mated to borrowers Menholders ove72019 1210672018
+
+Publication of Sale 02/112019 121082018
+
+Order Occupancy inspection 0211112019 121062018
+
+Figure 132: Active Foreclosure Activity (Partial Claim)
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 55
+
+@SMART
+
+7.2.2 View an Inactive Foreclosure Activity
+
+In the Foreclosure Activity table, a grey document icon (8) and (I) means that the Foreclosure Activity is
+Inactive. The active Foreclosure Activity will open with its timeline displayed in the main data table. See
+Table 3 for a description of the buttons that display on top of the main Data Table.
+
+7.2.3. Foreclosure Management
+The Foreclosure Management button offers a general summary of the Foreclosure activity.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. © Mortgage Release Exceptions §=« Servicing [EEEIICM Gankruptcy Disbursements Payoff’ =—Transactions Customer Service
+
+B Foreclosure Management (EDIT MODE):
+
+Figure 133: Foreclosure Management (Partial Claim)
+
+7.2.4 View Notes
+
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record. To go back to the Foreclosure Tab, click on [BACK TO FORECLOSURE].
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 56
+
+@SMART
+
+8 Using the Mortgage Release Module
+
+8.1 Mortgage Search
+8.1.1 Searching for Loans with Mortgage Release History
+
+Loans in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Mortgage Release Search Screen.
+
+Q Mortgage Release Search Screen
+Search Database:
+
+FHA Case # Loan Progeam:
+
++ | Borrower Name:
+
+Loan Skey: * Property Address:
+
+Lender Name
+
+jose Box
+
+R
+R
+
+Note Type: Select a Note + Note Text Note Created By: elect a Note Created By
+
+Last 4 Digits of SSN:
+
+fiewilt tieaders: FHA Case No) (*Loan Program Borrower Name | = Property Address || Property State «Actual Osis
+
+| cerca cece
+
+Figure 134: Mortgage Release Search Screen
+
+Step 1: Click [MORTGAGE RELEASE] from the top Navigation menu. Select [MORTGAGE SEARCH] from
+the dropdown.
+Step 2: Select the search criteria from the displayed search fields in the Mortgage Release Search
+
+Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State
+
+Detailed Status of the loan
+
+Release Status
+
+Shows whether the release is Active or Inactive.
+
+Release Step Status
+
+Shows whether the mortgage release step is Pending or Completed.
+
+Note Text
+
+Searches any word within the content of notes within the Notes tab of the Loan Record
+
+Borrower Name
+
+Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Release Step Mortgage Release actions that have been or need to be completed.
+Keyword Searches any word within the Search Results data table
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Prin Amt
+
+Original principal amount of the loan in dollars (numerals only)
+
+Release Scheduled Date
+
+Date mortgage release step was created or added to a loan
+
+Release Completed Date
+
+Date mortgage release step was completed
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Table 9: Mortgage Release Search Fields
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 57
+
+Step 3:
+
+Step 4:
+Step 5:
+
+8.1.2
+
+@®SMART
+Click [START SEARCH].
+Figure 135: Mortgage Release Search Screen Buttons
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, you will be automatically directed to the Mortgage Release
+tab.
+
+Searching for Loans without Mortgage Release History
+
+Loans without Mortgage Release history can be retrieved through various combinations of the search
+criteria available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Mortgage Release tab.
+
+Note: You can also access loans with Mortgage Release history through this process.
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 58
+
+@SMART
+
+8.2 Mortgage Release Tab
+
+Once the Loan record is open, the Mortgage Release Module is found on the Mortgage Release Tab. If
+Mortgage Release activity has been initiated for a Loan, the Mortgage Release tab in the Loan Record
+window will be highlighted in light blue and will display the current Mortgage Release activity of that
+Loan.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inapeetion Documents | = | -— Servicing Foreclosure Ban upicy Disbursements Payoff Transactions Customer Service
+
+® Mortgage Release
+
+Full Release (A)
+Bicnecks
+
+Changes By =| Change Date
+
+Created 8
+ono772019
+019
+0072019
+
+?
+3
+&
+H
+i
+i
+a
+§
+BBB
+
+Figure 136: Mortgage Release Tab (Partial Claim)
+
+Description
+Export to Excel BiExcel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+
+Mortgage Release View the information for the Mortgage Release Activity
+Management " selected for the Loan.
+
+View Notes Takes you to the Notes tab for the loan. See Section 3.2.8.
+Search and filter the page by specific keywords. The main
+table will filter based off of the keyword search.
+
+Table 10: Data Table Buttons
+
+Search Search:
+
+This information is read-only, and the user can not add new release activities for loan programs.
+
+8.2.1 View an Active Mortgage Release Activity
+
+In the Release Activity table, a green document icon (&) and (A) means that the Mortgage Release
+Activity is Active. The active Mortgage Release Activity will open with its timeline displayed in the main
+data table. See Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Release Activity
+Loan Summary Loan etal Lown Filing Lown Recording Bortowere Property npecson ocumants Note GEMNMEMWNIINY cxcopsons Servicing Fevclonue ant recy | Diabervemente Payot Transactions || Cu
+
+W Mortgage Release B Full Release (A)
+ica Bi checks
+
+Full Release (A)
+Bicnecks
+
+Figure 137: Active Mortgage Release Activity (Partial Claim)
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 59
+
+@SMART
+
+8.2.2 Mortgage Release Management
+The Mortgage Release Management button shows whether the selected Mortgage Release is either
+Active or Inactive.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents Notes PDTITITEEEETSE Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff! =—Transactions. = Customer Service
+B Mortgage Release Management (EDIT MODE):
+
+Mortgage Release Management
+
+Figure 138: Mortgage Release Management (Partial Claim)
+
+8.2.3. View Notes
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record. To go back to the Mortgage Release Tab, click on [BACK TO MORTGAGE RELEASE].
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 60
+
+@SMART
+
+8.3 Check Search
+
+8.3.1 Searching for Loans with Disbursement Checks
+
+Checks in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Check Search Screen.
+
+Q Check Search Screen
+Search Database: SMART PRODUCTION DATABASE
+
+FHA Case &: Loan Program:
+
+Loan Skey: Loan Status
+
+Loan #: Loan State:
+
+Lender Name: Select a Lender + | Printed By:
+
+Reimbursable: Select a Status * | Prepared By: Select a Prepared By
+
+Last 4 Digits of SSW: Pay To: Cleared:
+
+Check #: Keyword: Voiaed:
+
+Note Type: + | Note Text Note Created By:
+
+Pay To Type: ject 8 Pay to Type + | TOPS Withnela?: Select TOPS vatnnela * TOPSCheck Status: | Select a TOPS Check Statu + | TOPS Amount From: To:
+
+Loan Skey | (= FHA Case No) Loan No} (= Loan Program) |= Borrower Name || «Pay To |» Disbursement Type || «Printed | « Voided) (= Cieared «Check Number) (= Printed Check Date) = Check Amount) (= Bank info
+
+<==
+
+Result Headers:
+
+Figure 139: Check Search Screen
+
+Step 1: Click [MORTGAGE RELEASE] from the top Navigation menu. Select [CHECK SEARCH] from the
+dropdown.
+Step 2: Select the search criteria from the displayed search fields in the Check Search Screen.
+
+Select any option EXCEPT Release Checks from the Search Field Disbursement Type.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name
+
+Lender associated with the FHA Case
+
+Reimbursable
+
+Included or Excluded
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+Check # Check Number
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Pay To Type Borrower or Vendor
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Printed By User who printed the check
+
+Prepared By User who prepared the check
+
+Pay To The recipient of the check
+
+Keyword Searches any word within the Search Results data table
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+TOPS Withheld? Yes or No
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Print Status
+
+Printed or Unprinted
+
+Disbursement Type
+
+Type of expenditure
+
+Cleared
+
+Included or Excluded
+
+Voided Included or Excluded
+Note Created By SMART User who created Notes in the Notes tab
+TOPS Check Status Cleared, Voided, Partially Cleared, or Partially Voided
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 61
+
+@SMART
+Search Field Definition
+
+Loan Close Date Date that a loan was closed
+
+Check Amount From Amount of the check
+
+Printed Date Date the check was printed
+
+Check Created Date Date the check was issued
+
+Cleared Date Date the check was cleared
+
+Voided Date Date the check was voided
+
+Note Create Date Date that the Note in the Notes tab was created
+TOPS Amount From Amount of the TOPS
+
+Table 11: Check Search Fields
+
+Step 3: — Click [START SEARCH].
+Step 4: = Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Step5: Once the Loan Record is open, you will be automatically directed to the Disbursement tab.
+Se oo ee
+$ Disbursements
+[Bs | ovr | on |
+
+Figure 140: Disbursement Checks (Partial Claim)
+
+Note; Disbursement instructions can be found per Loan Program within Section 4.2 Accessing Detailed
+Loan Information.
+
+8.3.2
+
+Searching for Loans with Release Checks
+
+Checks in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Check Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+
+Step 4:
+Step 5:
+
+Loan Summary
+
+Click [MORTGAGE RELEASE] from the top Navigation menu. Select [CHECK SEARCH] from the
+dropdown.
+
+Select the search criteria from the displayed search fields in the Check Search Screen.
+Select Release Checks from the Search Field Disbursement Type.
+
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, you will be automatically directed to the Mortgage Release
+
+tab.
+
+Loan Detail Loan Filmg Loan Recording ‘Borrowers Property Inspection Documents Notes Exceptions Servicing Forectosure Bankruptcy Ost! BY Full Release (A) ner Service
+
+@B Mortgage Release
+
+Bi Full Release (A)
+
+moc
+
+checks
+
+Release
+
+Step 6:
+
+Check Amount Check Date Pay To Check Voids Check Voided Date Check Clean Check Clea
+Release Checks $97.00 swo72012 y y N
+
+Add New Mortgage
+Release Checks $5.00 oa142012 Y N N
+
+Gi Checks
+
+Disbursement Type
+
+Changed By
+
+Figure 141: Release Checks (Partial Claim)
+
+From the Mortgage Release tab, click on the Checks link from the Release Activity table.
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 62
+
+@SMART
+
+9 Using the Cash Management Module
+
+Within the Cash Management Module, there are two types of transactions: SMART and Pay.Gov.
+SMART tickets are created using the SMART application. Pay.Gov transactions are payments that are
+made on Pay.Gov and submitted via a validated submission forum to SMART. The © icon will appear
+before or after the Pay.Gov Ticket Number anywhere a transaction appears (such as the Transactions
+Tab within the Loan Module, Trial Balance - USSGL Account, and the Transaction Search Screen).
+
+Data is refreshed on a nightly basis; however, if users need to refresh the data for today’s transactions,
+they can do so from Cash Management. The Cash Management screens will display Transactions as of
+the last data refresh.
+
+@ Trial Balance
+
+Start Month 111201 >| End Month: 1/2 + | Display Type: snmary .
+Summary of Account Chi
+
+Figure 142: Data Refresh
+
+Cc Last Data Refresh 12/04/2019 03-51-03 PM EST
+
+Figure 143: Last Data Refresh
+
+From any non-Pay.Gov screen under the Cash Management header, users will see a gold button below
+the Help Desk button. By clicking it once, users can see the last time transaction data was refreshed. By
+clicking it once more, users will refresh the data. Allow 1-2 minutes for the page to load.
+
+9.1 Trial Balance
+To access the Trial Balance, click [CASH MANAGEMENT] from the top Navigation menu and then select
+[TRIAL BALANCE] from the dropdown.
+
+Gi Trial Balance
+
+Start Month: 2 © End Month: 1172019 * | Display Type:
+
+JSSGL Account
+
+shment
+
+$85.00)
+
+Figure 144: Trial Balance
+
+By default, the Trial Balance screen will display the most recently completed month within the dates in
+the fields.
+
+Users can customize the display by Start Month, End Month, and Display Type (as a Summary or
+
+Breakdown by Months). These are the following available actions from the Trial Balance page:
+1. Update Report — This button will update the page with the selected dates/display type.
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 63
+
+@SMART
+
+2. Summary of Account Changes — This button will open a page that summarizes account.
+Start/End Month can be selected.
+
+@ summary of Account Changes
+
+start Month ar018 ~ | na Monin 22019
+== eee eet
+
+Fund Balance with Treasury as of 12/2019 $1,043,310,77797
+Cash -Collection (317,422.48)
+Cash - Disbursement $2.00
+
+Ending Balance as of 122019 $1,043628,200.45
+
+Accounts Recetvable as of 122019 ($41,821.20
+Accounts Receivable Establishment $92,804.00
+‘Accounts Recelvable . Collections ($28,333.00)
+Accounts Receivable - Write OfT $0.00
+
+Ending Balance $24549.90
+
+Figure 145: Summary of Account Changes
+
+3. Trial Balance Summary — This button will open a page that displays the Unadjusted Trial Balance
+Summary for the most recently completed month. Start/End Month can be selected. Export
+capabilities include Excel, PDF, and Print.
+
+@ Unadjusted Trial Balance Summary (December 2019)
+
+Start Month 122019 * End Month: 122019
+
+mast
+
+Fund Balance with Treasury $1,043,628,200.45
+
+Accounts Recelvabie $24,649.80
+
+ble ($64.00
+
+Loans Rec $14,765 621,993.90
+Allowance for Loss on Loans Receivable 30.00
+Penalties and Fines Recervable - Loans $2,649.60
+Allowance for Subsidy $274540.904 45
+Advances and Prepayments s72.22481
+Accounts Payable $7222481
+Other Deferred Revenue $725 295.00
+Labinty for Non-Fiduciary Deposit Funds and Undeposites $15,896 202,135.60
+Cosections
+Interest Revenue $254,11253
+Penalties and Fines Revenue 3284960
+Other Revenue $0.00
+
+Bad Debt Expense $277,406.43
+
+[EE Ee ee Berl
+Figure 146: Trial Balance Summary
+
+4. Clicking a USSGL Accounting will open the details of that specific USSGL Account. Start/End
+Month can be selected. Users can narrow the search within the USSGL account through Loan
+Program and Transaction Code. Export capabilities include Excel, PDF, and Print.
+
+GIUSSGL Account
++ 13-1067-00 (Accounts Recehatle- Veto OM
+
+Figure 147: USSGL Account
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 64
+
+@®SMART
+9.2 TROR Report
+
+To access the Treasury Report on Receivables and Debt Collection Activities Report, click [CASH
+MANAGEMENT] from the top Navigation menu and then select [TROR REPORT] from the dropdown.
+
+Gi Treasury Report on Receivables and Debt Collection Activities Report
+
+Start Quarter 4 - 2019 + | End Quarter
+
+(A) AtAgency $0.00
+
+(B) At Third Party $0.00
+{C) Asset Sale $0.00
+(0) Collections by Treasury through Offset and Cross-Savings
+{E) Collections by Sale After Foreclosure $0.00
+(F) Collections by Department of Justice $0.00
+{G) Other . must footnote $0.00
+
+5. Adjustments (0)
+
+(A) ReclassifiediAdjusted Amounts $0.00
+{B) Adjustments Due to Sale of Assets $0.00
+{C) Consolidations $0.00
+
+(0) Foreciosure Adjustments
+
+Mt Debts Reinstated for Collection $0.00
+
+$14,772,401,525.40
+
+Figure 148: Treasury Report on Receivables and Debt Collection Activities Report
+
+The TROR screen displays the most recently completed quarter by default. Users have the ability to set
+their display preferences by Start Quarter and End Quarter. These are the following notable options
+available from this page:
+1. The number in parenthesis reflects the number of FHA Case Numbers included in that item.
+2. Selecting a line item (in blue) will open a page listing the USSGL Accounts used for that line item.
+Start/End Month can be selected. Users can narrow the search within the line item through
+Loan Program and Transaction Code.
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 65
+
+@SMART
+
+9.3 Transaction Search
+
+Transactions can be retrieved through various combinations of the search criteria available on the
+Transaction Search Screen.
+
+Q Transaction Search Screen
+
+FHA Case #:
+Loan Skey:
+Loan #:
+
+Transaction Created
+By:
+
+Multiple FHA Case #'s:
+USSGL Account:
+
+Loan Program:
+
+Step 1:
+Step 2:
+
+Step 3:
+
+Loan Status * | Pay.gov Tracking ID: Transaction Date >=
+
+ADP Code: > Transaction Type: ansaction Total >=
+
+Fund: * | Fund Code: terest Amount >=
+
+* | Fund Type: Select a
+
+ject a Created By + | Activity Type: * | Mortgage ins Date >=
+
+FHA Case No ‘ADP Code (

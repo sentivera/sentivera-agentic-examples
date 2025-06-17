@@ -1,0 +1,722 @@
+ding ‘Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Disbursements Payoff ‘Transactions Customer Service
+& Bankruptcy Management (EDIT MODE)
+
+| cancet | | Status: Active
+
+Bankruptcy Management For Chapter 7
+
+Chapter:
+
+Status:
+
+trict:
+
+Figure 185: Bankruptcy Management (Chapter 7 — Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Bankruptcy tab. The selected Bankruptcy Activity will now display
+with a green document icon (&) and (A) in the name.
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 74
+
+@®SMART
+6.1.8 View Notes
+
+To view notes, click on the [ViEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents FEE oro: etease Exceptions servicing Foreclosure Bankruptcy _Dssbursements
+
+&B Notes
+
+ote type gh importance
+
+Created By
+
+Figure 186: Notes Tab (Partial Claim)
+
+To go back to the Bankruptcy Tab, click on [BACK TO BANKRUPTCY].
+
+6.1.9 Edit an Original Bankruptcy Step
+
+The Edit Item action permits the user to update the status of the selected Bankruptcy step when there is
+a need for an update or change.
+
+Step 1: Click on [EbIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents Notes Morlgaye Release Exceptions Servicing Foreclosure Disbursements Payot ‘Transactions Customer Service
+
+B Bankruptcy Steps (EDIT MODE)
+
+Bankruptcy Steps For Proof of claim filed
+
+Bankrunty Step Proot of clam tes
+status [pete
+Scheduled Date { caascors v
+
+Actual Date:
+
+Figure 187: Edit Bankruptcy Step (Chapter 7 — Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Bankruptcy step and all edited information will display in that timeline’s step.
+
+For a Chapter 7, Chapter 11, and Chapter 13 Bankruptcy, if the user saves the action date for any of the
+original bankruptcy steps below, then an auto-note will generate.
+
+e Proof of Claim Filed
+
+e Proof of Claim Recorded
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 75
+
+@SMART
+
+Loan Summary Loan Detail Loan Fling Loan Recoraing Borrowers Property nspection Documents EM ongaye Reiease Exceptions Servicing Foreclosure
+
+Notes
+
+Bankruptcy Disbursements Payoff Transactions. © Customer Service
+
+Changed By
+
+Creat
+Ato Note Bankruptcy Fed 4
+
+0272172018
+12-4950 PM EST
+
+Figure 188: Auto-Note Generated (Chapter 7 — Partial Claim)
+
+For a Chapter 12 Bankruptcy, if the user saves the action date for any of the original bankruptcy steps
+below, then an auto-note will generate.
+
+e Bankruptcy Filed
+e Proof of Claim Filed
+e Proof of Claim Recorded
+
+6.1.10 Edit a New Bankruptcy Step
+
+Step 1: Click on [EbIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+Loon Summary Loan Detait Loan Filing Loan Recording‘ orrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Disbursements Payoff Transactions Customer Service
+
+® Bankruptcy Steps (EDIT MODE):
+
+Bankruptcy Steps For Contested action
+
+sta [acre
+
+Scheduled Oate: { oaznaors v
+
+Actual Date: 03022018
+
+Figure 189: Edit Bankruptcy Step (Chapter 7 — Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Bankruptcy step and all edited information will display in that timeline’s step.
+
+If the user saves the action date for any of the original bankruptcy steps below, then an auto-note will
+generate.
+
+e Bankruptcy Discharged
+
+e Bankruptcy Dismissed
+
+e Contested Action
+
+e Ordered Missing Mortgage/DOT
+e Write Off Requested/Approved
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents [ADELE Mortgage Release Exceptions == Servicing Foreclosure Bankruptcy Disbursements Payoff ~—Transactions. Customer Service
+
+& Notes
+
+Add Note
+
+‘to Note Contested Acton 22120
+
+0129.37 PM EST
+
+Figure 190: Auto-Note Generated (Chapter 7 — Partial Claim)
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 76
+
+@SMART
+
+If the user saves the action date for any of the new bankruptcy steps below, then an auto-exception will
+generate.
+
+e Bankruptcy Discharged
+
+e Bankruptcy Dismissed
+
+e Contested Action
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents Notes Mortgage Release ERIM Serving Foreclosure Gankrupicy Disbursements Payot ‘Transactions Customer Service
+
+A Exceptions
+
+em Jos To]
+
+Figure 191: Auto-Exception Generated (Chapter 7 — Partial Claim)
+
+6.1.11 Inactivate Bankruptcy Step
+
+The status of Bankruptcy steps may be changed to inactive if the user added them in error or if they are
+no longer applicable for the loan.
+
+Step 1: Click on the [EpiT Ite] link for the desired Bankruptcy step.
+Step 2: From the status column, select Inactive.
+
+Loan Summary LoanDetait_ Loan Fiting Loan Recording Borrowers Propertyinspacton Documents Notes MorigageRelease Exceptions Servicing Foreclosure ERIE osspursoments Payot Transactions Customer Service
+
+B Bankruptcy Steps (EDIT MODE)
+Bankruptcy Steps For Proof of claim filed Inactive
+akruptey Step ab af caim lea
+
+Figure 192: Inactivate Bankruptcy Step (Chapter 7 — Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+This directs the user back to the Bankruptcy tab. The selected Bankruptcy step will now display a grey
+inactive button in the status column.
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 77
+
+@SMART
+
+7 Using the Foreclosure Module
+
+7.1 Foreclosure Tab
+
+Once the Loan record is open, the Foreclosure Module is found on the Foreclosure Tab. If mortgage
+Foreclosure activity has been initiated for a Loan, the Foreclosure tab in the Loan Record window will be
+highlighted in light blue and will display the current Foreclosure activity of that Loan.
+
+Loan Summary Loan Detail Loan Filing = Loan Recording «Borrowers. © Property Inspection Documents Notes. «Mortgage Release Exceptions
+
+© Foreclosure
+
+ooo
+
+‘Bi Forectosure (A)
+
+F
+
+& Eaititem
+
+& Edit item
+
+Gf Eait item
+
+O Esit item
+
+@& Edit item
+
+& Edit item
+OF Eait tem
+& Esit item
+& Esit tem
+
+8
+8
+e
+8 OF Edit item
+8
+
+@& Eaititem
+
+Figure 193: Foreclosure Tab (Partial Claim)
+
+: Exports the data from the table into an excel
+Export to Excel Bi Excel
+P | Bec | spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Add Foreclosure F Aad Forectswe Step | Adds a new Foreclosure Step to the Foreclosure
+Add Foreclosure Steps .
+Steps Activity selected for the Loan.
+Foreclosure View the information for the Foreclosure Activity
+Management selected for the Loan.
+View Notes Takes you to the Notes tab for the loan. See Section
+3.2.8.
+Search search Search and filter the page by specific keywords. The
+main table will filter based off of the keyword search.
+
+Table 7: Data Table Buttons
+
+HECM-Assigned, HECM-Insured, and SF Data Request is read-only and the user can not add new
+Foreclosure Activities for these loan programs.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection ‘Transactions Documents Notes Mortgage Release Exceptions Servicing Bankruptcy Customer Service
+
+@ Foreclosure
+
+Figure 194: Foreclosure Tab — No Foreclosure Activity (235-Insured)
+
+If there is no Foreclosure Activity recorded for the loan, there will be no Data Table displayed on the
+right side of the Foreclosure tab (see Figure 9). The Foreclosure Type data table will display on the left
+with all of the Foreclosure Activities displayed with a blue plus mark (@).
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 78
+
+@SMART
+
+7.1.1. View an Active Foreclosure Activity
+
+In the Foreclosure Activity table, a green document icon (&) and (A) means that the Foreclosure Activity
+is Active. The active Foreclosure Activity will open with its timeline displayed in the main data table.
+See Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property inspection Documents Notes Mortgage Release Exceptions Servicing Bankruptcy _Disbursem = § Foreclosure Activity
+@ Foreciosure
+:
+
+| G Foreclosure (A)
+
+& Eoin
+o Eau
+
+62018 Gf Eon
+
+5
+
+A Ea z
+
+Figure 195: Active Foreclosure Activity (Partial Claim)
+
+7.1.2 View an Inactive Foreclosure Activity
+
+In the Foreclosure Activity table, a grey document icon (8) and (I) means that the Foreclosure Activity is
+Inactive. The active Foreclosure Activity will open with its timeline displayed in the main data table. See
+Table 3 for a description of the buttons that display on top of the main Data Table.
+
+7.1.3. Add Foreclosure Steps
+
+A predefined template of Foreclosure Activity steps is generated for a loan when the user adds a
+
+Foreclosure Activity. Various additional Foreclosure activity steps are also available and may be added
+as needed.
+
+Step 1: Click on the [ADD FORECLOSURE STEPS] button.
+Step 2: Complete all required fields.
+
+| Select a Foreclosure Step x
+
+|
+DIL approved/completed «
+
+DiL/conveyed
+
+Fel Contested/Transfer to DOJ - Judicial Fcl.
+Forebearance Plan Approved
+; Foreclosure Terminated
+Mortgagor/Heir Sale Pending
+Rec'd original unrecorded deed from DOJ
+
+Referred to attv for DIL ~
+
+Figure 196: Foreclosure Step Options
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 79
+
+@SMART
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers Property inspection Documents Notes Mortgage Release Exceptions. «=» Servicing [i EI Bankruptcy Disbursements Payot — Transactions. © Customer Service
+
+& Foreclosure Steps (ADD MODE):
+
+New Foreclosure Step
+
+Forectosure Step: Select a Foreciosure Step x
+
+Status:
+
+Scheduled Date: o2ewa01e v
+Actual Date:
+Note
+Brusxx ¢ i ac & Qh Bs \/r = #£vRigees earn
+Subs Fost ~ | Font ~ | Size A Blea Migomeseae
+
+Figure 197: Add New Foreclosure Step (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Foreclosure step and all information inserted in the add screen will display in the correct
+
+Foreclosure Activity’s timeline. If the user inserts a note into the Note field, then a Foreclosure note will
+generate in the notes tab.
+
+7.1.4. Foreclosure Management
+
+The Foreclosure Management button offers a general summary of the Foreclosure template and permits
+the user to update the status of the selected Foreclosure template.
+
+Step 1: Click on the [FORECLOSURE MANAGEMENT] button.
+Step 2: Complete all required fields.
+
+Mortgage Release — Exceptions Servicing Bankruptcy Disbursements. Payoff Transactions Customer Service
+B Foreclosure Management (EDIT MODE)
+
+Foreclosure Management
+
+~“
+
+218757
+
+Request to HUD to assign comenissioner
+
+Figure 198: Foreclosure Management (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Foreclosure management information will display in the main table and the Service
+Management screen.
+
+7.1.5. Inactivate Foreclosure Activity
+
+The status of Foreclosure Activities may be changed to inactive if the user added them in error or if they
+are no longer applicable for the loan.
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 80
+
+@SMART
+
+Step 1: Select Foreclosure Activity to inactivate and click on the [FORECLOSURE MANAGEMENT]
+button.
+
+Step 2: From the status column, select “Inactive”.
+
+Loan Summary Loan Detail Loan Filimg Loan Recording Borrowers Property inspection Documents Notes Mortgage Release Exceptions Servicing Bankruptcy _ssbursemments
+
+B Foreclosure Management (EDIT MODE):
+Pose [comet | Status: Inactive
+
+Foreclosure Management
+
+Payott Transactions Customer Service
+
+Forectosure Status: Request to HUD to assign commissioner
+
+Figure 199: Foreclosure Management (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Foreclosure tab. The selected Foreclosure Activity will now display
+with a grey document icon (8) and (I) in the name.
+
+7.1.6  Reactivate Foreclosure Activity
+Step 1: Select Foreclosure Activity to reactivate and click on the [FORECLOSURE MANAGEMENT]
+button.
+Step 2: From the status column, select “Active”.
+
+{co Sonmary Lemont | Lom ring | Lon nacrama | sorown | Poowiyimercion oocmens woe worn nase cxeptone | Sovcen (ERE) sorncy onbuenens ree amacions conor sre
+
+B Foreclosure Management (EDIT MODE):
+wk Status: Active
+
+Foreclosure Management
+
+\ttorney
+
+Figure 200: Foreclosure Management (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Foreclosure tab. The selected Foreclosure Activity will now display
+with a green document icon (8) and (A) in the name.
+
+7.1.7. View Notes
+
+To view notes, click on the [ViEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 81
+
+Loan Summary Loan Detat_LoonFing Loan Recording Borrowers Propertyinspection Documents REIN worigage Relesse Exceptions Serving Foreclosure Bankruptcy Disbursements Payoff ‘Transactions Cuslomer Service
+&B Notes
+=
+moc
+stance
+
+sat
+High
+
+Auto Note
+
+Figure 201: Notes Tab (Partial Claim)
+
+To go back to the Foreclosure Tab, click on [BACK TO FORECLOSURE].
+
+7.1.8 Edit Foreclosure Step
+
+The Edit Item action permits the user to update the status of the selected Foreclosure step when there
+is a need for an update or change.
+
+Step 1: Click on [EbIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing ESTEEM Gankruptcy Disbursements Payoff ~— Transactions. © Customer Service
+
+B Foreclosure Steps (EDIT MODE):
+
+Foreclosure Steps For Request to HUD to assign commissioner
+
+Foreclosure Step: Request to HUD to assign commissioner
+
+status [ Aete ¥|
+
+Scheduted Date: [carscots v |
+
+Figure 202: Edit Foreclosure Step (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Foreclosure step and all edited information will display in that timeline’s step.
+
+If the user saves the actual date for any of the Foreclosure steps below, then an auto-note will generate.
+e Request to HUD to assign commissioner
+e Commissioner assigned by HUD
+e CL Package sent to Foreclosing Attorney
+e Foreclosure Sale Held
+e Rec’d copy of unrecorded fcl deed
+e Rec’d copy of recorded fcl deed
+e Attorney Invoice Received
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 82
+
+®SMART
+e Invoice sent to Accounting Department for Payment
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents MEINEM Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff Transactions Customer Service
+
+&B Notes
+
+=!
+
+[oes J aroe ] orm |
+No
+
+te type High importance Note
+
+‘Auta Note Request Sent to HUD for commssionarassigrant «sd
+
+022172018
+02:31:51 PM EST
+
+Figure 203: Auto-Note Generated (Partial Claim)
+
+7.1.9 Inactivate Foreclosure Step
+The status of Foreclosure steps may be changed to inactive if the user added them in error or if they are
+no longer applicable for the loan.
+
+Step 1: Click on the [EpiT ITE] link for the desired Foreclosure step.
+Step 2: From the status column, select Inactive.
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers. Property Inspection Documents Notes. © Mortgage Release Exceptions. © Servicing
+
+Bankruptcy Disbursements Payoff ~—Transactions. = Customer Service
+
+B Foreclosure Steps (EDIT MODE):
+
+Status: Inactive
+Foreclosure Steps For Request to HUD to assign commissioner
+
+Figure 204: Inactivate Foreclosure Step (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+This directs the user back to the Foreclosure tab. The selected Foreclosure step will now display a grey
+inactive button in the status column.
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 83
+
+@SMART
+
+8 Using the Mortgage Release Module
+
+8.1 Mortgage Search
+
+8.1.1 Searching for Loans with Mortgage Release History
+Loans in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Mortgage Release Search Screen.
+
+Q Mortgage Release Search Screen
+
+Search Database:
+
+FHA Case # Loan Progeam:
+
+Loan Skey:
+
+Lender Name
+
+jose Box
+
+Last 4 Digits of SSN:
+
+Result Headers:
+
+R
+R
+Note Type: Select a Note + Note Text
+
++ | Borrower Name:
+
+* Property Address:
+
+FHA Case No) ("Loan Program Borrower Name | =Property Address | = Property State (Actual Oate
+
+ae sok te
+Figure 205: Mortgage Release Search Screen
+
+Step 1: Click [MORTGAGE RELEASE] from the top Navigation menu. Select [MORTGAGE SEARCH] from
+
+the dropdown.
+
+Step 2: Select the search criteria from the displayed search fields in the Mortgage Release Search
+
+Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Last 4 Digits of SSN
+
+The last four digits of the Borrower’s Social Security Number
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State
+
+Detailed Status of the loan
+
+Release Status
+
+Shows whether the release is Active or Inactive.
+
+Release Step Status
+
+Shows whether the mortgage release step is Pending or Completed.
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Release Step Mortgage Release actions that have been or need to be completed.
+
+Keyword Searches any word within the Search Results data table
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Prin Amt
+
+Original principal amount of the loan in dollars (numerals only)
+
+Release Scheduled Date
+
+Date mortgage release step was created or added to a loan
+
+Release Completed Date
+
+Date mortgage release step was completed
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Table 8: Mortgage Release Search Fields
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 84
+
+
+Step 3:
+
+Step 4:
+Step 5:
+
+@®SMART
+Click [START SEARCH].
+Figure 206: Mortgage Release Search Screen Buttons
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, you will be automatically directed to the Mortgage Release
+tab.
+
+8.1.2. Searching for Loans without Mortgage Release History
+Loans without Mortgage Release history can be retrieved through various combinations of the search
+criteria available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Mortgage Release tab.
+
+Note: You can also access loans with Mortgage Release history through this process.
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 85
+
+@SMART
+
+8.2 Mortgage Release Tab
+
+Once the Loan record is open, the Mortgage Release Module is found on the Mortgage Release Tab. If
+Mortgage Release activity has

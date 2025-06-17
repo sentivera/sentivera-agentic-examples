@@ -1,0 +1,691 @@
+
+
+4.1.4.3. Clear Search Fields
+
+To clear the search fields in the Loan Search Screen, click the [CLEAR SEARCH FIELDS] button. The
+information in the search fields will be cleared. Ten records will still remain in the Dashboard.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 25
+
+@SMART
+
+4.2 Loan Wizard
+
+New Loan Records can be added to SMART using the Loan Wizard in the Loan Module.
+
++ New Loan Wizard
+
+4.2.1
+Step 1:
+Step 2:
+
+Loan Program: | Selecta Loan Program x | Loan status: OPEN - Open Loans
+
+FHA Case #: x Loan #:
+
+Loan Type: Select a Loan Type >| Original Principal Amt: x |
+ARM Index: Select ARM Index
+
+| ARM Period: Select ARM Period *|
+
+Figure 46: New Loan Wizard
+
+Add New PMM Loan Records
+
+Click [LOAN] from the top Navigation menu. Select [LOAN WIZARD] from the dropdown.
+Complete all the required fields shown in red. For Loan Program, select “PMM.” When
+
+the Loan Program has been selected, the following tabs will display: Loan Summary, Loan
+Detail, Loan Filing, Loan Recording, and Borrower/Entity.
+
+Step 3:
+
++ New Loan Wizard
+
+B Loan Summary
+
+On the Loan Summary Tab, complete all required fields shown in red, then click [NEXT].
+
+Loan Program: | Pama Loan Status: OPEN - Open Loans
+
+races
+
+7611201912
+
+origina Pinca Amt: | x
+
+Loan Filing ¥ Loan Recording Borrower / Entity x
+
+Unpaid Principat Balance: Pay Type Code:
+
+Pay Application Code: | Sel
+Payment Status: Select 2 Payment Status
+
+Principal Paid YTD:
+
+Figure 47: New Loan Wizard — Loan Summary
+
+Step 4: On the Loan Details Tab, complete all required fields shown in red, then click [NEXT].
+Lown Somay Lown Fina 7 || Loon Recoring || Boroweri nay x
+B Loan Detail
+Loan tern a days: [an ongasitomone: = [ —S=S*d«
+Loan status Loan maueny ae: { x
+Hold Code 1 Select & Hold Code 1 . Interest Rate {t~™—C SY
+Figure 48: New Loan Wizard — Loan Details
+Step5: Onthe Loan Filing Tab, complete all required fields shown in red. Click [NEXT].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 26
+
+@®SMART
+
+(oo Sma | Loo vt Loum Recodg || Boomer Ey
+
+Loan Filing Information
+
+Loan Filing Information
+
+Home Owner incentive: | Select a Home Owner Incentive + | Closing Date: 1172019 | Expiration Date: 05/14/2020
+HUD Settlement: ‘Select a HUD Settlement * | Mortgage Docs: Note Docs:
+Label Printed: ‘Select a Label Printed + | Sales Contract: ‘Select a Sales Contract
+
+Figure 49: New Loan Wizard — Loan Filing
+
+Step 6: Onthe Loan Recording Tab, complete all required fields shown in red. Click [NEXT].
+
+Loan Summary Loan Detail Loan Filing v Borrower / Entity x
+
+Loan Recording
+
+Authorized Seiectan Authorized Perion _—_-~) Mortgage Amount 0000 Substitute Trustee: [ Senct a Substtste Trustee
+
+Figure 50: New Loan Wizard — Loan Recording
+Step 7: On the Borrower/Entity Tab, complete all required fields shown in red. Click [NEXT].
+
+Loan Summary Loan Detail ¥ Loan Filing ¥ Loon Recording
+
+B Borrower / Entity Information
+
+General Information
+
+Borrower’ Entity x
+Name:
+
+SSN /TIN:
+
+Property Address
+
+Address 1: x
+
+Address 2:
+
+cay: x
+State ‘Select a State *
+Zip Code: x
+County:
+
+Mailing Address
+
+Address 1:
+
+Address 2:
+
+State ‘Select a State
+
+I
+Figure 51: New Loan Wizard — Borrower/Entity
+Step 8: After all required fields are completed, click on the [SUBMIT] button located in the
+Property Inspections Tab.
+
+Step 9: From the confirmation pop-up, click on the [SUBMIT] button.
+
+Note: If all required fields are not completed, a warning pop-up will display saying “Marked fields are
+required. Please re-submit them again.”
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 27
+
+4.2.2
+
+Add New Common Loan Records
+
+@SMART
+
+Note: Common Loan Records include all loans except for Partial Claim, PMM, Secretary Held, HECM-A,
+HECM-I, and SF Data Request.
+
+Step 1:
+Step 2:
+
+Step 3:
+
+B Loan Summary
+
+Click [LOAN] from the top Navigation menu. Select [LOAN WIzARD] from the dropdown.
+Complete all the required fields shown in red. For Loan Program, select any Loan Program
+except those noted above. When the Loan Program has been selected, the following tabs
+will display: Loan Summary, Loan Detail, Loan Filing, Loan Recording, Borrowers, and
+Property Inspection.
+On the Loan Summary Tab, complete all required fields shown in red, then click [NEXT].
+
+Loan Detail Loan Filing Loan Recording
+
+Borrowers Property Inspection x
+
+Pay Type Code:
+
+Pay Application Code: Select » Pay Applica
+
+Figure 52: New Loan Wizard — Loan Summary (235-Insured)
+
+Step 4: On the Loan Details Tab, complete all required fields shown in red, then click [NEXT].
+Lown Sommay Lown Fung || Lown macorang || somo x Proper mapecion
+B Loan Detail
+Figure 53: New Loan Wizard — Loan Details (235-Insured)
+Step5: Onthe Loan Filing Tab, complete all required fields shown in red. Click [NEXT].
+Loan Summary Loan Detail Loan Recording Borrowers X Property Inspection X
+
+B Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Name:
+Project Name
+
+Nard Fie
+
+Label Printed:
+
+Dees Restriction
+OF Cert (Form
+9548):
+
+Voucher Number
+
+ist:
+
+elect Select
+jolt oct
+Seect + | Home Owner incentive: | Select
++| OF Type Select an OT Type
+VRS Number
++ | Note Doc Exists: Select
+
+* | Closing Date:
+
++ | Expiration Date:
+
+* | File Entered Date:
+
+* | Notice Recetved Date:
+
+* | File Received Date:
+
+> | Box Number:
+
+Figure 54: New Loan Wizard — Loan Filing (235-Insured)
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 28
+
+@®SMART
+
+Step 6: Onthe Loan Recording Tab, complete all required fields shown in red. Click [NEXT].
+
+Loan Summary Loan Detail Loan Filing [ESEEEEEEISEN Borrowers Property Inspection x
+
+B Loan Recording
+
+Loan Recording Information
+
+Book No Release Prepared Date: Nour sect a Notary
+Page No nginaton Date Prepared By Sect a Prer Servicer Name
+Instrument No Loan Recorded Date: Origine Trustee: {Select an Orgal Trustee
+Mortgage Payott Date Substive Trustee: | Selecta Substive Trustee
+Aumorized —  SeiectanAunorzed Penson | Witness 1 Sect winess 1 >| wanes 2 eects 2
+
+Figure 55: New Loan Wizard — Loan Recording (235-Insured)
+
+Step 7: On the Borrowers Tab, complete all required fields shown in red. Click [NEXT].
+
+Loan Summary Loan Detsil Loan Filing Loan Recording [ESAMEM Property Inspection x
+
+[ Borrowers Information
+
+Work Phone: Matta!
+
+Address 2:
+
+Figure 56: New Loan Wizard — Borrowers (235-Insured)
+Step 8: Onthe Property Inspection Tab, complete all required fields shown in red.
+
+Loan Summary Loan Detal Loan Fling Loan Recording Borrowers v
+
+B Property Inspection
+
+Colect Tax Escrow: Select
+
+Property Condition: Select
+
+|
+Figure 57: New Loan Wizard — Property Inspection (235-Insured)
+
+Step9: After all required fields are completed, click on the [SUBMIT] button located in the
+Property Inspections Tab.
+Step 10: From the confirmation pop-up, click on the [SUBMIT] button.
+
+Note: If all required fields are not completed, a warning pop-up will display saying “Marked fields are
+required. Please re-submit them again.”
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 29
+
+@SMART
+
+4.3 PMC Queue
+
+The PMC Queue is a repository of loan records that have been added to SMART through a data upload
+that already had records in SMART. From this page the user can reconcile the duplicate loan records.
+To access the PMC Queue, click [LOAN] from the top Navigation menu and select [PMC QUEUE] from the
+dropdown.
+
+FB PMC Queue - Cases found in SMART - Pending Decision
+
+FHA Case No oan No Partial Claim Amount x Date Entered into PMC Queue
+
+$31,179.17 107302018, 12/05/2018 02:00:31 AM View Existing Loan
+
+import into Existing Loar
+Delete from PMC
+$5,139.58 s162018 12/05/2018 02:00:31 AM View Existing Loan
+import into Existing Loan
+‘Queve
+$12,737.77 11202018 12/05/2018 02:00:31 AM View Existing Loan
+
+38,208.14 08/13/2018 12/05/2018 02:00:31 AM
+Delete from PMC Queve
+$21,081.97 sov1172018 12/05/2018 02:00:31 AM View Existing Loar
+Import into Existing Loan
+Delete trom PMC Queue
+$27,162.59 10/05/2018 12/05/2018 02:00:31 AM View Existing Loan
+import into Existing Loar
+Delete from PMC Queve
+$30,671.64 s0/1172018 12/05/2018 02:00:31 AM View Existing Loan
+import into Existing Loan
+Delete from PMC Queue
+$4,099.48 sure2018 12/05/2018 02:00:31 AM View Existing Loan
+import into Existing Loan
+Delete from PMC Queue
+$46,454.29 1152018 12/05/2018 02:00:31 AM View Existing Loan
+import into Existing Loan
+Delete from PMC Queve
+36,022.83 swiazo1e 12/05/2018 02:00:31 AM
+import into Existing Loan
+$15,297.36 12372018 12/05/2018 02:00:31 AM View Existing Loan
+import into Existing Loan
+Queve
+97,056.83 121032018 12/05/2018 02:00:31 AM View Existing Loan
+import into Existing Loan
+Delete from PMC Queve
+
+To view the existing SMART record for a loan, click on [VIEW EXISTING LOAN] located in the Actions column
+of the dashboard to navigate to the Loan Record.
+
+To Import the latest data into the existing Loan Record, click on [IMPORT INTO EXISTING LOAN] located in
+the Actions column of the dashboard. This redirects the user to the Add Transaction page.
+
+Add Transaction
+
+Transaction Information
+
+FHA Case No.: ADP Code: 0734
+Borrower First Name: Borrower Last Name: De
+Property:
+
+Partial Claim Amount: $1.00 Endorsement Date: 10/24/2005
+
+Lender ID: on Cone: fe
+
+Maturity Date: 10/24/2005 Execution Date: 11/26/2019
+
+Transaction Type: | Select a Transaction Type * Effective Date: 11/26/2019 v
+
+Figure 59: Import into Existing Loan
+Once the information has been verified and all the required information has been entered, click [SAVE]
+and then click [SuBMiT] on the confirmation pop-up. This will add the new information to the Loan
+
+Record.
+
+To delete a record from the PMC Queue, click on [DELETE FROM PMC QUEUE] located in the Actions
+column.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 30
+
+@SMART
+
+4.4 Accessing Detailed Loan Information
+
+Opening a Loan Record from the search results will navigate the user to the Loan Record page. The Loan
+Record page consists of multiple tabs that provide detailed Loan information.
+
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+
+Step 2: In the Loan Search Screen, select the Loan Program from the Loan Program drop down.
+
+Step 3: Click [START SEARCH]. 50 records will display in the Search Results Dashboard.
+
+Step 4: From the Search Results Dashboard, click on either the Loan Skey, FHA Case #, and Loan #
+to open the loan.
+
+Figure 60: Loan Record (example)
+
+To minimize the loan record, click on the black arrow (+) located left of the Loan Record page title. To
+maximize, re-click on the black arrow.
+
+To minimize the Borrower & Property Information and Additional Loan Information, click on the white
+arrow (Ez) located left of the of the Borrower & Property information box or the white arrow located left
+of the Additional Loan Information. To maximize, re-click on the white arrow.
+
+On each Loan Record page, the selection of tabs displayed is dynamic and varies depending on the Loan
+program of the selected loan. The colors of the tabs show at a glance whether data exists in the tab or
+
+not.
+
+Note: Loans that are Closed are all Read Only.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 31
+
+@SMART
+
+4.4.1 Access Details of Partial Claim Loan Records
+
+4.4.1.1 View/Edit Loan Summary
+Step1: Click on the [LOAN SUMMARY] tab within the Loan Record page.
+
+Loan Detait Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payot Transactions Customer Service
+
+B.Loan Summary
+
+Original Prin Amt: $9,291.15 Unpaid Prin Bat: $67,130.15 Pay Type Code: e
+
+in a:
+Audit Information
+Created By: Created Date: 02/28/2009 12:00:00 AM
+Last Updated By: Last Updates Date: 02/21/2018 01:45:39 PM
+
+Figure 61: View Loan Summary
+
+Step 2: Click on [EpIT] located under the Loan Summary title to navigate to Loan Summary (Edit
+Mode).
+
+Loan Fiing Loan Recording Borrowers Property inspection Documents. Notes’ © Mortgage Release Exceptions © Servicing Foreclosure Gankruptcy Disbursements. Payot Transactions Customer Service
+
+B Loan Summary (EDIT MODE)
+
+Figure 62: Edit Loan Summary
+
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.1.2. View/Edit Loan Detail
+Step1: Click on the [LOAN DETAIL] tab within the Loan Record page.
+
+Loan Summary (REET Loon fiing — Loan Recorting Borrowers, © Property inspection Documents. Notes © Mortgage Release Exceptions Servicing Foreclosure ankruptcy © Orsbursements Payoff Transactions Customer Service
+
+# Loan Detail
+
+Figure 63: View Loan Detail
+
+Step 2: — Click on [EpIT] located under the Loan Detail title to navigate to Loan Detail (Edit Mode).
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 32
+
+@®SMART
+
+Loan summary RBMESMMIR canrung Loan Recoraing Borrowers Property imapection Documents Notes Mortgage Release Exceptions Servicing Foreciosure «Bankruptcy Dabursements ayo = Transactions Customer Service
+Loan Detail (EDIT MODE)
+
+— quent rr
+‘Loan Status: OPEN - Hold Code 2: ‘Select a Mold Code 2
+owns Sactstentant - sou cae sents case
+on san Sadciontuaet . penance [wm
+
+(Current Servicer: ° MERS Number:
+
+ence Ain Cote retteomes — [wo
+
+Lente At a
+
+Figure 64: Edit Loan Detail
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.1.3 View/Edit Loan Filing
+Step 1: Click on the [LOAN FILING] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents, Notes: Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements, Payot Transactions Customer Service
+i Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Wome: arate Sales Contract Closing Dat:
+Prior Servicer Phone: abe Prine: HUD Settement: Expiration Dot:
+Project Name: Deed Restriction Home Owner File Entered Date:
+Project No QF, cert Form or type Fie Received Date
+Project \oucner Number: Rs Number: Notice Received
+
+‘Box Number:
+
+Claim 1
+
+Claim Processed Date: 1290572018 Claim Amount: $56,435.61 QverTide Claim Exclude from Missing Docs Report:
+
+a — |
+Total Amount Paid: Payee / Holder of Record:
+
+Figure 65: View Loan Filing
+
+Step 2: — Click on [EpIT] located under the Loan Filing title to navigate to Loan Filing (Edit Mode).
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+
+B Loan Filing Information (EDIT MODE)
+
+Loan Filing Information
+
+Prior servicer Wome: [Select a rr Seca Name | Closing Date:
+Project Name: ‘Select a Project Name * Expiration Date:
+var Fe Stet a Har Fi = | sats contact tect a Sale Contact ~ | Fie Emer Date
+Lave Printe: | Seiect a Label Preis | HUD Settement: ect» HUD Setiement ~ | File Received Date
+Deed Restriction: | Select a Deed ~] Wome Owner incentive: [ Suc a Home Owner incarive ~ | Nouce Received Date:
+gcerirom | sect oT cet =| or type seed 2 OT Tye + | Box numer:
+Voucher Number VRS Number:
+
+Claim 1
+
+Claim Processed Date: 12082018 Cloim Amount: [Seaas.ev00 | verte Clim Exclude trom missing Docs Report: { Seed
+
+Incentive Fee: Claim Servicer:
+Total Amount Paid: Payee / Holder of Record:
+
+Figure 66: Edit Loan Filing
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 33
+
+®SMART
+4.4.1.4 View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail = Loan Filing COE
+
+Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payotf ‘Transactions Customer Service
+@# Loan Recording
+
+Release Prepared Date: 12052018
+
+Notary
+Page Ni Ongiation Date: Prepared By:
+tnstrument Loan Recorded Date: Original Trustee:
+Payoft Date Clam Amount $56,435.61 substive Trustee
+Authorised wines 1
+
+Witness 2:
+
+Figure 67: View Loan Recording
+
+4.4.1.5 View/Edit Borrowers
+Step 1: Click on the [BORROWERS] tab within the Loan Record page.
+
+& Borrowers Information
+
+Loan Summary Loan Detail Loan Filing Loan Recording Property Inspection Documents Notes Mortgage Release Exceptions = Servicing Foreclosure Bankruptcy Disbursements Payot! ~—Transactions «Customer Service
+
+Borrower Information
+
+Co-Borrower Information
+SSN:
+
+First Name: SSW [| First Name:
+Birt Birth
+Last Name: — Last Name: ——
+Home Work
+Phone: Phone: oe
+Marital
+Status:
+Borrower Address
+
+Mailing Address
+
+Mail To Name:
+
+Address 1 De
+
+Address 2: Address 1:
+City soe: Aaaress 2:
+Zip Code: County: Aaaress 3:
+
+Alternate Contact Information
+
+First Name:
+Last Name:
+
+Figure 68: View Borrowers
+
+Step 2: — Click on [EpIt] located under the Borrowers title to navigate to Borrowers (Edit Mode).
+
+B Borrowers Information (EDIT MODE)
+
+Borrower Informatior Co-Borrower Informatior
+inn: (| jv | First Nome ze.
+Birth Date ene Bich Date Prone
+wort arial
+Prove satus
+
+Mailing Address
+
+v } Mail To Name:
+Address 2: Address 1:
+City: vy) | “| Address 2:
+8
+Last Nam
+Address 4
+Address 2
+
+Figure 69: Edit Borrowers
+
+Step 3:
+
+Make the necessary changes, complete all required fields, and click [SAVE].
+Step 4:
+
+On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 34
+
+4.4.1.6 View/Add/Edit Property Inspection
+Step1: Click on the [PROPERTY INSPECTION] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Documents Notes. Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Osbursements | Pay off Transactions Customer Service
+
+f% Property Inspection
+
+ooo
+
+Figure 70: View Property Inspection
+
+Step2: To adda new property, click on [ADD PROPERTY] located under the Property Inspection title
+
+to navigate to Property Inspection (Add Mode). To edit a property inspection, click on
+[EpiT ITEM] located in the Actions column of the dashboard to navigate to Property
+
+Inspection (Edit Mode).
+
+@ Property Inspection (ADD MODE)
+
+Property Information
+
+Address 1 [ x
+
+lect
+
+Figure 71: Add Property Inspection
+
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.1.7 View/Add/Edit Property Picture
+
+If property pictures have been attached to a Loan, a camera icon will appear next to the property
+record. Loan Property Pictures can be viewed in the Property Inspection tab where the Active Property
+photo will be displayed.
+
+Step 1: — Click on [EpIT ITEM] located in the Actions column of the Property Inspection dashboard to
+
+navigate to Property Inspection (Edit Mode).
+Step 2: Scroll to the bottom of the page to view the Property Picture dashboard.
+
+I Property Pictures
+
+moc
+eee
+
+G0168515.0_sAymzO.pe9 7 a
+
+Figure 72: View Property Pictures
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 35
+
+@SMART
+
+Step 3: To adda picture, click on [ADD PICTURE] located under the Property Pictures title. To edit a
+picture, click on [EDIT PicTuRE] located in the Actions column of the Property Pictures
+dashboard.
+
+Step 4: Drag and drop a picture or click on the Upload button to upload a file (if you are using
+Internet Explorer, you can only click to upload). (Note; Only TIF, JPG, JPEG, PNG, or PDF
+files are accepted.)
+
+B Property Picture (ADD MODE):
+
+Property Picture Information
+
+2 Drag and Drop thes here or Click here to upload
+
+Figure 73: Add Property Picture
+
+Step 5: Complete all required fields and click [SAVE].
+Step 6: On the Confirmation Pop-up, click [SUBMIT].
+
+After saving, the user redirects to Property Inspection edit mode and if the user scrolls down the
+Property Picture dashboard will display with new addition.
+
+4.4.1.8 View/Add/Edit Documents
+Step1: Click on the [DOCUMENTS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording “Borrowers Property Inspection | documents | Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payot Transactions Customer Service
+@ Documents
+‘Aga Document
+
+.
+
+Document Name
+
+Status

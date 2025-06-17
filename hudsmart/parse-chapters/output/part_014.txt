@@ -1,0 +1,665 @@
+ fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+After saving, the user redirects to the Transaction tab displaying the new transaction. The Unpaid
+Balance of the Loan (found in the Loan Summary Tab) will be updated.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 98
+
+@SMART
+
+4.5.2 Disbursements
+
+Disbursements are a type of transaction that are payments returned from the government to the
+remitter. Disbursements are available for the following Loan Programs: Partial Claim, PMM, and H4H.
+
+4.5.2.1 Add Disbursement
+Step1: Click on the [DISBURSEMENTS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release == Exceptions. = Servicing Foreclosure
+
+$ Disbursements
+
+Figure 220: View Disbursements — Partial Claim
+
+Step 2: Click on [ADD DISBURSEMENT] located under the Disbursements title to navigate to
+Disbursement (Add Mode).
+
+B Disbursement (ADD MODE):
+
+Loan Check Detail Information
+Check Date: o7/201
+
+Figure 221: Add Disbursement
+
+Step 3: The field for Transaction Amount auto-populates with the Unpaid Principal Balance.
+Step 4: Complete all required fields.
+
+Step5: Verify that the information is correct and click [SAVE].
+
+Step 6: On the Confirmation Pop-up, click [SUBMIT].
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying new disbursement.
+2. An auto-note is created to the Notes tab.
+3. Atransaction with the code USCHPC, USCHPMM, or USCHH4H is added to the Transactions tab.
+
+(Nefeh Disbursements can only be added to PMM and H4H loans containing a Pay.Gov transaction.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 99
+
+@SMART
+
+4.5.2.2 Void Disbursement
+Step 1: Click on [EpDIT ITEM] located in the Actions column of the dashboard to navigate to the
+
+Disbursement (Edit Mode).
+
+B Disbursement (EDIT MODE)
+
+a
+“Voge °
+Figure 222: Void Disbursement
+Step 2: Select “No” from the TOPS Withheld? drop down field.
+Step 3: Select “Voided” from the Check Status field. This will automatically change the
+Transaction Code to RUSCHPC, RUSCHPMM, or RUSCHH4H.
+Step 4: — Click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying edited disbursement.
+2. Inthe Disbursement data table, the status in the Check Voided column will display YES and the
+amount Voided will display in the Voided Amount column.
+3. An auto-note is created to the Notes tab.
+4. Atransaction with the code RUSCHPC, RUSCHPMM, or RUSCHH4H is added to the Transactions
+
+tab.
+
+4.5.2.3 Clear Disbursement
+Step 1: Click on [EpIT ITEM] located in the Actions column of the dashboard to navigate to the
+
+Disbursement (Edit Mode).
+
+B Disbursement (EDIT MODE)
+
+Loan Check Detail information
+
+Figure 223: Clear Disbursement
+
+Step 2: Select “No” from the TOPS Withheld? drop down field.
+Step 3: Select “Cleared” from the Check Status field.
+Step 4: — Click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying edited disbursement.
+2. Inthe Disbursement data table, the status in the Check Cleared column will display YES and the
+
+amount Cleared will display in the Cleared Amount column.
+3. An auto-note is created to the Notes tab.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 100
+
+@SMART
+
+4.5.2.4 Partially Void Disbursement
+Step 1: Click on [EpDIT ITEM] located in the Actions column of the dashboard to navigate to the
+
+Disbursement (Edit Mode).
+
+B Disbursement (EDIT MODE):
+
+Loan Check Detail Information
+
+Figure 224: Partially Void Disbursement
+
+Step 2: Select “Yes” from the TOPS Withheld? drop down field.
+Step 3: Select “Partially Voided” from the Check Status field.
+Step 4: — Click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying edited disbursement.
+2. Inthe Disbursement data table, the status in the Partially Voided column will display YES and the
+amount Voided will display in the Voided Amount column.
+3. An auto-note is created to the Notes tab.
+4. A transaction with the code RUSCHPC, RUSCHPMM, or RUSCHHA4H is added to the Transactions
+
+tab.
+
+4.5.2.5 Partially Clear Disbursement
+Step 1: — Click on [EpIT ITEM] located in the Actions column of the dashboard to navigate to the
+
+Disbursement (Edit Mode).
+
+B Disbursement (EDIT MODE):
+
+Loan Check Detail Information
+
+Figure 225: Partially Clear Disbursement
+
+Step 2: Select “Yes” from the TOPS Withheld? drop down field.
+Step 3: Select “Partially Cleared” from the Check Status field.
+Step 4: — Click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+Note: After saving, the following occurs:
+1. User redirects to Disbursement tab displaying edited disbursement.
+2. Inthe Disbursement data table, the status in the Partially Cleared column will display YES and
+the amount Cleared will display in the Cleared Amount column.
+3. An auto-note is created to the Notes tab.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 101
+
+@®SMART
+4.5.3. Payoff Request
+
+When a mortgage has been satisfied, the user can initiate the release process and assign a predefined
+template of release activity steps to the satisfied Loan Record. The release activity templates provide
+the user with a list of required steps in a timeline format so that the user can schedule and track the
+progress of the Mortgage Release Activity. Payoff Requests are available for the following Loan
+Programs: Partial Claim, PMM, and EHLP.
+
+4.5.3.1 Scenario 1: Received Request for Payoff
+Step 1: — Click [SERVICING] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: Search for a Loan Record by selecting the search criteria and click [START SEARCH].
+Step 3: From the Search Result Dashboard, click on either Loan Skey, FHA Case #, or Loan # to
+open the Loan Record. You are automatically directed to the Servicing tab.
+
+Servicing Activity
+
+Te ee ene | ee | | | | ee SSS) (SS (=
+@ Servicing
+G Cert of Indebtedness
+fo (CON) (A)
+B Cert of Indebtedness:
+(CONIA) el Create Create Date Changed By |
+oe conn — Add Cert of
+hae oomans sovaiove , Indebtedness (COl)
+
+Bi Add Payott Request
+
+Add Demand
+Tracking
+
+< Add Payoff Request
+
+Step 4: Click on the Add Payoff Request link from the Servicing Activity | Ada Subordination
+table.
+
+EiAdd Subordination
+
+Figure 226: Servicing Module — Partial Claim
+
+Lose Somnary || Usenet | LemnFang || Lomecorang || Gonowere || Fonery mepecon || Documents || Woes | Mange neene | eacemton Force || Bowpcy || Osbenenens |[lFal [|NSMGSSa!)| cosoner sac
+
+B Servicing Management (ADD MODE)
+
+Servicing Type Payoff Request
+
+Iniation Date: [osorz0%8 ¥|
+
+o3012018
+oan2a018 vi
+ow012018 v}
+
+ownz2018 v |
+
+Request Received From: { x |
+
+neues x]
+Requestor Eat
+
+Fax:
+
+Check Date:
+
+Figure 227: Add Payoff Request
+
+Servicing Activity
+
+Step 5: Complete all required fields. Ei Cert of Indebtedness
+
+Step 6: Click [SAVE] and click [SUBMIT] on the confirmation pop-up. (CON (A)
+& Payoff Request (A)
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. Mortgage Release Exceptions Foreclosure | Bankrupicy Dist
+© Servicing Add Cert of
+Indebtedness (COI)
+B Cort of indebtedness:
+
+SS Schedule Date motets Date Created By eae Date Add Demand B
+
+een Payoff Request Recewed o2ze2018 2202018 [] a gn |_| Tracking !
+
+Indebtedness (CON Payomt Letter issued oxo1z018 oazazoie
+
+Ae mend owes Add Payoff Request
+Figure 228: Servicing Module — Payoff Request
+
+Add Subordination
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 102
+
+@SMART
+
+Step 7: To print the Payoff Letter, you can either click [PRINT PAYOFF LETTER] on the Servicing tab or
+[PAYOFF/LETTER] on the Payoff tab.
+
+—
+Exce B PDF Add Servicing Steps @ Service Management BB View Notes ( BB Print Payoff Letter )
+s
+
+Servicing Step Schedule Date Complete Date Createa by Create Date
+
+Figure 229: Servicing Module — Print Payoff Letter
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Noles Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements EURUIE Transactions © Customer Service
+
+© Payoff =
+Payoft Information Jason | eaos20%8 |
+
+Original Amount: $11,087.47
+
+Figure 230: Payoff Tab — Print Payoff Letter
+
+Step 8: The PDF letter will be auto downloaded to your computer and uploaded to the Documents
+tab.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property nspecton [TRSIMSMIRMM| Notes Mortgage Release Exceptions Servicing Foreclosure Gankruptcy Disbursements Payot ‘Transactions___Customer Service
+
+@ Documents
+
+Attachment Descnipbon
+
+Pay_Otf_Letter_2827670.pat Payot! Letter oxo12018 [Actwe & Edit Document
+11:05:05 AM EST
+
+(COl_Leter2827670.pat CO! Letter 0228/2018 (@& Eait Document
+06:20:14 PM EST
+
+Figure 231: Documents Tab — Payoff Letter
+
+Step 9: Click on the Servicing tab and click on Payoff Request from the Servicing Activity table.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions [BMMUMMMII roreciosue Bankruptcy Desbursements Payoff Transactions Customer Service
+@ Servicing
+
+B Cort of indebtedness
+(con (A)
+
+Schedule Date
+
+(Change Date
+
+B Payoft Request (A)
+
+Payot Request Received o22a2018 ozze2018 o2ze2018 SZ Esititom
+0520.00 PM EST
+
+Badd Cert of
+06-20.00 PM EST
+
+Add Oomana
+
+Tracking Payoll Amount Receives osa12018 ozza2018 @& Edit tem
+05:20:00 PM EST
+
+Bi Add Payott Request
+
+Payofl Amount Forwardeé to Lock-Box oworzo18 earanois SZ Fate
+
+05.20.00 PM EST
+
+B Add Subordination
+
+Figure 232: Servicing Module — Payoff Request
+
+Step 10: Click on the Edit Link for the 2™ step in the Payoff Request Timeline (Payoff Letter Issued).
+
+Loan Summary Loan Detail Loan Fitng Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Payoff Transactions | Customer Service
+
+B Servicing Step (EDIT MODE):
+
+Servicing Type
+
+——
+
+Figure 233: Payoff Letter Issued - Edit
+
+Step 11: Insert Complete Date. Then click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 103
+
+SMART
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers Property Inspection ‘Documents Noles Mortgage Release. Exceptions
+
+Foreclosure Bankruptcy Disbursements | Payoff Transactions | Customer Service
+@ Servicing
+
+moo
+
+B Cert of indevtedness
+(CON (A)
+
+B Payott Request (A) Payoff Request Received 02/28/2018 02/28/2018
+
+=m
+
+05:20:00 MEST
+
+Baas Cent ot
+
+indebtedness (C08 Payot Leter issued 03012018 0282018 oxo12018 DF Fate
+06:20:00 PM EST 10:59:39 AM EST
+
+BAdd Demand
+
+Tracking Payot Amount Recewed oxsiz018 o2zez018 SZ Eaten
+082000 PM EST
+
+{Ads Payott Request
+
+Payot! Amount Forwarded to Lock-Bax owov2018 oae2018 I? fatten
+
+06:20:00 PM EST
+
+Add Subordination
+
+Figure 234: Servicing Module — Payoff Request
+
+Step 12: Click on the Payoff tab.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. © Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements EGE Transactions Customer Service
+
+© Payoff
+
+Payoff Information E cf 0301/2018
+
+Original Amount $11,047.47
+Advances: $456.00
+Other Increases: $0.00
+Payments: $0.00
+Transferred Amount: $0.00
+Wnite Off Amount: $0.00
+
+Paid Off Amount: $0.00
+Total Payoft Amount: $11,503.47
+
+Figure 235: Payoff Tab
+
+Step 13: Click on [PAYOFF/PAYMENT] and complete all required fields.
+
+Loan Summary Loan Detail Loan Fitng Loan Recording Borrowers Property Inspection Documents Motes Mortgage Reloase Exceptions Servicing Foreclosure Bankruptcy Ossbursements, ERNIE) transactions Customer Sernce
+
+Payoff / Payment
+
+Payment Information
+
+Compton Date [moon v|
+
+—_—e
+
+Request Received From: west v
+— =
+
+Teneecton Ti PPC. Poet Pata am ¥|
+
+Figure 236: Submit Payoff Payment
+
+Step 14: Click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+Loan Summary Loan Detail Loan Filing Lean Recording Borrowers Property inspection Documents Notes. © Mortgage Release Exceptions Servicing Foreclosure © Bankruptcy Disbursements EUR Transactions Customer Service
+
+@ Payoff
+
+Payoff Information ox012018
+
+Original Amount: $11,047.47
+Advances: $456.00
+Other increases: $0.00
+Payments: 30.00
+Transterred Amount: $0.00
+
+Write Off Amount: 0.00
+
+Paid Off Amount: ($11,503.47)
+Total Payott Amount: $0.00
+
+Figure 237: Payoff Tab — Payoff Process Completed
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 104
+
+If the Total Payoff Amount is now SO, then the following will occur: -_ _
+. . . . . Servicing Activity
+1. Payoff Request Timeline will automatically close with the last two
+steps marked as complete with today’s timestamp. oes uaebtedness
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Bi Payoff Request (I)
+@ Servicing
+[bea f per | ome | Add Cert of
+Bcarinabnes —— == cheney Indebtedness (COI)
+B Payott Request (1) Payoff Request Recewed ozrzar2018 037012018 02282018 og
+Sacee 06.20.00 PM EST 11:06:37] Add Demand
+— Pert aa povaoe ee Tracking
+Trecking Payofl Amount Recewed oyav2018 02012018 ees * =
+Base neren Geawes Payofl Amount Forwarded to Lock-Bax 04012018 037012018 Add Payoff Request
+
+02282018 ong
+06.20.00 PM EST 11:08:33
+
+Fi Ada Subordination
+
+Figure 238: Servicing Module — Payoff Process Completed Add Subordination
+
+2. Mortgage Release Timeline will automatically open with the first step marked as complete with
+today’s timestamp.
+
+Loan Summary Loan Detail Loan Fling Loan Recording Borrowers, Property nspection Documents Notes FEXEIEIIAR xcoptons Servicing ForeciosureBankrupicy | Disbursements Payot Transactions Customer Service
+
+@® Mortgage Release
+
+GB Full Release (A)
+Bichecks
+Release Request Receved/Intiated 12/05/2018 120052018 120052018 Gf Eait nem
+B® Add New Mortgage
+Lien release package printed 121072018 1205/2018 k= & Eait tem
+Lien Release package sent for recording 12/18/2018 129052018 @& Eait tem
+Recorded Release received trom County 05/19/2020 1205/2018 [Ache @& Eait nem
+Copy to Imaging Image 06/03/2020 127082018 zx @& Eait tem
+File to Storage/Process Complete 06/17/2020 12/05/2018 xa Gf Eait nem
+
+Figure 239: Mortgage Release Module — Payoff Process Completed
+
+3. Arecord will automatically insert into the Transaction Tab
+
+Loan Summary | Loan Detail Loan Fling Loan Recording Borrowers | Property inspection Documents Noles Morigage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoft Customer Service
+@ Transactions
+Aad Tr
+
+Emtective Date rans Code Principal Amount
+
+0301/2018 ‘MCT ‘Multiple Partat Claim ~ 3rd $333.00 ox012018
+0901/2018 PPC Payoft Partial Claim (811,503.47) 030172018
+11:08:29 AM EST
+“
+
+Figure 240: Transaction Tab — Payoff Process Completed
+4. The Loan will close after the user refreshes the page.
+5. The amount in the Payoff letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is $0.00.
+
+If the Total Payoff Amount is SO and there is already an open Mortgage Release Timeline, then the
+following will occur:
+1. Payoff Request Timeline will automatically close with the last two steps marked as complete
+with today’s timestamp.
+2. Arecord will automatically insert in the Transaction tab.
+The Loan will close after the user refreshes the page.
+4. The amount in the Payoff Letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is $0.00.
+
+w
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 105
+
+@SMART
+
+4.5.3.2 Scenario 2: Received Payoff Check Without Payoff Request
+
+If the Payoff Check was received prior to entering a Payoff Request in the Servicing Module, the user can
+enter the payoff directly through the Payoff tab. In the steps listed above, begin the process at Step 13.
+
+If the Total Payoff Amount is now SO, then the following will occur:
+1. Payoff Request Timeline will automatically open and close with all steps marked as complete
+with today’s timestamp.
+2. Mortgage Release Timeline will automatically open with the first step marked as complete with
+today’s timestamp.
+3. Arecord will automatically insert in the Transaction tab.
+The Loan will close after the user refreshes the page.
+5. The amount in the Payoff letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is $0.00.
+
+5
+
+If the Total Payoff Amount is SO and there is already an open Mortgage Release Timeline, then the
+following will occur:
+
+1. Payoff Request Timeline will automatically open and close with the last two steps marked as
+
+complete with today’s timestamp.
+
+2. Arecord will automatically insert in the Transaction tab.
+
+3. The Loan will close after the user refreshes the page.
+The amount in the Payoff Letter will update to reflect the new Total Payoff Amount found in the Payoff
+Tab, which is $0.00.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 106
+
+@SMART
+
+4.6 Mail
+46.1 NCF Queue
+
+The NCF Queue is a repository of documents that have been added to SMART through the Document
+Wizard or by SFTP upload (See below workflow). From this page the user can manage and update
+documents. To access the NCF Queue, click [MAIL] from the top Navigation menu and select [NCF
+QUEUE] from the dropdown.
+
+SMART | Document Workflow
+
+SMART performs
+daily query for
+FHA Case #
+
+Document enters
+NCF Queue
+
+SMART queries
+the document’s
+FHA Case #
+
+Is there a
+match?
+
+NOVAD send documents
+
+. Attach
+to SMART via SFTP
+
+Document into
+Document tab
+for Loan
+
+LEGEND:
+
+Figure 241: Document Workflow
+
+GANCF Queue
+
+Coca
+
+Paget of730 bm (20 ‘Showing 1 - 20 of 14,585 entries
+
+mortgage (022-2524966_mortgage_20181204180110.PDF 127042018
+202115 PM
+
+mortgage $R0000232182S_mortgage_20181204190110.PDF 121042018
+202110 PM
+
+NCF Mextgage 544.0258060_NCF Mortgage 20181204120110.PDF 12042018
+202104 PM
+
+NCF Mestgage 137-5442780_NCF Mortgage_20181204180110.PDF 12002018
+2021.04 PM
+
+NCF Mextgage 412.4322362_NCF Mortgage_20181204180110.POF 120472018
+2021.04 PM
+
+NCF Note 161-3454605_NCF Note_20181204180110.PDF 1270872018
+2021.04 PM
+
+NCF Note 352-8259647_NCF Note_20181204180110.PDF 121042018
+2021.03 PM
+
+NCF Note 374.5670713_NCF Note_20181204180110.PDF 127042018
+202103 PM
+
+NCF Note 105.9729263_NCF Note_20181204180110.PDF 127042018
+2021.03 PM
+
+NCF Note 221-5404157_NCF Note_20181204190110.PDF 12042018
+2021103 PM
+
+NCF Note 351-6826535_NCF Note_20181204180110.PDF 127042018
+202102 PM
+
+NCF Note 566.1257709_NCF Note_20181204190110.PDF 12042018
+20.2102 PM
+
+Figure 242: NCF Queue
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 107
+
+@SMART
+
+46.2 Document Wizard
+
+Step1: Click [MAIL] from the top Navigation menu. Select [DOCUMENT WIZARD] from the
+dropdown.
+
+Step 2: Complete all the required fields shown in red. For Loan Program, select any Loan Program
+except those noted above. When the Loan Program has been selected, the following tabs
+will display: Borrowers and Documents.
+
+Step 3: On the Borrowers Tab, complete all required fields shown in red. Click [NEXT].
+
++ New Document Wizard (ADD MODE)
+
+=.
+
+B Borrower Information
+
+Figure 243: New Document Wizard — Borrowers
+Step 4: Onthe Documents Tab, complete all required fields shown in red. Click [NEXT].
+
+— =
+
+B Documents
+
+Figure 244: New Document Wizard — Documents
+Step5: After all required fields are completed, click on the [SUBMIT] button located in the
+Documents Tab.
+
+Step6: From the confirmation pop-up, click on the [SUBMIT] button.
+
+Note: If all required fields are not completed, a warning pop-up will display saying “Marked fields are
+required. Please re-submit them again.”
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 108
+
+@SMART
+
+5 Using the Servicing Module
+
+5.1 Search
+5.1.1
+
+Searching for Loans with Servicing History
+
+Loans with servicing his

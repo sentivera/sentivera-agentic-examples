@@ -1,0 +1,779 @@
+on Menu.
+From left to right, the options are: My Dashboard, Loan, Servicing, Customer Service, User Information,
+and Role.
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 | 4
+
+@SMART
+
+2.4.1. My Dashboard
+
+The default page you come to after you have logged into SMART is the [My DASHBOARD] page. Under the
+tab [My DASHBOARD] you have four options: My Tickets, Supervisor Inbox, HUD Inbox, and Action List.
+
+2.4.2 Loan
+
+The [LOAN] tab directs the user to the Loan Module in SMART. Here you have one option: Search.
+
+2.4.3. Servicing
+
+The [SERVICING] tab directs the user to the Servicing Module. Here you have one option: Search.
+
+2.4.4 Customer Service
+The [CUSTOMER SERVICE] tab directs the user to the Customer Service Module. Here you have two
+options: Ticket Search and Create New Ticket.
+
+2.4.5 User Information and Roles
+
+Select your user name to view and update your personal identification and contact information. You
+may also change your password and security questions. From the [ROLE] drop-down menu, select the
+role in which to view the SMART System.
+
+2.5 Changing Password
+
+To comply with security policies requiring periodic modification to all access passwords, SMART includes
+the Change Password functionality on the My Account page. Follow the steps below to change your
+
+current passwo rd.
+
+Step 2: Scroll down the User Information (Edit Mode) page to the Manage Password header.
+
+Step1: From the top Navigation Menu, click your User Name.
+
+Manage Password
+
+es
+Figure 8: Manage Password
+
+Step 3: Input your current password. Password must contain at least:
+Step 4: Input your new password.
+
+~ Twelve alphanumeric characters
+
+¥ One special character
+Step5: Re-enter your new password to confirm accuracy. Y One uppercase letter
+
+v One lowercase letter
+
+~ One number
+
+Step 6: Click [SAVE] at the bottom of the page. :
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 |5
+
+@SMART
+
+The user is required to change their password every 30 days. The system maintains a password history,
+so that 24 passwords cannot be reused.
+
+If the user logs into SMART after their password is expired between 30 days and 90 days from their last
+password change, they will be redirected to change their password. If the user has not logged on for 90
+days, their account will be disabled. In order to reactivate their account, they will need to contact the
+Help Desk. For information on how to contact the Help Desk, see Section 14: Getting Help.
+
+2.5.1 Forgot Password (Recover Password)
+To retrieve a lost password, go to the SMART Login Page and click [FORGOT PASSWORD].
+
+@®SMART
+
+Username
+
+Password
+
+_ Unauthorized Access Warning Password Reset
+This warning banner provides privacy and security notices consistent with
+applicable federal laws, directives, and other federal guidance for accessing this
+
+Government system, which includes all devices/storage media attached to this
+
+system. This system is provided for Government-authorized use only.
+Unauthorized or improper use of this system is prohibited and may result in
+disciplinary action and/or civil and criminal penalties. At any time, and for any
+lawful Government purpose, the government may monitor, record, and audit
+your system usage and/or intercept, search and seize any communication or
+data transiting or stored on this system. Therefore, you have no reasonable
+expectation of privacy. Any communication or data transiting or stored on this
+system may be disclosed or used for any lawful Government purpose.
+
+Work Email Address x
+
+Forgot Password Login
+
+Figure 9: Login Page — Forgot Password Figure 10. Forgot Password Page
+
+The user is prompted to input a valid email address and select one security challenge question. Enter in
+the work email address and click [SUBMIT].
+
+If the user is registered to access SMART, an email is sent to their validated email address containing a
+
+temporary password to use to access their account. If the user is not registered, the user is prompted to
+complete the registration process.
+
+2.6 Exit Solution
+
+To end your SMART session, click [LOGOUT]. Be sure to [UPDATE] any work prior to exiting the system.
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 | 6
+
+@SMART
+
+3 Using My Dashboard
+
+3.1 My Tickets
+
+After you have successfully logged into SMART your default page is the My Dashboard Page. The default
+tab of My Dashboard is the My Tickets Dashboard.
+
+My Tickets Supervisor Inbo 1UD Int ton
+&B My Tickets
+Ticket No FHA Case No ori Cal ie Re Fc te Borrower Nan Created Date
+850378 Low 601 PROGRAM (ACDVASSET OR NOTE SALE 110 o7/102018
+10:43:48 AM
+Showing 110 1 of 1 entries - + | Next
+6B My PIN Tickets
+
+Borr rower Address
+
+Case No Pront Designee Caller Name Reason c
+
+t Han PAYOFF QUESTION 111152019
+
+0223-11 PM
+
+@assare Low Handled by Contractor PAYOFF QUESTION 1172212019
+11:24:56 AM
+
+@esvar r Handled by Contractor QUE & PAYABLE 1972222019
+12:48:18 PM
+
+953429 Low HECM (Assigned - LSC’ DISCRIMINATION 117252019
+121426 PM
+
+Showing 1 10 4
+
+Figure 11: My Tickets Dashboard
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the My Tickets
+page, click on the [BACK TO My TICKETS] button.
+
+If you have never pinned a ticket to the My Tickets tab of My Dashboard, then you will only see the Top
+20 Most Recent Tickets. If you have pinned a loan to the My Tickets tab, then you will see all the loans
+you have pinned and the Top 20 Most Recent Tickets.
+
+3.1.1 Pin Ticket to My Tickets Dashboard
+
+Step 1: Identify a ticket you would like to pin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to pin, open that ticket.
+Step 3: Click [PINTO DASHBOARD] button located under the “Ticket Information (Edit Mode)” title.
+
+4&4 Customer Service - Ticket No. 853427
+
+Ticket
+
+Create New
+Ticket No. callLog Ticket Action Notes Documents,
+
+Ticket 053427 (A)(6) B Ticket Information (EDIT MODE)
+
+Figure 12: Pin to Dashboard (Ticket Record)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have pinned a ticket it will display on the My Tickets Dashboard. If the ticket has multiple
+
+property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will display in
+the My Tickets Dashboard.
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 | 7
+
+@SMART
+
+3.1.2 — Unpin Tickets from My Tickets Dashboard
+Step 1: Identify a ticket you would like to unpin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to unpin, open that ticket.
+Step 3: — Click [UNPIN FROM DASHBOARD] button located under the “Ticket Information (Edit Mode)”
+
+#& Customer Service - Ticket No. 853427
+a0 SS
+concog BRBTSRIY icseracton notes documents
+Test OUT OK-) B Ticket Information (EDIT MODE)
+n
+
+FHA Case #: a Loan Program: | ACA~ Compliance | Loans:
+
+Figure 13: Unpin from Dashboard (Ticket Record)
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have unpinned a ticket it will no longer display in the My Tickets Dashboard. If the ticket has
+
+multiple property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will no
+longer display in the My Tickets Dashboard.
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 | 8
+
+@SMART
+
+3.2 Supervisor Inbox
+
+The Supervisor Inbox displays all tickets with an open status. To open the Supervisor Inbox, click [MY
+DASHBOARD] from the top Navigation menu and select [SUPERVISOR INBOX] from the dropdown.
+
+My Tickets
+
+& Supervisor Tickets
+
+[tesa J peor Yt ap | See
+Ticket No An FHA Case No Caller Nan Reason 2 Borrower Name Bon «| ma
+
+Action
+
+1172972019 PARTIAL CLAIM
+12:04:50 PM
+
+@ a53451 Low 1172972019 2 UE & PAYABLE
+120355 PM
+
+053450 Low 11/29/2019 12
+
+PAYOFF QUESTION Handled by
+12:03:08 PM
+
+Contractor
+@ as34eg Low 1172972019 12
+
+PARTIAL CLAIM Handled by
+11:5955AM
+
+‘Contractor
+
+Figure 14: Supervisor Inbox
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Supervisor
+Inbox page, click on the [BACK TO SUPERVISOR INBOX] button.
+
+3.2.1 Change Disposition
+
+For CRM and SMART Customer Service Tickets, the disposition for a ticket can be changed through the
+[CHANGE DisposiTION] link from the Action column.
+
+Step1: Inside the Supervisor Inbox, click on the [CHANGE Disposition] link from the Actions
+column.
+
+& Change Disposition (EDIT MODE)
+
+Figure 15: Change Disposition (Edit Mode)
+
+Step 2: Select a new disposition from the Disposition dropdown menu. Options in Table 1.
+Step 3: = Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+The disposition column will update to display the new edit. Changing the disposition from the
+Supervisor Inbox will enter the ticket into the respective round robin queen and assign to a new agent
+from the respective round robin queue. The ticket can only enter the round robin queue through the
+Supervisor Inbox. The new designee will receive an email.
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 | 9
+
+@SMART
+
+Disposition Type Queue
+
+Refer to NSC (Servicing)
+
+Servicing Queue
+
+Refer to NSC (Loss Mitigation) Loss Queue
+Refer to NSC (Other) Other Queue
+Refer to NSC (HECM Assigned) HECM Queue
+
+Refer to NSC (Sec Held)
+
+Sec Held Queue
+
+Refer to NSC (HECM Endorsed)
+
+HECM Endorsed Queue
+
+Referred for GTR Approval
+
+GTR Approval Queue
+
+HECM (CM) HECM (CM) Queue
+
+HECM (Assigned Servicing) HECM (Assigned Servicing) Queue
+HECM (Endorsed) HECM Endorsed Queue
+
+Refer to Other HUD/HOC Servicing Queue
+
+Refer to Housing Counseling
+
+Servicing Queue
+
+Refer to Lender
+
+Servicing Queue
+
+Refer to Servicing
+
+Servicing Queue
+
+Controlled Correspondence
+
+Servicing Queue
+
+Handled by Contractor
+
+Servicing Queue
+
+Referred to (800) CALLFHA
+
+Servicing Queue
+
+Resource Center
+
+Servicing Queue
+
+Transferred to BAC Escalation Team
+
+Servicing Queue
+
+Claim Block
+
+Servicing Queue
+
+RQST Third Party Authorization
+
+Servicing Queue
+
+Pending Concessions
+
+Servicing Queue
+
+NSC Referred to Contractor
+
+Servicing Queue
+
+Handled by NSC
+
+Servicing Queue
+
+Escalation
+
+Servicing Queue
+
+Transferred to WF Escalation Team
+
+Servicing Queue
+
+Table 1: Disposition Types
+
+SMART Customer Service Module | Disposition Workflow
+
+Is the
+Y disposition type
+in the Disposition
+Type box?
+
+Customer Service
+Rep. creates new
+ticket and selects
+disposition type
+
+Disposition Type:
+Ticket enters the
+Customer Service
+Rep’s My Ticket
+Dashboard
+
+1. Refer to NSC (Servicing)
+
+2. Refer to NSC (Loss Mitigation)
+3. Refer to NSC (Other)
+
+4. Refer to NSC (HECM Assigned)
+5. Refer to NSC (Sec Held)
+
+6. Refer to NSC (HECM Endorsed)
+7. Referred for GTR Approval
+
+8. HECM (CM)
+
+9. HECM (Assigned Servicing)
+
+10. HECM (Endorsed)
+
+LEGEND:
+
+Supervisor
+selects the
+disposition and
+clicks save
+
+Supervisor clicks
+on the Change
+Disposition link
+
+Y \s that
+the correct
+disposition?
+
+Ticket enters
+Supervisor Inbox
+
+Ticket gets auto
+assigned, leaves
+Supervisor inbox
+and enters into
+new assignee My
+Ticket Dashboard
+
+Supervisor clicks
+on the Auto
+Assign link
+
+List of
+Disposition
+types
+
+bX
+
+EMAIL
+
+Email sent
+to Assignee
+
+Start
+Automatic Manual
+Process Process
+
+Figure 16: Disposition Workflow
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 | 10
+
+
+@®SMART
+3.2.2 Auto-Assign
+
+Inside the Supervisor Inbox, SMART Customer Service Tickets will have the option to Auto-Assign a new
+Designee. To Auto-Assign, click on the [AUTO-AssIGN] link from the Action column. A pop-up will display
+asking you to choose a New Designee from a drop down.
+
+Figure 17: Auto-Assign Ticket
+
+Select the New Designee and click [SuBMiT]. The ticket will be automatically assigned to that designee
+and they will receive an email.
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 | 11
+
+@®SMART
+3.3 HUD Inbox
+
+The HUD Inbox displays all tickets assigned to a HUD user with an open status. To open the HUD Inbox,
+click [My DASHBOARD] from the top Navigation menu and select [HUD INBox] from the dropdown.
+
+SS pete
+EB HUD Inbox
+
+Ticket No 1) | Priotity Call Date
+
+246011 Low 1011772011 2049
+12:49:40 PM
+
+LOSS MITIGATION Referred to NSC
+(Loss Mitigation)
+
+662493 Medium 1004/2017 551
+
+HECM INQUIRY Referred to NSC
+125414 PM (HECM
+
+Endorsed - HUD)
+
+62498 Medium 1004/2017 551
+
+HECM INQUIRY Referred to NSC
+12:53:00 PM (HECI
+
+(HECM
+Endorsed - HUD)
+
+711261 Low 1272272017 as7
+
+HECM INQUIRY Referred to NSC
+10:53:42 AM (HECM
+
+E
+Endorsed - HUD)
+
+raaant Medium 02/26/2018 455
+
+HECM INQUIRY Referred to NSC
+09:18:50 AM 0
+
+(HECM
+Endorsed - HUD)
+
+760582 High 03/29/2018 432
+10:34:47 AM
+
+COMPLAINT Handled by NSC
+
+766105 Low oat12018 423
+
+HECM INQUIRY Referred to NSC
+11:00:15 AM [
+
+Endorsed - HUD)
+
+ra136 Medium 04/23/2018 415
+
+HECM INQUIRY Referred to NSC
+02:00:39 Pm THECM
+
+Endorsed - HUD)
+
+714614 Low 04/27/2018 an
+
+HECM INQUIRY Referred to NSC
+03:54:50 Pa Hi
+
+Endorseé - HUD)
+
+779509 Low 05/04/2018 406
+05:19:24 PM
+
+COMPLAINT Escalation
+
+Figure 18: HUD Inbox
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the HUD Inbox
+page, click on the [BACK TO HUD INBox] button. If you wish to reassign the ticket to the Supervisor Inbox,
+select [ASSIGN TO SUPERVISOR INBOX] from the Action column and select [SUBMIT] on the pop-up.
+
+3.3.1 Filter HUD Inbox
+
+Inside the HUD Inbox, a user can filter the results by selecting a user’s name from the filter drop down
+menu.
+
+Filter by HUD User: | Select HUD User Vv |
+
+Figure 19: Filter by HUD User
+
+SMART will save the filters you have selected. When you have opened a ticket and then clicked the
+[BACK TO HUD INBOX] button, your filters will remain. The previously viewed ticket will also be
+highlighted.
+
+EB HUD Inbox
+
+948186 Low 031062019 235 LOAN
+05:31:20 PM
+
+235 LOAN Escalation
+
+11:16:17 AM
+
+Figure 20: Filtered HUD Inbox
+
+To clear the saved filters and reset your search, click on the [RESET] button.
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 | 12
+
+@SMART
+
+3.4 Action List
+
+The Action List displays all tickets that require HUD action. To open the Action List, click [My
+DASHBOARD] from the top Navigation menu and select [ACTION List] from the dropdown. To display the
+tickets requiring action, you will need to Filter the Action List (see below).
+
+B Action List
+
+Ticket No Date Assign Proxity FC Sale Date Last Action Date ct Action Due Days in Current Action Action Requit ;
+eatoas oartanor9 58 Low oa772019 022672019 5 Contact Requrea Action Past Oue
+a73225 12042019 2 ign 12062019 2 Courtesy Contact ‘Action Due Today
+ar 12042018 2 High 12002018 12132019 2 Contact Requrea Acton Due Dec 13
+
+Figure 21: Action List
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Action List
+page, click on the [BACK TO ACTION LIsT] button.
+
+3.4.1 — Filter Action List
+
+Inside the Action List, a user can filter the results by selecting a user’s name from the filter drop down
+menu.
+
+Filter by HUD User: Select HUD User v
+
+Figure 22: Filter by HUD User
+
+SMART will save the filters you have selected. When you have opened a ticket and then clicked the
+[BACK TO ACTION LIST] button, your filters will remain. The previously viewed ticket will also be
+highlighted.
+
+Action List
+
+873225 12/04/2019 2 High 12/06/2019 2 Courtesy Contact ‘Action Due Today
+
+872834 121042019 2 High 127042019 12132019 2 Contact Required ‘Action Due Dec 13 2019
+
+Showing 1 to 1 of 1 entes Previous + | Nex
+
+Figure 23: Filtered Action List
+
+To clear the saved filters and reset your search, click on the [RESET] button.
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 | 13
+
+@SMART
+
+4 Using the Loan Module
+
+4.1 Search
+
+Loans can be retrieved through various combinations of the search criteria available on the Loan Search
+Screen.
+
+Q Loan Search Screen
+Search Database SMART PRODUCTION DATABASE
++ Borrower Name: Loan Create Date >=
+
+FHA Case ®: Loan Program:
+
+Loan Skey: Label Printed: * | Property Address:
+
+Loan #: Loan Status: + | Property City
+
+Last 4 Digits of SSN: Loan State: + Property State: Select a State + EHLP Project #:
+
+Closed Box #: Payment Pian 7 | Property Zip Code: Keyword:
+
++ | Note Create Date >=
+
+Note Text Note Type: + | Note Created By:
+
+Lender Admin
+
+. c ~ | Payee / Holder of a ea
+Contact Claim Servicer: Freel Select a Payee / Holder of Record
+
+Result Headers: [Loan Skey) “FHA Case No ) (= Loan Program | | * Borrower Name | |* Property Address | (= Lender Name ) (Closed Bax No) |= Original Prin Bal) | = Updated By | (* Updated Date | |* Loan Status
+
+Figure 24: Loan Search Screen
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+Close Box # Physical location of stored files
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Current Servicer Servicer/Lender associated with the FHA Case
+
+Exception Type Type of Exception filed in the Exceptions tab
+
+Result Headers Search criteria columns to be displayed in the Search Results table
+Loan Program Type of program associated with the loan
+
+Label Printed Indicator of whether or not a hard copy file has been generated for the loan
+Loan Status Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property City City wherein the loan property is located
+
+Property State State wherein the loan property is located
+
+Property Zip Code Zip Code wherein the loan property is located
+
+Note Created By SMART User who created Notes in the Notes tab
+
+Claim Servicer Servicer/Lender associated with a Claim
+
+Loan Create Date Date that a loan was entered into the SMART system
+
+Loan Close Date Date that a loan was closed
+
+File Rec’d Date The File Received Date of a loan
+
+EHLP Project # EHLP Project Number
+
+Keyword Searches any word within the Search Results data table
+
+Note Create Date Date that the Note in the Notes tab was created
+
+Payee/Holder of Record Servicer/Lender assigned as a Holder of Record
+
+Table 2: Loan Search Fields
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 | 14
+
+@SMART
+
+4.1.1 Loan Search — Production Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Production Database.”
+
+Search Database: SMART PRODUCTION DATABASE
+
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 25: Search Database — Production Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+
+Step 4: — Click [START SEARCH].
+
+Figure 26: Start Search Button
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.2 Loan Search — Legacy Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Legacy Database.”
+
+Search Database: SMART LEGACY DATABASE
+
+FHA Case #: |
+
+SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+SMART DAT C DATABASE
+
+Loan Skey:
+
+Loan #:
+
+Figure 27: Search Database — Legacy Database
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | HUD.CSESCALATION | VERSION 1.43.0 | JUNE 2, 2020 | 15
+
+@SMART
+
+4.1.3. Loan Search — DAT C Database
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, se

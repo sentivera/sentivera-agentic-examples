@@ -1,0 +1,819 @@
+ddress Lender Name Closed Box No Original Prin Bal Updated Date Loan Status
+
+Loan Skey Updated ty
+
+Figure 11: My Loans Dashboard
+
+INote:fzerag data table throughout the SMART system can generate reports in Excel, PDF or Print. The
+Excel file is downloaded to your computer. Both PDF and Print opens ina new tab. You can also use the
+search bar on any column to filter the data table results.
+
+To open a Loan Record, click on the Loan Skey, FHA Case #, or Loan #.
+
+If you have never pinned a loan to the My Loans tab of My Dashboard, then you will only see the Top 20
+Most Recent Loans. If you have pinned a loan to the My Loans tab, then you will see all the loans you
+have pinned and the Top 20 Most Recent Loans.
+
+3.1.1 Pin Loan to My Loans Dashboard
+
+Step 1: Identify a loan you would like to pin to the My Loans Dashboard.
+Step 2: Once you have identified a loan you would like to pin, open that loan record.
+Step 3: Click [PIN TO DASHBOARD] button located in the top right corner of that loan record.
+
++ Loan Record - Partial Claim [ oo |
+
+D, Borrower & Property Information * © Additional Loan Information
+
+Figure 12: Pin to Dashboard (Loan Record 235-Insured)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 8
+
+@SMART
+
+Once you have pinned a loan it will display on the My Loans Dashboard. If the loan has multiple
+property inspection addresses, then the multiple Loan Records tied to that Loan Skey will display in the
+My Loans Dashboard.
+
+3.1.2. Unpin Loan from My Loans Dashboard
+
+Step 1: Identify a loan you would like to unpin to the My Loans Dashboard.
+Step 2: Once you have identified a loan you would like to unpin, open that loan record.
+Step 3: Click [UNPIN FROM DASHBOARD] button located in the top right corner of that loan record.
+
+~ ClLoan Record - Partial Claim
+
+Figure 13: Unpin from Dashboard (Loan Record 235-Insured)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have unpinned a loan it will no longer display in the My Loans Dashboard. If the loan has
+multiple property inspection addresses, then the multiple Loan Records tied to that Loan Skey will no
+longer display in the My Loans Dashboard.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 9
+
+@®SMART
+3.2 My Tickets
+
+To access My Tickets Dashboard, click on the [My TICKETS] tab.
+
+EB My PIN Tickets
+
+Priority
+
+458216
+
+654046,
+
+Figure 14: My Tickets Dashboard
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the My Tickets
+page, click on the “Back to My Tickets Tab” button.
+
+If you have never pinned a ticket to the My Tickets tab of My Dashboard, then you will only see the Top
+20 Most Recent Tickets. If you have pinned a loan to the My Tickets tab, then you will see all the loans
+you have pinned and the Top 20 Most Recent Tickets.
+
+3.2.1 Pin Ticket to My Tickets Dashboard
+
+Step 1: Identify a ticket you would like to pin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to pin, open that ticket.
+
+Step 3: Click [PIN TO DASHBOARD] button located under the “Ticket Information (Edit Mode)” title.
+a& Customer Service - Ticket No. 102622
+
+Ticket 102622 (0 B Ticket Information (EDIT MODE)
+
+Figure 15: Pin to Dashboard (Ticket Record)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have pinned a ticket it will display on the My Tickets Dashboard. If the ticket has multiple
+property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will display in
+the My Tickets Dashboard.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 10
+
+@SMART
+
+3.2.2. Unpin Tickets from My Tickets Dashboard
+Step 1: Identify a ticket you would like to unpin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to unpin, open that ticket.
+Step 3: Click [UNPIN FROM DASHBOARD] button located under the “Ticket Information (Edit Mode)”
+title.
+
+als Customer Service - Ticket No. 102622
+
+natn, Teton ate ocament
+
+Ticket 102622 (I) B Ticket information (EDIT MODE)
+
+Loan Information
+
+FHA Case — V | toon Program: [Non FHA FA) Loon
+
+Figure 16: Unpin from Dashboard (Ticket Record)
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have unpinned a ticket it will no longer display in the My Tickets Dashboard. If the ticket has
+
+multiple property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will no
+longer display in the My Tickets Dashboard.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 11
+
+4 Using the Loan Module & Mail
+
+@SMART
+
+4.1 Search
+
+Loans can be retrieved through various combinations of the search criteria available on the Loan Search
+
+Screen.
+
+Q Loan Search Screen
+
+Search Database: SMART PRODUCTION DATABASE
+
+FHA Case ®:
+
+Loan Skey:
+
+Last 4 Digits of SSN:
+
+Closed Box #:
+
+Note Text
+
+Search Field Definition
+
+* Contact:
+
+Loan Program:
+Label Printed:
+Loan Status:
+Loan State:
+
+Payment Pian
+
+Note Type:
+
+Lender Admin
+
+Loan Create Date >=
+
+Loan Close Date >=
+
+File Rec'd Date >=
+
++ EHLP Project #:
+
+Keyword:
+
++ | Note Create Date >=
+
++ | Raves! Nokder of Select a Payee / Holder of Record
+
+(Loan Skey) (FHA Case No
+
+‘Loan Program ) | = Borrower Name | |* Property Address | (* Lender Name ) (* Closed Bax No) |= Original Prin Bal) | = Updated By | (* Updated Date | | * Loan Status
+
+Figure 17: Loan Search Screen
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+
+Close Box # Physical location of stored files
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Current Servicer Servicer/Lender associated with the FHA Case
+
+Exception Type Type of Exception filed in the Exceptions tab
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Label Printed
+
+Indicator of whether or not a hard copy file has been generated for the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Note Type Type of note within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property City City wherein the loan property is located
+
+Property State State wherein the loan property is located
+
+Property Zip Code
+
+Zip Code wherein the loan property is located
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Claim Servicer
+
+Servicer/Lender associated with a Claim
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+File Rec’d Date
+
+The File Received Date of a loan
+
+EHLP Project # EHLP Project Number
+
+Keyword Searches any word within the Search Results data table
+Note Create Date Date that the Note in the Notes tab was created
+Payee/Holder of Record Servicer/Lender assigned as a Holder of Record
+
+Table 1: Loan Search Fields
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 12
+
+
+@SMART
+
+4.1.1 Loan Search — Production Database
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Production Database.”
+
+Search Database: SMART PRODUCTION DATABASE
+
+FHA Case #:
+
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 18: Search Database — Production Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+
+Step 4: — Click [START SEARCH].
+
+Figure 19: Start Search Button
+
+Search results will display in the search result dashboard. Twenty records will display in dashboard.
+
+4.1.2 Loan Search — Legacy Database
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Legacy Database.”
+
+Search Database: SMART LEGACY DATABASE
+
+FHA Case #: |
+
+SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+SMART DAT C DATABASE
+
+Loan Skey:
+
+Loan #:
+
+Figure 20: Search Database — Legacy Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. Twenty records will display in dashboard.
+
+4.1.3. Loan Search — DAT C Database
+
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 13
+
+®SMART
+
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the “DAT
+C Database.”
+
+Search Database: SMART DAT C DATABASE
+
+FHA Case #: |
+
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 21: Search Database — DAT C Database
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. Twenty records will display in dashboard.
+
+4.1.4 Search Results
+
+On the Loan Search page, as well as the Servicing, Bankruptcy, Foreclosure, Mortgage Release, Checks,
+and Customer Service Search pages, the search results will display in the table below the search screen.
+
+&B Search Results
+=<
+=r
+34826265 1205/2018 [Open
+aeons
+“4
+
+Figure 22: Search Results
+
+4.1.4.1 Actions
+
+From the Search Results page, you can generate three different reports. The table below describes the
+capabilities of the buttons located on the top left of the Search Results table. These options are also
+available on all other Search Results pages within SMART.
+
+Export to Excel Bi Excel Exports the data from the table into an excel spreadsheet.
+
+Export to PDF B PDF Exports the data from the table into a .pdf file.
+
+Print © Print Displays the data from the table into a printable page.
+Table 2: Data Table Buttons
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 14
+
+@SMART
+
+4.1.4.2 Result Headers, Search, and Sort
+
+In order to customize your view of the data tables for the Search Results page, the user has three
+options: Result Headers, Search, and Sort. When a user performs a search using these options, their
+options will be saved. For example, when a user navigates to a page from the Search Results page, then
+returns back, the search criteria previously used will still show in the Search Screen Fields.
+
+Q Loan Search Screen
+Search Database MART PRODUCTION DATABASE
+Loan Skey Label Printed
+
+Loan #: Loan Status:
+
+Last 4 Digits of SSN: Loan State: + Property State: Select a State + EHLP Project #:
+
+Closed Box Payment Pian 7 | Property Zip Code: Keyword:
+
+Note Text:
+
+eated 8 + Note Cr
+
+key | _* FHA Case No) (* Loan Program) (* Borrower Name ) = Property Address | (* Lender Name ) | « Closed 60x No) |= Original Prin Bal) (* Updated 6y) | * Updated Date | (* Loan Status
+
+Figure 23: Result Headers
+
+& Search Results
+
+:
+
+Original Prin Bal Updated By Updated Date
+
+Figure 24: Search Results — Result Headers
+
+The user can change the columns in the Search Results page by changing the options within the Result
+Header field prior to clicking [START SEARCH].
+
+& Search Results
+
+Closed Box No Original Prin Bal Updated By
+
+Figure 25: Search Results — Search
+
+The user can use the search bar to filter the page by specific keywords. The user can search by entering
+their search criteria into the field and clicking on Search. To clear out the search criteria, select Clear.
+
+& Search Results
+
+:
+
+n Skey FHA Case No
+
+Loan Program Borrower Name Property Address Lender Name Closed Box No Original Prin Bal Updated By Updated Date Loan Status
+
+Figure 26: Search Results — Sort
+The user can use the arrows next to each column title to sort the requests by any of the columns of the
+table.
+
+4.1.4.3 Clear Search Fields
+To clear the search fields in the Loan Search Screen, click the [CLEAR SEARCH FIELDS] button. The
+information in the search fields will be cleared. Ten records will still remain in the Dashboard.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 15
+
+SMART
+
+4.2 Loan Wizard
+
+New Loan Records can be added to SMART using the Loan Wizard in the Loan Module.
+
++ New Loan Wizard
+
+Loan f % | FuAcases
+Loan Program: | Select a Loan Program 2 | Loan Status: OPEN - Open Loans
+Loan Type: ‘Select a Loan Type + Orig Principal Amt: x
+
+ARM index: Select ARM Index + | ARM Period: Select ARM Period
+
+Figure 27: New Loan Wizard
+
+4.2.1 Add New Secretary Held Loan Records
+
+Step 1: Click [LOAN] from the top Navigation menu. Select [LOAN WIZARD] from the dropdown.
+
+Step 2: Complete all the required fields shown in red. For Loan Program, select “Secretary Held.”
+When the Loan Program has been selected, the following tabs will display: Loan Summary,
+Loan Detail, Loan Filing, Loan Recording, Borrowers, and Property Inspection.
+
+Step 3: Onthe Loan Summary Tab, complete all required fields shown in red, then click [NEXT].
+
+B Loan Summary
+
+Ness to Date Amount sie ™
+
+Mortgage Assets | Loan Filing Loan Recording «Borrowers Property Inspection
+
+Subsidy
+
+Number of Payments Delinquent Effective Date:
+
+Oniginat Principal Amount:
+‘Unpaid Principal Balance:
+Tax Escrow Balance
+Farreit2m Balance:
+Insurance Damage Balance:
+Service Fee Balance:
+Interest Tax Balance:
+Suspense Escrow Balance:
+Late Charge Batance:
+Current Loan Balance:
+
+Credit Line Balance:
+
+Step 4:
+
+Loan Summary RO
+
+# Loan Detail
+
+Mortgage Assets *
+
+Loan Filing
+
+Borrowers *
+
+Pay Type Code:
+
+Pay Application Code:
+
+Payment Status:
+
+Principal Paid YTD:
+
+Interest Paid YTD:
+
+Late Charge Paid YTD:
+
+Real Estate Tax Paid YTD:
+
+Times Late YTD
+
+Times Late Total
+
+Claim Pay Date:
+
+Payott Date:
+
+Property Inspection *
+
+Select a Pay Type Code +
+
+Select 2 Pay Applicatio..
+
+Select Payment Status +
+
+Monthy P&I Amount:
+Monthiy Tax Escrow
+Amount
+
+Monthty Farretlzm
+Amount
+
+Monthly Service Fee
+Amount:
+
+Monthiy Interest Tax
+Amount
+
+Total:
+
+Figure 28: New Loan Wizard — Loan Summary
+
+Date Last Certified
+Date Next Ceruited:
+Duration (in months):
+Formula 2 Factor:
+Adjusted Income:
+Formula 1 Pay:
+
+Formula 2 Pay:
+
+Forbearance - Start
+Date:
+
+Forbearance - Duration:
+{in months)
+
+On the Loan Details Tab, complete all required fields shown in red, then click [NEXT].
+
+omcer code Cur Pin it Sioned Date: Hoi cove select a Hol Coe 1
+Fra sist expeceaintrate: — [000 Funded Date wot cove 2 Sele a Had Cooe2
+Loan Tem aon Cent Net rn Lint mawsceroae: [x] | | Wottcooes: Selec a Hod Cooe 3
+Loe purpose code: [Sect Lun Pupote Code Fe Year Set Ase cam Pa comertastscrm: [sue
+Loan class Code select a Loan Cass Code Serv Fe Set Asie Tite Approva custo se
+Conract ype code: [smc Oa creat ine At Contractor On vacancy Stats seed
+wer Payment Ove Date ta insurance ongtomose: [x] | | anwcode x
+Contractual Due Date: Curinrest ate: [000 stats Date Print Statements
+Fombearnce Agrament [sema matuty Date ot coee
+ce. er sent ot Mat seed ©
+owe Date etna WC branch Cove:
+
+Figure 29: New Loan Wizard — Loan Details
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 16
+
+@®SMART
+
+Step 5: Onthe Mortgage Assets Tab, complete all required fields shown in red. Click [NEXT].
+
+Loan Summary | Loan Dota vy ERSPPII Loon Fuing Loan Recording | Borrowers Property Inspection x
+
+© Morgage Assets
+
+Mortgage Prncipal om v | x | [ooo v
+fee Int 000 000
+Tax Escrow a 000
+Insuthoent Funds Fee 0.00 0.00
+Late Charges 0.00 0.00
+Senice Charge ° 000
+Tax Advances oo 0
+Comer Atrances 000 000
+
+suspense
+
+Figure 30: New Loan Wizard — Mortgage Assets
+
+Step 6: Onthe Loan Filing Tab, complete all required fields shown in red. Click [NEXT].
+
+Loan Summary | Loan Detaiv — Morigage Assets v [EBEEIEIIR oan Recoraing Gorrowers x | Property inspection x
+
+Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer name: [ Seoca Pir Service Name ~ | Closing Date
+Project Name Select a Proect Name ~ | expiration Date
+tard Ft wc 7] ‘Seles Conact Sec ~ | Fae Entre Date:
+Lave Printed select ~ | uo settement see ~ | Notice Received Date
+Owed Restriction: [ Seect ~] Home Ounerincentve: [Sac ~] Fle Receive Dat:
+QF.cem Form | Seect | or type eect an OT Tipe ~) ox Number
+Voucher Number VRS Womber
+
+Mongage Doe | Sec ~ | Note Doe Exists seec
+
+Figure 31: New Loan Wizard — Loan Filing
+
+Step 7: Onthe Loan Recording Tab, complete all required fields shown in red. Click [NEXT].
+
+Loan Summary | Loan Detail Mortgage Assets ¥ Loan Filing Borrowers * Property inspection
+
+B Loan Recording
+
+Loan Recording Information
+
+Book No Release Prepared Date Notary Sect 8 Notary
+Page No Origination Date: Prepared By: Seiect a Pror Servcar Name
+Instrument No Loan Recorded Date Onginat Trustee: {Select an Onignal Trustee
+Payot Date: Mortgage Amount Substue Trustee: [ Soiact a Substtve Trustee
+Aumerized —Seiect an Authozed Peron) Witness 1 Select waness 1 >| Wness 2 Sevect waness 2
+
+Figure 32: New Loan Wizard — Loan Recording
+
+Step 8: Onthe Borrowers Tab, complete all required fields shown in red. Click [NEXT].
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 17
+
+Loan Summary Loan Detail v
+
+B Borrowers Information
+
+Mortgage Assets“ — Loan Fiting
+
+Borrower Information
+
+First Name
+
+Birth Date:
+
+Work
+Phone
+
+Loan Recording IIR
+
+Property inspection x
+
+Home
+Phone:
+
+Maritat
+Status
+
+Borrower Address
+
+@®SMART
+
+Co-Borrower Information
+
+First Name:
+
+Birth Date:
+
+Last
+Name:
+
+Phone:
+
+Mailing Address
+
+Last tame
+acres
+ert Phone
+Onr momaton
+
+Figure 33: New Loan Wizard — Borrowers
+
+Step 9: Onthe Property Inspection Tab, complete all required fields shown in red.
+
+Loan Summary Loan Detail” = Mortgage Assets” © Loan Filing Loan Recording
+
+ERE Property Inspection
+
+B Property inspection
+
+Property Information
+Address 1 v ]
+Aaaress 2
+
+cy:
+
+State’
+
+2p Code:
+
+Owner Occupied:
+
+Collect insur Escrow:
+
+“)
+
+Select
+
+Select
+
+Parcel Number
+
+Prop Type Code
+
+Prop Desc Code:
+
+Property Condition: Select
+
+Last Appraisal Date:
+
+Occupancy Date:
+
+Last Inspect Date:
+
+Appraised Vatue: 0.00
+
+Estimated Vatue: 0.00
+
+Legal Description:
+
+County Clerk: Select
+
+Figure 34: New Loan Wizard — Property Inspection
+Step 10: After all required fields are completed, click on the [SUBMIT] button located in the
+Property Inspections Tab.
+Step 11: From the confirmation pop-up, click on the [SUBMIT] button.
+Note: If all required fields are not completed, a warning pop-up will display saying “Marked fields are
+required. Please re-submit them again.”
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 18
+
+@SMART
+
+4.2.2. Add New Common Loan Records
+
+Note: Common Loan Records include all loans except for Partial Claim, Secretary Held, HECM-A, HECM-I,
+and SF Data Request.
+
+Step 1: Click [LOAN] from the top Navigation menu. Select [LOAN WIZARD] from the dropdown.
+
+Step 2: Complete all the required fields shown in red. For Loan Program, select any Loan Program
+except those noted above. When the Loan Program has been selected, the following tabs
+will display: Loan Summary, Loan Detail, Loan Filing, Loan Recording, Borrowers, and
+Property Inspection.
+
+Step 3: Onthe Loan Summary Tab, complete all required fields shown in red, then click [NEXT].
+
+Loan Detail | Loan Fling Loan Recording Borrowers X Property inspection
+
+B Loan Summary
+
+Step 4:
+
+Year To Date Amount Paid
+
+Pay Type Code:
+
+Pay Application Code: Set
+
+Payment Status:
+
+Principal Paid YTD:
+
+Claim Pay Date:
+
+Figure 35: New Loan Wizard — Loan Summary (235-Insured)
+
+On the Loan Details Tab, complete all required fields shown in red, then click [NEXT].
+
+Loan Summary [RREQREIEIIE Loan Fiting — Loan Recording Borrowers Property Inspection
+
+B Loan Detail
+
+Step 5:
+
+Loan Term (in months}:
+
+Loan Status 1:
+
+Loan Status 2:
+
+Loan Purpose Code:
+
+Loan Class Code:
+
+Additional Loan Information
+Select a Hold Code .
+
+Hold Code 1
+
+Hold Code 2:
+
+Hold Code 3:
+
+Accrual Method:
+
+ADP Code:
+
+Branch Code:
+
+Print Statements

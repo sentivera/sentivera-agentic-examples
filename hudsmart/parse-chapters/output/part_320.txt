@@ -1,0 +1,697 @@
+ed a ticket you would like to unpin, open that ticket.
+Step 3: — Click [UNPIN FROM DASHBOARD] button located under the “Ticket Information (Edit Mode)”
+
+#& Customer Service - Ticket No. 853427
+concog QBBBTSRIY icser ction motes documents
+Test OUT OK-) B Ticket Information (EDIT MODE)
+
+n
+
+FHA Case #: a Loan Program: | ACA~ Compliance | Loans:
+
+Figure 16: Unpin from Dashboard (Ticket Record)
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have unpinned a ticket it will no longer display in the My Tickets Dashboard. If the ticket has
+
+multiple property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will no
+longer display in the My Tickets Dashboard.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 11
+
+@SMART
+
+4 Using the Loan Module & Mail
+
+4.1 Search
+
+Loans can be retrieved through various combinations of the search criteria available on the Loan Search
+Screen.
+
+Q Loan Search Screen
+Search Database SMART PRODUCTION DATABASE
++ Borrower Name: Loan Create Date >=
+
+FHA Case ®: Loan Program:
+
+Loan Skey: Label Printed: * | Property Address:
+
+Loan #: Loan Status: + | Property City
+
+Last 4 Digits of SSN: Loan State: + Property State: Select a State + EHLP Project #:
+
+Closed Box #: Payment Pian 7 | Property Zip Code: Keyword:
+
++ | Note Create Date >=
+
+Note Text Note Type: + | Note Created By:
+
+Lender Admin
+
+. c ~ | Payee / Holder of a ea
+Contact Claim Servicer: Freel Select a Payee / Holder of Record
+
+Result Headers: [Loan Skey) “FHA Case No ) (= Loan Program | | * Borrower Name | |* Property Address | (= Lender Name ) (Closed Bax No) |= Original Prin Bal) | = Updated By | (* Updated Date | |* Loan Status
+
+Figure 17: Loan Search Screen
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+Close Box # Physical location of stored files
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Current Servicer Servicer/Lender associated with the FHA Case
+
+Exception Type Type of Exception filed in the Exceptions tab
+
+Result Headers Search criteria columns to be displayed in the Search Results table
+Loan Program Type of program associated with the loan
+
+Label Printed Indicator of whether or not a hard copy file has been generated for the loan
+Loan Status Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property City City wherein the loan property is located
+
+Property State State wherein the loan property is located
+
+Property Zip Code Zip Code wherein the loan property is located
+
+Note Created By SMART User who created Notes in the Notes tab
+
+Claim Servicer Servicer/Lender associated with a Claim
+
+Loan Create Date Date that a loan was entered into the SMART system
+
+Loan Close Date Date that a loan was closed
+
+File Rec’d Date The File Received Date of a loan
+
+EHLP Project # EHLP Project Number
+
+Keyword Searches any word within the Search Results data table
+
+Note Create Date Date that the Note in the Notes tab was created
+
+Payee/Holder of Record Servicer/Lender assigned as a Holder of Record
+
+Table 1: Loan Search Fields
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 12
+
+@SMART
+
+4.1.1 Loan Search — Production Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Production Database.”
+
+Search Database: SMART PRODUCTION DATABASE
+
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 18: Search Database — Production Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+
+Step 4: — Click [START SEARCH].
+
+Figure 19: Start Search Button
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.2 Loan Search — Legacy Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Legacy Database.”
+
+Search Database: SMART LEGACY DATABASE
+
+FHA Case #: |
+
+SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+SMART DAT C DATABASE
+
+Loan Skey:
+
+Loan #:
+
+Figure 20: Search Database — Legacy Database
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 13
+
+@SMART
+
+4.1.3. Loan Search — DAT C Database
+
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the “DAT
+C Database.”
+
+Search Database: SMART DAT C DATABASE
+FHA Case #: |
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+Loan #:
+
+SMART DAT C DATABASE
+
+Figure 21: Search Database — DAT C Database
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.4 Search Results
+
+On the Loan Search page, as well as the Servicing, Mortgage Release, Checks, Transaction, and Customer
+Service Search pages, the search results will display in the table below the search screen.
+
+&@ Search Results
+
+owt a
+
+i
+a
+
+$22.00 120772018
+04:07:44 PM
+
+$56,435.61 1207/2018
+04 14:59PM
+
+$4,890.00 120772018
+01:38:32 PM
+
+$48,262.65 1210572018
+02.0046 AM
+
+$7,900.67 121052018
+02.00.46 AM
+
+$8,410.46 8
+
+12105/201
+02:00:45 AM
+
+Figure 22: Search Results
+
+4.1.4.1 Actions
+
+From the Search Results page, you can generate three different reports. The table below describes the
+capabilities of the buttons located on the top left of the Search Results table. These options are also
+available on all other Search Results pages within SMART.
+
+Export to Excel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+
+Table 2: Data Table Buttons
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 14
+
+@SMART
+
+4.1.4.2. Result Headers, Search, and Sort
+
+In order to customize your view of the data tables for the Search Results page, the user has three
+options: Result Headers, Search, and Sort. When a user performs a search using these options, their
+options will be saved. For example, when a user navigates to a page from the Search Results page, then
+returns back, the search criteria previously used will still show in the Search Screen Fields.
+
+Q Loan Search Screen
+Search Database ‘SMART PRODUCTION DATABASE
+FHA Case Loan Program
+Loan Skey
+Loan #
+
+Last 4 Digits of SSN:
+
+Closed Box #: Payment Pian:
+
+Note Text Note Type:
+
+Current Servicer: SelectaLender + | COntet
+
+“Loan Skey | “= FHA Case No ) = Loan Program | { * Borrower Name | | Property Address | [= Lender Name | | « Closed Bax No) (= Original Prin Bal) { = Updated By | | * Updated Date | | « Loan Status
+
+Figure 23: Result Headers
+
+&B Search Results
+
+04:07:44 PM
+
+Figure 24: Search Results — Result Headers
+
+The user can change the columns in the Search Results page by changing the options within the Result
+Header field prior to clicking [START SEARCH].
+
+&B Search Results
+
+Figure 25: Search Results — Search
+
+The user can use the search bar to filter the page by specific keywords. The user can search by entering
+their search criteria into the field and clicking on Search. To clear out the search criteria, select Clear.
+
+&B Search Results
+
+-
+
+n Skey FHA Case No Loan Program Borrower Name Property Address Lender Name
+
+Figure 26: Search Results — Sort
+
+The user can use the arrows next to each column title to sort the requests by any of the columns of the
+table.
+
+4.1.4.3. Clear Search Fields
+
+To clear the search fields in the Loan Search Screen, click the [CLEAR SEARCH FIELDS] button. The
+information in the search fields will be cleared. Ten records will still remain in the Dashboard.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 15
+
+4.2 PMC Queue
+
+@SMART
+
+The PMC Queue is a repository of loan records that have been added to SMART through a data upload
+that already had records in SMART. From this page the user can reconcile the duplicate loan records.
+To access the PMC Queue, click [LOAN] from the top Navigation menu and select [PMC QUEUE] from the
+
+dropdown.
+
+& PMC Queue - Cases found in SMART - Pending Decision
+
+moo
+
+$10,955.60
+
+Figure 27: PMIC Queue
+
+121102019
+
+$17,048.59 r2rr02019
+$2,333.00 1211072019
+$13,392.60 12092019
+$123.00 1210972019
+$100.00 1270972019
+$1500 1210972019
+$30.00 120972019
+$20.00 1210972019
+518,688.08 127092039
+$5,429.25 121092019
+$21,639.03 08/28/2017
+$21,639.03 062872017
+
+12/10/2019 02.4921 PM
+
+1271072019 02:48:07 PML
+
+12/10/2019 02:45:50 PM
+
+12/09/2019 01:51:48 PM
+
+12/09/2019 01:04:04 PM
+
+12/09/2019 12.48.05 PM
+
+12/09/2019 12.47.30 PM
+
+12/09(2019 12:40:19 PM
+
+12/09/2019 123956 PM
+
+127092019 12:15:58 PM
+
+12092019 11.44.44 AM
+
+120082019 11.19.00 AM
+
+1200912019 11.1758 AM
+
+View Existing Loan
+Import into Existing Loan
+
+View Existing Loan
+Import into Existing Loan
+
+View Existing Loan
+Import into Existing Loan
+
+View Existing Loan
+Import into Existing Loan
+
+View Existing Loan
+Import into Existing Loan
+
+View Existing Loan
+Import into Existing Loan
+
+View Existing Loan
+Import into Exsting Loan
+
+View Existing Loan
+Import into Existing Loan
+re Loan
+Import into Existing Loan
+
+View Existing Loan
+Import into Existing Loan
+
+To view the existing SMART record for a loan, click on [VIEW EXISTING LOAN] located in the Actions column
+
+of the dashboard to navigate to the Loan Record.
+
+To Import the latest data into the existing Loan Record, click on [IMPORT INTO EXISTING LOAN] located in
+the Actions column of the dashboard. This redirects the user to the Add Transaction page.
+
+Add Transaction
+
+Transaction Information
+
+DP Code:
+
+FHA Case No.: Al
+Borrower First Name:
+Property:
+
+Borrower Last Name:
+
+Partial Claim Amount: $1.00 Endorsement Date:
+Lender ID: Fund Code:
+Maturity Date: 10/24/2005 Execution Date:
+Transaction Type: | Select a Transaction Type * Effective Date:
+
+0734
+De
+10/24/2005
+
+a
+
+1112672019
+
+11/26/2019 v
+
+Figure 28: Import into Existing Loan
+
+Once the information has been verified and all the required information has been entered, click [SAVE]
+and then click [SuBMIT] on the confirmation pop-up. This will add the new information to the Loan
+
+Record.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 16
+
+@SMART
+
+4.3 Accessing Detailed Loan Information
+
+Opening a Loan Record from the search results will navigate the user to the Loan Record page. The Loan
+Record page consists of multiple tabs that provide detailed Loan information.
+
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+
+Step 2: In the Loan Search Screen, select the Loan Program from the Loan Program drop down.
+
+Step 3: Click [START SEARCH]. 50 records will display in the Search Results Dashboard.
+
+Step 4: From the Search Results Dashboard, click on either the Loan Skey, FHA Case #, and Loan #
+to open the loan.
+
+Figure 29: Loan Record (example)
+
+To minimize the loan record, click on the black arrow (+) located left of the Loan Record page title. To
+maximize, re-click on the black arrow.
+
+To minimize the Borrower & Property Information and Additional Loan Information, click on the white
+arrow (Ez) located left of the of the Borrower & Property information box or the white arrow located left
+of the Additional Loan Information. To maximize, re-click on the white arrow.
+
+On each Loan Record page, the selection of tabs displayed is dynamic and varies depending on the Loan
+program of the selected loan. The colors of the tabs show at a glance whether data exists in the tab or
+
+not.
+
+Note: Loans that are Closed are all Read Only.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 17
+
+@®SMART
+
+4.3.1 Access Details of Partial Claim Loan Records
+
+4.3.1.1 View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record page.
+
+By oe Loan raing Loan Recording Borrowers Propertyinspection Documents Notes Morigage Release Exceptions Servicing ForeclonureBankrupicy Disbursements Payoff Transactions. Customer Service
+
+BLoan Summary
+
+Year To Date Amount Paid
+
+Original Prin Amt: $1.00 Unpaid Prin Bat: $3,897.03 Pay Type Code: =. Payment Status: 90-NO PAYMENT DUE
+
+Pay App Code: N Prin Paid Yea: (83,313.61)
+
+Audit Information
+
+Created By: LoanConv Created Date: 0228/2009 12:00:00 AM
+
+Last Updated By: MN = Last Updated Date: 02/07/2018 09-48:05 AM
+
+Figure 30: View Loan Summary
+
+4.3.1.2. View/Edit Loan Detail
+Step1: Click on the [LOAN DETAIL] tab within the Loan Record page.
+
+Loan Summary RESTS Loon Fiing — Loan Recording Borrowers, Property inspection Documents Notes. © Mortgage Release Exceptions © Servicing Foreclosure arkruptcy Orsbursements Payoff Transactions Customer Service
+
+#3 Loan Detail
+
+Pant Statements:
+
+Figure 31: View Loan Detail
+
+Step 2: — Click on [EpIT] located under the Loan Detail title to navigate to Loan Detail (Edit Mode).
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+
+rs So
+
+B Loan Detail (EDIT MODE)
+
+Figure 32: Edit Loan Detail
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 18
+
+@®SMART
+
+4.3.1.3 View/Edit Loan Filing
+Step 1: Click on the [LOAN FILING] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers: Property Inspection Documents, Notes ‘Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements. Payot Transactions Customer Service
+i Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Name: Hard File Sales Contract: Closing Date:
+Prior Servicer Phone: Labet Printed HUD Settlement: Expiration Date:
+Project Name: Deed Restriction: Home Owner Fie Entered Date:
+Project No: ase rom OT Type: File Received Date:
+Project i Voucher Number: VRS Number Notice Received
+Box Number
+
+Claim 1
+
+Claim Processed Date: 2052018 Claim Amount: $56495.61 verde Claim Exclude trom Missing Docs Report:
+a — pe
+Total Amount Pai Payee / Holder of Record
+
+Figure 33: View Loan Filing
+
+Step 2: — Click on [EpIT] located under the Loan Filing title to navigate to Loan Filing (Edit Mode).
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+
+B Loan Filing Information (EDIT MODE)
+
+Loan Filing Information
+
+Prior servicer Wome: [Select a rr Seca Name | Closing Date:
+Project Name: Sete a Project Nae + | expiration oat
+ard Fe Stet a Har Fi = | sats contact tect a Sale Contact ~ | Fie Emer Date
+Lave Printe: | Seiect a Label Preis | HUD Settement: ect» HUD Setiement ~ | File Received Date
+Deed Restriction: | Select a Deed ~] Wome Owner incentive: [ Suc a Home Owner incarive ~ | Notce Receive Date:
+gcerirom | sect oT cet =| or type seed 2 OT Tye +} Box numer
+Voucher Number VRS Number:
+
+Claim 1
+
+Claim Processed Date: 12082018 Cloim Amount: [Seaas.ev00 | verte Clim Exclude trom missing Docs Report: { Seed
+
+Incentive Fee: Claim Servicer:
+Total Amount Paid: Payee / Holder of Record:
+
+Figure 34: Edit Loan Filing
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.3.1.4 View Loan Recording
+
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail, Loan Filing Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff © ‘Transactions Customer Service
+
+@# Loan Recording
+
+Book No Release Prepared Date: 12052018 Notary
+Page No: Ongination Date Prepares By:
+tostrument Loan Recorded Date: Original Trustee:
+Payot Date: Clam Amount: ($56,435.61 Substitue Trustee:
+Autores wines 4 wanes 2:
+
+Figure 35: View Loan Recording
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 19
+
+@®SMART
+4.3.1.5 View/Edit Borrowers
+
+Step 1: Click on the [BORROWERS] tab within the Loan Record page.
+Loan Summary Loan Detat Loan Filing: Loan Recording Borrowers, Property Inspection Documents ‘Notes, Mortgage Release Exceptions: Servicing Forectosure Bankruptcy, Disbursements. Payot Transactions Customer Service
+& Borrowers Information
+First Name: , | SSN: Lt First Name: SSN
+Figure 36: View Borrowers
+Step 2:
+
+Click on [EpDIT] located under the Borrowers title to navigate to Borrowers (Edit Mode).
+
+B Borrowers Information (EDIT MODE)
+
+First Nome: { | 12st, (av | First Name: lat
+Birt Date: Home, Birth Date: Phone
+Wook acta
+Prone Sanus
+ess: v} Mas To Name
+ares 2: Aess
+ci | store: (MM + | || cress 2
+f A
+Last hom
+adres
+sires 2
+Figure 37: Edit Borrowers
+Step 3:
+
+Make the necessary changes, complete all required fields, and click [SAVE].
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.3.1.6 View/Edit Property Inspection
+
+Step1: Click on the [PROPERTY INSPECTION] tab within the Loan Record page.
+
+Tee) [ree | | tee — SI ——————_—I SCOUT,
+#% Property Inspection
+
+| est | neo: for |
+
+Figure 38: View Property Inspection
+
+Step 2: To edit a property inspection, click on [EDIT ITEM] located in the Actions column of the
+dashboard to navigate to Property Inspection (Edit Mode).
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 20
+
+@SMART
+
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.3.1.7 View/Add/Edit Property Picture
+If property pictures have been attached to a Loan, a camera icon will appear next to the property
+record. Loan Property Pictures can be viewed in the Property Inspection tab where the Active Property
+
+photo will be displayed.
+
+Click on [Epi ITEM] located in the Actions column of the Property Inspection dashboard to
+
+navigate to Property Inspection (Edit Mode).
+
+Step 2: Scroll to the bottom of the page to view the Property Picture dashboard.
+
+Step 1:
+
+It Property Pictures
+
+G10160515_0_6AymZQ jpeg
+
+Figure 39: View Property Pictures
+
+To add a picture, click on [ADD PicTuRE] located under the Property Pictures title. To edit a
+
+Step 3:
+picture, click on [EDIT PicTuRE] located in the Actions column of the Property Pictures
+dashboard.
+
+Step 4: Drag and drop a picture or click on the Upload button to upload a file (if you are using
+Internet Explorer, you can only click to upload). (Note; Only TIF, JPG, JPEG, PNG, or PDF
+files are accepted.)
+
+B Property Picture (ADD MODE)
+==
+
+Property Picture Information
+
+Figure 40: Add Property Picture
+
+Step 5: Complete all required fields and click [SAVE].
+Step 6: On the Confirmation Pop-up, click [SUBMIT].
+
+After saving, the user redirects to Property Inspection edit mode and if the user scrolls down the
+Property Picture dashboard will display with new addition.
+
+4.3.1.8 View/Add/Edit Documents
+Step1: Click on the [DOCUMENTS] tab within the Loan Record page.
+
+¥ Loan Detail Loan Filimg Lon Recording Borrowers Property Inspection Notes Mortgage Release Exceptions Servicing Disbursements Payoff ‘Transactions Customer Service
+
+@ Documents
+
+Loan Summary
+
+Figure 41: View Documents
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 21
+
+@SMART
+
+Step 2: To adda document, click on [ADD DOCUMENT] located under the Documents title to
+navigate to Document (Add Mode). To edit a

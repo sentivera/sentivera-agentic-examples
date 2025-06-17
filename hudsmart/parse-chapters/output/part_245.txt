@@ -1,0 +1,550 @@
+.47
+Remittance Type: Sect a Remmtance Type
+
+Romitter Name:
+
+Request Received From ust v}
+Requestor test
+Check Amount: 1150347 vi!
+
+(Check Number:
+
+Check Date:
+
+Transaction Type: PPC - Payot Partial Ciaim ~
+
+Figure 228: Submit Payoff Payment
+
+Step 15: Complete all required fields.
+Step 16: Click [SAveE] and click [SUBMIT] on the confirmation pop-up.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 102
+
+@SMART
+
+Loan Summary Loan Detail Loan Filing Lean Recording Borrowers Property inspection Documents Noles. Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements JEUEUI Transactions Customer Service
+
+© Payoff
+
+Payoff information pasor | onova0te
+
+Original Amount $11,047.47
+Advances: $456.00
+Other increases: $0.00
+Payments 30.00
+Transterred Amount: $0.00
+
+Write Off Amount $0.00
+
+Paid Ott Amount: 11 503.47)
+Total Payott Amount: $0.00
+
+Figure 229: Payoff Tab — Payoff Process Completed
+
+If the Total Payoff Amount is now SO, then the following will occur:
+. . . . . Servicing Activity
+1. Payoff Request Timeline will automatically close with the last two
+steps marked as complete with today’s timestamp. E Cert of Indebtedness
+
+(COl) (A)
+
+Loan Summary | Loan Detail Loan Fuing | Loan Recorang || Borrowers Property inspection || Documents || Notes | Morigage Release Exceptions Foncoure | oar | ouowrell |B By
+ayoff Request (I)
+@ Servicing
+
+moo EB Add Cort of
+
+B Cert of indebtedness
+
+Indebtedness (COl) 1
+B Payot Request (0) Payot Request Recewed 02/28/2018 0301/2018 02/28/2018
+Add Cert ot sesommrwesy Add Demand
+Pore ane ees ovens 062000 PM EST Tracking
+Add Demana
+Tracking ‘Payot Amount Recewed 0531/2018 0301/2018 02/28/2018
+Add Payott Request Cs
+Payot Arount Forwarded to Lock Ba — — Add Payoff Request
+
+Ei Add Subordination
+
+‘Showing 1 to 4 of 4 entries
+
+Add Subordination
+
+Figure 230: Servicing Module — Payoff Process Completed
+
+2. Mortgage Release Timeline will automatically open with the first step marked as complete with
+today’s timestamp.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff Transactions Customer Service
+
+@B Mortgage Release
+
+(Full Release (A)
+
+Bchecks
+Release Request Recewedinéated 120052018 12/08/2018 SF atten
+Aad New Mortgage
+Release
+Len release package prnted rarnvi2018 121052018 Gf Eat em
+Len Release package sent for recording saneaore 1205/2018 Gf East nem
+Recorded Release receives trom County 51972020 120052018 re eaten
+Copy to imagng image owosiz020 s2082018 Gf Esit nem
+File to StoragerProcess Complete 0617/2020 127052018 I fatten
+
+Showing 1 to 6 of 6 entnes wevion | Nex
+Figure 231: Mortgage Release Module — Payoff Process Completed
+
+3. Arecord will automatically insert into the Transaction Tab
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff Customer Service
+
+@ Transactions
+
+Emtective Date ie Trans Description Created By
+
+3012018 uct ‘Multiple Partiat Claim = 3d $333.00
+10:37:36 AM EST
+030172018 PPC Payott Partial Ciaim (811,503.47) o3012018
+19:08:29 AM EST
+027282018 cr ‘Multiple Partist Claim — 4 $123.00 027282018
+08:31:44 PMEST
+01/26/2018 or Loan Setup - Prncpal Balance $11,047.47
+
+ov282018
+02:00:15 AM EST
+
+som
+Figure 232: Transaction Tab — Payoff Process Completed
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 103
+
+@SMART
+
+4. The Loan will close after the user refreshes the page.
+5. The amount in the Payoff letter will update to reflect the new Total Payoff Amount found in the
+
+Payoff Tab, which is $0.00.
+
+If the Total Payoff Amount is SO and there is already an open Mortgage Release Timeline, then the
+following will occur:
+
+1.
+
+w
+
+Payoff Request Timeline will automatically close with the last two steps marked as complete
+with today’s timestamp.
+
+A record will automatically insert in the Transaction tab.
+
+The Loan will close after the user refreshes the page.
+
+The amount in the Payoff Letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is $0.00.
+
+8.6.2 Scenario 2: Received Payoff Check Without Payoff Request
+If the Payoff Check was received prior to entering a Payoff Request in the Servicing Module, the user can
+enter the payoff directly through the Payoff tab. In the steps listed above, begin the process at Step 13.
+
+If the Total Payoff Amount is now SO, then the following will occur:
+
+1.
+
+5
+
+Payoff Request Timeline will automatically open and close with all steps marked as complete
+with today’s timestamp.
+
+Mortgage Release Timeline will automatically open with the first step marked as complete with
+today’s timestamp.
+
+A record will automatically insert in the Transaction tab.
+
+The Loan will close after the user refreshes the page.
+
+The amount in the Payoff letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is $0.00.
+
+If the Total Payoff Amount is SO and there is already an open Mortgage Release Timeline, then the
+following will occur:
+
+1.
+
+w
+
+Payoff Request Timeline will automatically open and close with the last two steps marked as
+complete with today’s timestamp.
+
+A record will automatically insert in the Transaction tab.
+
+The Loan will close after the user refreshes the page.
+
+The amount in the Payoff Letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is $0.00.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 104
+
+@SMART
+
+9 Using the Accounting Module
+
+9.1 Cash Management
+
+To get to the General Ledger Detailed Transaction Screen, click [ACCOUNTING] from the top Navigation
+menu. Select [CASH MANAGEMENT] from the dropdown. The display shows the Total Amount of all
+Transactions, the Total Record count in the upper right-hand corner, and the last transaction date and
+time posted to the GL when the screen finishes processing.
+
+General Ledger Transactions Page No: (1/42825) ic]
+Total Amount : $11,885,836,488.66 | Total Records : 856494 Last Transaction Posted : 3/13/2018 10:54:12 AM are | Additional Fitters J} xport to Excel
+Fiscal Period: 9) . bestia F ; gored Select + FHA Case No: FHA Loan No: neat ee Loan Tameeney: a
+~ - ‘Trans Effective Date © FHACase Number Loan Program Skey © TRANS CODE — Transaction Amount — Smart Transaction Amount GL-DR GL-cR Fiscal Year F
+1 Q 03/12/2018 264-0316542 40 PMTB $83.31 - $83.31 10-1011-00 13-5045-00 2018
+Q 03/12/2018 261-9231818 40 PMTB $192.95 - $192.95 10-1011-00 13-5045-00 2018
+3 Q 03/09/2018 351-5991816 40 pec $32,971.20 ~ $32,971.20 10-1011-00 13-5045-00 2018
+Q 03/09/2018 351-5772135 40 PPC $37,711.85 $37,711.85 10-1011-00 13-5045-00 2018
+5 Q 03/09/2018 197-5249454 40 Pec $10,905.99 $10,905.99 10-1011-00 13-5045-00 2018
+6 Q 03/09/2018 277-0463961 40 ppc $3,434.47 $3,434.47 10-1011-00 13-5045-00 2018
+7 Q 03/09/2018 264-0716024 40 pec $2820.87 ~ $2,820.87 10-1011-00 13-5045-00 2018
+8 Q 03/09/2018 263-4552380 40 PPC $24,158.06 $24,158.06 10-1011-00 13-5045-00 2018
+9 Q 03/09/2018 262-1743275 40 PPC $6,346.62 $6,346.62 10-1011-00 13-5045-00 2018
+10 Q 03/12/2018 261-9399504 40 PMTB $101.81 - $101.81 10-1011-00 13-5045-00 2018
+W Q 03/09/2018 201-4487728 40 ppc $32,021.29 ~ $32,021.29 10-1011-00 13-5045-00 2018
+12 Q 03/09/2018 201-4882489 40 PPC $7,726.69 $7,726.69
+Q 03/09/2018 181-2415704 40 PPC $10,514.55 $10,514.55
+
+Figure 233: Search
+
+Export to Excel Exports the data from the table into an excel spreadsheet.
+
+Export to PDF Exports the data from the table into a .pdf file.
+
+Print Displays the data from the table into a printable page.
+
+Table 12: Data Table Buttons
+
+The system displays all the transactions in the GL with the ability to go to any page of transactions you
+like by clicking the Page # Drop List, selecting the page and clicking Go, or go page by page by pressing
+the green arrows. The transactions can also be filtered by any of the elements in the header of the
+screen. The filters are as follows:
+
+e Fiscal Period e Cert Trans Skey
+
+e Loan Program e Trans code
+
+e Accounting Number e Fund Code
+
+e FHA Case No e Fund Type
+
+e FHA Loan No e CAMBU Batch Id
+
+e Exception Trans Skey e CAMBU Batch Start-Date
+e Loan Trans Skey e CAMBU Batch End-Date
+
+An error message will display if there is a conflict with the options selected. This can be remedied by
+simply changing the filter options.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 105
+
+oC @OSMART
+
+9.1.1 Recycle File
+The Recycle File is used to handle any transactions that are entered into SMART but were entered in
+
+error with either the wrong transaction code or the wrong Debit/Credit transaction code combination.
+An email will be sent to the user each time an exception is created.
+
+vane | ct system Admin = | 8.6L Atm ~ | Toa tance | errata |= Tramacton= | EOracrRpor | Regen | 2 Retan
+
+General Ledger Exception Info Page No: (1/4) | ic
+
+Total Records : 66 Last Transaction Posted : 3/13/2018 11:25:38 AM
+Loan Trans Skey: Loan No: FHA Case No: Cert Trans Skey: Exception Type: jrancaction Error 7 St@tUS! Unresolved + Trans Code: cajace + Loan
+* * Loan Trans Skey Loan Skey Loan No FHACaseNo Cert Trans Skey —_Loan Program Skey Trans Code Amount Resolved With Loan Trans Skey Resolved With Cert Tra
+
+1 s 6694358 398621 052350752 052-3507524 0 40 ppc 9668.18 o 0
+
+4 6694357 2213218 048592922 048-5929226 tC) 40 PP 35136.86 o 0
+
+4 6694356 2291711 048483505 048-4835054 o 40 PPC 8352.72 ° 0
+
+4 s 6694355 2327560 351514035 351-5140353 0 40 PMTB 297.66 C) 0
+
+¢ 6694354 2089128 351496701 351-4967016 C) 40 PMTB 190.5 ° 0
+
+6 ¢ 6694353 2309047 352678325 352-6783257 0 40 PMTB 3228 tC) 0
+
+7 va 6694352 2197818 351503116 351-5031163 t) 40 PMTB 91.93 0 0
+
+4 6694351 2132921 044454566 044-4545669 i} 40 PPC 65649.73 C) 0
+
+¢ 6694350 2200358 042833857 042-8338579 0 40 PMTB 161.87 ° 0
+
+Figure 234: Exceptions List
+
+The GL file is reviewed daily by Cash Management personnel and all rejects are reviewed. In the rare
+case there is an error, a Journal Entry (JECC) must be posted in SMART as a transaction 9tc Code 329) to
+reverse the erroneous entry. If the original entry was a debit, then the correct entry is entered as a
+negative amount, thus cancelling the error. Once an error is corrected in SMART and validated in the
+GL, it is updated in the Recycle File to close it as corrected. Corrected exceptions are highlighted in
+green. An email will be sent to the user when the exception has been cleared.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 106
+
+@SMART
+
+9.1.2 Trial Balance
+
+The Accounting Module also provides four Trial Balance Options for the user. By selecting the drop list
+and clicking one of the options, the system will automatically display all the transactions in the
+appropriate Trial Balance View.
+
+Home | © GL System Admin ~
+
+Dwector Report | ¢ Recycte | £2 Retesh
+
+Trial Balance as of 2018/6 (Fiscal Year/Fiscal Month)
+
+Total Records : 44 Last Transaction Posted : 3/13/2018 11:49:31 AM [search | esportteport |
+Account Fiscal Year/Month Loan Cohort Fund Activit
+i oi sores al al) ¥ ADP Code: ay) al) Fund Code: i vty A + FR
+Number: 3 | 2018 Program: Year: Type: Type:
+
+Trial Balance Summary as of 2018/6 (Fiscal Year/Fiscal Month)
+
+Current Period DR Current Period CR Net Current Period
+
+$50, 198,718.02 $50,198,718.02 $0.00
+
+Row No GL Account Number Previous Balance Current Period DR Current Period CR Net Current Period Ending Balance
+1 10-1011-00 $1,273,047,096.49 $15,272,036.30 $25,963.13 $15,246,073.17 $1,288,293, 169.66
+2 10-1012-00 $470,382.58 $0.00 $0.00 $0.00 $470,382.58
+3 13-1041-00 $1,334,859.52 $4,003.50 $0.00 $4,003.50 $1,338,863.02
+4 13-1045-00 -$1,922,632.29 $0.00 $4,003.50 -$4,003.50 ~$1,926,635.79
+5 -$8,330.00 $0.00 $0.00 $0.00 ~$8,330.00
+6 $0.00 $0.00 $0.00 $0.00 $0.00
+7 -$1,224.72 $0.00 $0.00 $0.00 ~$1,224,72
+8 $1,224.72 $0.00 $0.00 $0.00 $1,224.72
+9 $14,073,005,607.11 $34,479,456.56 $0.00 $34,479,456.56 $14, 107,485,063.67
+10 $94,944.17 $0.56 $0.00 $0.56 $94,944.73
+W ~$1,259,388,633.81 $25,963.13 $15,268,032.80 -$15,242,069.67 ~$1,274,630,703.48
+12 ~$309,324,786.07 $236,422.46 $175,243.76 $61,178.70 +$309,263,607.37
+13 13-5048-00 $5,591.75 $0.00 $5,591.75 ~$639,327,467.69
+
+~$639,333,059.44
+Figure 235: Trial Balance by Account
+
+The page provides both cumulative and fiscal year-to-date columns, the current period debits, credits,
+net change, and the fiscal year ending balance, as well as the cumulative balance by account. This
+option also includes group subtotals
+
+= Director Report | ¢ Recycle | £2 Retresh
+
+Total Records : 44
+
+aunt A Fiscal Year/Month 1018/6 progrenn All y Cohort Year: 4 v ADP Code: 9) + Fund Type: y+ Fund Code: _ sy All + FH
+
+Account No. Account Name Cumulative Beginning Balance —_Fiscal Year Beginning Current Month DR Current Month CR Net Current Period Fiscal Year Ending Balance Cumulative Ending Balance
+10.1011-00 Cash - Collections $1,273,047,096.49 $205,030, 169.62 $15,272,036.30 $25,963.13, $15,246,073.17 $220,276,242.79 $1,288,293,169.66
+10-1012-00 Cash - Disbursement -$470,382.58 $0.00 $0.00 $0.00 $0.00 $0.00 ~$470,382.58
+
+‘Sub Total : $1,272,576,713.91 $205,030,169.62 $15,272,036.30 $25,963.13 $15,246,073.17 $220,276,242.79 $1,287,822,787.08
+13-1041-00 Accounts Receivable $1,334,859.52 $62,642.24 $4,003.50 $0.00 $4,003.50 $66,645.74 $1,338,863.02
+13-1045-00 AYR Collections -$1,922,632.29 -$83,450.24 $0.00 $4,003.50 -$4,003.50 -$87,453.74 -$1,926,635.79
+13-1047-00 ~$8,330.00 ~$153.00 $0.00 $0.00 $0.00 ~$153.00 ~$8,330.00
+
+Oe, Sub Total : -$596,102.77 -$20,961.00 $4,003.50 $4,003.50 $0.00 $20,961.00 $596,102.77
+
+13-4145-00 _ Interest Rec’ - Collections $0.00 $0.00 $0.00 $0.00 $0.00 $0.00 $0.00
+13-4147-00 ~$1,224,72 $0.00 $0.00 $0.00 $0.00 $0.00 ~$1,224,72
+
+Sub Total : $1,224.72 $0.00 $0.00 $0.00 $0.00 $0.00 -$1,224.72
+13-4547-00 $1,224.72 $0.00 $0.00 $0.00 $0.00 $0.00 $1,224.72
+
+Sub Total : $1,224.72 $0.00 $0.00 $0.00 $0.00 $0.00 $1,224.72
+
+Figure 236: Trial Balance Account Summary
+In addition, filter options are also available for Cohort, ADP, Fund Type, Fund Code, and EE Code. The
+
+user can also have an option to allow the account details to be displayed in the trial balance view. A
+summary header provides the period activity summary followed by the associated transactions.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 107
+
+@®SMART
+
+The Trial Balance Rollup provides the summary activity by GL Account Number. This option shows the
+summary activity by the period, account, previous balance, current activity, and the ending balance.
+
++ Fiscal Year/Month: — so1¢/6 + Fund Code: ,)) + Fund Type: 4\) + Cohort Year: 4)) + ADPCode: yi) Activity Type: ay + FHAGLEE: yy) .
+
+Trial Balance Rollup Summary as of 2018/6 (Fiscal Year/Fiscal Month)
+
+Current Period DR Current Period CR Period Activity
+$50,242,202.84 $33,759,202.80 $16,483,000.04
+RowNo  GLAccountNumber  FundCode = FundType ADP FHAGLEE ActivityType Cohort Previous Balance — Current Period DR Current Period CR Current Period Activity Ending Balance
+
+1 10-1011-00 Ss L 265 BM90001 ASSG 1980 $2,126.77 $0.00 $0.00 $0.00 $2,126.77
+2 10-1011-0C s L 256 BM90001 ASSG 1983 -$1,304.86 $0.00 $0.00 $0.00 -$1,304.86
+3 10-1011-00 Ss L 265 BM90001 ASSG 1984 $262.38 $0.00 $0.00 $0.00 -$262.38
+4 10-1011-00 Ss L 266 BM90001 ASSG 1982 -$2,961.33 $0.00 $0.00 $0.00 -$2,961.33
+5 10-1011-00 s L 256 BM90001 ASSG 1985 -$725,10 $0.00 $0.00 $0.00 -$725.10
+6 10-1011-00 s L 265 BM90001 ASSG 1979 $305.17 $0.00 $0.00 $0.00 $305.17
+z 10-1011-00 Ss L 265 BM90001 ASSG 1981 $4,196.79 $0.00 $0.00 $0.00 -$4,196.79
+8 10-1011 -00 % L 556 BM90001 ASSG 1982 $269.36 $0.00 $0.00 $0.00 -$269.36
+9 10-1011-00 Ss L 266 BM90001 ASSG 1983 -$1,284.37 $0.00 $0.00 $0.00 -$1,284.37
+10 10-1011 -0€ s L 255 BM90001 ASSG 1982 $1,157.05 $0.00 $0.00 $0.00 -$1,157.05
+
+Figure 237: Trial Balance Rollup
+
+Transaction Reconciliation is an option to show total debits and credits by accounting period just for
+reconciliation purposes. The reconciliation totals by account can be viewed by clicking on any
+accounting period to see the previous, current, and ending balance for each account.
+
+GL Account Summary as of Mar-2018
+
+Row No GL Account Number Previous Balance Net Current Period Ending Balance
+10-1011-00 $1,273,047,096.49 $15,349,662.09 $1,288,396,758.58
+10-1012-00 $470,382.58 $0.00 $470,382.58
+13-1041-00 $1,334,859.52 $4,003.50 $1,338,863.02
+13-1045-00 $1,922,632.29 $4,003.50 $1,926,635.79
+13-1047-00 $8,330.00 $0.00 $8,330.00
+13-4145-00 $0.00 $0.00 $0.00
+13-4147-00 $1,224.72 $0.00 °$1,224.72
+13-4547-00 $1,224.72 $0.00 $1,224.72
+13-5041-00 $14,073,005,607.11 $34,479,456,56 $14,107,485,063.67
+13-5044-00 $94,944.17 $0.56 $94,944.73
+13-5045-00 ~$1,259,388,633.81 $15,345,658.59 $1,274,734,292.40
+13-5047-00 $309,324,786.07 $61,178.70 +$309,263,607.37
+13-5048-00 ~$639,333,059.44 $5,591.75 ~$639,327.467.69
+
+13-5947-00 $3,681,669.79 $0.00 $3,681,669.79
+
+13-6141-00 $2,785.38 $0.00 $2,785.38
+
+13-6145-00 -$3,827.44 $0.00 $3,827.44
+13-6147-00 -$154,705.35 $0.00 $154,705.35
+13-6547-00 $154,536.35 $0.00 $154,536.35
+13-9947-00 $303,098,609.66 ~$56,673.55 $303,041,936.11
+13-9949-00 $89,806.63 -$0.56 ~$89,807.19
+14-1041-00 $75,826.64 $0.00 $75,826.64
+14-1045-00 -$144,251.49 $0.00 -$144,251.49
+
+14-1047-00 ~$40,798.05 $0.00 -$40,798.05
+
+Figure 238: GL Account Summary
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 108
+
+S
+
+C
+
+SMART
+
+9.2 Treasury
+9.2.1 Secure Payment System (SPS)
+
+The Secure Payment System (SPS) is an application that provides a file to the Treasury of all check
+requests created in SMART during a business day. It is updated nightly at 2:00 am EST or can be run “On
+Demand” if the user has the appropriate role assigned.
+
+SMART Accounting Module | SPS Process Flow
+
+Date and
+Schedule
+
+Updates
+
+Treasury
+SPS File
+
+HUD Cash
+
+SPS
+Disbursement iat Sate
+SFTP Server
+
+System HUD FHASL
+630 File
+
+SMART SPS Disbursement Process
+Payables Table
+
+Treasury Issues HUD Cash
+Checks and Sends Management
+Email SFTP Server
+
+SPS
+Disbursement
+
+Records
+SPS Module
+Record Batch as
+Accepted
+
+FHASL Funds Be SMART
+Management
+
+SFTP Server
+
+Disbursement
+Transactions
+
+Control Process
+
+Email |__]
+Confirmation — _ SMART
+Disbursement
+CM Records
+
+SMART SMART
+Detail Tran Batch Posting
+Figure 239: SPS Process Flow
+
+Once the SPS file has been processed by Treasury, HUD receives an email with the Treasury check
+number by batch. The user will go back into SPS and enter beginning and ending check number.
+
+Click the [ACCEPT ALL CHECKS] button at the top right-hand corner of the screen. The pop-up will ask for
+acceptance date and the lower and upper range of the check numbers. Click [UPDATE] and the Treasury
+Check numbers for the batch will automatically appear in SPS.
+
+Update All Check Payment Record
+
+Accepted Date:
+
+Cleared Date :
+
+Rejected Date :
+
+Figure 240: Update Treasury Check Numbers
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 109
+
+# Home | © SPS System Adm ~ | @ search ~ | it Activities Log | A Exception Log | £2 Refresh
+
+Batches
+Activities Audit Log List Check Payments
+
+Address Information
+
+Runld: ‘Sent Payee DatarCheck Dats Report RY @  & End-Date: ae
+a Check Payments Records Details
+
+# Runid Userid Date Time Of Change Payment id From Acceptance Date To Acceptance Date —_—From Clearance Date To Clearance Date From Rejection Date —_—_To Rejection Date
+1 3 JThompson 2/7/2018, 1:58 PM 5950989 272018
+2 73 JThompson 2/7/2018, 1:58 PM 5950988 2/7/2018
+3 73 JThompson 2/7/2018, 1:58 PM $950987 2/7/2018
+4 3 sThompson 2/7/2018, 1:58 PM 5950986 2/7/2018
+5 73 sThompson 2/7/2018, 1:58 PM 5950985 2/7/2018
+6 73 JThompson 2/7/2018, 1:58 PM $950984 2/7/2018
+7 73 sThompson 2/7/2018, 1:58 PM 5950983 2srj2oie
+8 3 sThompson 2/7/2018, 1:58 PM 5950778 2/7/2018
+9 73 SThompson 2/7/2018, 1:58 PM 5950777 2/7/2018
+10 73 sThompson 2/7/2018, 1:58 PM 5950776 2/7/2018
+W 73 JThompson 2/7/2018, 1:58 PM 5950775 2/7/2018
+12 73 sThompson 2/7/2018, 1:58 PM 5950774 2/7/2018
+3 73 sThompson 2/7/2018, 1:58 PM 5950773 2/7/2018
+14 73 JThompson 2/7/2018, 1:58 PM $950772 2/7/2018
+15 73

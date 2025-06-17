@@ -1,0 +1,837 @@
+
+712011
+(05:57:39 PM EST
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 46
+
+@®SMART
+4.2.7.20 View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Detail Loan Filing == Loan Recording Borrowers Property Inspection Documents. —_Loan Bal Trans
+
+Notes Mortgage Release Exceptions
+Mth Statements Set Aside-Esc REIN
+
+Servicing Foreclosure Bankruptcy Di
+
+8s Customer Service
+
+moo
+
+‘Showing 0 100 of 0 entries
+
+Figure 121: View Customer Service
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 47
+
+4.2.8
+Records
+
+4.2.8.1 View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record.
+
+Loan Summary
+
+Loan Detail Loan Filing Loan Recording Borrowers Property Inspection
+
+Transactions Documents Notes Mortgage Release Exceptions.
+
+Servicing Foreclosure Bankruptcy
+
+Access Details of HECM-Insured & SF Data Request Loan
+
+Customer Service
+
+Menihly Somers
+
+Original Principal Amount:
+Unpsid Principal Balance:
+Tax Escrow Balance:
+
+Farrellzm Balance:
+
+Service Fee Balance:
+
+Interest Tax Balance:
+
+Suspense Escrow Balance:
+
+Late Charge Balance:
+
+Current Loan Balance:
+
+Credit Line Balance:
+
+insurance Damage Balance:
+
+Number of Payments Delinquent:
+Pay Type Code:
+
+ay Apptication Code:
+
+Payment Status
+
+Principat Paid YTD:
+
+{terest Paid YTD:
+
+Late Charge Paid YTO:
+
+Real Estate Tax Patd YTO:
+
+Times Late YTD
+
+Times Late Totat
+
+Claim Pay Date:
+
+Payott Date:
+
+Monthly Principal Amount:
+
+Monthly Tax Escrow Amount:
+
+Monthly Farrelizm Amount:
+
+Monthly Service Fee Amount:
+
+Monthly Interest Tax Amount:
+
+Totals:
+
+30.00
+
+$0.00
+
+$0.00
+
+$0.00
+
+$0.00
+
+$0.00
+
+4.2.8.2. View Loan Detail
+
+Figure 122: View Loan Summary (SF Data Request)
+
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record.
+
+Loan Summary QIRPTSRR toon Filing Loan Recording Borrowers Property Inspection
+
+# Loan Detail
+
+omcer Code:
+Loan Type:
+
+FHA # tot mig
+
+Loan Term: 30 y1s 0 mos
+Loan Status: cLoseo
+Loan State 4
+
+Loan State 2
+
+Loan Purpose Code:
+
+Loan Class Code:
+
+Contract Type Code: F
+
+Program Type:
+
+Last CO Response:
+
+4.2.8.3 View Loan Filing
+
+(Curr Prin Limit:
+
+Expected int Rate:
+
+Current Net Prin Limit:
+
+Repair Set Aside:
+
+‘Max Claim Amt:
+
+First Yoar Sot Aside:
+
+Serv Fee Set Aside:
+
+Orig Creait Line:
+
+Transactions Documents Noles
+
+Mortgage Release
+
+Adcisions) esp information
+
+Signed Date:
+Funded Date:
+
+Mig Ins Cert Date:
+Asamt Accepted:
+‘Asst Recorded:
+Claim Paid:
+
+Tie Approval:
+
+‘At Contractor On:
+‘ARM Change Date:
+Orig Loan Date:
+Status Date:
+Maturity Date:
+
+Oce. Cert Sent:
+
+‘Due Date Deling NC
+
+Servicing Foreclosure
+
+Hold Code 1
+Hold Code 2:
+
+Hold Code 3:
+‘Accrual Method.
+‘Assess Late Charge
+Collect Tax Escrow:
+Custodiat
+
+Vacancy Status:
+Vacancy Date:
+
+ADP Code:
+
+Print Statements:
+
+Figure 123: View Loan Detail (SF Data Request)
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record.
+
+Loan Summary Loan Detail BPR Loan Recording Borrowers
+
+i Loan Filing Information
+
+Property Inspection
+
+Transactions Documents Notes. «Mortgage Release = Exceptions
+
+Bankruptcy Customer Service
+
+NO
+
+YES
+
+Servicing Foreclosure Bankruptcy Customer Service
+
+Loan Filing Information
+
+@®SMART
+
+Prior Servicer Name: Hard File: Sales Contract: Closing Date:
+nor Servicer Phone: Label Printed: ves HUD Settlement: Expiration Date:
+Project Name tg Doe Exists: Note Doc Exists: File Entered Date:
+Project Wo Deed Restriction: Mome Owner File Received Date
+Project 10: Qt,ger Form Ot tive: Notice Recewed
+Voucher Number Box Number Hence ame:
+
+VRS Number:
+
+Figure 124: View Loan Filing (SF Data Request)
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 48
+
+@SMART
+
+4.2.8.4. View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detait Loan Filing RMEESIPEMI pocrowers Property Inspection Transactions. © Documents. Notes. Mortgage Release Exceptions. — Servicing Foreclosure Gankruptcy Customer Service
+@4 Loan Recording
+
+Loan Recording Information
+
+Release Prepared Date:
+
+Page Ne Ongination Date: Prepared By:
+Instrument Loan Recorded Date Originat Trustee
+Payott Dat Morigage Amount suipstive Trustee
+Aumonzed wraness 1 wanes 2
+
+Figure 125: View Loan Recording (SF Data Request)
+
+4.2.8.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording
+
+Borrowers, Property Inspection Transactions Documents Notes: ‘Mortgage Release Exceptions: Servicing Foreclosure Bankruptcy, Customer Service
+& Borrowers Information
+Go Sorrowes Information
+First Name: SSN: First Name: || SSW:
+Bit Bim
+Last Name: fn Last Name: farm
+Home Work
+Phone: Phone: Prone:
+ait
+Sioa
+Borrower Address Mailing Address
+Acces 1: ait To Name:
+Address 2: Address 1
+cy: a Address 2:
+Zip Code County Address 3
+
+Alternate Contact Information
+
+Figure 126: View Borrowers (SF Data Request)
+
+4.2.8.6 View Property Inspection
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+
+Transactions Documents Notes © MortgageRelease Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+% Property Inspection
+
+Appraised Vaiue Prop Type Code
+
+Figure 127: View Property Inspection (SF Data Request)
+
+4.2.8.7 View Transactions
+To access Transactions, click on the [TRANSACTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filimg Loan Recording Borrowers. «Property inspection [AIOenany Documents Notes Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy Customer Service
+@ Transactions
+
+moo
+
+‘Search
+
+(No éata available in table
+
+Figure 128: View Transactions (SF Data Request)
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 49
+
+@®SMART
+
+4.2.8.8 View Documents
+To access Documents, click on the [DOCUMENTS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions Notes Mortgage Release Exceptions Servicing Foreclosure ‘Bankruptcy Customer Service
+@ Documents
+Ita cos
+Document Name c ;
+vo wm sesame —=—
+083833 AMEST
+ooo0a1b2.u Hud Forms osit272011 =
+032041 PMEST
+000000 Et Payot Request osio62011 =
+12732 PMEST
+
+Figure 129: View Documents (SF Data Request)
+
+4.2.8.9 View Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab. To access
+Notes, click on the [NOTES] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions Documents Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+& Notes
+Mortgage
+
+ogos2012
+08:11:14 AM EST
+
+19:51:13 AM EST
+
+1308 o2rioz01t
+Release Actvty 1008-32 AM EST
+gage 272011
+Release Activty 11:50:43 AM EST
+jae 272011
+Release Activty 1027-15 AMEST
+
+Figure 130: View Notes (SF Data Request)
+
+4.2.8.10 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+page.
+
+Loan Summary Loan Detail Loan Filimg Loan Recording | Borrowers Property Inspection Transactions Documents Notes Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+@B Mortgage Release
+
+Se
+‘Bi Full Release (A)
+checks
+
+Release Request Recevedintiates 272011 20772011 e2io7r2011 2772011 Peace
+
+‘Len res uease package pnnted 022011 02/08/2011 e2o7ren ow27/2011 [Ace
+
+Lien Release package sent for recording ozrsazon oze2011 e2io7r2011 o20e2011 [Awe |
+
+Recorded Release received trom County ozor2012 o2m7r20n [Awe |
+
+‘Copy to imaging Image ozr72012 27011 [Ace |
+
+Figure 131: View Mortgage Release (SF Data Request)
+
+4.2.8.11 View Exceptions
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Transactions. Documents Notes. Mortgage Release Servicing Foreclosure Bankruptcy Customer Service
+
+A Exceptions
+
+‘Showing 0 to 0 of 0 entries
+
+Figure 132: View Exceptions (SF Data Request)
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 50
+
+@®SMART
+4.2.8.12 View Servicing
+
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page.
+
+Loan Summary
+
+Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions Documents Notes Morigage Release Exceptions Foreclosure Bankruptcy Customer Service
+@ Servicing
+Servicing Activity
+
+Figure 133: View Servicing (SF Data Request)
+4.2.8.13 View Foreclosure
+
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page.
+
+Loan Summary Loan Loan Filing Loan Recording Borrowers Property Inspection Transactions. Documents Notes. Mortgage Release Exceptions
+@ Foreclosure
+
+Customer Service
+
+Figure 134: View Foreclosure (SF Data Request)
+4.2.8.14 View Bankruptcy
+
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page.
+
+Loan Summary Loan Detail, —_Loan Filing
+
+‘oan Recording Borrowers Property Inspection Transactions Documents. Noles Mortgage Release Exceptions Servicing ‘Foreclosure Customer Service
+@ Bankruptcy
+
+Figure 135: View Bankruptcy (SF Data Request)
+4.2.8.15 View Customer Service
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Transactions Documents
+a& Customer Service
+
+ooo
+
+Notes Mortgage Release Exceptions Servicing Foreclosure
+
+1978 PARTIAL CLAIM
+‘Showing 1 to 1 of 1 entries
+
+Low 012172011 01.3951 PM
+
+Figure 136: View Customer Service (SF Data Request)
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 51
+
+@SMART
+
+5 Using the Servicing Module
+
+5.1 Search
+5.1.1
+
+Searching for Loans with Servicing History
+
+Loans with servicing history can be retrieved through various combinations of the search criteria
+available on the Servicing Search Screen.
+
+Q Servicing Search Screen
+
+earch Database: MART PRODUCTION DATABASE
+
+Lender Name:
+Close Box #
+Last 4 Digits of SSN.
+
+Note Type: Select a Note Type +
+
+Step 1:
+Step 2:
+
+ase No| * Loan No
+
+Loan Stata
+
+Loan Program = Parcel Number || « Borrower Name
+
+Property Adcress
+
+<== ==
+
+Figure 137: Servicing Search Screen
+
+Click [SERVICING] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Servicing Search Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files.
+
+Last 4 digits of SSN The last four digits of the Borrower's Social Security Number
+Note Type Type of note within the Notes tab of the Loan Record
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State
+
+Detailed Status of the loan
+
+Payment Plan
+
+Type of Payment Plan associated with the loan
+
+Servicing Status
+
+Indicator that the servicing type is completed or is still pending completion by the user.
+
+Servicing Step
+
+Servicing activity step associated with the servicing activity timeline
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Servicing Step Status
+
+Indicator the step is completed or is still pending completion by the user
+
+Servicing Type
+
+Type of servicing activity assigned to a loan in the form of a predefined template of servicing
+activity steps
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Lend Amt From
+
+Original principal amount of the loan in dollars (numerals only)
+
+Scheduled Date
+
+The date that a servicing activity step is scheduled to be completed by the user.
+
+Servicing Completed Date
+
+The date that a servicing activity step is actually completed by the user
+
+Keyword
+
+Keyword search.
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Table 3: Servicing Search Fields
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 52
+
+
+Step 3:
+
+Step 4:
+Step 5:
+
+5.1.2
+
+®SMART
+Click [START SEARCH].
+Figure 138: Servicing Search Screen Buttons
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Once the Loan Record is open, you will be automatically directed to the Servicing tab.
+
+Searching for Loans without Servicing History
+
+Loans without servicing history can be retrieved through various combinations of the search criteria
+available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Servicing tab.
+
+Note: You can also access loans with servicing history through this process.
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 53
+
+@SMART
+
+5.2 Servicing Tab
+
+Once the Loan record is open, the Servicing Module is found on the Servicing Tab. If mortgage servicing
+activity has been initiated for a Loan, the Servicing tab in the Loan Record window will be highlighted in
+light blue and will display the current servicing activity of that Loan.
+
+i cc EEE |r Sj 3
+
+@ Servicing
+
+B.Cert of indebtedness
+(con iay
+B.Cmt of ndebtednens Payott Request Received 03/2018 0310372018 030372018 [Adve]
+(Conta) 12.2729 AM EST
+1B Payot Request (A) Payoft Letter issued owoa2018 owo32018 oxoa2018 oxoxz018
+1227-29 AM EST 12:35:57 AM EST
+B Payott Request (f)
+Payot Amount Recewee 0403/2018 oxoa2018
+122729 AM EST
+Payot! Amount Forwarded to Lock-Bax 04/04/2018 04092018 [ Actwe
+122720 aM Est
+Showing 1 to 4 of 4 entries |
+
+Figure 139: Servicing Tab (Partial Claim)
+
+Description
+Export to Excel BiExcel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Service Management View the information for the Servicing Activity selected for
+the Loan.
+View Notes Takes you to the Notes tab for the loan. See Section 3.2.8.
+Search search Search and filter the page by specific keywords. The main
+table will filter based off of the keyword search.
+
+Table 4: Data Table Buttons
+
+The Servicing Activity table at the left side of the Servicing Tab will change depending on what Loan
+Program is associated with the loan. This information is read-only, and the user can not add new
+servicing activities for loan programs.
+
+5.2.1 View an Active Servicing Activity
+
+In the Servicing Activity table, a green document icon (8) and (A) means that the Servicing Activity is
+Active. The active servicing activity will open with its timeline displayed in the main data table. See the
+above table for a description of the buttons that display on top of the main Data Table.
+
+Servicing Activity
+Loon Summary || LoonDetsl || LoenFuing || Loen Recording || Borrowers | | Propertyinapecson || Documents || Hotes | Mortgage Reise || Exceptions (IRMINIIIMIR rorecicre || Gantruptcy || later
+
+@ Servicing
+
+i Cert of Indebtedness
+[oss Par [ore | osecnnemm [wenn [rere | (CON (A)
+Bc Indebtedness.
+B.certotincebteeness Pay Reaset Raced onoa0%e enoazore onoazote Gi Cert of Indebtedness
+B Payot Request (1)
+shoves tte 6et4 tie 6 Payoff Request (I)
+
+Figure 140: Active Servicing Activity (Payoff Request — Partial Claim)
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 54
+
+@SMART
+
+5.2.2 View an Inactive Servicing Activity
+
+In the Servicing Activity table, a grey document icon (8) and (1) means that the Servicing Activity is
+Inactive. The active servicing activity will open with its timeline displayed in the main data table. See
+the above table for a description of the buttons that display on top of the main Data Table.
+
+Servicing Activity
+Loan Summary | LoanDetal | LoanFuing Loan Recording Borrowers Propertyinspecton || Documents Wotes  Morigage Release | Excepsons Forecowure Bankruptcy OA
+
+@ Servicing
+Gi Cert of Indebtedness
+B Cert of Indebtedness:
+1B Cert of indebtedness Payot Request Received owo7ro1e cxera2018 cxw7a018 Gi Cert of Indebtedness
+most Reet
+B Payot Reaves) Pater ved cxoncee cserane (COl) (A)
+eranan PuesT
+B Payott Request (1)
+a a laa aoa
+seme’ or2932 PEST Bi Payoff Request (A)
+oe aon
+Showing to 44 ees 6 Payoff Request (I)
+
+Figure 141: Active Servicing Activity (Payoff Request — Partial Claim)
+
+5.2.3. Service Management
+The Service Management button offers a general summary of the servicing activity.
+
+Loan Summary Loan Detail Loan Filing Loan Recording =» Borrowers. © Property Inspection Documents Notes «© Mortgage Release = Exceptions [IRSUTIIym Foreclosure = Bankruptcy Disbursements Payot! =—=—Transactions.§©—_Customer Service
+
+B Servicing Management (EDIT MODE):
+
+Servicing Management Information For Payoff Request
+Status: { inactive “
+Remittance Type Cashiers Check
+
+Payot Amount Due: 0.00
+Payott Amount Received:
+emitter Name |
+Check Number:
+
+Check Date: 11292018
+
+Voucher No:
+
+Cert of indebtedness (COI: Select 8 COI Status
+
+Figure 142: Service Management (Payoff Request — Partial Claim)
+
+5.2.4 View Notes
+
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record. To go back to the Servicing Tab, click on [BACK TO SERVICING].
+
+SMART USER MANUAL | FHARC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 55
+
+@SMART
+
+6 Using the Bankruptcy Module
+
+6.1 Search
+6.1.1
+
+Searching for Loans with Bankruptcy History
+
+Loans in the Bankruptcy module can be retrieved through various combinations of the search criteria
+available on the Bankruptcy Search Screen.
+
+Q Bankruptcy Search Screen
+Search Database: SMART PRODUCTION DATABASE
+
+FHA Case #
+
+Loan Skey
+
+Loan
+
+Lender Name: Select a Lendes
+
+Close Box #
+
+Last 4 Digits of SSW
+
+Bankruptcy Case
+
+Note Type: Select a Note Type +
+
+Result Headers:
+
+Step 1:
+Step 2:
+
+Loan Skey | [= FHA Case No] (*Loan No) Loan Program || = Bankruptcy Chapter) (= Case Number
+
+* Borrower Name:
+
++ | Property Address:
+
+7 | Property State:
+
++ | Bankruptcy Chapter:
+
++ | Assigned:
+
++ | Keyword:
+Note Created By: Select a Note Crested By + Note Create Date >=
+Borrower Name
+
+‘Borrower Address | = Onginal Prin Bal | ( * Bankruptcy Status
+
+Figure 143: Bankruptcy Search Screen
+
+Click [BANKRUPTCY] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Bankruptcy Search Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 digits of SSN The last four digits of the Borrower’s Social Security Number
+Bankruptcy Case # Case filing number.
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Bankruptcy Status Shows whether the bankruptcy is Active or Inactive
+
+Bankruptcy Step Bankruptcy actions that have be

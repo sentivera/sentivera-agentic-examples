@@ -1,0 +1,631 @@
+ury
+Acccepted 1
+
+y-—-t a
+\ y \
+\ / \
+
+by Treasury y
+/ \ /
+/ \ /
+
+Figure 321: Unprocessed Checks Workflow
+
+7 \
+7 Status: Accepted \
+
+HelpDesk
+confirms
+cancellation
+
+Rejected
+
+\
+/ Status: \
+App rowed Cancelled /
+/
+
+\ /
+
+-/
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 150
+
+@SMART
+
+3 Checks Submitted / Checks Status
+
+a 80N20190422.DAT ‘schved-96090300-0000000000137N. 1 $32400 04222019 ‘Summed By: NNN = in Transit Expected delivery on 04222019 Request Cancellation
+
+5 20N20190422.0AT sched -26090300-00000000001 34N. 1 $400 osz22019 Checks Revertes
+20190422132845.440 01:27:03 PM
+
+4 80N20190422.DAT ‘Sched 86090300.0000000000132N. 1 $12.00 1000 - 1000 00222019 Accepted by Treasury
+20190422125735.440 0123.48 PM
+
+3 80N20190422.DAT ‘sclved_-6090300-0000000000131N. 1 $34,988.12 1000 - 1000 04722019 Accepted by Treasury
+20190422111500.440 111954 AM
+
+Figure 322: SPS — Checks Submitted / Checks Status
+
+Immediately after submitting a check for processing, the process is as follows:
+
+Step1: Status is Pending Processing. The following actions are available:
+
+e This action sends the check back to the Unprocessed Checks table.
+
+e This action sends the DAT file and the SPS 440 file to Treasury. (See #2)
+
+Step 2: If the action [SUBMIT SPS FILES] is selected, status is In Transit Expected Delivery
+MM/DD/YY 9:00 PM EST. The following actions are available:
+
+e [REQUEST CANCELLATION]: SMART will send the HelpDesk an email to remove the
+files from the Treasury Server. (If this action is selected before 9:00 PM EST on
+the same day, see #3. If the action was not taken by 9:00 PM EST on the same
+day, see #5.)
+
+Step 3: Status is Pending Cancellation. No actions are available. (If the HelpDesk successfully
+removed the files from the Treasury Server see #4. If not, see #5).
+
+Step 4: Status is Cancelled. No actions available. The check is reverted back to the Unprocessed
+Checks table.
+
+§@B Checks Submitted / Checks Status
+
+Total Transmitted Total Amount Treasury Check # Updated By Updated Date
+a 90N20190422.DAT ssched-88090300-0000000000137N. 1 $334.00 0422/2019 01:38:15 SUB mied By NNN = Subrmiied'fo Treasury Treasury Accepted | Treasury
+20190422133552.440 PM Date Submitted: 04/22/2019 Rejected
+01:36:09 PM
+7 80N20190422.DAT sched-86090300-0000000000136N. 1 $6.00 Penang Processing Revert | Submit SPS nes
+20190422133547.440
+6 180420190422.DAT ‘sched 86090300-0000000000135N- 1 $1200 11000 - 1000 0422/2019 01:27:51 Accepted By MMMM = Accepted by Treasury
+20190422132702.440 pM Date Accepted: 047222019
+042751 PM
+5 80N20190422.DAT ssched96090300-0000000000134N. 1 $4.00 0472212019 01:27:03 Revered By Checks Revertes
+20190422132645.440 PM Date Reverted: 04/22/2019 01.27.03
+Pi
+4 80N20190422.0AT ‘sched.86090300-0000000000132N 1 $1200 1000 - 1000 0412272019 01:23:48, Accepted 6y ‘Accepted by Treasury
+20190422125735.440 PM Date Accepted: 04/22/2019
+01:23:48 PM
+3 80N20190422.DAT ssched-86090300-0000000000131N 1 $34,888.12 1000 - 1000 04/22/2019 11:19:54 Accepted 2y Accepted by Treasury
+20190422111500.440 AM Date Accepted: 04222019 11:19:54
+al
+
+Figure 323: SPS — Checks Submitted / Checks Status — Submitted to Treasury Status
+
+Step5: Status is Submitted to Treasury. The following actions are available:
+e [TREASURY ACCEPTED]: This action flags the check as accepted by Treasury. Users
+will be prompted to enter Treasury Check # Range in order to complete this action
+(see #6).
+e [TREASURY REJECTED]: This action flags the checks as rejected by Treasury (see #7).
+Step6: Status is Status is Accepted by Treasury. No actions are available.
+e The Treasury Check # range will appear in the Treasury Check # column.
+Step 7: Status is Status is Rejected by Treasury. No actions are available. The check is reverted
+back to the Unprocessed Checks Table.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 151
+
+@SMART
+
+9.5 Pay.Gov Dashboard
+
+To access the Pay.Gov Dashboard, click [CASH MANAGEMENT] from the top Navigation menu and then
+select [PAY.GOv DASHBOARD] from the dropdown. The Pay.Gov Dashboard summarizes all settled
+transactions submitted from Pay.Gov lender and non-lender forms regardless of where the transaction
+is in the validation process. The Dashboard is organized by the daily .xml file that is retrieved from
+Pay.Gov by the SMART system. Each file name contains a link that will open a detailed dashboard with
+all transactions retrieved from that day.
+
+{© Pay.Gov Dashboard
+
+Totat CSV Queve Total Funds Returned
+$2040 TLNL_DASHvalidations33.xisx 1 1 ° ° ° ° Processed 12/04/2019 13:40:34 PM
+1204NLCSVparent.xisx ° ° 1 o o Processes 12/04/2019 144436 PM
+1205_OT_2083.xisx 2 2 ° ° ° ° Procested 1205/2019 122338 PM
+1205_0T_2083_2.xisx 1 ° o o o Processed 1205/2019 1237.44 PM
+1205_0T_2083H4Hxlsx 1 1 ° ° ° ° Processed 12/05/2019 124128 PM
+1205_0T_2083s2.xisx 3 3 ° ° ° ° Processed 1208/2019 142252 PM
+
+1205 _DT_2083s2h4n.xisx 1 1 ° ° ° ° Processed 12/05/2019 14.30.44 PM.
+1205_DT_z00s2n4n2.xisx 1 ° ° o o Provessee 12/05/2019 144623 PM
+1205_0T_2083s2n4h22.xisx 1 1 ° ° ° ° Processed 12/08/2019 14:57:30 PM
+1205_OT_208382n4n222.xIsx 1 ° ° ° ° Processee 120052019 15:11:53 PM
+1205_0T_2083x2.x18x 1 1 ° ° ° ° Processed 12005,2019 1238.48 PM
+1205_KLXLSX01 xisx ‘ ‘ ° ° o ° Processed 12/05/2019 07:48:43 AM
+esvparentv2.xisx 1 ° ° ° 1 ° Procested 1270272099 11:14:51 AN
+FormActivityFile_09032018.xmi 2 ° 1 o 4 Processed 11192019 14.15.26 PM
+FormActiviyFte_09042019.xm 3 ° ° ° ° o Processee 1192019 14:16:02 PM
+FormActivayFte_09062049.xm 2 5 ° 5 ° ° Processed 1171972019 14:16:36 PM
+FormActivayFite_09092019.xm Fe ° ° ° ° o Processed 117192019 14:17:56 PM
+FormActivityFile_09122018.xm 3 1 ° 1 1 ° Processed tiigaoie 141932 PM
+FormActvayFite_09162019.xm 6 3 ° 1 2 ° Processed s1i1972018 14:20:16 PM
+
+Figure 324: Pay.Gov Dashboard
+
+The following icons are used in the Pay.Gov Dashboard to assist the user in identifying the location and
+origin of a transaction. The icons are located next to the FHA Case Number.
+
+Icon Description
+
+v This is for transactions that have successfully been posted to the transactions tab of a loan.
+This is for transactions that originated from a CSV file. This icon will not be present for transactions
+6 with CSV files that were “Accepted as Doc” from the Review Failed CSV screen. Instead, a date will be
+entered into the “Date CSV Failed” column.
+pig This is for transactions that have been returned to the remitter or to another department.
+
+Table 15: Pay.Gov Icons
+
+The Detailed Dashboard tracks the lifecycle of individual Pay.Gov transactions.
+
+IG Pay Gov FormActivityFile_10112019 xmi Dashboard
+
+0
+
+av Levee Patio Caen ppc $50.00 1192019 11252019 1asz018 1972572019
+142300 PM 133438 PM 140555 PM 14.0655 Pat
+3 Lenser Pan PROP 3687000 1200572019
+158845 PM
+4 Lender Pant PROP st0.00 nisz019 11Rs2019 suasc019 nzsz019
+142308 Pat 132615 PM 143219 PM 143219 PM
+av Levee Panu PROP $2500.00 1205/2019 1290522019 120572019 120952019
+o7s44s.am 10-11 Ane 111890 aM 111050 AM
+a] Lencer Pant PROP $1,900.00 1192019 svz02019 r202019
+14:23:68 PI 09st tn ant 095118 Mt
+Se Lender Pet PrOP $3242.00 11192019 11252019 qwes019 11252019
+1423.00 PM 144825 Pa 144534PM 144836 PM
+av] Lenser Pant peor 25.00 iwis2o19 122018 nesa019
+142308 PM 130833 13:09:33 Pt
+an Lenser Pate pPoP $23.433.423.00 2019 1252009 11282019
+142308 PM 194511 Pie 144511 Pe
+
+Figure 325: Pay.Gov Detailed Dashboard
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 152
+
+@SMART
+
+The Detailed Dashboard has three possible action links:
+
+1. View Transaction History — This link will allow you to view the transaction history for the
+selected FHA Case Number
+
+[Pay Gov EE Transactions
+FWA Case No Transaction 1 =
+
+ase We Transaction Date
+
+|| Re Recitter 11282019 14:32:19 PM uscHPwn LUSCHPMM - Unschecuied PMM Dssbursement Overage Refund $10.00 || a ma
+‘Showing 1t0 2 of2 erties evious a Nex
+Figure 326: View Transaction History
+
+2. View Nature of Return — This link will display only if the transaction was returned to another
+department or to the remitter. The link will open a read-only version of the return transaction
+information.
+
+BRetum Funds
+
+Pay.gov Case Information
+
+(Check Note: PAY.GOV REFUND Treasury Check # ' Printed Date: 2019-11.25 1433-19553 Printed User I: PC
+
+Figure 327: Return Funds Information
+
+3. View CSV History — This link will display only if a CSV file was attached with the Pay.Gov form
+submission. The original and final CSV files are available to be downloaded.
+
+{i Pay.Gov Tracking ID 3FPGGV9R Original Form Entries
+
+Showing 1101 oft entries revious i Nex
+
+Figure 328: View CSV History
+
+To return to the Detailed Dashboard page from the three above action items, click the [BACK TO PAY.Gov
+ACTIVITY DASHBOARD] button.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 153
+
+@SMART
+
+9.6 Pay.Gov Queue
+
+To access the Pay.Gov Queue, click [CASH MANAGEMENT] from the top Navigation menu and then select
+[Pay.Gov QUEUE] from the dropdown. The Pay.Gov Queue houses all transactions that did not pass
+SMART validation to board directly into the transactions tab of a loan.
+
+(i Pay.Gov Queue - Pending Decision
+
+coo “ ec
+
+Pay Type
+
+$34,496.07 View Existing Loan
+Review Transaction
+
+Return Fund
+
+Nor-Lencer
+
+10112019.xmi 12/06/2019 03:25:25 PM
+
+HAM $350.00 Review Tr
+
+12/05/2019 12:49:43 PM Lender
+
+XLSXFormKLy2 (1).xisx
+
+PPC $730.00 View
+Review Transactio
+Return Fund
+
+1204/2019 02:44:37 PM Non-Lender
+
+‘1204NLCSVparent.xisx
+8
+
+Non-Lenger Partial Clam
+
+PPC $22,131.74 View Existing Loan
+Review Transactio
+
+12/04/2019 01:12:11 PM
+
+FormActivityFile_10112019.xmi
+
+Return Fund
+
+‘1/19/2019 0223.08 Pm Non-Lender Pattial Claim PPC $73,654.59 View Existing Loan
+
+FormActivityFile_10112019.xml
+
+Return Fund
+
+PPC $30,503.40 View Existing Loan
+Review Transaction
+Return Fund
+
+Non-Lenger Partial Claim
+
+‘111972019 02:23:08 PM
+
+FormActivityFile_10112019.xmi
+
+Figure 329: Pay.Gov Queue
+
+In the Pay.Gov Queue, users can research and determine to take one of three available actions:
+1. View Existing Loan — This link will only display if the FHA Case Number exists in SMART. This link
+
+will allow you to view the loan search screen for that loan.
+
+6B Search Results
+
+7 ; Property Address end " Updated By Updated Date "
+Partat Claim $10,388.33 | 097282018 [Open
+0403.28 PM
+Showing 1 to tof f entries Previous + | Nex
+
+Figure 330: View Existing Loan — Search Screen
+
+2. Review Transaction — This link will allow you to view all the information received from Pay.Gov
+in the Pay.Gov Case Information box.
+
+Bi Add Transaction
+
+Pay.gov Case Information
+
+Pay Type: Non-Lencer Pay.gov Tracking ID: EIN: Borrower Lastname:
+Entity Type: Entity Name: Entity Email Telephone:
+Address: City: State Zip Code:
+
+$34,486.07
+
+Please research to determine if funds belong to SFNO. If so, please verify FHA case no. and edit if necessary.
+
+FHA Case No: TC Transaction Code: PPC Amount:
+
+Assign Payment to Existing Case
+
+Fiacmene | 7
+Loan Skey: Loan Program: Partal Claim (OPEN: | Transaction Code { PPC-Payot Partial Clam | Unpaid Prin Bat: $10,388.33
+
+Figure 331: Review Transaction
+
+a. From this screen, the FHA Case Number can be changed to post the transaction to a
+different FHA Case Number than the one that was submitted to Pay.Gov
+The Loan Program will change to match the FHA Case Number selected.
+If there are more than one transaction code available for the loan program, the
+transaction code can be changed.
+
+d. All changes made to a Pay.Gov transaction can be found in the notes tab of the loan
+program that the transaction was posted to.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 154
+
+@®SMART
+
+3. Return Funds - This link will allow you to return to remitter or return to another department.
+a. Return to remitter:
+i. Transaction Codes are: USCHPC, USCHPMM, USCHH4H.
+ii. Check Note is editable.
+iii. Upon saving, a check will automatically be inserted into the SPS unprocessed
+checks data table.
+
+B Return Funds
+
+Pay.gov Case Information
+
+Pay Type: Non-Lender Pay.gov Tracking ID: EIN: Borrower Lastname:
+
+Entity Type: Entity Name: Entity Email Telephone:
+
+Address: City: State Zip Code:
+Dt
+
+FHA Case No: Transaction Code: PPC ‘Amount: $34,486.07
+
+Transaction Screen
+
+Transfer funds to: Return to Remitter “ ] Transaction Code: Select a Transaction Code = Xv |_ Check Note: PAY.GOV REFUND Vv
+
+Nature of Return:
+
+BIrUuUS* x ¢ I G&G Qt Fe es #9 Bike eel
+Sivies ~ | Format «= | Font + | Size -|A Blea Migmsens
+
+Figure 332: Return Funds to Remitter
+
+b. Return to another department:
+i. Transaction Codes are: IPCTA, IPACTAPMM, IPACTAPMMI, IPACTAH4H, TRSF,
+TRSFPMM, TRSFPMMI, TRSFH4H.
+ii. Nature of Return is a required field.
+
+B Return Funds
+
+Pay.gov Case Information
+
+Pay Type: Non-Lender Pay.gov Tracking ID: EIN Borrower Lastname:
+Entity Type: Entity Name: Entity Email: Telephone:
+Address: City: State: Zip Code:
+
+FHA Case No: ee Transaction Code: PPC Amount $34,496.07
+
+Transaction Screen
+
+Transfer funds to: [ Anotner Department | Transaction Code: | Select a Transaction Code cod
+
+Nature of Return:
+
+BIrUuSsSxx ¢ @ & @ Q t3/M | s-) 3 ss enmWeezeeat
+
+Styles + | Format. «= | Font ~ | Sze -|A Ble = BMigBStoqe
+
+Figure 333: Return Funds to Another Department
+
+Nfee Al transactions in the Pay.Gov Queue are sent to the FHASL on the same day with default
+accounting codes for all Loan Programs.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 155
+
+@SMART
+
+9.7 Review Failed CSV
+
+To access the Review Failed CSV screen, click [CASH MANAGEMENT] from the top Navigation menu and
+then select [REVIEW FAILED CSV] from the dropdown. The Review Failed CSV screen is used to house all
+CSV files that did not pass the CSV validation and need further review.
+
+El Review Failed CSV - Pending Decision
+
+moc
+
+Filename ing 10
+
+10C SvtoC SVQueue.cs¥ 10/16/2019 $34,496.07 Case Amount, 7. Hf applicable, please Accept as Doc
+$24,496.07 3m the CSV file Upload New File
+
+is not 17. if applicable, please
+
+10/15/2019 $168,361.41 en .
+‘commas from the CSV fie. Upload New File
+
+13 board to Amount
+queue_1Ma.csv ‘$168,361.41
+
+18 board to 101152019 $125,844.16
+
+‘Amount please Accept as Dor
+queve_2tha.csv $125,844.16
+
+7. applicable, 7
+mas from the CSV fle Upload New File
+
+10/16/2019 $20,324.20 Amount 7. if applicable, please Accept as Doc
+$20,324.20 jm the CSV fle Upload New File
+
+Figure 334: Review Failed CSV
+
+From this screen the user can download the CSV file, review the reason for failure, and choose to take
+one of three actions:
+1. Accept as Doc - This link is to accept CSV files as documents with additional information.
+a. This action is used to bypass the CSV validation by submitting the transactions as they
+were entered on Pay.Gov form submission.
+b. The Pay.Gov transaction data will then pass through the SMART validation point.
+c. The CSV files will attach as documents to the loan’s document tab.
+2. Upload New File — This link will open the following screen where you can download the CSV file
+that was submitted on Pay.Gov, make corrections, and then upload the corrected file to pass
+through the CSV validation again.
+
+B Upload new CSV file
+
+Filenaene Tracking 1D Date Settied || Total Remittance
+
+13 board to | 10/9872019 $168,361.41 case Borrower Amount Lender iD Lender Name Email ‘The CSV column cour t 17. Happicabie, please
+aueue Ate [CU feove a commas tom ta CSV
+
+Upload CSV file
+
+Figure 335: Upload New CSV File
+
+a. Ifthe correct file passes the CSV validation, then each of the transactions within the CSV
+vile will automatically enter SMART validation as individual records.
+
+b. If the corrected file fails the CSV validation, the message below will appear with the
+reason for failure and the new file will be saved in the same screen to be reviewed and
+corrected again.
+
+ALERT! The CSV has been uploaded successfully. However, there ts an error with
+the CSV fife. Please see errors listed below and resubma a new file
+
+The CSV file is missing FHA Case Number
+Pay.gov FORM total amount $1,050.00 and CSV file total amount $176.00 Go not
+match
+
+Figure 336: CSV Failed Validation Pop-Up
+
+c. This process can be repeated as many times as needed.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 156
+
+@SMART
+
+3. View Upload History — This link will show a list of all the CSV files that were submitted via the
+Upload New File link within the reason for failure along with who submitted the file. This link
+will only display after a new file has been uploaded through the Upload New File link.
+
+(GB Pay.Gov CSV Upload History
+
+Back to Pay gov CSV Queue
+ooo
+
+Uploaded By ot
+
+3aboardtoC SV (1).cs¥ 12/04/2019 13:08:16 PM
+Saboardtoc Sv.csv 12/04/2019 13.07.25 PM
+3BbosrdtoC SV.csv 11/192019 14.23.01 PM
+
+Figure 337: Pay.Gov CSV Upload History
+
+To return to the Review Failed CSV page from the above action items, click the [BACK To PAY.Gov CSV
+QUEUE] button.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 157
+
+@SMART
+
+10 Using the Customer Service Module
+
+Within the Customer Service Module, there are two types of tickets: SMART and CRM. SMART tickets
+are created using the SMART application. CRM (Customer Relationship Management), tickets are
+created in a separate program used to track customer service tickets. CRM tickets are then imported
+into SMART. The @ icon will appear before or after the CRM Ticket Number anywhere a Ticket appears
+(such as My Tickets, All Inboxes, Ticket Search Screen, and within the Customer Service Module Ticket
+Information Screen).
+
+Additionally, there are two types of tickets: sys tickets and non-sys tickets. If a Loan No. exists for a
+ticket, then that system is sys. If a Loan No. exists for a ticket, then that system is non-sys.
+
+10.1 Ticket Search
+
+Customer Service Tickets can be retrieved through various combinations of the search criteria available
+on the Ticket Search Screen.
+
+Q Ticket Search Screen
+
+FHA Case #: ~ Borrower Name:
+
+Loan Skey:
+
+* Property Address:
+
+~ Property State
+
+Figure 338: Ticket Search Screen
+
+Step 1: Click [CUSTOMER SERVICE] from the top Navigation menu. Select [TICKET SEARCH] from the
+dropdown.
+
+Step 2: Select the search criteria from the displayed search fields in the Ticket Search Screen.
+
+Step 3: — Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+Ticket Skey SMART system identification number unique to each ticket
+Control No Ticket Control Number
+
+CRM Service Request No
+
+CRM system identification number
+
+CRM Company Name
+
+Name of Company for CRM ticket.
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Ticket Status Current high-level status of the ticket (Open or Closed)
+Created By User that created the ticket
+
+Designee User that is assigned to the ticket
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 158
+
+@SMART
+Search Field Definition
+
+Note Text Searches any word w/in the content of notes within the Notes tab of the Loan Record
+Note Type Type of note within the Notes tab of the Loan Record
+
+CRM Client Type Type of CRM Client (Real Estate Professional, Home Owner, Closing Agent, etc.)
+Ticket Creation Type Date the ticket was created
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Caller Name Name of the Caller
+
+Ticket No. Identification number for that ticket
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Ticket Loan Program
+
+Loan Program associated with the Ticket
+
+CRM Service Request Created Date
+
+Date the CRM ticket was created
+
+Keyword
+
+Keyword search.
+
+Loan Create Date
+
+Date t

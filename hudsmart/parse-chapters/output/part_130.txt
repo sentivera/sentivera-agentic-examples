@@ -1,0 +1,687 @@
+e Recewed
+Voucher Number ox Number: WM cncter name:
+
+VRS Number:
+
+Figure 161: View Loan Filing (SF Data Request)
+4.2.8.4. View Loan Recording
+
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail’ Loan Filing [ARSUEEEErEE Borrowers Property Inspection Transactions Documents Noles Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+@4# Loan Recording
+
+Loan Recording Information
+
+Book No Release Prepared ate: otay
+Page No: Onigination Date: Prepared By:
+\nstrument Loan Recorded Date: Cnigna Trustee:
+Payot Date: Mortgage Amount: Substitue Trustee:
+Autnonaed wntness 1 wines 2
+
+Figure 162: View Loan Recording (SF Data Request)
+
+4.2.8.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing = Loan Recording [CMISEEM Property Inspection Transactions. = Documents Notes. «Mortgage Release © Exceptions. © Servicing Foreclosure Bankruptcy Customer Service
+
+So Sorrows: Information
+First Name: SSN: First Name: || SSN:
+Last name Ben Last Nome: Bm
+
+& Borrowers Information
+
+Work
+
+tome .
+Phone: Phone: Drone:
+haart
+Seu
+Borrower Address Mailing Address
+xs: ait To Name
+Asdress 2: Across 1
+
+City: so: aT ‘Address 2
+2ip Code: County: ‘Address 3:
+
+Address 2:
+Cty: State:
+
+Dp: Home Phone:
+Work Phone:
+
+Other information:
+
+Figure 163: View Borrowers (SF Data Request)
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 59
+
+@®SMART
+
+4.2.8.6 View Property Inspection
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+
+Transactions Documents Notes © MortgageRelease Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+% Property Inspection
+
+Last inspect Date Last Appraisal Date Appraised Vaiue Prop Type Code Prop Desc Code
+
+‘Snowng 1101 of 1 entries Previous RB vx
+
+Figure 164: View Property Inspection (SF Data Request)
+
+4.2.8.7 View Transactions
+To access Transactions, click on the [TRANSACTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail, Loan Filing = Loan Recording Borrowers Property inspection Tims Documents Notes Mortgage Release = Exceptions §— Servicing Foreclosure = Bankruptcy Customer Service
+
+&@ Transactions
+
+| Bes | | rt | Sen
+
+No cata available m table
+
+Totals ‘30.00
+
+Figure 165: View Transactions (SF Data Request)
+
+4.2.8.8 View Documents
+To access Documents, click on the [DOCUMENTS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Transactions Notes Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy Customer Service
+
+@ Documents
+
+| ne} sow
+swat tm sagan
+(08:38:33 AMEST
+00000102. Hud Forms onr2z2011
+000000F Eur ‘Payot Request 05/06/2011 [Ave
+00000102.1if Payoff Statement 06/06/2011 050062011 [Adve
+
+Figure 166: View Documents (SF Data Request)
+
+4.2.8.9 View Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab. To access
+Notes, click on the [NOTES] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions. © Documents [IDEM Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+& Notes
+
+2 Note < Create Date
+
+Mortg ogos2012
+08:11:14 AM EST
+
+Genera Note 05/082011
+19:51:13 AM EST
+
+Mortgage o2rioz01t
+Release Actvty 1008-32 AM EST
+
+Mortgage 272011
+Release Activty 11:50:43 AM EST
+
+Mortgage 272011
+Release Activty 1027-15 AMEST
+
+Figure 167: View Notes (SF Data Request)
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 60
+
+@SMART
+
+4.2.8.10 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection ‘Transactions Documents Notes Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+@B Mortgage Release
+
+B Full Release (A)
+
+Bichecks
+Release Request Recetvediintiated e2o7201 2772011 onr2on 2772011 [Acre |
+Lien release package printed oai2011 o2v082011 0207/2011 oaz7i2011 [Ace |
+Len Release package sent for recording e2narzo1 021082011 e2n720n 02082011
+Recorded Release recewed trom County 272012 e2n72011 xm
+Copy to imaging image o2rt72012 oon720n1 [Awe |
+File to StorageiProcess Complete oza7aoi2 0207/2011 [ Acive
+
+Figure 168: View Mortgage Release (SF Data Request)
+
+4.2.8.11 View Exceptions
+
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions ocuments. Notes Mortgage Release Servicing Foreclosure Bankruptcy Customer Service
+
+A Exceptions
+
+[niece Popo J aren | ‘Seach
+
+No data avaliable in table
+
+‘Showing 0 to 0 of 0 entries wious | Nex
+
+Figure 169: View Exceptions (SF Data Request)
+
+4.2.8.12 View Servicing
+
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection ‘Transactions. ~—-Documents. Noles. © Mortgage Release == Exceptions [RMMEERIM Foreclosure Bankruptcy Customer Service
+
+@ Servicing
+
+Figure 170: View Servicing (SF Data Request)
+
+4,2.8.13 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page.
+
+SS ooo —a
+
+@ Foreclosure
+
+Figure 171: View Foreclosure (SF Data Request)
+
+4.2.8.14 View Bankruptcy
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection ‘Transactions Documents Notes Mortgage Release Excepbons Servicing Foreclosure Customer Service
+
+@ Bankruptcy
+
+Figure 172: View Bankruptcy (SF Data Request)
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 61
+
+@®SMART
+4.2.8.15 View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers. Property Inspection Transactions © Documents Notes
+a& Customer Service
+
+moc
+
+1978 PARTIAL CLAIM
+
+01/21/2011 01:28:51 PM
+
+0172172011 01:3851 PM
+
+" i «
+
+Figure 173: View Customer Service (SF Data Request)
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 62
+
+@SMART
+
+5 Using the Servicing Module
+
+5.1 Search
+
+5.1.1 Searching for Loans with Servicing History
+Loans with servicing history can be retrieved through various combinations of the search criteria
+available on the Servicing Search Screen.
+
+Q Servicing Search Screen
+
+earch Database: MART PRODUCTION DATABASE
+
+FHA Case #:
+
+Loan Skey’
+
+Loan #:
+
+Lender Name: + | Servicing Step Status: | $2
+
+Close Box # + | Servicing Type
+
+Last 4 Digits of SSN
+Note Type: Select a Note Type + | Note Text: Note Created By: Select a Note Created 8 * | Mote Create Oate >
+
+iRebiatt tenses: Loan Skey | (* FHA Case No) “Loan No («Loan Program |= Parcel Number] | * Borrower Name | |« Property Address ||» Loan Statua
+
+<== ==
+
+Figure 174: Servicing Search Screen
+
+Step1: Click [SERVICING] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: Select the search criteria from the displayed search fields in the Servicing Search Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files.
+
+Last 4 digits of SSN The last four digits of the Borrower's Social Security Number
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Result Headers Search criteria columns to be displayed in the Search Results table
+
+Loan Program Type of program associated with the loan
+
+Loan Status Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Servicing Status Indicator that the servicing type is completed or is still pending completion by the user.
+
+Servicing Step Servicing activity step associated with the servicing activity timeline
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Servicing Step Status Indicator the step is completed or is still pending completion by the user
+
+Servicing Type Type of servicing activity assigned to a loan in the form of a predefined template of servicing
+activity steps
+
+Note Created By SMART User who created Notes in the Notes tab
+
+Loan Create Date Date that a loan was entered into the SMART system
+
+Loan Close Date Date that a loan was closed
+
+Orig Lend Amt From Original principal amount of the loan in dollars (numerals only)
+
+Scheduled Date The date that a servicing activity step is scheduled to be completed by the user.
+
+Servicing Completed Date | The date that a servicing activity step is actually completed by the user
+
+Keyword Keyword search.
+
+Note Create Date Date that the Note in the Notes tab was created
+
+Table 4: Servicing Search Fields
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 63
+
+Step 3:
+
+Step 4:
+Step 5:
+
+5.1.2
+
+®SMART
+Click [START SEARCH].
+Figure 175: Servicing Search Screen Buttons
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Once the Loan Record is open, you will be automatically directed to the Servicing tab.
+
+Searching for Loans without Servicing History
+
+Loans without servicing history can be retrieved through various combinations of the search criteria
+available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Servicing tab.
+
+Note: You can also access loans with servicing history through this process.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 64
+
+@SMART
+
+5.2 Servicing Tab
+
+Once the Loan record is open, the Servicing Module is found on the Servicing Tab. If mortgage servicing
+activity has been initiated for a Loan, the Servicing tab in the Loan Record window will be highlighted in
+light blue and will display the current servicing activity of that Loan.
+
+i cc EEE |r Sj 3
+
+@ Servicing
+
+B.Cert of indebtedness
+(con iay
+B.Cmt of ndebtednens Payott Request Received 03/2018 0310372018 030372018 [Adve]
+(Conta) 12.2729 AM EST
+1B Payot Request (A) Payoft Letter issued owoa2018 owo32018 oxoa2018 oxoxz018
+1227-29 AM EST 12:35:57 AM EST
+B Payott Request (f)
+Payot Amount Recewee 0403/2018 oxoa2018
+122729 AM EST
+Payot! Amount Forwarded to Lock-Bax 04/04/2018 04092018 [ Actwe
+122720 aM Est
+Showing 1 to 4 of 4 entries |
+
+Figure 176: Servicing Tab (Partial Claim)
+
+Description
+Export to Excel BiExcel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Service Management View the information for the Servicing Activity selected for
+the Loan.
+View Notes Takes you to the Notes tab for the loan. See Section 3.2.8.
+Search search Search and filter the page by specific keywords. The main
+table will filter based off of the keyword search.
+
+Table 5: Data Table Buttons
+
+The Servicing Activity table at the left side of the Servicing Tab will change depending on what Loan
+Program is associated with the loan. This information is read-only, and the user can not add new
+servicing activities for loan programs.
+
+5.2.1 View an Active Servicing Activity
+
+In the Servicing Activity table, a green document icon (8) and (A) means that the Servicing Activity is
+Active. The active servicing activity will open with its timeline displayed in the main data table. See the
+above table for a description of the buttons that display on top of the main Data Table.
+
+Servicing Activity
+Loon Summary || LoonDetsl || LoenFuing || Loen Recording || Borrowers | | Propertyinapecson || Documents || Hotes | Mortgage Reise || Exceptions (IRMINIIIMIR rorecicre || Gantruptcy || later
+
+@ Servicing
+
+i Cert of Indebtedness
+[oss Par [ore | osecnnemm [wenn [rere | (CON (A)
+Bc Indebtedness.
+B.certotincebteeness Pay Reaset Raced onoa0%e enoazore onoazote Gi Cert of Indebtedness
+B Payot Request (1)
+shoves tte 6et4 tie 6 Payoff Request (I)
+
+Figure 177: Active Servicing Activity (Payoff Request — Partial Claim)
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 65
+
+@SMART
+
+5.2.2 View an Inactive Servicing Activity
+
+In the Servicing Activity table, a grey document icon (8) and (1) means that the Servicing Activity is
+Inactive. The active servicing activity will open with its timeline displayed in the main data table. See
+the above table for a description of the buttons that display on top of the main Data Table.
+
+Servicing Activity
+Loan Summary | LoanDetal | LoanFuing Loan Recording Borrowers Propertyinspecton || Documents Wotes  Morigage Release | Excepsons Forecowure Bankruptcy OA
+
+@ Servicing
+Gi Cert of Indebtedness
+B Cert of Indebtedness:
+1B Cert of indebtedness Payot Request Received owo7ro1e cxera2018 cxw7a018 Gi Cert of Indebtedness
+most Reet
+B Payot Reaves) Pater ved cxoncee cserane (COl) (A)
+eranan PuesT
+B Payott Request (1)
+a a laa aoa
+seme’ or2932 PEST Bi Payoff Request (A)
+oe aon
+Showing to 44 ees 6 Payoff Request (I)
+
+Figure 178: Active Servicing Activity (Payoff Request — Partial Claim)
+
+5.2.3. Service Management
+The Service Management button offers a general summary of the servicing activity.
+
+Loan Summary Loan Detail Loan Filing Loan Recording =» Borrowers. © Property Inspection Documents Notes «© Mortgage Release = Exceptions [IRSUTIIym Foreclosure = Bankruptcy Disbursements Payot! =—=—Transactions.§©—_Customer Service
+
+B Servicing Management (EDIT MODE):
+
+Servicing Management Information For Payoff Request
+Status: { inactive “
+Remittance Type Cashiers Check
+
+Payot Amount Due: 0.00
+Payott Amount Received:
+emitter Name |
+Check Number:
+
+Check Date: 11292018
+
+Voucher No:
+
+Cert of indebtedness (COI: Select 8 COI Status
+
+Figure 179: Service Management (Payoff Request — Partial Claim)
+
+5.2.4 View Notes
+
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record. To go back to the Servicing Tab, click on [BACK TO SERVICING].
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 66
+
+@SMART
+
+6 Using the Customer Service Module
+
+Within the Customer Service Module, there are two types of tickets: SMART and CRM. SMART tickets
+are created using the SMART application. CRM (Customer Relationship Management), tickets are
+created in a separate program used to track customer service tickets. CRM tickets are then imported
+into SMART. The @ icon will appear before or after the CRM Ticket Number anywhere a Ticket appears
+(such as My Tickets, All Inboxes, Ticket Search Screen, and within the Customer Service Module Ticket
+Information Screen).
+
+Additionally, there are two types of tickets: sys tickets and non-sys tickets. If a Loan No. exists for a
+ticket, then that system is sys. If a Loan No. exists for a ticket, then that system is non-sys.
+
+6.1 Ticket Search
+
+Customer Service Tickets can be retrieved through various combinations of the search criteria available
+on the Ticket Search Screen.
+
+Q Ticket Search Screen
+
+FHA Case #: ~ Borrower Name:
+
+Loan Skey:
+
+* Property Address:
+
+~ Property State
+
+Figure 180: Ticket Search Screen
+
+Step 1: Click [CUSTOMER SERVICE] from the top Navigation menu. Select [TICKET SEARCH] from the
+dropdown.
+
+Step 2: Select the search criteria from the displayed search fields in the Ticket Search Screen.
+
+Step 3: — Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+Ticket Skey SMART system identification number unique to each ticket
+Control No Ticket Control Number
+
+CRM Service Request No
+
+CRM system identification number
+
+CRM Company Name
+
+Name of Company for CRM ticket.
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Ticket Status Current high-level status of the ticket (Open or Closed)
+Created By User that created the ticket
+
+Designee User that is assigned to the ticket
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 67
+
+
+@SMART
+Search Field Definition
+
+Note Text Searches any word w/in the content of notes within the Notes tab of the Loan Record
+Note Type Type of note within the Notes tab of the Loan Record
+
+CRM Client Type Type of CRM Client (Real Estate Professional, Home Owner, Closing Agent, etc.)
+Ticket Creation Type Date the ticket was created
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Caller Name Name of the Caller
+
+Ticket No. Identification number for that ticket
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Ticket Loan Program
+
+Loan Program associated with the Ticket
+
+CRM Service Request Created Date
+
+Date the CRM ticket was created
+
+Keyword
+
+Keyword search.
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Call Date Date of the customer service call
+Ticket Create Date Date the ticket was created
+Ticket Closed Date Date the ticket was closed
+Disposition Where the ticket is assigned
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Reason For Calling
+
+Reason for the customer service call
+
+CRM Escalated Date
+
+Date the CRM ticket was escalated
+
+Table 6: Ticket Search Fields
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 68
+
+
+@®SMART
+
+6.2 Accessing Detailed Customer Service Information
+
+From the Search Result Dashboard, click on the Ticket No. to open the ticket. The user is redirected to
+the ticket’s Ticket Detail tab in the Customer Service Module.
+
+~ ClLoan Record - Non-FHA
+
+FHA Case a Loan Program: ihc skey: a Loan Wo:
+
+Ticket No
+
+RATT TicketActon Notes. Documents. Borrower History
+Ticket 853458 () 42
+Ticket 853457 () 4)
+
+wana E>
+
+Ticket 853454 f)
+
+Figure 181: Customer Service Module
+
+6.2.1 View/Edit Ticket Detail
+
+The default page within a Customer Service Ticket is the Ticket Detail page. Here the user can view and
+edit Ticket Information.
+
+Step1: Inside the Customer Service Module, click on the [TICKET DETAIL] tab.
+
+4% Customer Service - Ticket No. 853455
+
+a er
+
+B Ticket Information (EDIT MODE)
+
+Ticket £63488 ( 42
+
+Ticket 853457 0 4)
+‘Thehet 852455 (A)
+Ticket 853454 (0)
+
+Figure 182: View/Edit Ticket Detail
+
+Step 2: Complete all required fields. Note;| The Loan Information box, Ticket # field, and
+Borrower/Caller Information box are only editable for Supervisor roles.
+S

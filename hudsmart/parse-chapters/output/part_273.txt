@@ -1,0 +1,582 @@
+Step5: On the Confirmation Pop-up, click [SUBMIT].
+
+5.2.7. View All Notes
+
+Inside the Notes tab, click on the View All Notes button. All the notes associated with that FHA Case
+
+Number will display in chronological order. To go back to the Notes associated only with the Ticket
+Number, click on the Notes tab.
+
+5.2.8 View Documents
+
+Inside the Customer Service Module, click on the Documents tab. All the documents associated with
+that FHA Case Number will display in chronological order.
+
+Ticket No Call Log Ticket Detail Ticket Action Notes
+Tickat 679026 (A) Documents
+
+Ticket 885815 (I)
+
+a te
+
+0016AD30.pdt note +7202017 [Aco | @& Edit Document
+12.0028 PM EST
+
+0015C9B4.pat NCF Mertgage 1171872017 [Ace @& Edit Document
+06:22:35 AM EST
+
+Figure 168: View Documents
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 94
+
+@SMART
+
+5.2.9. Borrower History
+
+Inside the Customer Service Module, if a non_sys ticket has been merged with a sys ticket, the borrower
+name, address, and phone number form the non_sys ticket is saved into the Borrower History.
+
+Ticket No. CallLog Ticket Detail, = Ticket Action © Notes. «= Documents@ = aE
+
+‘Ticket 102266 (1) & Borrower History Information
+
+| Bex | —
+
+Figure 169: Borrower History
+
+5.2.10 Close Ticket
+
+Step1: Inside the Customer Service Module, click on the [TICKET DETAIL] tab.
+Step 2: From the Ticket Status dropdown menu in the Ticket Information box, select “Closed.”
+
+4% Customer Service - Ticket No. 853455
+
+km Ticket Status: | OPEN
+| Tikot to. | corcoa TEETER cnet scton notes documents Borrower History
+1
+
+Ticket Priority: |
+iaamshantandahad B Ticket Information (EDIT MODE)
+0
+
+CRM Service Select a Status
+
+Request Created Date:
+
+OPEN
+
+Figure 170: View/Edit Ticket Detail
+
+Step 3: — Click [SAVE] then on the confirmation pop-up, click [SUBMIT].
+
+After the user refreshes the page, the Ticket will display “(I)” to represent Inactive in the Ticket No.
+table.
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 95
+
+@SMART
+
+5.3 Create New Ticket
+5.3.1 Create New Ticket from Header
+
+Step 1: Click [CUSTOMER SERVICE] from the top Navigation menu. Select [CREATE NEW TICKET] from
+the dropdown.
+
+B Create New Ticket
+
+BIUS*% KT a & @ Qu Fis \|e & co Rk SE Te
+
+Figure 171: Create New Ticket
+Step 2: Complete all required fields.
+
+Note: Tickets assigned to you and any tickets you have pinned will appear on the My Tickets page. If
+you insert an FHA Case Number that exists in SMART, then the Loan Program and Borrower Information
+will auto-populate. The following fields are defaulted.
+
+e The “Ticket Priority” field is defaulted to Low; this is editable.
+
+e The “Ticket Status” field is defaulted to Open; this is editable.
+
+e The “Designee” field is defaulted to the user’s name; this is editable.
+
+Step 3: = Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+After creating a new ticket, the user will be redirected to the ticket detail tab in the customer service
+module to view the new ticket. The ticket will display an “(A)” to represent Active in the Ticket No. table
+and the ticket will display in the designee’s inbox.
+
+Note: If you are creating a new ticket for a loan record that currently has an open ticket, then a pop-up
+
+will display with the following verbiage: “This case has an open SMART ticket. However, you are able to
+create a new CRM ticket.”
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 96
+
+SMART
+
+5.3.2 Create New Ticket from Tab for Specific FHA Case No.
+
+Step1: Inside the Customer Service Module, click [CREATE NEW TICKET] to create a new customer
+service ticket for that specific loan.
+
++ ClLoan Record - Non-FHA
+FHA Case len Progra cet skey a Loan Wo:
+
+B Create New Ticket
+
+Brusxewe ¢ | aaa Qu\R eles aio Sik 2am ee
+Styes = | Foamat Feet se -|A Mes BM 2aBSOas
+
+Figure 173: Create New Ticket
+
+Step 2: Complete all required fields.
+Step 3: = Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+Note: If you are creating a new ticket for a loan record that currently has an open ticket, then the next
+page will display with the following verbiage: “This case has an open SMART ticket. However, you are
+able to create a new CRM ticket.” You will have two options, [PROCEED] or [CANCEL].
+
+Selecting [PROCEED] will take you to the [CREATE NEW CRM TICKET] page. This page functions the same as
+
+the Create New Ticket page as shown in Figure 173. If you do not want to create a new CRM Ticket,
+select [CANCEL].
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 97
+
+@SMART
+
+5.4 Re-Open and Merge Tickets
+5.4.1 Re-Open Ticket
+
+Step1: From the Customer Service Ticket Search Screen, select “Closed” from the Ticket Status
+field and add “Ticket Closed Date” as a Result Header.
+
+Step 2: — Click on [START SEARCH].
+
+Step 3: From the Search Result Dashboard, click on the FHA Case Number of a ticket that had
+been closed within 24 hours. Note: The ticket will not re-open if it has been closed for
+over 24 hours.
+
+Note: If a Loan No. exists for a ticket, then that system is sys. If a Loan No. exists for a ticket, then that
+system is non-sys.
+
+Step 4: Inside the Ticket Detail tab, select “Re-Open” from the Ticket Status drop down.
+
+Pn Ln tid
+
+B Ticket Information (EDIT MODE)
+
+Ticket Status: | CLOSED A
+
+Ticket Priority:
+
+CRM Servi Select a Status
+
+ice
+
+CLOSED
+
+Figure 174: View/Edit Ticket Detail
+
+Step5: Click [SAVE].
+Step 6: From the confirmation pop-up, click [SUBMIT].
+
+After the user refreshes the page, the Ticket will display “(A)” to represent Active in the Ticket No. Table.
+
+5.4.2 Merge Non-Sys Ticket
+
+Step1: Copy the FHA Case Number of an existing sys or non-sys ticket.
+
+Step 2: Paste into the FHA Case Number field of a previously closed non-sys ticket.
+
+Step 3: — Fill out required fields marked in red and click [SAVE] then [SUBMIT].
+
+Step 4:  Analert will pop-up to merge the ticket. Select a case and click [MERGE CASE No].
+
+ase Number 561-8792534 match 4¢
+
+‘SMART,
+
+Figure 175: Merge Ticket
+
+The ticket will merge with the existing sys or non-sys FHA Case #. The merged ticket will appear in the
+Ticket No. table on the left next to a merge icon W.
+
+Notes and documents also merge. Borrower History tab is created as result of merge (if the case already
+contains merged tickets, info will be added to the Borrower History tab).
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 98
+
+@SMART
+
+6 Using Reports
+
+6.1 Customer Service Reports
+
+Step1: Click [REPORTS] from the top Navigation menu. Select [CUSTOMER SERVICE] from the
+dropdown.
+
+Bs Reports - Customer Service Dashboard
+
+© Comprehensive Report
+
+Controlled Correspondence Open Tickets Aging Lender Name:
+
+Report Start Date >= 12062018
+
+Report End Date <= 127062018
+
+Figure 176: Reports — Customer Service Dashboard
+
+Step 2: From the Reports — Customer Service Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: — Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report. Click [REPORT IN HTM] to generate a HTML report.
+
+fa Report in Excel 5 Report in PDF G Report in HTM
+
+Figure 177: Generate Report in either Excel, PDF, or HTM
+
+6.2 Director Reports
+
+Step1: Click [REPORTS] from the top Navigation menu. Select [DIRECTOR REPORTS] from the
+dropdown.
+
+Bs Reports - Director Reports Dashboard
+
+ESE 1.0 sonny drector- Expanded Report
+
+© HUD Monthly Director - Expanded Report
+
+© HUD Monthly Director Report . Loan inventory
+Summary
+
+Figure 178: Reports — Director Reports Dashboard
+
+Step 2: From the Reports — Director Reports Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: — Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 99
+
+@SMART
+
+6.3 Servicing/Release Reports
+Step 1: Click [REPORTS] from the top Navigation menu. Select [SERVICING/RELEASE REPORTS] from the
+dropdown.
+
+ls Reports - Servicing/Release Reports Dashboard
+
+Figure 179: Reports — Servicing/Release Reports Dashboard
+
+Step 2: From the Reports — Servicing/Release Reports Dashboard, click on a report from the left-
+hand menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: — Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 100
+
+@SMART
+
+7 User Information
+
+7.1 Manage Account
+To view your personal identification and contact information, click your user name from the top
+navigation menu. From this page you can update your account and change your password.
+
+j2 & Role: Isc.cssupervisor +
+
+Figure 180: Navigation Menu Links
+
+@ User Information (EDIT MODE)
+
+Enforce Two Factor .
+Authentication: Yes “ }
+
+Manage Password:
+
+Current Password: [ esecoenseee
+
+New Password:
+
+Confirm Password:
+
+Figure 181: Example User Information (Edit Mode)
+To update your account, follow these steps:
+
+Step 1: Edit your User Information as appropriate.
+Step 2: Click [SAVE] to save your changes or [CANCEL] to abandon the changes.
+
+Instructions on how to change your password are described in Section 2.5.
+
+7.2 Change Roles
+
+Many users are assigned multiple different roles. In order to jz | & Role: hud.admin ~
+change between the user roles, click on your [ROLE] in the
+
+top navigation menu. The dropdown menu will show all huh eseupervisor
+your assigned roles. Select the role you want, and the hud.poweruser
+website will automatically update to be viewed as the role hud.servicingsupervisor
+selected.
+
+Figure 182: Example User Role Options
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 101
+
+@SMART
+8 Using the Maintenance Module
+8.1 Ticket Round Robin
+
+To open the Ticket Round Robin, click [MAINTENANCE] from the top navigation menu and select [TICKET
+ROUND ROBIN] from the dropdown. The name column is ordered alphabetically by First Name of active
+HUD Employees, then Inactive HUD Employees, then Contractors.
+
+Figure 183: Ticket Round Robin
+
+8.1.1 Change Agent Status or Queue
+Step1: To change Agent Status, click on the Agent’s Name.
+
+Step 2: To change Status: On the Maintenance Roundrobin (Edit Mode) page, in the Status field,
+select either Active or Inactive.
+
+Step 3: To change Queue: On the Maintenance Roundrobin (Edit Mode) page, in any of the Queue
+fields, select either Active or Inactive.
+
+B Maintenance Roundrobin (EDIT MODE);
+
+SISISS
+
+HECM Cash: inactive ~  HECM Assigned: Inactive ~
+
+HECM Endorsed: inactve | Sec Held Servicing: Inactve ~
+
+Figure 184: Maintenance Roundrobin (Edit Mode)
+
+Step 4: — Click [SAVE].
+Step5: From the confirmation pop-up, click [SUBMIT].
+
+The changes for the selected agent will now be updated and display in the Ticket Round Robin.
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 102
+
+@®SMART
+8.1.2. Add New Designee
+
+Step1: To add anew designee, click on [ADD NEW DESIGNEE].
+Step 2: Complete all required fields.
+
+Maintenance Roundrobin (ADD MODE)
+
+wae: [Zens tne |
+
+sas: [sete al
+
+Servicing: [ inactive | Loss mingation: | snactive “|
+
+sec ete [ace |
+
+HECM Assigned: | inactive | WECM Endorsed insured: | inactive “|
+
+-
+omer: [ mace ~
+~~
+“
+
+rR Aporowe: =
+
+HECM Cash: [ tractive “|
+
+HECM Assignes: | snsctive “|
+HECM Endorsed: [ mactve
+
+| Sec Hele Servicing: | nacre “|
+
+Figure 185: Maintenance Roundrobin (Add Mode)
+
+Step 3: = Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 103
+
+@SMART
+
+9 Getting Help
+9.1 Tech Support
+
+On each page of the solution, there is a small blue tab on the right side of the screen with a question
+mark. This is our Technical Support function. The Technical Support function enables the user to
+contact Help Desk personnel live via a text-based chat conversation.
+
+@®SMART
+
+_- Unauthorized Access Warning
+
+Figure 186: Landing Page
+
+@ Tech Support
+
+Figure 187: Tech Support Tab Open
+In order to access this function, follow the steps below:
+
+Step 1: = Click the [?] on the blue tab on the right of the screen.
+Step 2: — Click [TECH SUPPORT].
+
+® TECH SUPPORT
+
+Your name:
+
+Question:
+
+& Chat Now
+
+Figure 188: Tech Support PopUp
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 104
+
+@SMART
+
+Step 3: Enter “Your Name” and a Question into the popup box. (You may input your email
+address, but that is not required) Click the box next to “I’m not a robot.”
+Step 4: — Click [CHAT Now]
+
+®CHAT SUPPORT © End chat 0:21
+ee
+
+Question: need help
+
+We will be with you shortly...
+Figure 189: PopUp Chat Window
+
+Once the chat window is open, a member of the Help Desk team will get with the user as soon as
+possible.
+
+9.2 Solutions to Common Problems
+
+Problems with SMART fall into three categories: internet issues, browser issues, and SMART issues.
+Please follow the steps below to resolve each issue.
+
+9.2.1 Internet and Browser Issues
+
+The Primary characteristic of this issue is a delay when loading a page. At the conclusion of this long
+delay, a message may display indicating there is a problem with internet access. Alternatively, pages
+may seem to load but appear blank. If a page has not loaded or displayed after 30 seconds, please
+follow the steps below.
+
+Note: Not all steps have to be completed; start with Step 1 and keep working until the issue is resolved.
+Once the issue is resolved, skip all remaining steps and return to your training session.
+
+Step1: Refresh the page using the browser’s [REFRESH] button.
+
+Step 2: If the issue still exists, close all browser windows, wait 10 seconds, then open a new
+browser window and return to SMART.
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 105
+
+@SMART
+
+Step 3: Check your internet connectivity — do other sites display without issue? If so, proceed to
+Step 2. Otherwise, the issue may be that the browser is unable to connect to the internet.
+Check all connections and try again. If the problem persists, contact your network
+administrator or your Internet Service Provider.
+
+Step 4: Send email to helpdesk@hudnsc.org. Include your email address, your contact
+information, and a description of what happened leading up to and following the issue.
+
+9.2.2 SMART Issues
+
+SMART issues may be errors which display on-screen or situations where data may not be saved
+properly. If you experience either of these problems, please contact Support via email.
+
+Step 1: Use [PRTSC] on the keyboard to capture an image of the screen.
+
+Step 2: Compose a new email message and paste ([CTRL+V} on the keyboard) the screen image
+into the message. Be sure to include your Username, your contact information, a
+description of what module or page you were viewing, and what you were doing (or trying
+to do) at the time the error occurred.
+
+Step 3: Send the email to helopdesk@hudnsc.org.
+
+9.3 Getting More Help
+
+If you are experiencing technical difficulties, please contact the SMART support team via email at
+helpdesk@hudnsc.org. For general questions and/or class availability concerns, please contact the
+SMART administration team via email at helpdesk@hudnsc.org.
+
+When emailing, pleases include as much information as possible relating to the problem, including print
+screen(s) of the error.
+
+9.4 Help Desk
+Help Desk Contact Information
+Email Address helpdesk@hudnsc.org
+Phone Number 1-866-657-5893
+Hours of Operation 7am — 7pm CST
+
+Response Time Time to Resolution
+
+Customer Calls Inquiries | As quickly as possible; normally within one (1) minute of the caller’s choice
+Customer Calls Outside Respond no later than 12 noon the next business day
+
+of normal business hours
+
+Customer emails Respond to inquiries no later than 24 to 48 hours of receipt
+
+Customer On-line chat As quickly as possible; normally within five (5) minutes of the caller’s chat
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 106
+
+@)SMART
+
+Single-Family Mortgage Asset Recovery Technology
+
+JUNE 2, 2020
+
+This document shall not be disclosed outside of the Government and shall not be duplicated, used or
+disclosed in whole or in part for any purpose other than for HUD training. The data subject to this
+restriction is contained on every page throughout this document.
+
+@SMART
+
+Table of Contents
+
+1
+
+Yo) [Ui do) a s10] 00) 000-] 8 Ape 1
+1.1 FOATUIES 2... eece cece eec ccc e eee e cena nett eee ee eee aan EEA eA GEE AAA G nee AeA Gn E EEE AGG HE EA AAG aE ee ec ane ee cca ae eeeaaaaeeeeaaaeeeeaaaeeeeeaaes 1
+Getting Started 0... cccccccccssseseeeeeeeeeeea ee eeeeeeeeeeeaaeeeeeeeeeeeeeesasesSESEEEE;;;;AAAAASEEEESESES;;GA OSES EESEEESEE EEA AAEEEEES 2
+2.1  —_ SOFEWALE VELSION oo. eeeeceeeteeeeeeeeeeeee teen etn E EEE EEE E EEE E LEELA AEE A EAE E EGE A GEESE GAGES EGE aaa aaa 2
+2.2 —_ SOIUTION REQUIPFEMENHS ..........ccccceeeseccccceeeeeeeeeeeeceeeeeaaeeeeeeeeeeeeeaaeeeseeeeeeeeessaaeesseeeeeeessauaaaeeeeeeeeeaaa 2
+2.3 LOSSING ON... ccc cseecccccseeecccneeeececeeeeeeeeeeeeeeeaeeeeeeseeeeeeeseeeeeeeseeeeesseueeeeaeuseeesseuecesseueessaeuseesseesessages 2
+2.4 — SOIUTION M@NU 0... eeeeeeeeeeeeeeeeeeeee eee eeee nent nnn n nnn EEE EEE EAE AEA E EEE E AGG G EES E EEA a aaa 4
+2.4.1 My Dashboard... eeecesccceesseeeeeesececcesceeeeesaeeeceeaeeesesaeeeceesaeeeceeaaeeesesaeeeeseaeeeseeaeeeesenaeeeseeaeeeseneeeess 5
+2.4.2 LOAN... eee eeeccec cece eneeeeeeeeececeaeaeeeeeeececeaaaueeeeeeeeceaaaaeeeeeeeeeeaaaaeeeeeeeeeeaaauaeeeeeeeeeauaaeeeeeeeeeeauaaeeeeeeeeeeaaaaeeeeeees 5
+2.4.3 CUSTOMEL SELVICE 2... eee eee eeeeeeeeeeeceeeeaeeeeeeeeeeeeaaaaeeeeeeeceaaaaaeeeeeeeecaaaaaeeeeeeeeeaauaaeeeeeeeeeeauaaeeeeeeeeeaaaaeeeeeees 5
+72. SS \-) 0 0) 96 epee EEE EEE ET EEEEEEEEESESTSTOSTOSOSSTOOSESSOSOSOSOOSOOSSSSOOOOOOOOSTOCOSOOOOOOOSOSOSSOSOOOOOOSSOSOOSSOSOOOOOSOSOOOOSOOOOOOOOOOOOOOOOO® 5
+2.4.5 User Information and Roles ..........ccccccssssscccccccessesnseeeeecceessseseeeeeeeessseeneeeeeeeeeseeeseeeeeeeeseeeeaeeeeeeseeeeeeaaea 5
+2.4.6 Maintenance ............cccececcceeeeeeeeeeececeeeeeeeececeeceaaeeeeeeeeeeeaaauaeeeeeeeeeaaaaaeeeeeeeceauaaeeeeeeeeecauaaeeeeeeeeeagaeeeeeees 5
+2.5 CHANGING PASSWOM..........cccccccccsssseeeeeeeeeeeeeeseeeeeeeeeesaeeeeeeeeeeeeeesaeeeeeeeeeeeesssseeseeeeeeeeesauaaaeseeeeeeeeaaa 5
+2.5.1 Forgot Password (Recover PaSSWOId)........ccccccssssssseeccccesssesseeeeceeeseseeneeeeeceeesseeseeeeeeeeseeeeaeeeeeeceseeeeaaea 6
+V2 oa =>, <1 ese) (01d (0) 9 PRP 6
+Using My Dashboard ..........ccccccccssssssseecceeeeseeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeesaaeeesseeeeeeeesaaaaaseseeeeeesaaaaasss 7
+3.1 MY TICKEtS 0... cccceccccccccceeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaseeeeeeeeeeeesaeeeeeeeeeeeeessaeeeesseeeeeessaeaessseeeeeeesaaagaess 7
+3.1.1 Pin Ticket to My Tickets DaShboard...........cessccccssseeceseenceeceenececceeeeeesesaeeeceesaeeesesaeeeeseaeeeseeaeeeseneeeess 7
+3.1.2 Unpin Tickets from My Tickets DaShboard ...........cccccecesscceeeesceeeesneeeeeeeaeeeceeaeeeceeaeeeceenaeeeseeeeeesenaeeeess 8
+i 3 ans) 0] 01-1 7 10) a [0] 010), Cee 9
+3.2.1 Change Disposition .......... ec eeeseeceeescceeceeneeeesesaeeeceeaeeesesaceeceeaeeecesaeeeesesaeeeceeaeeeseeaaeessenaeeeseeeeeeseneeeess 9
+3.2.2 AUTO-ASSIQN ...... ee eeeeesseseeeeeeeeeeeeeeeeeeeeeeeeneeeenneSSESDS SESE E SEEDS SDSS SSDS SESS S SSS O OOO OO OOOO OOOO OOOO OOOO OOO OO SOOO OOOO OOOO OO OOO OOS 11
+cis a Bs) Ol |] 00) ee ee 12
+3.3.1 Filter LSC IND OX... cccccessssseceececeseessneeeeeeeeeeeeeeneeeeeeeeeeeeeeeeeeeeeeeeeeeeaaeeeeeeesseeeeaaeeeeeeseeeeeeaaaeeeeeesenes 12
+3.3.2 Batch Reassign Tickets .............sccccsssecccceeseceeeesnceeeeesaeeeceeneeeceesaeeeceenaeeecesaaeeesesaeeessenaeeeeesaeeeeeeseeeeeeates 13
+3.4 Unassigned Tickets ..........cccccccssssssecccececeeeesseeeeeeeeesaeeeeeeeeeeeeeesseeeeeeeeeeeeesseaeesseeeeeeeesaaaeaaeeseeeeesaaa 14
+3.4.1 — Filter Unassigned Tickets .0........cceesscccessseceeeesneeeeeesaceeceeeeeceesaeeeceeaeeesesaaeece

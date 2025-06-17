@@ -1,0 +1,459 @@
+lease contact Support via email.
+
+Step 1:
+Step 2:
+
+Step 3:
+
+Use [PRTSC] on the keyboard to capture an image of the screen.
+
+Compose a new email message and paste ([CTRL+V} on the keyboard) the screen image
+into the message. Be sure to include your Username, your contact information, a
+description of what module or page you were viewing, and what you were doing (or trying
+to do) at the time the error occurred.
+
+Send the email to helpdesk@hudnsc.org.
+
+10.3 Getting More Help
+
+If you are experiencing technical difficulties, please contact the SMART support team via email at
+helpdesk@hudnsc.org. For general questions and/or class availability concerns, please contact the
+SMART administration team via email at helpdesk@hudnsc.org.
+
+When emailing, pleases include as much information as possible relating to the problem, including print
+screen(s) of the error.
+
+10.4 Help Desk
+
+Email Address helpdesk@hudnsc.org
+Phone Number 1-866-657-5893
+Hours of Operation 7am — 7pm CST
+
+Response Time Time to Resolution
+
+Customer Calls Inquiries | As quickly as possible; normally within one (1) minute of the caller’s choice
+Customer Calls Outside Respond no later than 12 noon the next business day
+
+of normal business hours
+
+Customer emails Respond to inquiries no later than 24 to 48 hours of receipt
+
+Customer On-line chat As quickly as possible; normally within five (5) minutes of the caller’s chat
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 85
+
+SMART
+
+Single-Family Mortgage Asset Recovery Technology
+
+SWENT S
+a “>
+s %
+5 e
+© we
+, y
+any neat
+
+oe
+
+JUNE 2, 2020
+
+This document shall not be disclosed outside of the Government and shall not be duplicated, used or
+disclosed in whole or in part for any purpose other than for HUD training. The data subject to this
+restriction is contained on every page throughout this document.
+
+@SMART
+
+Table of Contents
+
+1 SOIUTION SUIMIM ALY 0... cceeeecccccccccaeeeeeeeeeeeeeesaeeeeeeeeeeeeeaseeeeeeeeeeesasseeeeeeeeeeeeseeeeeseeeeeeeesaaaessseeeeeesaaaaasss 1
+1.1 FOATUIES 2... eece cece eec ccc e eee e cena nett eee ee eee aan EEA eA GEE AAA G nee AeA Gn E EEE AGG HE EA AAG aE ee ec ane ee cca ae eeeaaaaeeeeaaaeeeeaaaeeeeeaaes 1
+2 —-_ Ge LTING Started” .....eeeeeccccccccccssssseeeeeeeeeseseeeeeeeeeeeeeseeeeeeeeeeeeeesseeeeeeeeeeeeeesseeeeeseeeeeeeeaseaaassseeeeeessaaaaaegs 2
+2.1  —_ SOFEWALE VELSION oo. eeeeceeeteeeeeeeeeeeee teen etn E EEE EEE E EEE E LEELA AEE A EAE E EGE A GEESE GAGES EGE aaa aaa 2
+2.2 —_ SOIUTION REQUIPFEMENHS ..........ccccceeeseccccceeeeeeeeeeeeceeeeeaaeeeeeeeeeeeeeaaeeeseeeeeeeeessaaeesseeeeeeessauaaaeeeeeeeeeaaa 2
+2.3 LOSSING ON... ccc cseecccccseeecccneeeececeeeeeeeeeeeeeeeaeeeeeeseeeeeeeseeeeeeeseeeeesseueeeeaeuseeesseuecesseueessaeuseesseesessages 2
+2.4 — SOIUTION M@NU 0... eeeeeeeeeeeeeeeeeeeee eee eeee nent nnn n nnn EEE EEE EAE AEA E EEE E AGG G EES E EEA a aaa 4
+2.4.1 My Dashboard... eeecesccceesseeeeeesececcesceeeeesaeeeceeaeeesesaeeeceesaeeeceeaaeeesesaeeeeseaeeeseeaeeeesenaeeeseeaeeeseneeeess 5
+2.4.2 LOAN... eee eeeccec cece eneeeeeeeeececeaeaeeeeeeececeaaaueeeeeeeeceaaaaeeeeeeeeeeaaaaeeeeeeeeeeaaauaeeeeeeeeeauaaeeeeeeeeeeauaaeeeeeeeeeeaaaaeeeeeees 5
+2.4.3 User Information and Roles ..........ccccccssssscccccceessssnneeeeeeeeessseseeeeeeeeesssseeeeeeeeeeseeeseeeeeeeeseeeeaaeeeseseseeeeanea 5
+2.5 CHANGING PASSWOM..........cccccccccsssseeeeeeeeeeeeeeseeeeeeeeeesaeeeeeeeeeeeeeesaeeeeeeeeeeeesssseeseeeeeeeeesauaaaeseeeeeeeeaaa 5
+2.5.1 Forgot Password (Recover PaSSWOId)........ccccccssssssseeccccesssesseeeeceeeseseeneeeeeceeesseeseeeeeeeeseeeeaeeeeeeceseeeeaaea 6
+V2 oa =>, <1 ese) (01d (0) 9 PRP 6
+3 ——_—USIng My Dashboard .........cccccecesccccccccceeeeseeeeeeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeseeeeeeeeeeeeeesseseesseeeeeeessaaaaaseseeess 7
+3.1 My LOANS .......ccccceeecccccseeecccneecceeeeeeeeeaeeeeeeeaeeeeeesseeeeeeaeeeeeeeseeeeeeseeueeesaeaseeessaueeeeseueeesauscessueeseesages 7
+3.1.1 Pin Loan to My Loans Dashboard ............cccceeesseeeeesseeeeeeeeeeceesaeeeceseeeesesaeeeeeeaeeesesaeeeesenaeeeseeeeeeseneeeess 7
+3.1.2 Unpin Loan from My Loans Dashboard...........ceccceeesecceeesseeeceeseceeeeeeeeeeesaeeeeeesaeeesesaeeeceenaeeeseeaeeeseneeeess 8
+A Using the Loan MOdulle.......ccccccccccccssssssseeeceeeeeeeeeseeeeeeeeeaeeeeeeeeeeeeeeeeeeeeseeeeeeeeessseeeeeeeeeeeessaaaaaseeeeeeeeaaaa 9
+72s TSS <= | 0) 9 9
+4.1.1 Loan Search — Production Database ............ccssccccccccssssssseeeecccessessneeeeceeesseesneeeeeeecesseenaaeeeeceeeseesaaeeeees 10
+4.1.2 Loan Search — Legacy Database............eecccceesscccesesneeeceeneeeeeeseeeeeeaeeeceeaeeesesaeeeeeenaeeeesenaeeeeeseeeeseneeeess 10
+4.1.3 Loan Search — DAT C Database... eecccsssssccccccesssssneeeecccessessnseeeececeseeesaeaeeeeceseseeaaeeeeeeeseeenaaeeeess 11
+4.1.4 Search R@SUItS ..........cccceesssccccccssssesneeeeeceeesseeseeeeeeeesseeeseeeeeeeeeeeeeesaeeeeeeseseeeeaeaeeeeceseseaaeeeeeeeseeeeeaeeneess 11
+4.2 Accessing Detailed Loan Information ...........ccccccssssseccccccccceeeseeeccceeeesaeeeeeeeceeeessaseseeeeeeesessaaggees 13
+4.2.1 Access Details of Partial Claim Loan ReCOrdS ............ccsesssscccecesesesnceeececesseesneeeeeccceseeeaseeeeceeeeeensaaeeeees 14
+bo a OX =1 08 | 0 0) 0 00-4 (0) 19
+5.1 Manage ACCOUNL.........:ccccccsseseccceeseeeseeeeeeeeeeeeeeaeeseeeeseeeeeseeeeeeeaeeeeeeeeeeeeeaeeeeeesseuseesaaaueeesaaeeeeea 19
+bo oa ©) a 10) 4-08 3 C0) | =k een 19
+(CP C1 =1 0] 01248 m (=) | © eee 20
+(pat a I-19 1S) | ©) 00) peer 20
+6.2 Solutions to COMMON ProbleMS .............cceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeeeeeseeeeeees 21
+6.2.1 Internet and Browser ISSUES...........cccccsesssscceccceeeesssnseeeececeeeeeeneeeeeeeeeeeseeneeeeeeeeeseeeeaaeeeeeeeseeeeeaaaeeeeeesenes 21
+6.2.2 SMART ISSUCS ...........ccceeccececeeeeeeeeeeececaaeeeeeeeeeeeeaaaaeeeeeeceeeeaaaaeeeeeeeeecaaaaaeeeeeeeeeeauaaeeceeeeeeauaaeeeeeeeeeeaaanees 22
+(ope Sa 1 =1 8 0107248 \V/ (0) 0-0 C1] © en 22
+(ope Ro (=) | 0 D1), Geen 22
+Figures
+FiZUre 1: LANGING PAGE!..........ccccccccccccccseesseeeeeeeeeesaeeeeeeeeeeeeesseeeeeeeeeeeeeeseseeeeeeeeeeeseeeeeseeeeeeeeesaaaessseeeeeeesaaaaaess 2
+Figure 2: MFA Phone Set-Up........ccccccccsssssseeccceeeeeeeesseeeeeeeeeeeseeeeeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeseeeeeeeessaeasseeeeeesesaaaaaess 2
+Figure 3: MFA Phone Set Up .......ccccccccccssssseeecceeeeaeeesseeeeeeeeesaeeeeeeeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeessaeaeseeeeeeeeeaaaaasss 3
+Figure 4: MFA Phone Verification ..........cccccccccccccsssssseeeceeeeesaaeeseeeeeeeeeeseeeseeeeeeeeesaeeaseeeeeeeeesaaaaseeseeeeesaaaaasss 3
+Figure 5: Multi-Factor AUtH@Ntication...........cccccccsssssseccccceeseeeeseeeeeeeeseeeeesseeeeeeeesseaeaeseeeeeeeesaeaasseeseeesesaaagasss 3
+Figure 6: Setting Up Security QUESTIONS PAGE ..........ccccsecccccaseeeccceeeececceeeeeecseseeesseueeesaeeeecesseseeesaaeeeesaaeeeeees 4
+Figure 7: Default Page ..........ccccccccccccccseesseeeeeeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeeeeseeeeeeeeesseaeeeeeeeeeeesaaeessseeeeeesaaaaaess 4
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | i
+
+@SMART
+
+Figure 8: Manage PaSSWOIK........ccccccccssssseseeeceeeesaaeeeeeeeeeeeeeaeeeeeeeeeeeeeesaeeeeeeeeeeeesaeeeaeseeeeeeeesaaaasseeeeeeeesaaaaasss 5
+Figure 9: Login Page — Forgot PaSSWOM ........cccccsssssssseccecceceaeeeseeeceeeeseaeeeseeeeeeeessaaeesseeeeeeessaaaasseeseeeeesaaaagess 6
+
+Figure 10.
+Figure 11:
+Figure 12:
+Figure 13:
+Figure 14:
+Figure 15:
+Figure 16:
+Figure 17:
+Figure 18:
+Figure 19:
+Figure 20:
+Figure 21:
+Figure 22:
+Figure 23:
+Figure 24:
+Figure 25:
+Figure 26:
+Figure 27:
+Figure 28:
+Figure 29:
+Figure 30:
+Figure 31:
+Figure 32:
+Figure 33:
+Figure 34:
+Figure 35:
+Figure 36:
+Figure 37:
+Figure 38:
+Figure 39:
+Figure 40:
+Figure 41:
+Figure 42:
+Figure 43:
+Figure 44:
+Figure 45:
+Figure 46:
+Figure 47:
+Figure 48:
+
+Forgot PaSSWOIrd Page .....ccccccccccccssssseseeeceeeeesseeeeeeeeeeeeeeeeeeeeeeeeeeeeesseeseeeeeeeeeesaaeeessseeeeeeeesaaaanseeeeess 6
+My Loans DaShbOard.........cccccccccccccccsssseseeeeeeeeseeeeeeeeeeeeeesseeeeeeeeeeeeesaeeeeeeeeeeeeeesaaaaesseeeeeeeesaaaggess 7
+Pin tO DaShbOard.........cccccccsssecceceeseccccuecccceesecceceueeceesueeeceeaueeceesueeeceesueeeceeaueeceeeaguecessugeeeeeageeeeeea 7
+UNpin from Dashboard. ..........cccccccccccssssseeeeceeeeeseeeeseeeeeeeeeeeeeeeeeeeeeeesseeeeseeeeeeeessaaaesseeeeeeeesaaaagens 8
+LOAN S@arch SCrEEN ......ccccccseeecceceeseccccueccccuuseccecaueecceeueececaueecseseuseceeeueueeeeaueceseeuecessugeeeeeaneeeeees 9
+Search Database — Production Database ..............ccccccccsseccceeeeececeeeeceecueeeceeeueecceseuseceseueeeeeeaues 10
+Start Search BUttOn .........cccccccececccceesecceceeeecceceeeececauecceceuseceeeueeccecaeeceeeuueecessueeceesauaeceeeugeeeeeages 10
+Search Database — Legacy Database ...........ccccccccccccccssssseeeeceeeesaaeeseseeeeeeessaeeeeseeeeeeeessaaaeseeseess 10
+Search Database — DAT C Database ............ccccccccccessecceceesececeeeeececeeeceeseeeeceesueeceesauaeceseueeeeeeages 11
+Search R@SUItS .........cccccccessecccceeecccceusecceceeeecceceeececeueceeeeeneceeeeeeececaueeceeeueeeceseueeeeesauecessueeeeeeages 11
+RESUIt HEACELS ...........cceccccccssecccceeseccecueeecccsueececaueucsecuuseccesueeeseeeuaecseeeeeceseueueseeeuneceesauseeeesaganss 12
+Search Results — RESUIt HEACESS ............ccccccccssecccceeseceeceeeececeueeececaueceeeaueecessueeceesauaeceseugeeeeeaees 12
+Search ReSults — SC arch .........ccccccccssecccceseecceceeeccecauseccecauseceeeeeeecesauecseeueeeceeeueeceesaueceseugeeeeeages 12
+Search ReSUuIts — SOrt........ccccccseecccccesecceceeeecceeueececeeseceecauseceeeeeeeceeaueceseueeeceeeueeceeseueeeseueeeeeeages 12
+o}-1 a -10) 00m (->¢- 100] ©) (=) ree 13
+VIEW LOAN SUMMMALY.........ccccseeeccceeecccceeeeeccceeeeesseuseccsseecesaeeeeeeseeuscessaesecesseuseessaueseesaeeeeesaaases 14
+View Loan Detail ..........ccccccccceccccccssecceceeeccceeeecsecausecceeueucceeaueceeseeeeceeauaeeceeaueceesueeeeeseuaeceeeuganss 14
+VIEW LOAN FIlING ........ cece ccccccsssssseeececeeeaaeeseeeeeeeeeeaseeeeeeeeeeeeeesaeeeeeeeeeeeeeesseeeeseeeeeeesaaaaeaeeeeeeeeaaaa 14
+
+VIEW LOAN RECOFCING .......ccccccsseeseeccecceeeeseseseeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeesaseeesseeeeeeessaaaaaseeeeeeeeaaaa 15
+ViCEW BOLrOWELS .......eeecceccccceeeeeeeeeeeeeeeeeaaaeeeeeeeeeeeeaaaaaeeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaeeeeseeeeaaaaaaneeeeeeeeeaaa 15
+View Property INSPECTION ............ccccccccsseeeccceeeeccceenseccuseuscecsesseeeseauscesseueeeesseuseessaauseesaeeseessaaages 15
+ViOEW DOCUMEDNMS ........eeecccc cee eeeeeeeeeeeeeeenaaeaeeeeeeeeeeeaaaaaeeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaeeeeeeeeeaaaaaaneeeeeeeeeaaa 15
+VICW NOtOS 20... ceeeeeeceeecccceceeeeeeeeeeeeeeeeaaaaaeeeeeeeeeeeaaaaaeeeeeeeeeeeaaaaaeeeeeeeeeeeaaaaaaeeeeseeeeeaaaaaneeeeeeeeeaaa 16
+Mortgage Release Tab.........cccccccccccsssssseseeccceeesaeeseeeeeeeeesseeeeeeeeeeeeeesaaeeeseeeeeeeessaaaasseeeeesessaaagaess 16
+AVAT=AWY AN =>, 0\=] ©) H 0) 9) eee 16
+Servicing Tab (Partial Claim) ..........cccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeseseeeeeeess 17
+Foreclosure Tab (Partial Claim) ...............ccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 17
+Bankruptcy Tab ........ccccccccsssssseecceceeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeesseeeeeeeeeeeeeesaeeeeseeeeeeeessaaaasseeeeeeeesaaagasss 17
+View DiSDUrSEMENKS....... cc ccceeeeeeeeeeeeeeee teen eee n tne EEE EEE E LEELA EEA AGA E AOA E EAE E GAGE GaGa aaa aaa aaa ae 17
+VICW PayOff .......ccccssessccccccceesaeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeessseeseeeeeeeeeeesseeesseeeeeeesaaaaasseseeeeeeaaaa 18
+VIEW TraNSactiONs 0.0... eeeeecceceeeeeeeeeeceeeeaeeeeeeeeeeeeeeaaaaeeeeeeeeeeeaaaaeeeeeeeeeeeeaaaaaaeeeeseeeeeaaaaaeeeeeeeeeeaaa 18
+View CUSTOMEL SELVICE........ ccc eeeeeeeeececeeeeeeeeeeeeeeeeeaaaaeeeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaeeeeeeeeeaaaaaaeeeeeeeeeeaaa 18
+Navigation Menu LiNKS............ccccccccssssssseeccceecsaeeeseeeeceeeessseeeeseeeeeeeesaaeeseeeeeeeessaaaaseeeeeseesaagaaees 19
+Example User Information (Edit MOde) ..............cccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 19
+Example User Role Options .............ccsssessecccceccesesseeeeceeeessseeesseeeeeeeesaeeesseeeeeeeeessaaasseeeeeeessaaagnees 19
+LANGING PAGEC.........cccccccccccssssseeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeesssseeeeeeeeeeeesaeeesseeeeeeeeesaaaassseeeeeeesaaagasss 20
+Tech SUPPOrt Tab OPen........cccccccccccsssssseecceeeseeeeeeseeeeeeeeeseeeeeeeeeeeeeesaseeesseeeeeeessaaaaeseeeeeeeesaaaeaess 20
+Tech SUPPOrt POPUP .........ccccccccccccccseeeeseeeeeeeeeeaeeeeseeeeeeeesaseesseeeeeeeeesaseeesseeeeeeessaaaasseeeeeeeesaaaaaegs 20
+POPUp Chat WiIndOW ..........cccccccccccccsessseseeceeeeeeaeeeeeeeeeeeeesseeeeeeeeeeeeesaaeeaseseeeeeesaaaaasseeeeeeeesaaaaaess 21
+
+Tables
+
+Table 1: Loan Search Fields wo... ccccccccccccsceeesceeceeeceseeceseeeseeuesecueeeeeeeuceeseeeeeueseueeeueesuessueeseueeeugeseuneees 9
+Table 2: Data Table BUttOns ........ccccccccccccccccceccsceceseeeeeceeeeeceeeeueeseueeseceseeeeseeeeeueeseueeseuessuueeseueeseueeseneauanes 11
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | ii
+
+@®SMART
+
+Document History
+
+Version Date
+
+Description
+Original release.
+
+Updated release.
+
+No changes made.
+
+Updated release; Added PMM, Cash
+Management, CRM, etc.
+
+1.0 3/12/2018
+
+1.34.0 | 12/14/2018
+1.34.0 06/10/2019
+1.43.0 | 12/20/2019
+1.43.0 06/02/2020
+
+No changes made.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | iii
+
+
+@SMART
+
+1 Solution Summary
+
+This manual is designed to guide Lenders through the use of the Single-Family Mortgage Asset Recovery
+Technology (SMART) System.
+
+1.1 Features
+
+The Single-Family Mortgage Asset Recovery Technology (SMART) System is comprised of individual
+modules designed to assist the user in searching for specific loan information and performing related
+functions. The modules currently available include the following:
+
+Loan Module: Query and review loan information at a detailed level, add new loan records to
+the system, and edit existing loan information.
+
+Servicing Module: Assign mortgage servicing templates to individual loans, track the status of
+each servicing template, and generate the corresponding servicing forms and letters.
+Bankruptcy Module: Maintain, track, and edit bankruptcy information for individual loan
+records.
+
+Foreclosure Module: Manage loan records in the foreclosure process. Module provides a
+timeline of the required foreclosure steps and tracks the scheduled foreclosure activity vs. the
+completed foreclosure activity.
+
+Mortgage Release Module: Initiate the loan release process for satisfied loans, track the release
+status, and generate the corresponding release forms and letters.
+
+Cash Management Module: Track and manage incoming payments from Pay.Gov, submit
+disbursement checks, search for transactions and review the TROR and Trial Balance reports.
+Customer Service Module: Create, view, and manage tickets. Create and edit call logs and ticket
+actions.
+
+Maintenance Module: Manage user account, reset user passwords, and update ticket round
+robin.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 1
+
+@SMART
+
+2 Getting Started
+
+2.1 Software Version
+To access the SMART web application, open your web browser and go to: https://smart.hudnsc.org.
+
+2.2 Solution Requirements
+Users must have the following to use the SMART System:
+e Screen Resolution 1920x1080 optimal
+e =Internet Connection
+e Web Browser (IE, Chrome, Firefox)
+e Avalid user name, email address, and password
+e Adobe Acrobat Reader or other .pdf reader (recommended)
+
+Users may not use the following to access the SMART System:
+e Mobile device with a screen size of 760px or less
+
+As a web-based application, SMART is accessed through a web browser, and is not “installed” onto any
+user’s computer.
+
+2.3 Logging On
+Once your SMART user profile has been created and approved, you may begin using the site. To Login,
+follow the steps outlined below.
+
+Step1: Toaccess the SMART web application, open your web browser and go to
+
+https://smart.hudnsc.org.
+
+Password
+
+Unauthorized Access Warning
+
+Figure 1: Landing Page
+
+Step 2: Input your User Name. Input your Password. @®SMART
+Step 3: Click [LOGIN]. A pop-up will appear to initiate
+setting up Multi-Factor Authentication (MFA). What type of device are you adding?
+Click [START SETUP]. © Moniie phone recoumencen
+Landline
+Step 4: Select Mobile Phone or Landline and click
+[CONTINUE].
+
+Figure 2: MFA Phone Set-Up
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 2
+
+@®SMART
+
+Step 5: Enter your phone number, click the box to verify the phone number, and click [CONTINUE].
+
+®SMART
+
+Enter your phone number
+
+United States A
+
++41
+
+ex: (201) 234-5678
+
+[2] You entered [EEN 's this the correct number?
+
+Figure 3: MFA Phone Set Up
+
+Step6: Verify the ownership of your phone. To get a phone call verification, select [CALL ME]. To
+get a text verification, select [TEXT ME]. Both options will provide you with a 6-digit code.
+Enter in the code and click [VERIFY]. When verified, click [CONTINUE].
+
+@®SMART
+
+Verify Ownership of
+
+1. We can call or text you with a verification code.
+
+} came | °r Textsent
+
+2. Enter your 6-digit code:
+
+“_ ¥
+| sack
+
+Figure 4: MFA Phone Verification
+
+Step 7: Verify your settings on the My Settings & Devices page then click [CONTINUE TO LOGIN].
+
+@®SMART
+
+a
+
+bx. 867539
+
+(Remember me for 60 days
+
+@SMART =)
+
+Call Me
+
+Enter a Passcode
+
+(@ Remember me for 60 days
+
+Enrollment successful! This is the Duo login prompt that you'll normally
+see when logging in.
+
+Enter a passcode from a text.
+
+Dismiss Dismiss Text me new codes
+
+Figure 5: Multi-Factor Authentication
+
+Note! When you have checked the [REMEMBER ME FOR 60 DAYs] checkbox, this bypasses the 2 factor log in for 60 days.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 3
+
+@®SMART
+
+Step 8: Select either [CALL ME] or [ENTER A PASSCODE].
+
+Step 9: Selecting [CALL ME] will prompt the system to call your phone. Follow the instructions in
+the phone call and you will be redirected to your default page.
+
+Step 10: Select [ENTER A PASSCODE] and click on [TEXT ME NEw CobEs] at the bottom. This will prompt
+the system to send a text message to your phone containing a 6-digit code. Enter in the
+code and click login. You will be redirected to your default page, logging you in.
+
+The first time you log in you will be asked to reset your password and input three Security Questions.
+
+@SMART
+
+O First Time Password Reset
+
+<= : a
+
+Conte Passwort Cetera
+
+© Setting Up Security Questions
+
+Answer 1
+
+sect Queston3 Sect One *]
+
+Figure 6: Setting up Security Questions Page
+
+Enter in a new password and all three questions and answers and click [UPDATE]. After clicking update,
+you will be taken to your default page.
+
+2.4 Solution Menu
+
+After you have successfully logged into SMART your default page is the My Dashboard Page.
+
+My Loans
+‘Showing 110 2 of? enties vevious + | Next
+§B Top 20 Most Recent Loans
+
+Figure 7: Default Page
+
+From the Dashboard page you can access every point in the site needed via the Top Navigation Menu.
+From left to right, the options are: My Dashboard, Loan, User Information, and Role.
+
+SMART USER MANUAL | HUD.OIG | VERSION 1.43.0 | JUNE 2, 2020 | 4
+
+@SMART
+
+2.4.1. My Dashboard
+
+The default page you come to after you have logged into SMART is the [My DASHBOARD] page. Under the
+tab [My DASHBOARD] you have one option: My Loans.
+
+2.4.2 Loan
+
+The [LOAN] tab directs the user to the Loan Module in SMART. Here you have one option: Search.
+
+2.4.3 User Information and Roles
+
+Select your user name to view and update your personal identification and contact information. You
+may also change your password and security questions. From the [ROLE] drop-down menu, select the
+role in which to view the SMART System.
+
+2.5 Changing Password
+To comply with security policies requiring periodic modification to all access passwords, SMART includes
+the Change Password functionality on the My Account page. Follow the steps below to change your
+
+current passwo rd.
+
+Step 2: Scroll down the User Information (Edit Mod

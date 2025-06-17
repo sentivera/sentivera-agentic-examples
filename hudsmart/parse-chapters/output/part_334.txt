@@ -1,0 +1,691 @@
+you will be redirected to your default page.
+
+Step 10: Select [ENTER A PASSCODE] and click on [TEXT ME NEw CobEs] at the bottom. This will prompt
+the system to send a text message to your phone containing a 6-digit code. Enter in the
+code and click log in. You will be redirected to your default page, logging you in.
+
+The first time you log in you will be asked to reset your password and input three Security Questions.
+
+@SMART
+
+O First Time Password Reset
+se esromet : a
+
+© Setting Up Security Questions
+
+Securty Question 1 Select One x|
+
+Answer 1
+
+secur Onsen 3 Senct Oe *]
+
+Figure 6: Setting up Security Questions Page
+
+Enter in a new password and all three questions and answers and click [UPDATE]. After clicking update,
+you will be taken to your default page.
+
+2.4 Solution Menu
+
+After you have successfully logged into SMART your default page is the My Dashboard Page.
+
+OSMART 20 22202: | 100 oman | serncina ~ | @ nantrutey «| m Forectonure «| @ Retease ~ | cc ‘ s 1 & Rowe: 1c poweruser = | @¢ Maintenance -
+
+&B My Loans
+
+moe nc
+
+Loan Program Bocrower Name Property Address Lender Name Closed Box # Original Prin Bat
+
+Loan Skey FHA Case # Loan # inal Prin Bal Updated By Updated Date Pinned Date
+Partial Ciaim $2383087 120042019 1206/2018
+
+02:43:30 PM 02:41:28 PM
+
+aH $0.00 oxa12014 oana2018
+
+09:08:22 AM 102513 AM
+
+ming 1 to 2 of 2 entries Pre
+
+Show
+
+§B Top 20 Most Recent Loans
+
+Jon Pore Dorm] o ac
+ee eee ne = See een fee) eon ee
+
+$10,173.38
+
+$13,392.60 1271972019
+
+10:18:12 AM
+
+Figure 7: Default Page
+
+From the Dashboard page you can access every point in the site needed via the Top Navigation Menu.
+From left to right, the options are: My Dashboard, Loan, Mail, Servicing, Bankruptcy, Foreclosure,
+Mortgage Release, Cash Management, Customer Service, Reports, User Information, Role, and
+Maintenance.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 4
+
+@SMART
+
+2.4.1. My Dashboard
+
+The default page you come to after you have logged into SMART is the [My DASHBOARD] page. Under the
+tab [My DASHBOARD] you have two options: My Loans and Unassigned Tickets.
+
+2.4.2 Loanand Mail
+
+The [LOAN] tab directs the user to the Loan Module in SMART. Here you have two options: Search and
+PMC Queue. Under [MAIL] you have two options: NCF Queue and Document Wizard.
+
+2.4.3 Servicing
+
+The [SERVICING] tab directs the user to the Servicing Module. Here you have one option: Search.
+
+2.4.4 Bankruptcy
+
+The [BANKRUPTCY] tab directs the user to the Bankruptcy Module. Here you have one option: Search.
+
+2.4.5 Foreclosure
+The [FORECLOSURE] tab directs the user to the Foreclosure Module. Here you have one option: Search.
+
+2.4.6 Mortgage Release
+The [MORTGAGE RELEASE] tab directs the user to the Mortgage Release Module. Here you have two
+options: Mortgage Search and Check Search.
+
+2.4.7. Cash Management
+Under [CASH MANAGEMENT] you have seven options: Trial Balance, TROR Report, Transaction Search, SPS,
+Pay.Gov Dashboard, Pay.Gov Queue, and Review Failed CSV.
+
+2.4.8 Customer Service
+The [CUSTOMER SERVICE] tab directs the user to the Customer Service Module. Here you have two
+options: Ticket Search and Create New Ticket.
+
+2.4.9 Reports
+
+Under [REPORTS] you have four options: Customer Service, Director Reports, Servicing/Release Reports,
+and Accounting Reports.
+
+2.4.10 User Information and Roles
+
+Select your user name to view and update your personal identification and contact information. You
+may also change your password and security questions. From the [ROLE] drop-down menu, select the
+role in which to view the SMART System.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 5
+
+@SMART
+
+2.4.11 Maintenance
+
+The [MAINTENANCE] tab directs the user to the Maintenance Module. Here you have one option: Ticket
+Round Robin.
+
+2.5 Changing Password
+
+To comply with security policies requiring periodic modification to all access passwords, SMART includes
+the Change Password functionality on the My Account page. Follow the steps below to change your
+
+current passwo rd.
+
+Step 2: Scroll down the User Information (Edit Mode) page to the Manage Password header.
+
+Step1: From the top Navigation Menu, click your User Name.
+
+Manage Password
+
+Figure 8: Manage Password
+
+Step 3: Input your current password. Password must contain at least:
+
+Step 4: Input your new password.
+Twelve alphanumeric characters
+
+One special character
+One uppercase letter
+
+One lowercase letter
+
+One number
+
+Step 6: Click [SAVE] at the bottom of the page. :
+
+Step5: Re-enter your new password to confirm accuracy.
+
+446686
+
+The user is required to change their password every 30 days. The system maintains a password history,
+so that 24 passwords cannot be reused.
+
+If the user logs into SMART after their password is expired between 30 days and 90 days from their last
+password change, they will be redirected to change their password. If the user has not logged on for 90
+days, their account will be disabled. In order to reactivate their account, they will need to contact the
+Help Desk. For information on how to contact the Help Desk, see Section 14: Getting Help.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 6
+
+®SMART
+
+C
+
+2.5.1 Forgot Password (Recover Password)
+To retrieve a lost password, go to the SMART Login Page and click [FORGOT PASSWORD].
+
+@SMART
+
+Username
+
+Password
+
+_ Unauthorized Access Warning Password Reset
+
+This warning banner provides privacy and security notices consistent with
+applicable federal laws, directives, and other federal guidance for accessing this
+Government system, which includes all devices/storage media attached to this
+system. This system is provided for Government-authorized use only.
+Unauthorized or improper use of this system is prohibited and may result in
+
+Work Email Address
+
+your system usage and/or intercept, search and seize any communication or
+data transiting or stored on this system. Therefore, you have no reasonable
+expectation of privacy. Any communication or data transiting or stored on this
+system may be disclosed or used for any lawful Government purpose.
+
+Forgot Password Login
+
+Figure 9: Login Page — Forgot Password Figure 10. Forgot Password Page
+
+disciplinary action and/or civil and criminal penalties. At any time, and for any
+lawful Government purpose, the government may monitor, record, and audit
+
+The user is prompted to input a valid email address and select one security challenge question. Enter in
+the work email address and click [SUBMIT].
+
+If the user is registered to access SMART, an email is sent to their validated email address containing a
+
+temporary password to use to access their account. If the user is not registered, the user is prompted to
+complete the registration process.
+
+2.6 Exit Solution
+
+To end your SMART session, click [LOGOUT]. Be sure to [UPDATE] any work prior to exiting the system.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 7
+
+@®SMART
+
+3 Using My Dashboard
+
+3.1 My Loans
+
+After you have successfully logged into SMART your default page is the My Dashboard Page. The default
+tab of My Dashboard is the My Loans Dashboard.
+
+——
+
+& My Loans
+
+Lo Borrower Name Ongina Prin Bai || Updated By | Updated Date © | Pinned Date
+
+Loan Skey Case Loan # oan Program No Property Address Lender Name Closed Box # inal Prin Updated By Updated Date Loan Status
+Partial Clam $2383087 12002019 20082018
+0243:30PM 024128 PM
+
+Han $0.00 oxa12014 oony2018
+08.0822 AM 1025:13AM
+
+‘Showing 1 to 2 of 2 entries
+
+&B Top 20 Most Recent Loans
+
+o oc
+
+$ 10,173.38 12192019
+1021:40 AM
+
+$ 10,173.38 12192019
+10.21:40 AM
+
+$ 13,392.60 1211972019
+10:18:12 AM
+
+$2324.96 121192019
+08:11:51 AM
+$20,718.04 121192019
+
+07:53:54 AM
+
+ona
+
+$34,318.10 121182019
+04:37:27 PM
+
+Figure 11: My Loans Dashboard
+
+Note: Each data table throughout the SMART system can generate reports in Excel, PDF or Print. The
+Excel file is downloaded to your computer. Both PDF and Print opens in a new tab. You can also use the
+search bar on any column to filter the data table results.
+
+To open a Loan Record, click on the Loan Skey, FHA Case #, or Loan #.
+
+If you have never pinned a loan to the My Loans tab of My Dashboard, then you will only see the Top 20
+Most Recent Loans. If you have pinned a loan to the My Loans tab, then you will see all the loans you
+have pinned and the Top 20 Most Recent Loans.
+
+3.1.1 Pin Loan to My Loans Dashboard
+Step 1: Identify a loan you would like to pin to the My Loans Dashboard.
+Step 2: Once you have identified a loan you would like to pin, open that loan record.
+Step 3: — Click [PIN TO DASHBOARD] button located in the top right corner of that loan record.
+
+» OlLoan Record - Partial Claim GI
+FHA Case # Loan Skey: Loan No:
+
+Alerts (No Present Alerts
+
+* © Additional Loan Information
+
+Figure 12: Pin to Dashboard (Loan Record 235-Insured)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 8
+
+@SMART
+
+Once you have pinned a loan it will display on the My Loans Dashboard. If the loan has multiple
+property inspection addresses, then the multiple Loan Records tied to that Loan Skey will display in the
+My Loans Dashboard.
+
+3.1.2 | Unpin Loan from My Loans Dashboard
+Step 1: Identify a loan you would like to unpin to the My Loans Dashboard.
+Step 2: Once you have identified a loan you would like to unpin, open that loan record.
+Step 3: — Click [UNPIN FROM DASHBOARD] button located in the top right corner of that loan record.
+
++ CLoan Record - Partial Claim G29
+
+Figure 13: Unpin from Dashboard (Loan Record 235-Insured)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have unpinned a loan it will no longer display in the My Loans Dashboard. If the loan has
+multiple property inspection addresses, then the multiple Loan Records tied to that Loan Skey will no
+longer display in the My Loans Dashboard.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 9
+
+@®SMART
+
+3.2 Unassigned Tickets
+
+The Unassigned Tickets tab displays all the unassigned tickets from terminated users. To open the
+Unassigned Tickets tab, click [My DASHBOARD] from the top Navigation menu and select [UNASSIGNED
+TICKETS] from the dropdown.
+
+_— ==)
+
+&B Unassigned Tickets
+Fates by Terminated User: Select Terminated User . Reassign to User Select User ,
+cca cous
+=» E Cam Date = ‘
+850150 Low 032019 ™ 235 LOAN Referred to NSC
+03:17:57 PM (Senncing)
+asotae Low 09/03/2019 ™ 235 LOAN Referred to omer
+031757 PM HUDIMOC
+c asovar Low osoa2019 74 312 REHABILITATION ree Center
+01:3420 Pm
+c 850145 Low 09/04/2019 3 312 REHABILITATION Handied by
+07:08:35 AM Contractor
+850142 low 0903/2019 4 203(K) LOAN Referred to NSC
+032733 PM (Serving)
+asotat Low 0910372019 ™ 235 LOAN Referred to NSC
+0327.33 PM Senwong
+B 50140 Low 0032019 ™ ABANDONED CALL Resource Center
+032733 PM
+@ 850199 Low 0904/2019 3 312 REHABILITATION Reterred to NSC
+07.43.40 AM Servcng
+850136 Low owos2019 n 312 REHABILITATION Handed by
+o7 43:40 AM ‘Contractor
+250135 Low os/oa2019 154 235 LOAN Handed by
+030448 Pa Contractor
+B 25010 Low 09032019 ™ 203K) LOAN Resource Center
+01:34:20 PM
+850139 Low 0003/2019 ™ 235 LOAN Controlled
+01.3420 PM Comespondence
+=) 850132 Low 0904/2019 73 1090/1098 Handed by
+07:06:35 AM ‘Contractor
+
+Figure 14: Unassigned Tickets
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Unassigned
+Tickets page, click on the [BACK TO UNASSIGNED TICKETS] button.
+
+3.2.1 — Filter Unassigned Tickets
+
+Inside the Unassigned Tickets tab, a user can filter the results by selecting a user’s name from the filter
+drop down menu.
+
+Filter by Terminated User: | Select Terminated User v
+
+Figure 15: Filter by Terminated User
+
+SMART will save the filters you have selected. When you have opened a ticket and then clicked the
+[BACK TO UNASSIGNED TICKETS] button, your filters will remain. The previously viewed ticket will also be
+highlighted.
+
+EB Unassigned Tickets
+Fite oy Teenineted ve; . | Reset | Reassign to User: Select User . | Reason |
+
+| Bet | [ peor | oo “
+
+ekotNo | Priority = | Call Date 9 | Aging
+
+04092019
+10:32:10 AM
+
+235 LOAN Hangied by Contractor
+
+4nzor Low o2rs2019 10
+1180.31 AM
+
+235 LOAN Controlled Correspondence
+
+Figure 16: Filtered Unassigned Tickets
+
+To clear the saved filters and reset your search, click on the [RESET] button.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 10
+
+3.2.2
+
+@SMART
+
+Batch Reassign Tickets
+
+Also, inside the Unassigned Tickets tab, a user can reassign multiple tickets at once.
+
+&B Unassigned Tickets
+
+Step 1:
+
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Step 6:
+
+| ese | | P| || Ticket No Priority Call Date
+
+w 850150 Low 09/03/2019
+7 03:17:57 PM
+
+asovar Low _ a Ticket No Priori Call Date
+Z 850148 t ty
+g 850150 Low 09/03/2019
+wna | ter 2 950147 = 03:17:57 PM
+w 850148 Low 09/03/2019
+4 Select All * 03:17:57 PM
+Pon lea a er Oo 850147 Low 09/03/2019
+~ 01:34:20 PM
+
+Select Specific
+
+90134
+Reassign to User: Select User v Reassign
+050139 Low Cononea
+rrespondence
+cm) 950132 tow owou2019 s7 109m/1098 Handed by
+07:06:35 AM Contractor
+
+Figure 17: Unassigned Tickets Batch Ticket Reassignment
+
+In the Selection column of the Unassigned Tickets tab, check the checkbox in the Selection
+title column to select all tickets on that page OR check the checkbox next to a specific
+ticket.
+
+Select a user’s name from the Reassign to User drop down menu. Make note of the ticket
+number and the new User.
+
+Click on the Reassign button.
+
+From the confirmation pop-up, click Submit.
+
+To verify the reassignment, enter the ticket number in the Search Bar. The ticket will no
+longer appear.
+
+To verify the reassignment, select either the [LSC INBOx] or [HUD InBox] (depending on the
+user chosen) and filter by the user’s name. The ticket will appear.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 11
+
+@SMART
+
+4 Using the Loan Module & Mail
+
+4.1 Search
+
+Loans can be retrieved through various combinations of the search criteria available on the Loan Search
+Screen.
+
+Q Loan Search Screen
+Search Database SMART PRODUCTION DATABASE
++ Borrower Name: Loan Create Date >=
+
+FHA Case ®: Loan Program:
+
+Loan Skey: Label Printed: * | Property Address:
+
+Loan #: Loan Status: + | Property City
+
+Last 4 Digits of SSN: Loan State: + | Property State: Select a State + EHLP Project #:
+
+Closed Box #: Payment Pian 7 | Property Zip Code: Keyword:
+
++ | Note Create Date >=
+
+Note Text Note Type: + | Note Created By:
+
+Lender Admin
+
+. 7 ~ | Payee / Holder of a ea
+Contact Claim Servicer: Freel Select a Payee / Holder of Record
+
+[Loan Skey) “FHA Case No ) (= Loan Program | | * Borrower Name | |* Property Address | (= Lender Name ) (Closed Bax No) |= Original Prin Bal) | = Updated By | (* Updated Date | |* Loan Status
+
+Figure 18: Loan Search Screen
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+Close Box # Physical location of stored files
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Current Servicer Servicer/Lender associated with the FHA Case
+
+Exception Type Type of Exception filed in the Exceptions tab
+
+Result Headers Search criteria columns to be displayed in the Search Results table
+Loan Program Type of program associated with the loan
+
+Label Printed Indicator of whether or not a hard copy file has been generated for the loan
+Loan Status Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property City City wherein the loan property is located
+
+Property State State wherein the loan property is located
+
+Property Zip Code Zip Code wherein the loan property is located
+
+Note Created By SMART User who created Notes in the Notes tab
+
+Claim Servicer Servicer/Lender associated with a Claim
+
+Loan Create Date Date that a loan was entered into the SMART system
+
+Loan Close Date Date that a loan was closed
+
+File Rec’d Date The File Received Date of a loan
+
+EHLP Project # EHLP Project Number
+
+Keyword Searches any word within the Search Results data table
+
+Note Create Date Date that the Note in the Notes tab was created
+
+Payee/Holder of Record Servicer/Lender assigned as a Holder of Record
+
+Table 1: Loan Search Fields
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 12
+
+@SMART
+
+4.1.1 Loan Search — Production Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Production Database.”
+
+Search Database: SMART PRODUCTION DATABASE
+
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 19: Search Database — Production Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+
+Step 4: — Click [START SEARCH].
+
+Figure 20: Start Search Button
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.2 Loan Search — Legacy Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Legacy Database.”
+
+Search Database: SMART LEGACY DATABASE
+
+FHA Case #: |
+
+SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+SMART DAT C DATABASE
+
+Loan Skey:
+
+Loan #:
+
+Figure 21: Search Database — Legacy Database
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 13
+
+@SMART
+
+4.1.3. Loan Search — DAT C Database
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the “DAT
+C Database.”
+
+Search Database: SMART DAT C DATABASE
+FHA Case #: |
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+Loan #:
+
+SMART DAT C DATABASE
+
+Figure 22: Search Database — DAT C Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.4 Search Results
+
+On the Loan Search page, as well as the Servicing, Bankruptcy, Foreclosure, Mortgage Release, Checks,
+Transaction, and Customer Service Search pages, the search results will display in the table below the
+search screen.
+
+&@ Search Results
+
+owt a
+
+i
+a
+
+$22.00 120772018
+04:07:44 PM
+
+$56,435.61 1207/2018
+04 14:59PM
+
+$4,890.00 120772018
+01:38:32 PM
+
+$48,262.65 1210572018
+02.0046 AM
+
+$7,900.67 121052018
+02.00.46 AM
+8
+
+$8,410.46 12905/201
+02:00:45 AM
+
+Figure 23: Search Results
+
+4.1.4.1 Actions
+
+From the Search Results page, you can generate three different reports. The table below describes the
+capabilities of the buttons located on the top left of the Search Results table. These options are also
+available on all other Search Results pages within SMART.
+
+Export to Excel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+
+Table 2: Data Table Buttons
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 14
+
+@SMART
+
+4.1.4.2. Result Headers, Search, and Sort
+
+In order to customize your view of the data tables for the Search Results page, the user has three
+options: Result Headers, Search, and Sort. When a user performs a search using 

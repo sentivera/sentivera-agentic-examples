@@ -1,0 +1,258 @@
+and try again. If the problem persists, contact your network
+administrator or your Internet Service Provider.
+
+Send email to he!pdesk@hudnsc.org. Include your email address, your contact
+information, and a description of what happened leading up to and following the issue.
+
+12.2.2. SMART Issues
+
+SMART issues may be errors which display on-screen or situations where data may not be saved
+properly. If you experience either of these problems, please contact Support via email.
+
+Step 1:
+Step 2:
+
+Step 3:
+
+Use [PRTSC] on the keyboard to capture an image of the screen.
+
+Compose a new email message and paste ([CTRL+V} on the keyboard) the screen image
+into the message. Be sure to include your Username, your contact information, a
+description of what module or page you were viewing, and what you were doing (or trying
+to do) at the time the error occurred.
+
+Send the email to helpdesk@hudnsc.org.
+
+12.3 Getting More Help
+
+If you are experiencing technical difficulties, please contact the SMART support team via email at
+helpdesk@hudnsc.org. For general questions and/or class availability concerns, please contact the
+SMART administration team via email at helpdesk@hudnsc.org.
+
+When emailing, pleases include as much information as possible relating to the problem, including print
+screen(s) of the error.
+
+12.4 Help Desk
+
+Email Address helpdesk@hudnsc.org
+Phone Number 1-866-657-5893
+Hours of Operation 7am — 7pm CST
+
+Response Time Time to Resolution
+
+Customer Calls Inquiries | As quickly as possible; normally within one (1) minute of the caller’s choice
+Customer Calls Outside Respond no later than 12 noon the next business day
+
+of normal business hours
+
+Customer emails Respond to inquiries no later than 24 to 48 hours of receipt
+
+Customer On-line chat As quickly as possible; normally within five (5) minutes of the caller’s chat
+
+SMART USER MANUAL | HUD.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | 77
+
+«SMART
+
+Single-Family Mortgage Asset Recovery Technology
+
+hud.readc or Manual
+
+JUNE 2, 2020
+
+This document shall not be disclosed outside of the Government and shall not be duplicated, used or
+disclosed in whole or in part for any purpose other than for HUD training. The data subject to this
+restriction is contained on every page throughout this document.
+
+@SMART
+
+Table of Contents
+
+1
+
+Yo) [Ui do) a s10] 00) 000-] 8 Ape 1
+1.1 FOATUIES 2... eece cece eec ccc e eee e cena nett eee ee eee aan EEA eA GEE AAA G nee AeA Gn E EEE AGG HE EA AAG aE ee ec ane ee cca ae eeeaaaaeeeeaaaeeeeaaaeeeeeaaes 1
+Getting Started 0... cccccccccssseseeeeeeeeeeea ee eeeeeeeeeeeaaeeeeeeeeeeeeeesasesSESEEEE;;;;AAAAASEEEESESES;;GA OSES EESEEESEE EEA AAEEEEES 2
+2.1  —_ SOFEWALE VELSION oo. eeeeceeeteeeeeeeeeeeee teen etn E EEE EEE E EEE E LEELA AEE A EAE E EGE A GEESE GAGES EGE aaa aaa 2
+2.2 —_ SOIUTION REQUIPFEMENHS ..........ccccceeeseccccceeeeeeeeeeeeceeeeeaaeeeeeeeeeeeeeaaeeeseeeeeeeeessaaeesseeeeeeessauaaaeeeeeeeeeaaa 2
+2.3 LOSSING ON... ccc cseecccccseeecccneeeececeeeeeeeeeeeeeeeaeeeeeeseeeeeeeseeeeeeeseeeeesseueeeeaeuseeesseuecesseueessaeuseesseesessages 2
+2.4 — SOIUTION M@NU 0... eeeeeeeeeeeeeeeeeeeee eee eeee nent nnn n nnn EEE EEE EAE AEA E EEE E AGG G EES E EEA a aaa 4
+2.4.1 My Dashboard... eeecesccceesseeeeeesececcesceeeeesaeeeceeaeeesesaeeeceesaeeeceeaaeeesesaeeeeseaeeeseeaeeeesenaeeeseeaeeeseneeeess 5
+7. Oy as Ke} | 0 Pee eeePEEeTeTETETETSTeTeCeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeey 5
+2.4.3 SOPVICING........eeeeeeeeeesseeseeeeeeeeeeeeeeeeeeeeenenEEEE SEES EEEEED EEE; EEEES ESE EDSSSSSSDSS DSSS SSO S SOSA OOOO OOOO OOOO OOOO SOOO OOOO OOOO OOO OOOOOOOES 5
+2.4.4  — BaAMkrUptcy ...... ee eeeseccecesseeceeesneeceeeneeeeceeeeeesesaeeeceesaeeeseeaeeeceeaeeeseeeeeesesaeeeesenaeeeseeaeeessenaeeeseeneeeeseeeeeess 5
+2.4.5 FOP CIOSULE ......eeeeeesecceeesnececeeseeeeeeaeeeceeaeeeeeeaeeeceeaaeeeseeaeeeceesaeeeceeaeeeeseaeeesseaaeeeseeaeeeesesaeeeseeaeeeseneeees® 5
+2.4.6 Mortgage Release........ececeessceccseseeeecesneeeeseseeeceenaeeecesaeeeceenaeeeceseeeesesaeeeeseaeeeseeaeeeesenaeeeseenaeeeseeeeeess 5
+2.4.7 Cash Manageme nt............ccccecsscecesesereeceeneeeeeesaeeeceeaeeesesaeeeceeaeeecesaeeeesesaeeesseaaeeeseeaeeeesenaeeeseeaeeesenaeeeess 5
+2.4.8 CUSTOMER SEPVICE........ ee eeeeeeeeeeeeeeeeeeeeeeeeeteeeeeeeeeSeeeeE ESSE S SEE EE ESSE SSE SESS S DSSS SOSA SOAS OOOO OOOO OOOO OOOO OOOO OOOO OOOO OOOOOOOEOES 5
+2.4.9 User Information and Roles ..........cccccessscceeeeseeeeeeeneeeeceseeecsenaeeeceeneeeeseeaeeeeseaeeesesaeeeesenaeeeseeneeeeseneeeess 5
+2.5 CHANGING PASSWOM..........cccccccccsssseeeeeeeeeeeeeeseeeeeeeeeesaeeeeeeeeeeeeeesaeeeeeeeeeeeesssseeseeeeeeeeesauaaaeseeeeeeeeaaa 6
+2.5.1 Forgot Password (Recover PaSSWOId)........ccccccssssssseeccccesssesseeeeceeeseseeneeeeeceeesseeseeeeeeeeseeeeaeeeeeeceseeeeaaea 7
+V2 oa =>, <1 ese) (01d (0) 9 PRP 7
+Using My Dashboard ..........ccccccccssssssseecceeeeseeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeesaaeeesseeeeeeeesaaaaaseseeeeeesaaaaasss 8
+3.1 My LOANS .......ccccceeecccccseeecccneecceeeeeeeeeaeeeeeeeaeeeeeesseeeeeeaeeeeeeeseeeeeeseeueeesaeaseeessaueeeeseueeesauscessueeseesages 8
+3.1.1 Pin Loan to My Loans DaShboard ............cecceeessceceeeseeeeeeeneeeceenaeeeceeeeeeeeaeeeeeeaeeesesaeeeeeenaeeeseeeeeeseneeeess 8
+3.1.2 Unpin Loan from My Loans Dashboard...........ceccceeesecceeesseeeceeseceeeeeeeeeeesaeeeeeesaeeesesaeeeceenaeeeseeaeeeseneeeess 9
+Using the Loan MOUle..........ccccccssssssseeccceeecaeeeeeeeeeeeeeesaeeeeeeeeeeeeeeeseeeeeeeeeeeeesseeaaseseeeeeesasaaasseeeeeeeesaaa 10
+72 Fas SY =X | 0) 9 10
+4.1.1 Loan Search — Production Database ............cscccesessccceseseeeeeesneeeceeeaeeeceeaeeceesaeeeeeesaeeeeseaeeeeeseeeesesneeeess 11
+4.1.2 Loan Search — Legacy Database............eecccceesscccesesneeeceeneeeeeeseeeeeeaeeeceeaeeesesaeeeeeenaeeeesenaeeeeeseeeeseneeeess 11
+4.1.3 Loan Search — DAT C Database..........eeeceeesscecesesneeeceeneeeeceeaceeesesaeeeceeaeeesesaeeeceesaeeesseaeeesesaeeeesenaeeeess 12
+4.1.4 Search RESUItS 22... i eceeccceesseceeeeeeeeeeesneeeeeseaeeeceeaeeeeeeaaeeeseseeeeeeeaeeeceeaeeesesaeeeceenaeeesseaeeeeeeeeeeseneeees® 12
+4.2 Accessing Detailed Loan Information ...........ccccccssssseccccccccceeeseeeccceeeesaeeeeeeeceeeessaseseeeeeeesessaaggees 14
+4.2.1 Access Details of HECM-Assured Loan ReCOIdS............s:ccceesscceesesneeeceeneeeesesaeeeceesaeeeeeeaeeeeeseeeesenaeeeess 15
+4.2.2 Access Details of HECM-Insured Loan ReCOIS ............::ccceesseeeeeesneeeeeeseeeeeeeaeeeeeenaeeeeeeaeeeseseeeeseeeeeess 22
+Using the Servicing MOdUIe ...........ccccccccccccccseeesseeeeeeeeesaeeeeeeeeeeeeeesseeesseeeeeeeeesaaeaaseeeeeeeesaeaaesseeeeeeeesaaa 26
+ioe MS <T- 1 0) 9 eee 26
+5.1.1 Searching for Loans with Servicing HistOry ...........ccccceseseceeeesneeeeeeseeeceseeeeeesaeeeseeaeeeceseeeesenaeeeseeaaees 26
+5.1.2 Searching for Loans without Servicing HiStOry ............ccescccceesseeceeesneeeeeeeeeeeeesaeeeeeenaeeecesaeeeesetaeeeeeeaaees 27
+bo oS =1 2 ( | 0) 24 I=) © en 28
+5.2.1 View an Active Servicing ACtiVILY ........... ce eessssssssessseesseesseessesseseseeeeteeeeeeesssesess assesses ese eA Os SESS OE OOS O OOO OEOES 28
+5.2.2 View an Inactive Servicing ACtiVItY ........... cs eessssssssseesssssessereeseeeseeeeeeeeeeeeeeeesessseseeees ae sO SSO OSS EOS OO OSE O OOOO 29
+5.2.3 Service ManageMe nt ...........ceesseseseseesesesssssesesssseeseeeeeeeeeeeeeeeeeeeseeeessss sess se SASS ASSO OOAOS SAS O SOOO OOOO OOOO OOOO OOOOES 29
+5.2.4  VICW NOtES 0... eeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeeneeeeeeetSSSEESE SESE SESSSESEESS DESDE SDSS DSSS SOOO OOOO OOOO OOOO OO OOO OOO OO OOOO OOOO OOOO O OES 29
+Using the Bankruptcy MOdule...........cccccccccccssssssseeccceeeeaseeeeeeeeeeeeesseeeseeeeeeeeeessaeesseeeeeeeesesaaaeseeeeeeeeeaaa 30
+(oe RS <S- 1 0 9 eee eee 30
+6.1.1 Searching for Loans with Bankruptcy HiStOry...........ceeeseeceesseeeeeeeeeeeeeseeeceesaeeeceeaeeeceeaeeeeseeeeeseeaaees 30
+6.1.2 Searching for Loans without Bankruptcy HIStory ............::cceesseeceeeseceeeeeneeeeeeeaeeeceenaeeeceeaeeeeseeaeeeseeaaees 31
+6.2 —_ BaNkruptcy Tab........ccececcccccccssssseeecceeeeeaeeeeseeeeeeeeeeeeeeeeeeeeeeeeeesseeeeeeeeeeeessaaaeesseeeeeeesaaaaaaeeeeeeeeaaaa 32
+6.2.1 View an Active Bankruptcy Activity ...........ceeeeecceeesnceeeeeneeeceesaeeeeeesaeeecesaaeeeeesaeeeceeaeeecesaeeeesenaeeeseeaaees 32
+6.2.2 View an Inactive Bankruptcy ACctivity...........eeeeceeesececcesseeeeeesneeeeeenaeeeceseeeeeeeaeeeceeaeeeceeaeeeeeeeaeeeseeaaees 33
+
+SMART USER MANUAL | HUD.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | i
+
+@SMART
+
+6.2.3 Bankruptcy Management............ccesecccessseeeeeesseeeeeesaeeeceeeeeceesaeeeesesaeeeseeaeeeesesaeeesseaeeeseeaeeeesetaeeeeeeaaees 33
+6.2.4 VIEW NOteS 0... eeeeeeseeeeeeeeeeeteeeeeeeeeeeeeeneeneeneenSSESSESEE ESSE EEESES SDSS S DSSS S SDSS S OOOO OOOO OOOO OOOO OOOO OOOO OOO OO OOOO OOO OOO NOES 33
+
+7 ~—_ Using the Foreclosure MOdule ...........ccccssesecccccccceeeesseeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeseseeeesssaaaaaaseeeess 34
+yes nS) <\- 100) 9 ee eee 34
+7.1.1 Searching for Loans with Foreclosure HiStOry ..........::cceesccceeesseeeeeeseeeeeseeeceesaeeeceesaeeeceeaeeeeeetaeeeeeeaaees 34
+7.1.2 Searching for Loans without Foreclosure HiStOry..........cscccccssscceeseseeeeeeeneeeceeeaeeeseenaeeeceeaeeeesenaeeeeeeaaees 35
+
+vy ae ok @) =e) (0 )10] = k-] 0 ee 36
+7.2.1 View an Active Foreclosure ACtiVity..........::cceeescccceeseceeceeseeeeeesaeeeeeeaeeeeesaeeeeeeaeeecseaeeesesaeeeesenaeeeeeeaaees 36
+7.2.2 View an Inactive Foreclosure ACtiVity ...........ccccceseseceeceeseeeeceeaeeceeesaeeecesaeeeeeeeaeeeseeaaeeeseeaeeeesenaeeeseeaaees 37
+7.2.3 Foreclosure Management ...........ccessccccesseceeeesneeeeeesaceeceeeeeceesaeeeesenaeeeseseeeeseeaeeesseaeeeceeaeeeesetaeeeeeeaaees 37
+7.2.4  ViICW NOtES 0... ee eeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeeeenennee eee S SSE SS SEEDS ESSE ESS SS SDSS SDSS DSSS SOSA OOOO OOOO OOOO OOOO OOOO SOOO OOOO OOO OOO OOOO 37
+
+8 Using the Mortgage Release MOdule ...........cccccccsssssseeeccceeceaeeeseeeeeeeeeeeeesseeeeeeeesaseaeseseeeeessaaaaaeseeeess 38
+8.1 —»-_ Mortgage S@arch .........cccccccccsssssseeeeceeeeeaeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaeeeesseeeeeeesaaaeaaeeseeeeeaaaa 38
+8.1.1 Searching for Loans with Mortgage Release HIStory ..........::cceesececeesseeeeeeseeeceeeeeeseeaeeeceesaeeeseeneteeseeae 38
+8.1.2 Searching for Loans without Mortgage Release History ............sccccsesscceeeesneeeeeeneeeeseeeeeeeenaeeeseeneeeeseeae 39
+
+8.2 Mortgage Release Tab ...........cccccccccccccccssssseeeeeeeeeesaeeeeeeeeeeeeeeseeeeeeeeeeeeeessaeeeesseeeeeeesaaaaaaeseeeeeeaaea 40
+8.2.1 View an Active Mortgage Release Activity ...........:ccessecceeeseeeeeeeneeeeseeeeeceenaeeeceeeeeeseaeeeseeaeeeseeneeeeseeae 40
+8.2.2 Mortgage Release Management ............:cssccccesseeeesesneeeeeesaceeceeeeecsesaeeecseaeeesesaaeeeseeaeeeeeenaeeeeeeneeeeeenae 41
+8.2.3 VIOEW NOTES... eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEESEEEEEEEEEEEEEE EES 41
+
+Sis a Og <1 0) SY <1] 60 6 eee 42
+8.3.1 Searching for Loans with Disbursement ChecKS.........ccccccccccccsssssssececcccssseessaeeeecceseeeeeeeeeeeeeseeeeaeeeeees 42
+8.3.2 Searching for Loans with Release CheckS............cccccesssceceeesnceeeeeseeeeceeeeeeeesaeeeseeeeeeseeaeeeesenaeeeseeneeeeeenae 43
+
+9 Using the Cash Management Modul ............ccccccssssssecccccecceeessseeceeeeeeaeeesseeeeeeeeesseeeseeeeeeessaaaanaseeeess 44
+9.1 Trial Balance 0.0.0.0... nnn enn n nner ene e eee e ee ee ee ESSE Seen ee ee eeeeeeeeeeeeeeeeeeeeeeeeeeeees 44
+
+1S Pd ©) 5 0 =) 010) 6 ee 46
+oes =] ate [0) gs =1-] 60 9 eee 47
+QD. SPS cee eeeceeeeeceeeece cece eae eeeeee cece eae a nent e eee e ceca ada EEE Eee eee AAA AAG HELE EEE eee cAAG GHEE EE eee e cada cana eE eee eeeeaaaaaaaeeeeeeeeeaaa 49
+10 Using the Customer Service MOdUIe@ ............ccsesssecccececceeeeeseeceeceesaaeeseeeeeeeeessaseesseeeeeeeessaaaaseeeeeeeeeeaaa 50
+10.1 Ticket SC arch .......ccccccceccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 50
+10.2 Accessing Detailed Customer Service INfOrmMatiOn..............ccccccccccsssssseeecceceeeaeeeseeeeeeeeesaaaaseeseeees 52
+10.2.1 View Ticket Detail .......... ee eesecceseseceeeesneeeeeeeaeeecesaeeesesaeeeeseaeeesesaaeeeseeaeeecseaaeeeseeaeeeceesaeeeseeaeeeseneeeess 52
+10.2.2 View Call LOg ........eeeeeescceceesneeeeeeneeeesesaceeesesaeeeceeaaeeecesaeeeceeaeeesesaaeeceesaeeeeseaaeeesesaeeeesenaeeeseeaeeesenaeeeees 52
+10.2.3 View Ticket Action .........cccccesscccessseceeceenceeeeesaeeeceeneeeecesaeeecseaeeeseeaaeeeseeaeeecseaeeesesaeeeesenaeeesesaeeeeeeaeeeees 53
+10.2.4 VICW NOES... ccccecesereereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaeeeeneaeeeaeaneeeeeeaeeeaeeaeaeeeeeeeeeaeeeaaeeeeeeeeeeeeeeeeeeeeeeaees 53
+10.2.5 View All Notes ........ceeesccccessseeceeeseeeecesneeeeeesaeeecseaeeecesaeeeeeesaeeeceeaaeeeseaeeeceeaeeesesaeeecsenaeeeseeeeeeeeeeeees® 53
+10.2.6 VIEW DOCUMENTS... cccecesseeeeeneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeneeeeneeeeaeaeeeeeeeeaeaeeaeeeeeeeeeeeaeeeeeeeaeeeeeeeeeeeeeeeeeeeaees 53
+10.2.7 VieW Borrower HiStOry........cccccccccsssssessseerereeeeeeeeeeeeeeeeeeeeneeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaees 54
+
+11 User Information... ccecccsecceeeeeeeeeeeeeeeeeeeen enn nn nnn EEE 55
+11.1 Manage ACCOUNC..........ccccccccssecceeeeneeeeneeeeneeeeaeeeeeeeeeaeeeeaeeeeaeeeeaeeeeaeeeeeeeeeseeeeaeeeeaeeeesaeeeaaeseaaeeeaaes 55
+11.2 Change ROleS .........ccccccccsssssseecceeeeaeeeseeeeeeeeeeeeeeeeeeeeeeeeesaeeeeeeeeeeeeeeeaseeeeeeeeeeeeeseeeessseeeeeeseaaaaaeeeeess 55
+12 Getting HIP... ceeccccccccceeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaeeeeeeeeeeeeeeeaaeeseseeeeeeesaaaaaasseeeeeeeeaaa 56
+92s a C10) S10 | ©) 0 0) 6 eee 56
+12.2 Solutions tO COMMON PLObleMS............ccccccccccescecceeeceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 57
+12.2.1 Internet and Browser ISSUCS..........ccccceeeseeeesesneeeeeeneeeeeeeaeeeeeeaeeecesaeeeeseeaeeecseaaeeesesaeeeesesaeeesesaeeeeeneeees® 57
+12.2.2 SMART ISSUES ........ecceeeeeeeeeeeeeeeeeeeeeeeeeeeeneeeeeeeeeeeeeeeeeeeeeeeaeeeaaeneaeeaeeeaeeeeeeeeeeeeeeeaeeeeeaeeeeeeeeeeeeeeeeeeeeeeaees 58
+12.3 Getting MOre Help .........ccecccccccccccssssseeeeceeeeseseeeeeeeeeeeeaseeeeeeeeeeeeeesseeseseeeeeeesaeeessseeeeeeeaaaaaaaseeees 58
+12.4 Help De@SK .......ccccccccccccccssssseeeeeeeeeeaeeesseeeeeeeeeeaeeeeeeeeeeeesaseeeeeeeeeeeeessseeeeeeeeeeeeeseeeesseeeeeeeeaaaaaaaseeeess 58
+
+SMART USER MANUAL | HUD.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | ii
+
+@SMART
+
+Figures
+
+Figure 1:
+Figure 2:
+Figure 3:
+Figure 4:
+Figure 5:
+Figure 6:
+Figure 7:
+Figure 8:
+Figure 9:
+
+Figure 10.
+Figure 11:
+Figure 12:
+Figure 13:
+Figure 14:
+Figure 15:
+Figure 16:
+Figure 17:
+Figure 18:
+Figure 19:
+Figure 20:
+Figure 21:
+Figure 22:
+Figure 23:
+Figure 24:
+Figure 25:
+Figure 26:
+Figure 27:
+
+LANGING PAGC.........cccccccccccccceeeeseeeeeeeeeeeeeeeeeeeeeeeeesaeeeeeeeeeeeeeeaseeeeeeeeeeeeessseesseeeeeeeessaaaaasseeeeeeesaaaaaass 2
+
+MEA Phone Set-Up... ...cccccccccssssseecceceeeaeeeseeeeeeeeeeeaseeeeeeeeeeeesaeeeeeeeeeeeeeesaeeeseseeeeeeessaaaasseeeeeeeeeaaaaaass 2
+MEA Phone Set Up 2... cccccccccssssscecceceeeeeeeeeeeeeeeeeeaeeeeseeeeeeeesaeeeeeeeeeeeeeesaseeesseeeeeeessaaaeaseeeeeeeeeaaagasss 3
+Vaya ea ae) a =aA=1 01 Cer 100) 9 ee 3
+Multi-Factor AUthentication .........cccccccsseeeeeeeeeeeeeeeeeeeeeeeen nent nnn A GAGA A Ga aaa aaa aa aaa aaa aaa a aaa 3
+Setting Up Security QUESTIONS PABe .........cecccccssesccccesesccceseeeecceeseececaeuscecseueeeesaeueceesseeeeessaeeeesaaases 4
+Default Page .........ccccccccccccccseeseeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeesaseeeeeeeeeeeeeesseeseeeeeeeeeesaaaeasseeeeeeeeaaagaass 4
+Manage PaSSWOI .......cccccccsssssseeeeceeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaseeeeeeeeeeeesaaaaaasseeeeeeesaaaaaess 6
+Login Page — Forgot PaSSWOM .......cccccsssssssseececceceaeeeeseeeceeeeeaeseseeeeeeeeeesaeaesseeeeeeeessaaaesseeeeeeeesaaagaess 7
+
+Forgot PaSSWOIrd Page .....ccccccccccccssssseseeeceeeeesseeeeeeeeeeeeeeeeeeeeeeeeeeeeesseeseeeeeeeeeesaaeeessseeeeeeeesaaaanseeeeess 7
+My Loans DaShbOard.........cccccccccccccccsssseseeeeeeeeseeeeeeeeeeeeeesseeeeeeeeeeeeesaeeeeeeeeeeeeeesaaaaesseeeeeeeesaaaggess 8
+Pin tO DaShbOard.........cccccccsssecceceeseccccuecccceesecceceueeceesueeeceeaueeceesueeeceesueeeceeaueeceeeaguecessugeeeeeageeeeeea 8
+UNpin from Dashboard. ..........cccccccccccssssseeeeceeeeeseeeeseeeeeeeeeeeeeeeeeeeeeeesseeeeseeeeeeeessaaaesseeeeeeeesaaaagens 9
+LOAN S@arch SCrEEN .......cccccssescccceeeececceeeccceueccecueecceceuseccesueueseeeuaecsecuesecessueueceeeuaeceeeauaeceesugasss 10
+Search Database — Production Database ..............ccccccccsseccceeeeececeeeeceecueeeceeeueecceseuseceseueeeeeeaues 11
+Start Search BUttOn .........cccccccececccceesecceceeeecceceeeececauecceceuseceeeueeccecaeeceeeuueecessueeceesauaeceeeugeeeeeages 11
+Search Database — Legacy Database ...........ccccccccccccccssssseeeeceeeesaaeeseseeeeeeessaeeeeseeeeeeeessaaaeseeseess 11
+Search Database — DAT C Database ............ccccccccccessecceceesececeeeeececeeeceeseeeeceesueeceesauaeceseueeeeeeages 12
+Search R@SUItS .........cccccccessecccceeecccceusecceceeeecceceeececeueceeeeeneceeeeeeececaueeceeeueeeceseueeeeesauecessueeeeeeages 12
+RESUIt HEACELS ...........cceccccccssecccceeseccecueeecccsueececaueucsecuuseccesueeeseeeuaecseeeeeceseueueseeeuneceesauseeeesaganss 13
+Search Results — RESUIt HEACESS ............ccccccccssecccceeseceeceeeececeueeececaueceeeaueecessueeceesauaeceseugeeeeeaees 13
+Search ReSults — SC arch .........ccccccccssecccceseecceceeeccecauseccecauseceeeeeeecesauecseeueeeceeeueeceesaueceseugeeeeeages 13
+Search ReSUuIts — SOrt........ccccccseecccccesecceceeeecceeueececeeseceecauseceeeeeeeceeaueceseueeeceeeueeceeseueeeseueeeeeeages 13
+o}-1 a -10) 00m (->¢- 100] ©) (=) ree 14
+View Loan Detail ...........ccccccccecccccessecccceseecccaeeccecuenecceeueucceceeseceeseeeececsueeceeeueeceseueeeeeseuaeceeeaganss 15
+VIEW LOAN FilING ..........cccccccccsessseeecceeeeeeaeeseeeeeeeeeeeaeeeseeeeeeeeeesseeeeeeeeeeeeeessaeeeeseeeeeeesaaaaaaeeseeeeeeeaaa 15
+VIEW LOAN RECOFCING .......ccccccsseeseeccecceeeeseseseeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeesaseeesseeeeeeessaaaaaseeeeeeeeaaaa 15
+
+Figure 28: VieW BOFrOWELS ........ccssecccccseeecccceeececaeeeeeeeaeeeeeeeeeeeeeeeeeeeeeseeeeeseeeeesaeuseeeseuuseesauaseeesauseeesaaases 16
+Figure 29: View Property INSPECTION .............ccccccseeeccceeeseccceeeeecaeeeeessesceesaeeeeeeaeeeeessaeseesseuseeesaueeeesaaaees 16
+Figure 30: VieW DOCUMENNS ...........ccccccseescccceeeeecceeeeeeecseeeeeeeseeeeeeaeeeeesseeeeeeeseeeeesaeeseeessaseessauueeesaueseeesaaases 16
+Figure 31: View Loan Balance Transfer .........cccccccssssssseecceceeesaeessseeeeeceesaaeeeeeeeeeeessaeeeseeeeeeeeeesaaasseeeseeeeeeaaa 17
+Figure 32: VieW NOtOS...........ccccccccsescccceeeecccseeeeeeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeeeseeeeeeseeeeesaeeeeeeseaeeessuauseesaueseeesaaases 17
+Figure 33: View Mortgage Rel@ase.........ccccccccccccccssssssseecceeeeeaseeseseeeeeeeesseseeeeeeeeeeeesaeeesseeeeeeeesaaaaaaseeseeeessaaa 18
+Figure 34: VieW EXC€ptions ...........cccccccsssscccceeeecccaeeeececaeeeeeeseeeeeeseeeeeeeseeeeeesseueeesaeeeeeessauseesseuuseesauaeeessaaages 18
+Figure 35: ViOW S@rViCiNg .........ccccseecccccssescccceeeeccceeeeeeeeseeeeeenseeeeeeseeeeeeeseeeeeesseeeesaeeseeesauseesauaeseesaueseeesaaases 18
+Figure 36: ViCW FOreCIOSUIEC ......ccccccccccssessseeeeeeeeeeeeeeeeseeeeeeeesaeeeeeeeeeeeeeesaeeeeeeeeeeeeeeeaaeeesseeeeeeesaaaaasssseeeeeseaaa 18
+Figure 37: ViGW Bankruptcy .........ccccccccssssseeeeceeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeeseeeeeeeeeeeeesaeeeeeseeeeeeessaaaeasesseeeeseaaa 19
+Figure 38: VieW DiSbUrS@MENKS............ccceeesseccccceceeeeeseeeeeeeeeeaeeeseeeeeeeeeesseeeseeeeeeeeessaaeeesseeeeeeessaaaasseseeeeeeeaea 19
+Figure 39: View Property Taxes.........ccccccccccsseeccceeesecccseseeccaseeeeesseeeeesseeseeesseueeeeaeeeeeesaueseesaaaseeesauseeesaaases 19
+Figure 40: View ACH Information...........ccccccc

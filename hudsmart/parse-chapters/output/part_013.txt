@@ -1,0 +1,703 @@
+tomer Service Module for more information.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 85
+
+44.8
+Records
+
+Note: All HECM-Insured and SF Data Request Loan Records are Read Only.
+
+4.4.8.1 View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record.
+
+BLoan Summary
+
+Loan Detail Loan Filing Loan Recording Borrowers Property Inspection
+
+Transactions Documents Notes Mortgage Release Exceptions.
+
+Servicing Foreclosure Bankruptcy
+
+@®SMART
+
+Access Details of HECM-Insured & SF Data Request Loan
+
+Customer Service
+
+Menihly Somers
+
+4.4.8.2. View Loan Detail
+
+‘Unpaid Principal Balance: Pay Type Code: Monthly Tax Escrow Amount: $0.00
+Figure 189: View Loan Summary (SF Data Request)
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record.
+SS oe ——— 3c,
+
+Loan Summary RSS
+
+# Loan Detail
+
+omer Code:
+Loan Type:
+FHA # tst tag:
+Loan Term: 30 yrs 0 mos
+Loan Status: cLoseD
+Loan State 4
+
+Loan State 2
+
+Loan Purpose Code:
+
+Loan Class Code:
+
+Contract Type Code: F
+
+Program Type:
+
+Last CO Response:
+
+(Curr Prin Limit:
+
+Expected int Rate:
+
+Current Net Prin Limit:
+
+Repair Set Aside:
+
+‘Max Claim Amt:
+
+First Yoar Sot Aside:
+
+Serv Fee Set Aside:
+
+Orig Creait Line:
+
+Prin Limit At Closing:
+
+Adcisions) esp information
+
+Signed Date:
+
+Funded Date:
+
+Mig Ins Cert Date:
+
+Asst Accepted:
+
+‘Asst Recorded:
+
+Claim Paid:
+
+Tie Approval:
+
+‘At Contractor On:
+
+‘ARM Change Date:
+
+Orig Loan Date:
+
+Status Date:
+
+Maturity Date:
+
+Oce. Cert Sent
+
+Due Date Detling NC:
+
+Hold Code 1:
+
+Hold Code 2:
+
+Hold Code 3:
+
+Accrual Method
+
+‘Assess Late Charge:
+
+Collect Tax Escrow:
+
+Custodial:
+
+‘Vacancy Status:
+
+Vacancy Date:
+
+ADP Code:
+
+Print Statements:
+
+Figure 190: View Loan Detail (SF Data Request)
+
+NO
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 86
+
+@®SMART
+
+4.4.8.3 View Loan Filing
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record.
+
+Loan Summary Loan Detail RBEGEZIETIE Loan Recording Borrowers. Property Inspection Transactions. © Documents Notes. «Mortgage Release = Exceptions. © Servicing Foreclosure Bankruptcy Customer Service
+
+i Loan Filing Information
+
+Project No: Deed Restriction: Home Owner File Received Date
+Voucher Number: Box Number: Lenser name:
+
+VRS Number:
+
+Figure 191: View Loan Filing (SF Data Request)
+4.4.8.4. View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Borrowers Property Inspection ‘Transactions © Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+@4# Loan Recording
+
+Loan Recording Information
+
+Book No: Release Prepared ate: Notary
+Page No: Onigination Date: Prepared By:
+Instrument Loan Recorded Date: Original Trustee:
+Payot Date: Mortgage Amount: Substitue Trustee:
+Aumonzed wraness 1 wanes 2
+
+Figure 192: View Loan Recording (SF Data Request)
+
+4.4.8.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Property Inspection Transactions. = Documents Notes. «Mortgage Release = Exceptions © Servicing Foreclosure Bankruptcy Customer Service
+
+So Sorrows: Information
+First Name: SSN First Name: || SSN:
+Last name Ben Last Wome Bm
+.
+
+Home Work
+Phone: Phone:
+
+& Borrowers Information
+
+Marital
+‘Status:
+
+-
+
+Aces | ait To Name:
+Address 2: Aaaress 1
+cy: soc Address 2:
+
+5
+Zip Code: || County: Address 3:
+
+Address 2:
+city state:
+
+Be Home Phone:
+Work Phone:
+
+Other information:
+
+Figure 193: View Borrowers (SF Data Request)
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 87
+
+@®SMART
+
+4.4.8.6 View Property Inspection
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+
+Transactions Documents Notes © MortgageRelease Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+% Property Inspection
+
+Last inspect Date Last Appraisal Date Appraised Vaiue Prop Type Code Prop Desc Code
+
+‘Snowng 1101 of 1 entries Previous RB vx
+
+Figure 194: View Property Inspection (SF Data Request)
+
+4.4.8.7 View Transactions
+To access Transactions, click on the [TRANSACTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail, Loan Filing = Loan Recording Borrowers Property inspection Tims Documents Notes Mortgage Release = Exceptions §— Servicing Foreclosure = Bankruptcy Customer Service
+
+&@ Transactions
+
+| Bes | | rt | Sen
+
+No cata available m table
+
+Totals ‘30.00
+
+Figure 195: View Transactions (SF Data Request)
+
+4.4.8.8 View Documents
+To access Documents, click on the [DOCUMENTS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Transactions Notes Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy Customer Service
+
+@ Documents
+
+| ne} sow
+swat tm sagan
+(08:38:33 AMEST
+00000102. Hud Forms onr2z2011
+000000F Eur ‘Payot Request 05/06/2011 [Ave
+00000102.1if Payoff Statement 06/06/2011 050062011 [Adve
+
+Figure 196: View Documents (SF Data Request)
+
+4.4.8.9 View Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab. To access
+Notes, click on the [NOTES] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions. © Documents [IDEM Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+& Notes
+
+2 Note < Create Date
+
+Mortg ogos2012
+08:11:14 AM EST
+
+Genera Note 05/082011
+19:51:13 AM EST
+
+Mortgage o2rioz01t
+Release Actvty 1008-32 AM EST
+
+Mortgage 272011
+Release Activty 11:50:43 AM EST
+
+Mortgage 272011
+Release Activty 1027-15 AMEST
+
+Figure 197: View Notes (SF Data Request)
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 88
+
+@SMART
+
+4.4.8.10 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection ‘Transactions Documents Notes Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+@B Mortgage Release
+
+B Full Release (A)
+
+Bichecks
+Release Request Recetvediintiated e2o7201 2772011 onr2on 2772011 [Acre |
+Lien release package printed oai2011 o2v082011 0207/2011 oaz7i2011 [Ace |
+Len Release package sent for recording e2narzo1 021082011 e2n720n 02082011
+Recorded Release recewed trom County 272012 e2n72011 xm
+Copy to imaging image o2rt72012 oon720n1 [Awe |
+File to StorageiProcess Complete oza7aoi2 0207/2011 [ Acive
+
+Figure 198: View Mortgage Release (SF Data Request)
+
+4.4.8.11 View Exceptions
+
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions ocuments. Notes Mortgage Release Servicing Foreclosure Bankruptcy Customer Service
+
+A Exceptions
+
+[niece Popo J aren | ‘Seach
+
+No data avaliable in table
+
+‘Showing 0 to 0 of 0 entries wious | Nex
+
+Figure 199: View Exceptions (SF Data Request)
+
+4.4,8.12 View Servicing
+
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection ‘Transactions. ~—-Documents. Noles. © Mortgage Release == Exceptions [RMMEERIM Foreclosure Bankruptcy Customer Service
+
+@ Servicing
+
+Figure 200: View Servicing (SF Data Request)
+
+4,4,8.13 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page.
+
+SS ooo —a
+
+@ Foreclosure
+
+Figure 201: View Foreclosure (SF Data Request)
+
+4.4.8.14 View Bankruptcy
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection ‘Transactions Documents Notes Mortgage Release Excepbons Servicing Foreclosure Customer Service
+
+@ Bankruptcy
+
+Figure 202: View Bankruptcy (SF Data Request)
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 89
+
+@®SMART
+4.4.8.15 View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers. Property Inspection Transactions © Documents Notes
+a& Customer Service
+
+moc
+
+1978 PARTIAL CLAIM
+
+01/21/2011 01:28:51 PM
+
+0172172011 01:3851 PM
+
+" i «
+
+Figure 203: View Customer Service (SF Data Request)
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 90
+
+@SMART
+
+4.5 Loan Transactions
+
+45.1 Transactions
+
+Transactions are any time there is a monetary impact on the financial statements of the business, or any
+time there is a change to the balance of a loan. Transactions are available for all loan programs except
+HECM-A, HECM-lI, and SF Data Request.
+
+If the transaction reduces the Unpaid Principal Balance to SO then the following will occur:
+
+1. Payoff Request Timeline in the Servicing Module will automatically open and close with all steps
+marked as complete with today’s timestamp.
+
+2. Mortgage Release Timeline in the Mortgage Release Module will automatically open with the
+first step marked as complete with today’s timestamp.
+
+3. The Loan will close after the user refreshes the page.
+
+4, The amount in the Payoff Letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is SO.
+
+5. Arecord will automatically insert into the Transaction Tab.
+
+If the transaction reduces the Unpaid Principal Balance to SO and there is already an open Mortgage
+Release Timeline, then the following will occur:
+1. Payoff Request Timeline in the Servicing Module will automatically open and close with all steps
+marked as complete with today’s timestamp.
+2. The Loan will close after the user refreshes the page.
+3. The amount in the Payoff Letter will update to reflect the new Total Payoff Amount found in the
+Payoff Tab, which is SO.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 91
+
+@SMART
+
+4.5.1.1 Add Transactions for Partial Claim Loans
+
+4.5.1.1.1 Add Transaction
+Step1: Click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Gorrowers Property Inspection Documents Noles Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff Customer Service
+
+@ Transactions
+
+Figure 204: View Transactions
+
+Step 2: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+Add Transaction window.
+
+B Add Transaction
+
+*
+
+Figure 205: Add Transactions
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+After saving, the user redirects to the Transaction tab displaying the new transaction and an auto-note is
+created. The Unpaid Balance of the Loan (found in the Loan Summary Tab) will be updated.
+
+4.5.1.1.2 Add Transaction that requires Check Information
+Step 1: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+Add Transaction window.
+Step 2: From the Transaction Type drop down menu, select one of the below Transaction Codes
+
+(ICT, PIAC, PICTA, MDPP, MDRP, MNDB, PCPA, PCSA, PMTB, PMTC, RICT, RIPCTA, RMNDB,
+RTRSF, TRSF).
+
+hech/Reterence Date f x |
+
+Figure 206: Add Transaction that requires Check Information
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 92
+
+@SMART
+
+4.5.1.1.3 CTB Transaction
+
+The Transaction, CTB — Type 15 Termination Conveyance of Title for Benefits, is only available to be
+entered into the system between the 1st and the 25" of the month. Once one CTB Transaction has
+been entered, no other transaction may be entered except a RCTB — Reversal — Type 15 Termination
+Conveyance of Title for Benefits.
+
+Step 1: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+Add Transaction window.
+
+Loan Summary Loan Detal_Loan Filng Loan Recording BortowersPropertyinspection Documents Notes Mortpage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payort (RECERENEEI customer service
+
+B Add Transaction
+
+Figure 207: Add CTB Transaction
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff Customer Service
+
+B Add Transaction
+
+RCTS - Reversal - Type 15 Termination Conveyance of Tite for Benefits
+
+Figure 208: Add Transaction After CTB Transaction Submitted
+
+Step 2: From the Transaction Type drop down menu, select CTB.
+
+Step 3: The Transaction Amount will auto-fill to the Unpaid Principal Balance and is not editable.
+Step 4: Complete all required fields and click [SAVE].
+
+Step5: On the Confirmation Pop-up, click [SUBMIT].
+
+If there is no prior CTB Transaction, the following occurs after saving:
+1. The user redirects to the Transaction tab displaying the new transaction.
+2. An auto-note is created in the Notes tab.
+3. The loan is Closed.
+
+If there is a prior CTB Transaction, the following occurs after saving:
+1. The user redirects to the Transaction tab displaying the new transaction.
+2. An auto-note is created in the Notes tab.
+3. The loan is Re-Opened.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 93
+
+@SMART
+
+4.5.1.2 Add Transactions for PMM Claim Loans
+Step 1: Click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrower /Entity Documents Notes Mortgage Release © Exceptions Servicing Foreclosure
+
+@ Transactions
+
+Figure 209: View Transactions
+
+Step 2: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+Add Transaction window.
+
+Step 3: From the Transaction Type drop down menu, for a Principal Amount, select one of these
+Transactions Codes: (JECC, LSPM, RLSPM, RPPOP). For an Interest Amount, select one of
+the below Transactions Codes: (ISPM, RISPM, RPPOI)
+
+Loan Summary Loan Detail, Loan Filing Loan Recording «Borrower /Entity Documents Notes Mortgage Release Exceptions — Servicing ‘Foreclosure
+
+BAdd Transaction
+
+Loan Balance: $0.00
+
+Entective Date [r2002019  ¥
+
+*
+
+Transaction Amount: { x
+
+Figure 210: Add Transactions
+
+Step 4: Enter in the Transaction Amount.
+Step5: = Click [SAVE] and click [SUBMIT] on the confirmation pop-up.
+
+After saving, the user redirects to the Transaction tab displaying the new transaction and an auto-note is
+created. If the user entered a Principal Amount, the Unpaid Balance of the Loan (found in the Loan
+
+Summary Tab) will be updated. If the user entered an Interest Amount, the Unpaid Interest of the loan
+will be updated.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 94
+
+@SMART
+
+4.5.1.3. Add Transactions for H4H Claim Loans
+
+4.5.1.3.1 Add Transaction
+Step1: Click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents Notes. © Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy Disbursements [IRE
+
+Customer Service
+
+Transactions
+
+Figure 211: View Transactions
+
+Step 2: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+Add Transaction window.
+
+BAdd Transaction
+
+‘Transaction Information
+
+[ Select a Transaction Code *
+
+Figure 212: Add Transaction
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+After saving, the user redirects to the Transaction tab displaying the new transaction and an auto-note is
+created. The Totals Amount (within the Transactions Tab) will be updated with each transaction saved.
+
+4.5.1.3.2 Add Transaction that requires Check Information
+Step 1: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+Add Transaction window.
+Step 2: From the Transaction Type drop down menu, select one of the below Transaction Codes
+(HEPM, HSAM, HSEM).
+
+Figure 213: Add Transaction that requires Check Information
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 95
+
+@SMART
+
+4.5.1.4 Add Transactions for EHLP Loans
+
+4.5.1.4.1 Add Transaction
+Step1: Click on the [TRANSACTIONS] tab within the Loan Record page.
+
+loan Recording Borrowers__Property Inspection Documents Notes Mortgage Release Except
+
+Loan Summary Loan Detail Loan Filing
+
+@ Transactions
+
+$36,536.00
+
+ee Sassen
+
+Figure 214: View Transactions
+
+Step 2: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+Add Transaction window.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrower
+
+B Add Transaction
+
+*
+
+Figure 215: Add Transaction
+
+Complete all required fields and click [SAVE].
+
+Step 3:
+On the Confirmation Pop-up, click [SUBMIT].
+
+Step 4:
+
+After saving, the user redirects to the Transaction tab displaying the new transaction and an auto-note is
+created. The Unpaid Balance of the Loan (found in the Loan Summary Tab) will be updated.
+
+4.5.1.4.2 Add Annual Certification Compliance Transaction
+Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+
+Step 1:
+Add Transaction window.
+Step 2: From the Transaction Type drop down menu, select one of the below Transaction Codes
+(BREA, BREB, BREC, BRED, BREE).
+Loan Summary Loan Detail Loan Filing ‘Loan Recording «Borrowers Property Inspection Documents Notes Mortgage Release | Exceptions Servicing Foreclosure Bankruptcy Payoff Customer Service
+B Add Transaction
+==z-———s
+Figure 216: Add Annual Certification Compliance Transaction
+Step 3: The Transaction Amount will auto-fill to 20% of the Original Principal Balance. Verify the
+amount then click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 96
+
+@SMART
+
+4.5.1.4.3 Add Transaction that requires Check Information
+Step 1: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+Add Transaction window.
+Step 2: From the Transaction Type drop down menu, select one of the below Transaction Codes
+(BPEH, CPEH, POEH, PPEH).
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection [AINESRESEEN Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Payoff Customer Service
+
+BAdd Transaction
+
+Transaction Information
+
+Loan Balance: $36,596.00
+
+1207208
+
+x]
+
+Figure 217: Add Transaction that requires Check Information
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 97
+
+@®SMART
+4.5.1.5 Add Transactions for Default Loans
+Note: Default Loan Records includes 235-Insured, ACA-Compliance, ACA-Enforcement, GNND,
+Nehemiah, and Other.
+
+Step1: Click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers Property inspection [Rupee
+
+EM Documents Notes Mortgage Release Exceptions. §~— Servicing Foreclosure = Gankruptcy Customer Service
+
+@ Transactions
+
+a sone
+Showing 1 103 of 3 entries Previou + | Next
+
+Figure 218: View Transactions (235-Insured)
+
+Step 2: Click on the [ADD TRANSACTION] button located under the Transactions title to navigate to
+the Add Transaction window.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property inspection [IRQIEERIEEIN Documents Notes Mortage Release Exceptions — Servicing Foreclosure Bankruptcy Customer Service
+
+B Add Transaction
+
+Figure 219: Add Transaction (235-Insured)
+
+Step 3: Complete all required

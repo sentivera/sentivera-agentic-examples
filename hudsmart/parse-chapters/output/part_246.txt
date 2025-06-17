@@ -1,0 +1,627 @@
+ sThompson 2/7/2018, 1:58 PM 8950771 2/7/2018
+16 73 sThompson 2/7/2018, 1:58 PM 5950770 2/7/2018
+
+Figure 241: Batches Processed
+
+Search brings up 5 options: batches, check payments, address information, sent payee data/check data
+report, and check payments records detail. Only batches and address information are currently
+functioning. The remaining items are for future functionality.
+
+The exception list below shows processing exception information. This page provides information about
+the batches including rejection and rejection type, which is either System Error or Transaction Error.
+
+Exception Paget: P
+Runid: + Start-Date: ee End-Date:
+# ~~ Runid —Loginld ~—- Exception Type # Description Call By Start Time End Time Last Update T
+Monitor Service
+1 76 End Record 3/13/2018 2:00:00 AM 3/13/2018 2:0004AM 3/13/2018 20
+Scheduler
+. Monitor Service
+2 76 Run Time Error occurred during logging. it's been turned off. mrasbents 3/13/2018 00:00AM 3/13/2018 2.0004M 3/13/2018 0
+Monitor S
+3 76 Run Time Error occurred during logging. It's been turned off sso pie 3/13/2018 2:00:00 AM 3/13/2018 2:0002AM —-3/13/2018 2.0
+ul
+Monitor Service
+4 76 Start Record 3/13/2018 2:00:00 AM 3/13/2018 20
+Scheduler
+Monitor Service
+5 75 End Record 3/12/2018 2:00:00 AM 3/12/2018 2:00901AM 3/12/2018 20
+Scheduler
+Monitor Service
+6 75 No Transactions No Transactions Found Scheduler 3/12/2018 2:00:00 AM 3/12/2018 2:00:01 AM 3/12/2018 2:0
+Monitor Service
+7 75 Start Record 3/12/2018 2:00:00 AM. 3/12/2018 2:0
+Scheduler
+8 7 wilson End Record On Demand 3/5/2018 10:11:20 AM 3/5/2018 10:11:29AM 3/5/2018 10:1
+Not a borrower and Vendor entry not found on r_vendor table for a_loan_checking.Pay_to =
+9 "4 bwilson WARNING ? s oon - On Demand 3/5/2018 10:11:20AM 3/5/2018 10:1120AM 3/5/2018 10:1
+LAMOND GRAVES & FELICIA L. RUSSELL
+Bal 7a hawilcan Start Record On Demand WS INIA 10-11-90 AA @/S/IN1A 101 *
+
+Figure 242: SPS Batch Exceptions
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 110
+
+@®SMART
+
+9.3 FHASL
+
+Daily, a batch program is executed called the FHASL Interface that converts the financial transaction
+activity posted to cases as of the run date into accounting entries at the case/transaction level with all
+the necessary Fund, GL, and other codes. These transactions are created by completing a look-up on the
+Crosswalk Table. The Crosswalk Table is a type of Pro-Forma or Standard Entry table that defines the
+debits and credits and associated GL codes for each of the event/transaction codes. The existing
+Crosswalk Table has been revised to add reversal transaction codes for all transaction codes.
+
+=
+Es cnaicco leat ceivable - Pascua nts,
+[mm Sl a 10-1011-00 Sane: Fund Balance with Treasury - Collections
+
+Figure 243: New Crosswalk Table
+
+Each transaction either contains, or the interface executes a look-up on the corresponding Case Folder
+to get the appropriate data element keys to the Crosswalk Table. The interface completes a look-up on
+the Crosswalk using this key and adds the appropriate DR GL and CR GL Account Codes to each
+transaction. All amounts are recorded as positive numbers in the file. Once a day, these transactions
+are combined in a file that is delivered via FTP to HUD’s network each business day. The SMART FHASL
+interface is loaded into a HUD Database at HQ and a second program is executed to summarize those
+entries into Transaction Type/GL entries that are then posted in batch to the FHASL.
+
+The Servicing Contractor completes a daily reconciliation of the FHASL Interface to the DAT A&B files
+which is the SMART transaction activity to ensure all accounting events are translated into a valid GL
+Account entry.
+
+FAS yeoman =| PAL A = | ps tach Pectoes =| A Extn Lag
+FHASL List of All Batches Pogeno: A
+
+Batch Id: ' Status: ) + Run Type: 9, + Start-Date: fe @  End-Date: ae Ea
+id Batch id Download FHASL A8OH FHASL A80H EXCEL 1 EXCEL 2 Batch Start Batch End Batch Successful Batch Faile
+
+1 1 No Transactions No Transactions No Transactions No Transactions 3/12/2018 2:00:00 AM 3/12/2018 2:00:00 AM Y N
+
+Figure 244; Main FHASL Screen
+The main FHASL page shows all the batches that have been processed. Click on [EXcEL 1] and the batch
+
+desired. An Excel file will open that shows all the loans in a batch that have been sent to FHASL. The
+Excel can be saved to the desktop.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 111
+
+# Home | © FHASL System Aamin - | & FHASL Admin ~ | Q Search ~ | = Baten Functions - | £4 Exception Log | 1 Retresh
+
+Batches
+
+FHASL List of All Batches FHASL Detaited Record
+
+Batch Id: N Status: 4) + Run Type: aj) + Start-Date: m &  End-Date: ae | search |
+Id Batch Id Download FHASLASOH —- FHASL_A80H EXCEL 1 EXCEL2 Batch Start Batch End Batch Successful Batch Faile
+1 1 No Transactions No Transactions No Transactions No Transactions 3/12/2018 2:00:00 AM ——_3/12/2018 2:00:00 AM y N
+
+Figure 245: List of all Batches
+
+fe Home | © FHASL Systom Admin - | & FHASL Admin -
+
+FHASL Detailed Records PageNo: MG
+
+Batch
+| iu FHA_LOAN_TRANS SKEY OR FHA CERT TRANS SKEY: &,:- Start-Date: @ & — End-Date: “a @
+
+Figure 246: Batches Sent to FHASL
+
+The FHASL Detailed Records page shows all the detail of batches that were sent to FHASL. Note that you
+can search by Batch ID, FHA Loan Trans key or FHA Cert Trans Key, and time period.
+
+# Home | © FHASL System Admin - | & FHASL Admin ~ | Q Search ~
+
+Exception List PageNo:
+7 =] sear ee aa ent one 2- ES
+
+# — Runid —Loginld ~— Exception Type # Description call By Start Time End Time Last Update T
+. Monitor Service
+1 1 End Record Transaction Record Extraction End eon. 3/12/2018 2:00:00 AM 3/12/2018 2:00:00AM —_—_3/12/2018 2:00
+Monitor Service
+2 1 No Transactions No Transactions Found 3/12/2018 2:00:00 AM 3/12/2018 2:00:00 AM 3/12/2018 2:00:¢
+Scheduler
+Monitor Ser
+3 1 Start Record Transaction Record Extraction Start jontor Service 3/12/2018 2:00:00 AM 3/12/2018 2:00
+
+‘Scheduler
+
+Figure 247: Exceptions
+
+The Exceptions page shows any exceptions that did not get posted to FHASL due to a system error. This
+screen is only important to the user if a batch that was uploaded did not process or got stuck in the
+processing. The batch will need to be created and uploaded to FHASL.
+
+There are four batch functions: recreate the FHASL file, remove batch markings, add batch markings,
+and update batch status.
+
+#¢ Home | © FHASL System Admin - | & FHASL Admin ~ | Q Search - | =
+
+te FHASL Fie
+Exception List Remove Batch Markings trom
+‘Add Batch Markings to GL Tran
+
++ Start-Date: Update Batch Status
+
+# — Runid —Loginid ~—Exception Type # Description Call By Start Time End Time Last Update T
+Monitor Service
+1 1 End Record Transaction Record Extraction End ee 3/12/2018 2:00:00 AM 3/12/2018 20000AM —3/12/2018 2:00
+ju
+
+Monitor Service
+2 1 No Transactions No Transactions Found Scheduler 3/12/2018 2:00:00 AM —_3/12/2018 2:00:00 AM 3/12/2018 2:00:
+jul
+
+Monitor Service
+3 1 Start Record Transaction Record Extraction Start Scheduler 3/12/2018 2:00:00 AM 3/12/2018 2:00:
+
+Figure 248: Options
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 112
+
+@SMART
+
+These options will be used only in an emergency case. The user should check with the Help Desk on
+what is to be done. The dropdown shows four options:
+1. Recreate FHASL File is self-explanatory.
+2. Should the user need to resubmit a batch, the user will click remove batch markings from the
+batch that failed. This will allow the batch to be processed again.
+3. If you manually create a batch, the user will need to click add batch markings to the batch that
+was manually uploaded.
+4. Update batch status allows you to change information regarding the batch as shown in the
+screen below:
+
+#eiome | © FHASL System Admin - | & FHASL Admin - | © Searcn - | = Baten Functions - | £4 Exception Log | ¢2 Refresh
+
+Update Batch Status
+
+Batch ID * ’ Batch Run Type * Monitor Service Scheduler
+
+Start Date * 12/2018 €200:00 AM End Date *
+
+File Sent To FHASAL Status
+Batch Status * .
+
+Figure 249: Update Batch Status
+
+Note: The FHASL file contains only Secretary Held, Partial Claim, H4H, and 235-Insured Loan Programs.
+All other programs are not reported to the FHASL.
+
+There is no Unpaid Principal Balance in SMART for the other loan types that are not boarded as Secretary
+Held loans. Currently only those loans designated in the early table as “65C” loan programs are the only
+loan types boarded under Accounting Control! with a Principal Balance.
+
+The Loan Programs designated as Other are being loaded into SMART without a Principal Balance.
+SMART tracks the mortgage amount as a Recorded Lien balance and no accounting entries are made
+because these loan types have their own Program/Fund separate from 65C.
+
+The tracking process includes a manual payment process that includes the following: When a payment is
+received, the SMART Loan Notes are updated, the payment is deposited into the Servicing Contractor
+Deposit account, the funds are collected, and when collected, a wire transfer or an ACH via PAY.GOV is
+sent to the appropriate CFO HUD Program Office. Other than Notes, no Accounting Entries are made in
+SMART and no accounting events are reported to FHASL. The recipient of the funds is responsible for
+recording the accounting event in the appropriate financial systems. The loan is closed in SMART and the
+Lien is released.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 113
+
+@SMART
+
+10 Using the Customer Service Module
+
+10.1 Ticket Search
+
+Customer Service Tickets can be retrieved through various combinations of the search criteria available
+on the Ticket Search Screen.
+
+Q Ticket Search Screen
+
+FHA Case #:
+
+Loan Skey:
+
+Last 4 Digits of SSN:
+
+Ticket Skey:
+
+Step 1:
+
+Step 2:
+Step 3:
+
+Loan Program:
+
+Loan Status:
+
+Loan State:
+
++) Ticket Status Select a Ticket Status
+ocial Desposition:
+
+Designee: Select an Designee > | Ticket No:
+Note Text: Note Created By:
+
+Note Type: ‘Select a Note Type + | Ticket Loan Program:
+
+Ticket No’ “Ticket Loan Program “*FHACaseNo (=Loan No “Aging (*Reason (=Priorty | *Call Date | (= CallerName | Caller Phone | (Designee (Created By » Created Date
+
+Figure 250: Ticket Search Screen
+
+Click [CUSTOMER SERVICE] from the top Navigation menu. Select [TICKET SEARCH] from the
+dropdown.
+
+Select the search criteria from the displayed search fields in the Ticket Search Screen.
+Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+Ticket Skey SMART system identification number unique to each ticket
+Control No Ticket Control Number
+
+CRM Service Request No
+
+CRM system identification number
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Ticket Status Current high-level status of the ticket (Open or Closed)
+Created By User that created the ticket
+
+Designee User that is assigned to the ticket
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Note Type Type of note within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Caller Name Name of the Caller
+
+Disposition Where the ticket is assigned
+
+Ticket No. Identification number for that ticket
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Ticket Loan Program
+
+Loan Program associated with the Ticket
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 114
+
+
+@®SMART
+Search Field Definition
+
+Call Date Date of the customer service call
+
+Ticket Create Date Date the ticket was created
+
+Reason For Calling Reason for the customer service call
+
+Note Create Date Date that the Note in the Notes tab was created
+Keyword Keyword search.
+
+Table 13: Ticket Search Fields
+Search results will display in the search result dashboard. 20 records will display in dashboard.
+Note: There are two types of tickets: sys tickets and non_sys tickets. Sys tickets are tickets with loans
+
+that exist on the loan_table, i.e. the FHA Case Number exists in SMART. Non_sys tickets are tickets
+where the FHA Case Number does not exist in SMART.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 115
+
+@SMART
+
+10.2 Accessing Detailed Customer Service Information
+
+From the Search Result Dashboard, click on the Ticket No. to open the ticket. The user is redirected to
+the ticket’s Ticket Detail tab in the Customer Service Module.
+
++» CLoan Record - Non-FHA
+FHA Case # Tr Loon Program: Ticket Skey ri Loan Wo
+
+* © Additional Loan Information
+
+Phone (Work: Next Payment Ove Date GL Code
+Borrower Address: Phone (Home r Contractual Due Date GL Mati:
+oy sow zo: ssw Forebearance Agreement Branch Code
+
+#& Customer Service - Ticket No. 868566
+
+netetno. Teton ots Docent
+
+Ticket 968566 (A) B Ticket Information (EDIT MODE)
+
+Loan Information
+FHA Case #: ; Y Loan Progeam: { Non-FHA A) Loan #
+
+Ticket Information
+
+. Ticket Loan
+
+Ticket “so O=*=~“‘S*~*‘*‘*‘S te { fon-Fi
+Disposition: { Reterrea to NSC (Servicing) A | Ticket status: { Setecta status “)
+Reason: { Disaster | Ticket Priontty: | tow
+CRM Service
+Request No:
+
+Figure 251: Customer Service Module
+
+10.2.1 View Ticket Detail
+
+The default page within a Customer Service Ticket is the Ticket Detail page. To view the Ticket
+Information, click on the [TICKET DETAIL] tab.
+
+BPP conic MEETS rcseActon notes voces
+
+‘Tike 8888S 1A B Ticket Information (EDIT MODE)
+FHA Case # a Yom Program [Ron FHA waiver:
+Ticket Information
+Tienat eases Henettoan hon FRA
+Disposition: Reterred to NSC (Serviang A | Ticket Status: [ Select Status “
+Reason: Deaster A | Ticket Priority [ Low Couttesy C
+CRM Servi
+Request N
+Nature of issue (Ticket Description}
+
+Figure 252: View/Edit Ticket Detail
+
+10.2.2 View Call Log
+
+Inside the Customer Service Module, click on the [CALL Log] tab to view the Call Logs.
+
+Tetete. cotton
+
+Ticket 968506 (A) & Call Logs For Ticket No 868566
+
+05:24:15 PM EST
+
+Figure 253: View Call Log
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 116
+
+@®SMART
+10.2.3 View Ticket Action
+Inside the Customer Service Module, click on the [TICKET ACTION] tab to view the Ticket Actions.
+
+CallLog Ticket Detaa Notes Documents
+
+Ticket 968566 (A) 2 Ticket Action For Ticket No 868566
+
+Days in Current Action
+
+Figure 254: View Ticket Action
+
+10.2.4 View Notes
+
+Inside the Customer Service Module, all the notes associated with that Ticket Number will display in
+chronological order on the Notes tab.
+
+Ticket Ne. CallLog Ticket Dota Ticket Acton IRI oocuments
+
+Ticket 869566 (A) fN
+
+Figure 255: View Notes
+
+10.2.5 View All Notes
+
+Inside the Notes tab, click on the View All Notes button. All the notes associated with that FHA Case
+
+Number will display in chronological order. To go back to the Notes associated only with the Ticket
+Number, click on the Notes tab.
+
+10.2.6 View Documents
+
+Inside the Customer Service Module, click on the Documents tab. All the documents associated with
+that FHA Case Number will display in chronological order.
+
+Ticket No. CallLog Ticket Detail Ticket Action Notes [PU]
+
+Ticket 871625 (A) Documents
+
+moc
+
+Attachment Description
+
+0016AD30.par
+
+0015C9B4.par NCF Mortgage
+
+(001536A7.pat NCF Mortgage
+
+Figure 256: View Documents
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 117
+
+®SMART
+10.2.7. View Borrower History
+
+Inside the Customer Service Module, if a non_sys ticket has been merged with a sys ticket, the borrower
+
+name, address, and phone number form the non_sys ticket is saved into the Borrower History.
+CalLog Tete Owil Tt Acton nen Docent
+
+Ticket 102268 (1) & Borrower History Information
+
+moo
+
+Figure 257: View Borrower History
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 118
+
+@SMART
+
+11 Using Reports
+
+11.1 Customer Service Reports
+
+Step 1: Click [REPORTS] from the top Navigation menu. Select [CUSTOMER SERVICE] from the
+dropdown.
+
+@ Reports - Customer Service Dashboard
+
+© Comprehensive Report
+
+Lender Name:
+
+Report Start Date >= 121062018
+
+Report End Date <= 127062018
+jorkioad Specific Report
+
+fo nenet Sts | Brot esc | peas
+
+Tickets by Lender
+
+© HUD Speci
+© HUD Speci
+© HUD Specialist Open Ticket Status
+© HUD Specialist Tickets by Region
+© Open and Close Tickets By Agents
+© Open Tickets By Lender with Notes
+© Reason for Calling Report
+
+© Repeat Calis Report
+
+© Ticket Exception Report
+
+© Tickets by Calt Disposition
+
+© Tickets by Designee
+
+© Tickets by User
+
+Figure 258: Reports — Customer Service Dashboard
+
+Step 2: From the Reports — Customer Service Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report. Click [REPORT IN HTM] to generate a HTML report.
+
+fa Report in Excel 5 Report in PDF G Report in HTM
+
+Figure 259: Generate Report in either Excel, PDF, or HTM
+
+11.2 Director Reports
+
+Step 1: Click [REPORTS] from the top Navigation menu. Select [DIRECTOR REPoRTS] from the
+dropdown.
+
+@ Reports - Director Reports Dashboard
+
+© HUD Montnty Director Report
+
+© HUD Monthly Director Report - Collection Loan program:
+Summary
+
+Fiscal Year:
+© HUD Monthty Director Report - Loan Inventory
+Summary
+
+Figure 260: Reports — Director Reports Dashboard
+
+Step 2: From the Reports — Director Reports Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 119
+
+@SMART
+
+11.3 Servicing/Release Reports
+Step 1: Click [REPORTS] from the top Navigation menu. Select [SERVICING/RELEASE REPORTS] from the
+dropdown.
+
+@ Reports - Servicing/Release Reports Dashboard
+
+© Missing Document Report
+
+© Eligible for Albany Shipment Loan program:
+
+Figure 261: Reports — Servicing/Release Reports Dashboard
+
+Step 2: From the Reports — Servicing/Release Reports Dashboard, click on a report from the left-
+
+hand menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+11.4 Accounting Reports
+Step 1: Click [REPORTS] from the top Navigation menu. Select [ACCOUNTING REPoRTS] from the
+dropdown.
+
+@ Reports - Accounting Dashboard
+
+Figure 262: Reports — Accounting Dashboard
+
+Step 2: From the Reports — Accounting Dashboard, click on a report from the left-hand menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: Select Download Type “Download Report from server” or “Recreate Report.” See Note
+below.
+
+Step 5: Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. For Generate FHASL, a
+[REPORT IN DAT FILE] option is also available.
+
+Note: “Download Report from server” downloads the latest report that was already generated from the
+last user. For example, if a user generates a new report at 10:30am and then another user chooses to
+download the report at 11:00am, it will take the copy that was generated at 10:30am. Alternatively,
+“Recreate Report” will generate a new report from the database, overriding the last report that was
+generated. If the user wants the latest data within SMART for the report, select “Recreate Report.”
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 120
+
+@SMART
+
+12 User Information
+
+12.1 Manage Account
+To view your personal identification and contact information, click your user name from the top
+navigation men

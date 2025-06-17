@@ -1,0 +1,687 @@
+ck [LOGIN]. A pop-up will appear to initiate
+setting up Multi-Factor Authentication (MFA). What type of device are you adding?
+Click [START SETUP]. © Moniie phone recoumencen
+Landline
+Step 4: Select Mobile Phone or Landline and click
+[CONTINUE].
+
+Figure 2: MFA Phone Set-Up
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 2
+
+@®SMART
+
+Step 5: Enter your phone number, click the box to verify the phone number, and click [CONTINUE].
+
+®SMART
+
+Enter your phone number
+
+United States A
+
++41
+
+ex: (201) 234-5678
+
+[2] You entered [EEN 's this the correct number?
+
+Figure 3: MFA Phone Set Up
+
+Step6: Verify the ownership of your phone. To get a phone call verification, select [CALL ME]. To
+get a text verification, select [TEXT ME]. Both options will provide you with a 6-digit code.
+Enter in the code and click [VERIFY]. When verified, click [CONTINUE].
+
+@®SMART
+
+Verify Ownership of
+
+1. We can call or text you with a verification code.
+
+} came | °r Textsent
+
+2. Enter your 6-digit code:
+
+“_ ¥
+| sack
+
+Figure 4: MFA Phone Verification
+
+Step 7: Verify your settings on the My Settings & Devices page then click [CONTINUE TO LOGIN].
+
+@®SMART
+
+a
+
+bx. 867539
+
+(Remember me for 60 days
+
+@SMART =)
+
+Call Me
+
+Enter a Passcode
+
+(@ Remember me for 60 days
+
+Enrollment successful! This is the Duo login prompt that you'll normally
+see when logging in.
+
+Enter a passcode from a text.
+
+Dismiss Dismiss Text me new codes
+
+Figure 5: Multi-Factor Authentication
+
+Note! When you have checked the [REMEMBER ME FOR 60 DAyYs] checkbox, this bypasses the 2 factor log in for 60 days.
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 3
+
+@SMART
+
+Step 8: Select either [CALL ME] or [ENTER A PASSCODE].
+
+Step 9: Selecting [CALL ME] will prompt the system to call your phone. Follow the instructions in
+the phone call and you will be redirected to your default page.
+
+Step 10: Select [ENTER A PASSCODE] and click on [TEXT ME NEw CobEs] at the bottom. This will prompt
+the system to send a text message to your phone containing a 6-digit code. Enter in the
+code and click login. You will be redirected to your default page, logging you in.
+
+The first time you log in you will be asked to reset your password and input three Security Questions.
+
+@SMART
+
+O First Time Password Reset
+x a
+
+[ x
+
+© Setting Up Security Questions
+
+Figure 6: Setting up Security Questions Page
+
+Enter in a new password and all three questions and answers and click [UPDATE]. After clicking update,
+you will be taken to your default page.
+
+2.4 Solution Menu
+
+After you have successfully logged into SMART your default page is the My Dashboard Page.
+
+Figure 7: Default Page
+
+From the Dashboard page you can access every point in the site needed via the Top Navigation Menu.
+From left to right, the options are: My Dashboard, Loan, Servicing, Bankruptcy, Foreclosure, Mortgage
+Release, Cash Management, Customer Service, User Information, and Role.
+
+2.4.1. My Dashboard
+
+The default page you come to after you have logged into SMART is the [My DASHBOARD] page. Under the
+tab [My DASHBOARD] you have three option: My Loans, My Tickets, and Action List.
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 4
+
+@SMART
+
+2.4.2 Loan
+
+The [LOAN] tab directs the user to the Loan Module in SMART. Here you have one options: Search.
+
+2.4.3 Servicing
+
+The [SERVICING] tab directs the user to the Servicing Module. Here you have one option: Search.
+
+2.4.4 Bankruptcy
+
+The [BANKRUPTCY] tab directs the user to the Bankruptcy Module. Here you have one option: Search.
+
+2.4.5 Foreclosure
+The [FORECLOSURE] tab directs the user to the Foreclosure Module. Here you have one option: Search.
+
+2.4.6 Mortgage Release
+The [MORTGAGE RELEASE] tab directs the user to the Mortgage Release Module. Here you have two
+options: Mortgage Search and Check Search.
+
+2.4.7. Cash Management
+Under [CASH MANAGEMENT] you have four options: Trial Balance, TROR Report, Transaction Search, and
+SPS.
+
+2.4.8 Customer Service
+The [CUSTOMER SERVICE] tab directs the user to the Customer Service Module. Here you have two
+options: Ticket Search and Create New Ticket.
+
+2.4.9 User Information and Roles
+
+Select your user name to view and update your personal identification and contact information. You
+may also change your password and security questions. From the [ROLE] drop-down menu, select the
+role in which to view the SMART System.
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 5
+
+@SMART
+
+2.5 Changing Password
+
+To comply with security policies requiring periodic modification to all access passwords, SMART includes
+the Change Password functionality on the My Account page. Follow the steps below to change your
+
+current password.
+
+Step 2: Scroll down the User Information (Edit Mode) page to the Manage Password header.
+
+Step1: From the top Navigation Menu, click your User Name.
+
+Manage Password:
+
+Figure 8: Manage Password
+
+Step 3: Input your current password. Password must contain at least:
+
+Step 4: Input your new password.
+Twelve alphanumeric characters
+
+One special character
+One uppercase letter
+
+One lowercase letter
+
+One number
+
+Step 6: Click [SAVE] at the bottom of the page. 1
+
+Step5: Re-enter your new password to confirm accuracy.
+
+446686
+
+The user is required to change their password every 30 days. The system maintains a password history,
+so that 24 passwords cannot be reused.
+
+If the user logs into SMART after their password is expired between 30 days and 90 days from their last
+password change, they will be redirected to change their password. If the user has not logged on for 90
+days, their account will be disabled. In order to reactivate their account, they will need to contact the
+Help Desk. For information on how to contact the Help Desk, see Section 14: Getting Help.
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 6
+
+S
+
+C
+
+SMART
+
+2.5.1 Forgot Password (Recover Password)
+To retrieve a lost password, go to the SMART Login Page and click [FORGOT PASSWORD].
+
+@SMART
+
+Username
+
+Password
+
+_ Unauthorized Access Warning Password Reset
+
+This warning banner provides privacy and security notices consistent with
+applicable federal laws, directives, and other federal guidance for accessing this
+Government system, which includes all devices/storage media attached to this
+system. This system is provided for Government-authorized use only.
+Unauthorized or improper use of this system is prohibited and may result in
+disciplinary action and/or civil and criminal penalties. At any time, and for any
+lawful Government purpose, the government may monitor, record, and audit
+your system usage and/or intercept, search and seize any communication or
+data transiting or stored on this system. Therefore, you have no reasonable
+expectation of privacy. Any communication or data transiting or stored on this
+system may be disclosed or used for any lawful Government purpose.
+
+Forgot Password Login
+
+Figure 9: Login Page — Forgot Password Figure 10. Forgot Password Page
+
+Work Email Address
+
+The user is prompted to input a valid email address and select one security challenge question. Enter in
+the work email address and click [SUBMIT].
+
+If the user is registered to access SMART, an email is sent to their validated email address containing a
+
+temporary password to use to access their account. If the user is not registered, the user is prompted to
+complete the registration process.
+
+2.6 Exit Solution
+
+To end your SMART session, click [LOGOUT]. Be sure to [UPDATE] any work prior to exiting the system.
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 7
+
+@SMART
+
+3 Using My Dashboard
+
+3.1 Action List
+
+After you have successfully logged into SMART your default page is the My Dashboard Page. The default
+tab of My Dashboard is the Action List.
+
+The Action List displays all tickets that require HUD action. To open the Action List, click [My
+DASHBOARD] from the top Navigation menu and select [ACTION LIsT] from the dropdown.
+
+wytomne wy Tet
+& Action List
+Filter by HUD User: ee ~
+co
+Ticket No Date Assign
+
+Figure 11: Action List
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Action List
+page, click on the [BACK TO ACTION LIsT] button.
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 8
+
+@SMART
+
+3.2 My Loans
+
+To access My Loans Dashboard, click on the [My LoANs] tab.
+
+My Loans
+
+Property Address ss || = sLemderName =| «Closed Box# © | Original Prin Bal | Updated By | | Updated Date | Pinned Date | Loan Status
+
+Loan Skey FHA Case # Loan # Loan Program Borrower Name ty Closed Box # nginal Prin Bal Updated By
+Partial Claim $23,830.87 12042019 129062018
+02-43:30 PM 0241.28 Pm
+HAH $0.00 owat2o14 08/03/2018
+"i 10:25:13 AM
+es F
+
+09:08:22 AM
+
+Showing 1 to 2 of 2 ent
+
+§B Top 20 Most Recent Loans
+
+Loan Skey Loan Progra Borrower Name Property Address Lender Name Closed Box No Original Prin Bat
+Pariat Claim
+Partiat Claim
+
+Note: Each data table throughout the SMART system can generate reports in Excel, PDF or Print. The
+Excel file is downloaded to your computer. Both PDF and Print opens in a new tab. You can also use the
+search bar on any column to filter the data table results.
+
+a
+
+12/18/2019
+02.4851 PM
+
+Figure 12: My Loans Dashboard
+
+To open a Loan Record, click on the Loan Skey, FHA Case #, or Loan #.
+
+If you have never pinned a loan to the My Loans tab of My Dashboard, then you will only see the Top 20
+Most Recent Loans. If you have pinned a loan to the My Loans tab, then you will see all the loans you
+have pinned and the Top 20 Most Recent Loans.
+
+3.2.1 Pin Loan to My Loans Dashboard
+
+Step 1: Identify a loan you would like to pin to the My Loans Dashboard.
+Step 2: Once you have identified a loan you would like to pin, open that loan record.
+Step 3: — Click [PIN TO DASHBOARD] button located in the top right corner of that loan record.
+
+» OlLoan Record - Partial Claim GI
+FHA Case # Loan Skey: Loan No: Aerts resent Alerts
+
+* © Additional Loan Information
+
+ervoner ame Phone (Wor
+Conover Adiress: | hone (Home
+ny ss
+
+Figure 13: Pin to Dashboard (Loan Record 235-Insured)
+
+Step 4: Onthe Confirmation Pop-up, click [SUBMIT].
+Once you have pinned a loan it will display on the My Loans Dashboard. If the loan has multiple
+property inspection addresses, then the multiple Loan Records tied to that Loan Skey will display in the
+My Loans Dashboard.
+
+3.2.2 | Unpin Loan from My Loans Dashboard
+Step1: Identify a loan you would like to unpin to the My Loans Dashboard.
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 9
+
+@SMART
+
+Step 2: Once you have identified a loan you would like to unpin, open that loan record.
+Step 3: — Click [UNPIN FROM DASHBOARD] button located in the top right corner of that loan record.
+
++ Doan Record - Partial Claim
+
+FHA Case # as Loan Skey a Loan No: a Nets No Present Alerts
+
+Figure 14: Unpin from Dashboard (Loan Record 235-Insured)
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have unpinned a loan it will no longer display in the My Loans Dashboard. If the loan has
+
+multiple property inspection addresses, then the multiple Loan Records tied to that Loan Skey will no
+longer display in the My Loans Dashboard.
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 10
+
+@®SMART
+3.3 My Tickets
+
+To access My Tickets Dashboard, click on the [My TICKETS] tab.
+
+EB My Tickets
+
+moc
+
+‘Search
+
+FHA Case No
+
+10:43:48 AM
+
+Showing 1 10 1 of t entries
+
+EB My PIN Tickets
+
+coca
+
+PAYOFF QUESTION 11182019 172572019
+0223.11 PM 01:44:38 PM
+@essae PAYOFF QUESTION 1172222019 1112572019
+11:24:56 AM 01:44:42 PM
+@assar Low DUE & PAYABLE
+
+1122/2019 11257201
+
+12:48:18 PM 04:56:27 Pm
+853429 Low HECM (Assigned - LSC DISCRIMINATION 112872019
+12:14:26 PI
+
+Showing 1 10 4 of 4 entries
+
+Figure 15: My Tickets Dashboard
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the My Tickets
+page, click on the [BACK TO My TICKETS] button.
+
+If you have never pinned a ticket to the My Tickets tab of My Dashboard, then you will only see the Top
+20 Most Recent Tickets. If you have pinned a loan to the My Tickets tab, then you will see all the loans
+you have pinned and the Top 20 Most Recent Tickets.
+
+3.3.1 Pin Ticket to My Tickets Dashboard
+
+Step1: Identify a ticket you would like to pin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to pin, open that ticket.
+Step 3: Click [PINTO DASHBOARD] button located under the “Ticket Information (Edit Mode)” title.
+
+4&4 Customer Service - Ticket No. 853427
+Ticket
+
+exetno. oat Tet Acton Note Docent
+
+‘Ticket 853427 (A) (=) B Ticket Information (EDIT MODE)
+
+3 Pin to Dashboard
+
+FHA Case #: a Y Loan Program: [AcA-Comptance WA Loan #:
+Figure 16: Pin to Dashboard (Ticket Record)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have pinned a ticket it will display on the My Tickets Dashboard. If the ticket has multiple
+property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will display in
+the My Tickets Dashboard.
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 11
+
+@SMART
+
+3.3.2 | Unpin Tickets from My Tickets Dashboard
+Step 1: Identify a ticket you would like to unpin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to unpin, open that ticket.
+Step 3: — Click [UNPIN FROM DASHBOARD] button located under the “Ticket Information (Edit Mode)”
+
+43+ Customer Service - Ticket No. 853427
+a0 SS
+concog BRBTSRIY icseracton notes documents
+Test OUT OK-) B Ticket Information (EDIT MODE)
+n
+
+FHA Case # a VY Loan Program: ACA Compliance A | Loans:
+
+Figure 17: Unpin from Dashboard (Ticket Record)
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have unpinned a ticket it will no longer display in the My Tickets Dashboard. If the ticket has
+
+multiple property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will no
+longer display in the My Tickets Dashboard.
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 12
+
+@SMART
+
+4 Using the Loan Module & Mail
+
+4.1 Search
+
+Loans can be retrieved through various combinations of the search criteria available on the Loan Search
+Screen.
+
+Q Loan Search Screen
+Search Database SMART PRODUCTION DATABASE
++ Borrower Name: Loan Create Date >=
+
+FHA Case ®: Loan Program:
+
+Loan Skey: Label Printed: * | Property Address:
+
+Loan #: Loan Status: + | Property City
+
+Last 4 Digits of SSN: Loan State: + | Property State: Select a State + EHLP Project #:
+
+Closed Box #: Payment Pian 7 | Property Zip Code: Keyword:
+
++ | Note Create Date >=
+
+Note Text Note Type: + | Note Created By:
+
+Lender Admin
+
+. 7 ~ | Payee / Holder of a ea
+Contact Claim Servicer: Freel Select a Payee / Holder of Record
+
+[Loan Skey) “FHA Case No ) (= Loan Program | | * Borrower Name | |* Property Address | (= Lender Name ) (Closed Bax No) |= Original Prin Bal) | = Updated By | (* Updated Date | |* Loan Status
+
+Figure 18: Loan Search Screen
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+Close Box # Physical location of stored files
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Current Servicer Servicer/Lender associated with the FHA Case
+
+Exception Type Type of Exception filed in the Exceptions tab
+
+Result Headers Search criteria columns to be displayed in the Search Results table
+Loan Program Type of program associated with the loan
+
+Label Printed Indicator of whether or not a hard copy file has been generated for the loan
+Loan Status Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property City City wherein the loan property is located
+
+Property State State wherein the loan property is located
+
+Property Zip Code Zip Code wherein the loan property is located
+
+Note Created By SMART User who created Notes in the Notes tab
+
+Claim Servicer Servicer/Lender associated with a Claim
+
+Loan Create Date Date that a loan was entered into the SMART system
+
+Loan Close Date Date that a loan was closed
+
+File Rec’d Date The File Received Date of a loan
+
+EHLP Project # EHLP Project Number
+
+Keyword Searches any word within the Search Results data table
+
+Note Create Date Date that the Note in the Notes tab was created
+
+Payee/Holder of Record Servicer/Lender assigned as a Holder of Record
+
+Table 1: Loan Search Fields
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 13
+
+@SMART
+
+4.1.1 Loan Search — Production Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Production Database.”
+
+Search Database: SMART PRODUCTION DATABASE
+
+FHA Case #: Po
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 19: Search Database — Production Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+
+Step 4: — Click [START SEARCH].
+
+Figure 20: Start Search Button
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.2 Loan Search — Legacy Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Legacy Database.”
+
+Search Database: SMART LEGACY DATABASE
+
+FHA Case #: |
+
+SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+SMART DAT C DATABASE
+
+Loan Skey:
+
+Loan #:
+
+Figure 21: Search Database — Legacy Database
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 14
+
+@SMART
+
+4.1.3. Loan Search — DAT C Database
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the “DAT
+C Database.”
+
+Search Database: SMART DAT C DATABASE
+FHA Case #: |
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+Loan #:
+
+SMART DAT C DATABASE
+
+Figure 22: Search Database — DAT C Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.4 Search Results
+
+On the Loan Search page, as well as the Servicing, Bankruptcy, Foreclosure, Mortgage Release, Checks,
+Transaction, and Customer Service Search pages, the search results will display in the table below the
+search screen.
+
+&@ Search Results
+
+owt a
+
+i
+a
+
+$22.00 120772018
+04:07:44 PM
+
+$56,435.61 1207/2018
+04 14:59PM
+
+$4,890.00 120772018
+01:38:32 PM
+
+$48,262.65 1210572018
+02.0046 AM
+
+$7,900.67 121052018
+02.00.46 AM
+
+$8,410.46 8
+
+12105/201
+02:00:45 AM
+
+Figure 23: Search Results
+
+4.1.4.1 Actions
+
+From the Search Results page, you can generate three different reports. The table below describes the
+capabilities of the buttons located on the top left of the Search Results table. These options are also
+available on all other Search Results pages within SMART.
+
+Export to Excel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+
+Table 2: Data Table Buttons
+
+SMART USER MANUAL | HUD.CC | VERSION 1.43.0 | JUNE 2, 2020 | 15
+
+@SMART
+
+4.1.4.2. Result Headers, Sea

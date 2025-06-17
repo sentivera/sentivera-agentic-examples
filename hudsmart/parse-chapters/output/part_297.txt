@@ -1,0 +1,758 @@
+018 12042018 12042018 [Adve |
+
+10:47:45 AM EST 10:47:50 AM EST
+
+Payoll Amount Received ore2019 1204/2018 [Adve
+10:47:45 AM EST
+
+Payofl Amount Forwarded to Lock-Box oz22019 12/04/2018 [Active
+10:47:45 AM EST
+
+Figure 59: View Servicing
+
+4,3.2.11 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page.
+
+© Foreclosure
+B Forectosure (A)
+
+Request to HUD to assign commssioner 12082018 r2m62018 [Ace]
+
+Comenissianet assigned by HUD 1211/2018 120062018 ax
+
+Loan reterred to Commissioned D0 1232018 12082018 a
+
+Recd Acknowtedgement of reterrai 1215/2018 12062018 [ Acwe |
+
+Tie Searcn Recened 12282018 12062018, [Acme]
+
+Notce of Sale mated to Dorrowers/wennolders over2019 1200672018 [ Acwe |
+
+Publication of Sate oana019 12062018 [Acme]
+
+Order Occupancy Inspection eain2o19 12062018 am
+
+Inspecton Resuts Recewad 02212019 12062018 [Acie
+
+Request Custociat Care 02232019 129082018 ax
+
+Forecioture Sale helt oansi2019 12062018 =m
+
+Figure 60: Foreclosure Tab
+
+4.3.2.12 View Bankruptcy
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page.
+
+@ Bankruptcy
+‘BChaptor 7 (A)
+uptey Steps 2
+
+Bankruptcy Filed 12/06/2018 1206/2018 12/06/2018, [ Acwe
+
+Barsruptcy nobhicaton 1s received 12082018 129002018 ===
+
+Proot of ciaim fied y2nw2018 12/06/2018 [ Ace
+
+Review of Pian-Statemert of intention 010872019 120602088 as
+
+Proof ot Cigim Recorded 01/05/2019 121062018 [Acie
+
+Contrmation of Plan'Statement o intention 2j04/2019 1062088 =
+
+Figure 61: Bankruptcy Tab
+
+4,3.2.13 View Disbursements
+To access Disbursements, click on the [DISBURSEMENTS] tab within the Loan Record page.
+
+eS ee ee ee Ee ee eee, ee EE
+
+$ Disbursements
+
+979460 PMM Dsturserent rama2018 3600
+
+Figure 62: View Disbursements
+
+SMART USER MANUAL | LSC.DOCMGMT | VERSION 1.43.0 | JUNE 2, 2020 | 27
+
+@SMART
+
+4.3.2.14 View Payoff
+
+To access Payoff, click on the [PAYOFF] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing
+
+'S Payoff
+
+Total Payot Amount
+
+Figure 63: View Payoff
+
+4,3.2.15 View Transactions
+To view Transactions, click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing
+
+@ Transactions
+
+omc
+
+Figure 64: View Transactions
+
+4.3.2.16 View Customer Service
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+
+the Loan Record page.
+
+Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payot! ~— Transactions. is
+
+Loan Summary Loan Detail == Loan Filing
+
+4&3 Customer Service
+i Date Calter Name Calter
+
+Poses [or [om
+= = : Sp pea Es <n = = 5
+
+‘Showing 1 t0 1 of 1 entries
+
+Phone Designee Created 8 Create Date
+
+Figure 65: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+SMART USER MANUAL | LSC.DOCMGMT | VERSION 1.43.0 | JUNE 2, 2020 | 28
+
+4.3.3
+4.3.3.1
+
+Loan Detait
+
+Loan Filing
+Disbursements Mth Statements.
+
+BLoan Summary
+
+View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record.
+
+Loan Recording Borrowers. Property Inspection Documents Notes. Mortgage Release Exceptions
+Customer Service
+
+Servicing
+
+Foreclosure Bankruptcy
+
+Reinstatement Payot Transactions
+
+@®SMART
+
+Access Details of Secretary Held Loan Records
+
+Subsidy
+
+Loan History
+
+Onginal Principal Amount: $32,500.00 Number of Payments Delinquent: Monthly P&I Amount: $32,500.00 Effective Date:
+Unpaid Principal Balance: ay Type Code: Monthly Tax EScrOM 59 09 Date Last Certieg
+Tax Escrow Balance: Pay Application Code: (aoamnay Fervetcam $0.00 Date Next Certified:
+Farretzm Balance Payment status: Monthy Sewvice Fet 5509 Duration fm months}
+Insurance Damage Batance: Principal Paid YTD: ($500.00) ——! paeroat am 0.00 Formula 2 Factor:
+Service Fee Balance: Interest Paid YTD: Adjusted Income:
+Interest Tax Balance: Late Charge Paid YTD: Totes: ‘$32,500.00 Formula 1 Pay:
+Sunpense Eacrow atance: RealEstate Tax Paid YTD: Forma 2 Py:
+Late Charge Balance: Times Late YTD
+Forbearance - Sar
+Curent Loan Balance Tames Late Tota: be
+Credit Line Balance: Claim Pay Date: Forbearance - Duration:
+Forbearance
+Payoff Date: Scheduled Amount:
+
+Figure 66: View Loan Summary
+
+4.3.3.2. View Loan Detail
+
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record.
+
+too Somme ESTEE) on a
+
+Disbursements Mth Statements Customer Service
+
+Loan Recording Borrowers Property Inspection Documents Notes © Mortgage Release Exceptions Servicing Foreclosure Bankruptcy “Reinstatement = Payoff. ~— Transactions. Loan History
+
+# Loan Detail
+
+FHA # tt Mtg: Current Net Prin Limat: Mig ins Cert Date: owo22011 Hold Code 3:
+Loan Class Code: PM - Purchased Money ARM Change Date: Vacancy Date:
+Contract Type Code: F Orig Loan Date: owo220n ADP Code: 0703
+Last CO Response: Maturity Date: 04012012
+Due Date Deting NC:
+
+Figure 67: View Loan Detail
+
+4.3.3.3, View Loan Filing
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Recording
+
+Disbursements Mth Statements Customer Service
+
+Loan Filing Borrowers Property inspection © Documents Notes Mortgage Release Exceptions ~— Servicing Foreclosure = Bankruptcy Reinstatement Payoff Transactions. Loan History
+
+i Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Name: ara Fie Sates Contract: Cloning Date:
+Prior Servicer Phone: Labet Prine: HUD Setement: Expiration Date
+Project Name: tig Doe Exists: Note Doc Exists: File Entered Date:
+Project No: Deed Restriction: Home Owner File Received Date:
+Project 10 gr,gat orm or type hotce Recenved
+Voucher Number: Box Number: Lender Nome:
+
+VRS Number:
+
+Figure 68: View Loan Filing
+
+SMART USER MANUAL | LSC.DOCMGMT | VERSION 1.43.0 | JUNE 2, 2020 | 29
+
+4.3.3.4
+
+View Loan Recording
+
+@®SMART
+
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers: Property Inspection Documents, Notes. Mortgage Release Exceptions ‘Servicing ‘Foreclosure: ‘Bankruptcy Reinstatement Payot Transactions Loan History:
+4 Loan Recording
+Loan Recording Information
+Page No: Origination Date: Prepared By:
+Figure 69: View Loan Recording
+4.3.3.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record.
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers: Property Inspecton Documents: Notes: Mortgage Release ‘Excepbons Servicing Forectosure: Bankruptcy Remstatement Payott ‘Transactions Loan History
+
+2 Borrowers Information
+
+Borrower Information
+
+Co-Borrower Information
+
+First Name: SSN: mz First Name: SSN:
+Birth Birth
+
+Last Name: hy Last Name: aoe
+
+Home Work
+
+Phone: Phone: —
+
+Marital
+
+Status:
+
+Mailing Address
+
+Access 1: Moil To Nome:
+City so: Address 2:
+Zip Cove: “ounty: Address 3:
+
+Last Name:
+Address 1
+
+Address 2:
+
+City state:
+Zip: Home Pn
+Wort Phon
+
+Figure 70: View Borrowers
+
+4.3.3.6 View Property Inspection
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+
+Disbursements Mth Statements Customer Service
+
+Reinstatement Payoff Transactions —_Loan History
+
+% Property Inspection
+
+| Bes | oo
+
+‘Showing 1 to 1 of 1 entries
+
+Figure 71: View Property Inspection
+
+SMART USER MANUAL | LSC.DOCMGMT | VERSION 1.43.0 | JUNE 2, 2020 | 30
+
+@SMART
+
+4.3.3.7 View/Add/Edit Documents
+Step1: Click on the [DOCUMENTS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Notes Mortgage Release Exceptions Servicing Foreclosure | Gankruptcy Reinstatement Payoff ‘Transactions Loan History
+Disbursements Mth Statements Customer Service
+
+ocument Name a cn c cI
+
+Find out Orphans User.tet test o2212018 @& Edit Document
+02:29:18 PM EST
+
+288156.pat Legal 06/03/2013 & Edit Document
+02.41.25 PM EST
+
+Figure 72: View Documents
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection | [TEEannS Notes Mortgage Release Exceptions Servicing —_—Foreclosure Bankruptcy Reinstatement Payoff Transactions Loan History
+
+Disbursements Mth Statements Customer Service
+
+& Document (ADD MODE).
+
+Status:
+
+Figure 73: Add Document
+
+Step 2: To adda document, click on [ADD DOCUMENT] located under the Documents title to
+navigate to Document (Add Mode). To edit a document, click on [EDIT DOCUMENT] located
+in the Actions column of the Documents dashboard to navigate to Document (Edit Mode).
+
+Step 3: Drag and drop a document or click on the Document Upload button to upload a file (if you
+are using Internet Explorer, you can only click to upload). Note: Only PDF, ZIP, DOC, DOX,
+XLS, XLSX, PPT, PPTX, and TXT files are accepted.
+
+Step 4: Complete all required fields and click [SAVE].
+
+Step5: On the Confirmation Pop-up, click [SUBMIT].
+
+4.3.3.8 View/Add Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab.
+
+2212018
+02:32:30 PMEST
+
+02.07.15 PMEST
+
+02212018
+02.07:15 PMEST
+
+Figure 74: View Notes
+
+Step 1: Click on the [NOTES] tab within the Loan Record page.
+
+Step 2: Click on the [ADD NoTE] button located under the Notes title to navigate to the Add Note
+window.
+
+Step 3: Complete all required fields and click [SAVE].
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.DOCMGMT | VERSION 1.43.0 | JUNE 2, 2020 | 31
+
+@®SMART
+
+4.3.3.9 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+
+page.
+
+® Mortgage Release
+
+“Ful Reteane (A)
+
+Bcnecas
+
+A Meatgage Release Manan sew
+
+Rianne Request Recerves initated onn72019 oan7a010 =z
+Len release package pate oara010 oworaer9 ===
+Len Release package sent for recentng oaao2018 oao7n010 ==
+Recorded Rewase recerved 4am County ouancort oao7ne10 ==
+
+Figure 75: Mortgage Release Tab
+
+4.3.3.10 View Exceptions
+
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Documents Notes. Mortgage Release Servicing Foreclosure Gankruptcy Reinstatement Payoff ‘Transactions -—_Loan History
+Disbursements Mth Statements Customer Service
+A Exceptions
+| Boas | =
+Exception Date beseriphon Created Create Date Change Date
+
+07/30/2004 Congressional a
+
+07/30/2004
+12:17:44 PM EST
+
+Figure 76: View Exceptions
+
+4.3.3.11 View Servicing
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page.
+
+@ Servicing
+Bi Payot Request (A)
+Payot Request Recened 12042018 120042018, 12/04/2018 [awe |
+1047/45 AM EST
+Payot Letter Issued 12/05/2018 12/04/2018 1204/2018 12/04/2018 [ Actwe
+10:47:45 AM EST 10:47:50 AM EST
+Payofl Amount Recewed 0118/2019 12/04/2011 { Actve—
+10:47:45 AM EST
+Payot Amount Forwarded to Lock-Bo* ovz22010 12/04/2018 acto
+104745 AM EST
+
+Figure 77: View Servicing
+
+4,3.3.12 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page.
+
+@ Foreclosure
+
+ES ooo
+
+_B Forectosure (A)
+
+Status
+
+Request to HUD to assign commissioner 12082018 12082018 =
+Commissioner assigned by HUD 12/112018 12062018 [Ace |
+
+Loan referred to CommissioneDOJ 12102018 12062018 [ Acive |
+Rec'd Acknowledgement of referral 12/15/2018 1206/2018 [Ace
+
+‘Toa Searcn Recewved r2ea2018 12082018 =
+
+Notice of Sale maded to Dorrowers/kenholders 0127/2019 120672018 [Aco |
+Pupicanon of Sate 02112010 12082018 =
+
+Order Occupancy inspection oan2ne 12062018 [Acie |
+Inspecton Resuts Recened onawa019 12082018 =m
+
+Figure 78: Foreclosure Tab
+
+SMART USER MANUAL | LSC.DOCMGMT | VERSION 1.43.0 | JUNE 2, 2020 | 32
+
+4,3.3.13 View Bankruptcy
+
+@®SMART
+
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page.
+
+@ Bankruptcy
+
+Bi Chapter 7 (A)
+
+Bankruptcy Steps
+
+Search
+
+Bankruptey Fite
+Bankruptcy notitcanon is recewed
+Prool of cam fied
+
+Review of Plan/Statement of intention
+
+4.3.3.14 View Reinstatement
+
+B View Note
+Created By
+raosa0t8 12082088 r2082018
+12082018 12082018
+r2i2018 rapei2018
+ovosa019 120672018
+
+Figure 79: Bankruptcy Tab
+
+Changed By
+
+To access Reinstatement, click on the [REINSTATEMENT] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing = Loan Recording Borrowers,
+
+Property inspection Documents
+
+i ea
+Disbursements Mth Statements Customer Service
+O Reinstatement
+
+Search
+
+moc
+
+Mortgage Type Desc
+
+Total Principal Balance
+
+Interest Pasd Amount
+
+Mortgage Principal 13.5000% ovo12010
+Tax Escrow
+insufficient Funds Fee
+Late Charges
+
+Service Charge 01312010
+Tax Advances
+Other Advances
+
+Suspense
+
+‘Showing 1 to 8 of 8 entries
+
+($1,047 68) $52,007.15
+
+($11,977.20) ($2,846.97)
+(871.32) (82623) (82,410.18)
+($19.59) ($41.15)
+(81,119.00) $59,961.33 (814,429.19) (82,846.97)
+
+Figure 80: View Reinstatement
+
+4,3.3.15 View Payoff
+
+To access Payoff, click on the [PAYOFF] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection
+Disbursements Mth Statements Customer Service
+© Payoff
+
+moc
+
+Documents Notes Mortgage Release Exceptions
+
+asor | canaae18
+
+Servicing _Forectosure
+
+Bankruptcy Reinstatement
+
+Cet Transactions —_Loan History
+
+Seach
+
+sou nn
+eT ——— Pre — “am a a ==
+
+‘Showing 1 to 8 of 8 entries
+
+Figure 81: View Payoff
+
+SMART USER MANUAL | LSC.DOCMGMT | VERSION 1.43.0 | JUNE 2, 2020 | 33
+
+@®SMART
+
+4.3.3.16 View Transactions
+To access Transactions, click on the [TRANSACTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Oocuments Notes Mortyaye Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payott Loan History
+
+Disbursements Mth Statements Customer Service
+
+@ Transactions
+
+moo ve
+oworzo10 ovov2010 sHCE 99 Insutcient Funds Fee Conversion Postea
+017012010 0v01/2010 ‘SHCB ” Late Charges Conversion Posted
+oworz010 ovovz010 suce %9 Mortgage Principal Conversion $52,007.15 sioges.16 62,991.31 Postes
+ovor2010 ovovaor0 sHce * Omer Aavances Conversion Postea
+oworz010 ovova010 suce * Service Charge Conversion (s1959) ($19.59) Postes
+owvo12010 ovovz010 sHcE ro Suspense Conversion Postea
+010172010 0v01/2010 ‘SHCB ” ‘Tax Advances: Conversion Posted
+ovorz2010 ovovz010 snce 29 Tax Escrow Conversion (82623) $2623) Postes
+0111/2010 01/11/2010 ‘BRP 002 106 Prnopal Payment ($304.61) ($304.61) Postes
+owrwz010 avn2010 eRe 02 108 Tax Escrow Payment (870.38) $70.29) Postes
+
+Showing 1 to 10 of 104 enties Previous + | 2345 11 Next
+
+Figure 82: View Transactions
+
+4.3.3.17 View Loan History
+To access Loan History, click on the [LOAN HistToRY] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Oocuments Notes. Mortgage Release Exceptions Servicing Foreclosure Gankruptcy Reinstatement Payoff Transactions
+
+Disbursements Mth Statements Customer Service
+
+'D Loan History
+onzaror7 ‘SWOFF 1900 ‘Sec Held Wrte-Oft $71.00 $71.00
+oan12017 SWOFF 1900 Sec-Held Wite-Of (81,190.00) 1,190.09
+Agusenert
+ro.02016 sworr 1900 Sec Held Wite-Oft $1,119.00 $1,119.00
+squstment
+onisaos3 sworF 1900 Adjustment - Accrual (81,137.76) ($568 #8) $568.98
+0115/2013 ‘SWOFF 1900 Adjustment - Principal $568.88 $568.08
+ontaz013 eTOSH 170 Escrow Tax $560.88 $568.88
+DOtsbursement
+owr720%2 oF 755 557 Adjustment (840,508.00) ($407053) 19053
+ouzrr012 BRP ova Payment ($709.00 ($709.00)
+ornia0r BRP oz Payment ($710.00) ($710.00)
+os2u2012 ERP on2 Payment (710009 (s638.68) $71.32
+
+a a
+
+‘Showing 1 to 10 of 61 entries
+
+203 4 5 6 7 Next
+
+Figure 83: View Loan History
+
+4.3.3.18 View Disbursements
+To access Disbursements, click on the [DISBURSEMENTS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording “Borrowers. Property Inspection Documents Notes. © Mortgage Release Exceptions ~— Servicing Foreclosure Bankruptcy “Reinstatement Payoff =—Transactions Loan History
+
+Mth Statements Customer Service
+
+$ Disbursements
+| ores J avr J on | _
+
+Check # Check Date Chock Amt Check Voided Dato Check Cleare c an Printed Date
+
+S752172 ‘See Held Escrow 03/20/2013 $278.92 yes 0372172013 ont
+Disbursement - Check
+
+Figure 84: View Disbursements
+
+SMART USER MANUAL | LSC.DOCMGMT | VERSION 1.43.0 | JUNE 2, 2020 | 34
+
+@SMART
+
+4,3.3.19 View Monthly Statements
+To access Monthly, click on the [MTH STATEMENTS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes © Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy Reinstatement Payoff Transactions Loan History
+
+Disbursements ER REREEE customer service
+
+© Monthly Statements
+
+Reporting Period Accrual Date r er sero s vice Charge ax Advances cn Changed By
+
+dy 2012 orva012 $39,502.51 ($996 62) $40,439.95 8202012 0103
+
+0635.2 PMEST 023551
+June 2012 $39,590.65, ($996.62 s41.s49.85 onsra012 oa
+
+101513 AM EST 023551
+May 2012 59962229 ($925.30 4.70859 21 ove
+
+12.1851 PM EST 02.3551
+ont 2012 s39.032.99 (3925.20 4170859 osrrsvz0r2 ow
+022024 PM EST 023551
+March 2012 oxiz012 $99,440.36 ($925.20 s41.70853 osissv2012 oa
+02:18:45 PMEST 023551
+February 2012 $38,583.22 ($925.30 542.497 53 osissr20r2 ono
+021410 PMEST 023551
+January 2012 ovoazore $97,963.80 ($925.30 $42,497.53 ousrraor2 103
+122739 PMEST 023551
+December 2011 srr (5053.98 s42a0121 1262011 0103
+095220 AM EST 02.3551
+‘November 2011 937,451.39 (3782.66) $43,104.89 1116/2011 013
+01:58:38 PM EST 023551
+October 2011 oaazon $36,991.00 (5782.66 $43,104.09 torr72011 own
+0227.07 PMEST 023551
+
+Showing 1 10 of 32 entries reviows 2 2 4 en
+
+Figure 85: View Monthly Statements
+
+4.3.3.20 View Customer Service
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail, Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. ©» Mortgage Release Exceptions = Servicing Foreclosure Bankruptcy Reinstatement Payoff!’ §=—Transactions. Loan History
+
+Disbursements Mth Statements (RUN Eumoued
+
+a& Customer Service
+
+Ticket Loan Program FHA Case No oan No Reason Caller Name Created By Create Date
+
+No data avatabie in table
+
+‘Showing 0 to 0 of O entries Previous | Next
+
+Figure 86: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+SMART USER MANUAL | LSC.DOCMGMT | VERSION 1.43.0 | JUNE 2, 2020 | 35
+
+4.3.4
+4.3.4.1 View Loan Detail
+
+@®SMART
+
+Access Details of H4H Loan Records
+
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record.
+
+Customer Service:
+# Loan Detail
+
+Loan Information
+
+Loan Filing Loan Recording «Borrowers Property Inspection Documents Loan Bal Trans Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Property Taxes Mth Statements Set Aside-Esc
+
+Loan Status 1: ACTIVE - Loan Active Fund Code:
+
+, HOPE Mortgage (fst
+ADP Code: 217 ie
+
+Loan Dates
+
+Closing Date: o7a72011 Orig Loan Date:
+Endorse Date: o9a02011 ‘At Contractor On:
+Payott Date: ‘Maturity Date:
+
+ADP Code: 87 Title Search Recerved:
+
+167331,0000 ‘Shared Equity Note: 9.0000
+
+Orig Appraised Vaiue: ‘$170,000.00
+
+‘SEM Mig Note / Signed Date: orzo
+SAM Mig Note | Signed Date:
+
+Title Search Ordered:
+
+‘Shared Apprecisbon: Uptront Appreciation:
+Sub Lien Address: City:
+Zip: Tax ID:
+
+‘Maximum Allowed to Sub Lien Holder 1:
+
+Appreciation - Sub Holder Lien 1
+
+Total Claims of Prior Sub Lien Holders 1
+
+‘Sub Lien Holder:
+
+State:
+
+Certinicate:
+
+Figure 87: View Loan Detail
+
+4.3.4.2 View Loan Filing
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record.
+
+Loan Detat [RSUIIIE Loan Recording Borrowers Property Inspection Documents. Loan Bal Trans Notes. © Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Property Taxes. Mth Statements Set Aside. Esc
+
+Customer Service
+
+i Loan Filing Information
+
+Loan Filing information
+
+1st 

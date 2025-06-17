@@ -1,0 +1,783 @@
+oan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 32
+
+
+@®SMART
+Search Field Definition
+
+Call Date Date of the customer service call
+
+Ticket Create Date Date the ticket was created
+
+Reason For Calling Reason for the customer service call
+
+Note Create Date Date that the Note in the Notes tab was created
+Keyword Keyword search.
+
+Table 4: Ticket Search Fields
+Search results will display in the search result dashboard. 20 records will display in dashboard.
+Note: There are two types of tickets: sys tickets and non_sys tickets. Sys tickets are tickets with loans
+
+that exist on the loan_table, i.e. the FHA Case Number exists in SMART. Non_sys tickets are tickets
+where the FHA Case Number does not exist in SMART.
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 33
+
+@SMART
+
+5.2 Accessing Detailed Customer Service Information
+
+From the Search Result Dashboard, click on the Ticket No. to open the ticket. The user is redirected to
+the ticket’s Ticket Detail tab in the Customer Service Module.
+
+» CGlLoan Record - Non-FHA
+
+FHA Case #: FY Loan Program: | Ticket Skey: ; Loan No:
+
+#& Customer Service - Ticket No. 868566
+
+Create New Ticket
+canton Tet |e | | Do
+Ticket £88586 (A) B Ticket Information (EDIT MODE)
+
+Loan Information
+
+FHA Case ® a FJ) v0en program: — [nomena ¥* | Loans:
+
+Ticket Information
+
+. Ticket Loan taneHA
+Ticket # 989566 Ficnettosn [Non FHA | FC sate Date
+Disposition: Referred to NSC (Servicing | Tenet status OPEN V| cssionce: “
+Current
+Reason Disaster | Ticket Prionty Low | Completed [Courtesy Contact
+Kebon
+RM Service
+
+CRM Servic
+Request No:
+
+. Figure 69: Customer Service Module
+
+5.2.1 View/Edit Ticket Detail
+The default page within a Customer Service Ticket is the Ticket Detail page. Here the user can view and
+edit Ticket Information.
+
+Step1: Inside the Customer Service Module, click on the [TICKET DETAIL] tab.
+
+canton TelatAton Nolet oocmens
+
+Ticket 868566 (A) B Ticket Information (EDIT MODE)
+
+Loan Information
+
+FHA Case #1 a Y Loan Program: | Non-FHA | Loans
+
+Ticket # 268560 Tietet Loan [ Nom-FHA | FC Sale Date
+
+Disposition: Retered to NSC (Servicing | Tickot status: [OPEN | ocsionce: ~
+Current
+
+Reson Dieser A) Mena ont; — [tow | Suen, [Gouneay Goniae
+coon
+
+CRM Service
+Request No:
+
+Nature of issue (Ticket Description)
+
+BIrUS*%x*/¢ T a@ Qt ms
+=e zo R Re ewe
+syies + | Format =~ | Font + | Sze A Bien PlIAMSOnes
+
+Figure 70: View/Edit Ticket Detail
+Step 2: Complete all required fields. Note; The Loan Information box, Ticket # field, and
+Borrower/Caller Information box are only editable for Supervisor roles.
+Step 3: Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+This saves all the updated information.
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 34
+
+@SMART
+
+5.2.2 Create New Call Log
+Step 1: Inside the Call Log tab, click on [CREATE NEW CALL Loc].
+
+Ticket Detait Ticket Action —-Notes—ocuments
+Ticket 868566 (A) 2 Call Logs For Ticket No 868566
+co
+First Name Last Mame
+
+Figure 71: View Call Log
+
+Step 2: Complete all required fields.
+
+Ticket No PETE) vere oeran cnet action notes Documents
+
+Ticket 868566 (A) B Create New Call Log
+
+Call Log Information
+
+Furst Name: x | Last Name: { x |
+
+Figure 72: Create New Call Log
+
+Step 3: Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+The new call log and all information inserted in the add screen will display in the table on the Call Log
+tab. To edit the call log, select Edit Log in the Action column on the Call Log page. Complete all required
+fields and Click Save.
+
+5.2.3. View/Add Ticket Action
+
+Step1: Inside the Customer Service Module, click on the [TICKET ACTION] tab.
+
+Ticket No. CallLog Ticket Detan RR
+
+Ticket 968566 (A) 2 Ticket Action For Ticket No 868566
+
+Ticket Action Created By Create Date Days in Current Action ‘Action
+‘Authorzed Third Party 11262018 12082018 9 Click to Complete
+Courtesy Contact 11202018 11262018 3 Completed
+
+Figure 73: View Ticket Action
+
+Step 2: To add anew Ticket Action, click on [CREATE NEW ACTION].
+
+cating Tet =
+as) B Create New Ticket Action For Ticket No 868566
+
+Ticket Action Detail
+c mn:
+
+1207720)
+
+Figure 74: Create New Action
+
+Step 3: Select the Action to add from the Current Action dropdown menu.
+
+Step 4: | If the Action has not been completed, clear the Complete Date field. If the Action has
+been completed, put the date in the Complete Date field. Then click [SAvE].
+
+Step 5: From the confirmation pop-up, click [SUBMIT].
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 35
+
+®SMART
+
+5.2.4 Complete Ticket Action
+
+Step 1: Inside the Ticket Action tab, click on the [CLICK TO COMPLETE] link located in the Actions
+column for an action that has not yet been completed.
+contca ves ovat EEBERIE ves ocamens
+Ticket 968566 (A) 2 Ticket Action For Ticket No 868566
+Figure 75: View Ticket Action
+Step 2: The link redirects to the Edit Ticket Action page. Fill in the Complete Date and click [SAvE].
+Step 3: Fromthe confirmation pop-up, click [SUBMIT].
+
+5.2.5 View/Add Notes
+
+Inside the Customer Service Module, all the notes associated with that Ticket Number will display in
+chronological order on the Notes tab.
+
+Ticket No.
+Ticket 871625 (A)
+
+Ticket 865813 (1)
+
+Step 1:
+Step 2:
+Step 3:
+
+Ticket 868566 (A)
+
+Step 4:
+Step 5:
+
+CallLog Ticket Data Ticket Acton EE ocuments s
+6 Notes
+Not nce
+
+ie type
+
+Figure 76: View Notes
+
+To add a new note, click on the [NoTEs] tab within the Customer Service Module.
+Click on [ADD NoTE] to navigate to the Add Note window.
+Complete all required fields.
+
+CallLog Ticket Detail’ —_Ticket Action Documents
+
+B Add Note
+
+=
+Figure 77: Add Note
+Click [SAVE].
+
+On the Confirmation Pop-up, click [SUBMIT].
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 36
+
+@SMART
+
+5.2.6 View All Notes
+
+Inside the Notes tab, click on the View All Notes button. All the notes associated with that FHA Case
+Number will display in chronological order. To go back to the Notes associated only with the Ticket
+Number, click on the Notes tab.
+
+5.2.7. View Documents
+Inside the Customer Service Module, click on the Documents tab. All the documents associated with
+that FHA Case Number will display in chronological order.
+
+Ticket No Caltes | TetatDeull | ‘Tctet Acton | Webe
+
+Ticket 871625 (A) Documents
+
+Ticket 865813 (I)
+
+‘Search
+
+Figure 78: View Documents
+
+5.2.8 View Borrower History
+Inside the Customer Service Module, if a non_sys ticket has been merged with a sys ticket, the borrower
+name, address, and phone number form the non_sys ticket is saved into the Borrower History.
+
+Ticket No. CallLog Ticket Detail Ticket Action Notes.» Documents @ iE
+
+Ticket 102268 () 40 & Borrower History Information
+
+moc
+
+Figure 79: View Borrower History
+
+5.2.9 Close Ticket
+
+Step1: Inside the Customer Service Module, click on the [TICKET DETAIL] tab.
+Step 2: From the Ticket Status dropdown menu in the Ticket Information box, select “Closed.”
+
+canton Teton tm —_Uocuent
+
+Tice 0008s 0 B Ticket Information (EDIT MODE)
+
+| see | srmioouitna | Ticket Priority: | |
+
+Ticket Status: | OPEN wv |
+
+bean information Select a Status
+OPEN
+‘icket #: 262566 Tichet Loon Non-FHA 7 (ma ua = -
+Disposition: Ret SC (Servicing us OPEN ; “
+
+Figure 80: View/Edit Ticket Detail
+
+Step 3: Click [Save] then on the confirmation pop-up, click [SUBMIT].
+
+After the user refreshes the page, the Ticket will display “(1)” to represent Inactive in the Ticket No.
+table.
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 37
+
+@®SMART
+5.2.10 Re-Open Ticket
+
+A ticket can only be re-opened within the same day that it was closed.
+
+Step 1: From the Customer Service Ticket Search Screen, search for a Ticket with a Create Date of
+TODAY and a Close Date of TODAY.
+
+Step 2: Click on [START SEARCH].
+
+Step 3: From the Search Result Dashboard, click on the Ticket Number to open the ticket.
+
+Step 4: From the Ticket Status drop down menu in the Ticket Information box, select “Open.”
+
+icket No. Call Log xa [TIE Ticket Action Notes © Documents |
+
+Ticket Status: | CLOSED iv AN
+Ticket 873263 (A) B Ticket Information (EDIT MODE)
+Ticket 1617 @)
+ae =a Ticket Priority: |
+
+Select a Status
+
+CLOSED
+
+=
+|__| “
+
+Figure 81: View/Edit Ticket Detail
+
+Step 5: Click [SAvE].
+Step 6: Fromthe confirmation pop-up, click [SUBMIT].
+
+After the user refreshes the page, the Ticket will display “(A)” to represent Active in the Ticket No. Table.
+
+5.2.11 Editing a Closed Ticket
+
+After a ticket is closed, whether a ticket can be edited or not depends on where the ticket resides on the
+backend.
+
+If the ticket is on the non_sys table (FHA Case Number does not exist in SMART), the ticket is editable.
+The following fields are editable: FHA Case Number, Borrower/Caller Information Box, and
+Mortgage/Loss Mitigation/Housing Counseling Information Box.
+
+cotton TevatAcon soe oocaents
+
+‘Ticket 102262 (0) B Ticket Information (EDIT MODE)
+
+Loan Information
+
+Figure 82: Edit Closed Ticket (non_sys)
+
+If the ticket is on the loan_table (FHA Case Number does exist in SMART), the ticket is not editable.
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 38
+
+@®SMART
+
+TE
+
+‘Ticket 964987 (1) B Ticket Information (EDIT MODE)
+
+3 Pin to Dashboard
+
+Ticket 864898 (1)
+
+Loan Information
+
+FHA Case #: T Y | Loan Program:
+
+HECM - insured | Loans: 093-6768693
+Ticket Information
+Ticket # eneoe7 Pete Loon HECM- Insured A) Fc sate bate:
+Disposition: [Heom (Assigned - LS) WZ) Ticket status: [CLOSED | ccsionce: | ~|)
+Reason: [zPavoe - J Ticket Priority: { Low ~ ] Caretttes [No Action tem Complete
+Aewoa
+CRM Service
+Request No
+Nature of issue (Ticket Description):
+Qa
+
+Figure 83: Edit Close Ticket (sys)
+
+If the ticket exists in both the non_sys table and the loan_table, a pop-up will display asking if the user
+wants to merge the tickets.
+
+Step 1: After clicking [SAVE], a pop-up will display for the user to select a FHA Case to merge to.
+
+ALERT! FHA Case Number 241-501844 match
+‘one or more loans in SMART.
+
+‘Select a Case No to merge into,
+
+. Pastial Cision
+FHA Insured
+Al
+verge Case No
+
+Figure 84: Merge Tickets
+
+Step 2:
+
+Select a case number to merge to and click [MERGE CASE No].
+Step 3:
+
+The ticket will merge into that FHA Case Number’s Customer Service Record and save the
+information.
+
+to
+
+‘Ticket 964987 (0) B Ticket Information (EDIT MODE)
+
+3 Pin to Dashboard
+
+Ticket 864898 (1)
+
+Loan Information
+
+FHA Case #: P| Y Loan Program: HECM. insured A) Loans: 093-6786003
+Ticket #: 964087 [ichet Loon HECM - insured | FC Sale Date:
+Program
+Disposition: [ HeCm (Assigned -Ls0) A) Ticket status: [cLoseo | ccsicnce: | ~)
+Current
+Reason: [zPavoe A] Tenet Prony: — [Low W*] Ecmptetea No Acton nee Complete
+‘ewon
+CRM Service
+Request No:
+Nature of issue (Ticket Description):
+Q
+
+Figure 85: Merged Tickets
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 39
+
+@SMART
+
+5.3 Create New Ticket
+5.3.1 Create New Ticket from Header
+
+Step 1: Click [CUSTOMER SERVICE] from the top Navigation menu. Select [CREATE NEW TICKET] from
+the dropdown.
+
+B Create New Ticket
+
+Loan Lookup
+
+Fa case % ] Loe Progra
+
+Programe | Loan Prep 7) FC Sale Oat
+
+Ticket L
+Ticket Status OPE | Designee: Jeanette Righy “
+Ticket Pr
+
+CRM Servis
+cket Prioity: Low ) Request No:
+
+Brusxx ¢ | ao & Ques zs #9 Rk Fe wt te
+Styles + | Format = | Font ~ | Sve - A @ Pig@mStoeqnes
+
+Figure 86: Create New Ticket
+Step 2: Complete all required fields.
+
+Note: Tickets assigned to you and any tickets you have pinned will appear on the My Tickets page. If
+you insert an FHA Case Number that exists in SMART, then the Loan Program and Borrower Information
+will auto-populate. The following fields are defaulted.
+
+e The “Ticket Priority” field is defaulted to Low; this is editable.
+
+e The “Ticket Status” field is defaulted to Open; this is editable.
+
+e The “Designee” field is defaulted to the user’s name; this is editable.
+
+Step 3: Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+After creating a new ticket, the user will be redirected to the ticket detail tab in the customer service
+module to view the new ticket. The ticket will display an “(A)” to represent Active in the Ticket No. table
+and the ticket will display in the designee’s inbox.
+
+Note: If you are creating a new ticket for a loan record that currently has an open ticket, then a pop-up
+will display with the following verbiage: “FHA Case Number xxx-xxxxxxx has an opened ticket. Please
+
+review the open ticket (Ticket ID: xxxxxx).”
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 40
+
+@®SMART
+
+5.3.2 Create New Ticket from Tab for Specific FHA Case No.
+
+Step 1: Inside the Customer Service Module, click [CREATE NEW TICKET] to create a new customer
+service ticket for that specific loan.
+
+» ClLoan Record - FHA Insured
+
+GL Code:
+
+GL Matix:
+
+Branch Code:
+
+a& Customer Service - Ticket No. 873263
+
+cats a] el ae
+
+‘Tickot 873263 (0) B Ticket Information (EDIT MODE)
+Ticket 1647 (1) ==
+3 Pinto Dashboard
+
+FHA Case y V | Loon Program: [ FiAlnaured F) toan a
+
+Ticket # 73263 Femttoes FHA insures A | FC Sate Date
+Disposition  controted Corespondence A) Tevet status: CLOSED | Designee: | “
+) Current
+Reason {098 A | Ticket Prony Low ‘Z| Eompictea No Acton Rem Compete
+Acton
+CRM Service
+Request No
+
+Figure 87: Customer Service Module
+
+B Create New Ticket
+
+Loan Information
+FHA Case # , VY > Loan Program FHA insured | Loans: P|
+Ticket Information
+Tenet Ticket Loan Program: { FHA insured | Fc sate Date
+Disposition { setet a Diposiion Xr | Ticket status OPEN V*| vesicnce:  ( “
+Current
+Reason: { Select a Reason x ] Ticket Priority Low | Completed No Action item Complete.
+ene CY em
+CRM Service
+Request Wo
+
+Nature of issue (Ticket Description)
+BIrusSxxe ¢ i &&& Qu Fs) r= eo 2 ESO
+s -|A Biles BMiGRBZQOQ2
+
+syes + | Format =~ | Font
+
+Figure 88: Create New Ticket
+Step 2: Complete all required fields.
+
+Note: The following fields are defaulted.
+e The “Loan Program” will default to this loan record’s loan program
+e The “FHA Case #” will default to this loan record’s FHA Case Number.
+e The “Ticket Priority” field is defaulted to Low; this is editable.
+e The “Ticket Status” field is defaulted to Open; this is editable.
+e The “Designee” field is defaulted to the user’s name; this is editable.
+
+Step 3: Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 41
+
+@SMART
+
+6 Using Reports
+
+6.1 Customer Service Reports
+
+Step 1: Click [REPORTS] from the top Navigation menu. Select [CUSTOMER SERVICE] from the
+dropdown.
+
+@ Reports - Customer Service Dashboard
+
+© Comprehensive Report
+
+Lender Name:
+
+Report Start Date >= 121062018
+
+Report End Date <= 127062018
+jorkioad Specific Report
+
+fo nenet Sts | Brot esc | peas
+
+Tickets by Lender
+
+© HUD Speci
+© HUD Speci
+© HUD Specialist Open Ticket Status
+© HUD Specialist Tickets by Region
+© Open and Close Tickets By Agents
+© Open Tickets By Lender with Notes
+© Reason for Calling Report
+
+© Repeat Calis Report
+
+© Ticket Exception Report
+
+© Tickets by Calt Disposition
+
+© Tickets by Designee
+
+© Tickets by User
+
+Figure 89: Reports — Customer Service Dashboard
+
+Step 2: From the Reports — Customer Service Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: — Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report. Click [REPORT IN HTM] to generate a HTML report.
+
+fa Report in Excel 5 Report in PDF G Report in HTM
+
+Figure 90: Generate Report in either Excel, PDF, or HTM
+
+6.2 Director Reports
+
+Step 1: Click [REPORTS] from the top Navigation menu. Select [DIRECTOR REPoRTS] from the
+dropdown.
+
+@ Reports - Director Reports Dashboard
+
+© HUD Montnty Director Report
+
+© HUD Monthly Director Report - Collection Loan program:
+Summary
+
+Fiscal Year:
+© HUD Monthty Director Report - Loan Inventory
+Summary
+
+Figure 91: Reports — Director Reports Dashboard
+
+Step 2: From the Reports — Director Reports Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 42
+
+@SMART
+
+6.3 Servicing/Release Reports
+
+Step 1: Click [REPoRTS] from the top Navigation menu. Select [SERVICING/RELEASE REPORTS] from the
+dropdown.
+
+@ Reports - Servicing/Release Reports Dashboard
+
+Loan program: Select a Loan Program
+Property State:
+Report Start Date >=
+
+Report End Date <- 127062018
+
+Loan Status
+
+© Open Partial Claims With Total UPB
+
+© open Partial Claims by Service Kk 1B Repost in POF
+
+Figure 92: Reports — Servicing/Release Reports Dashboard
+
+Step 2: From the Reports — Servicing/Release Reports Dashboard, click on a report from the left-
+
+hand menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 43
+
+@SMART
+
+7 User Information
+
+7.1 Manage Account
+To view your personal identification and contact information, click your user name from the top
+navigation menu. From this page you can update your account and change your password.
+
+j2 | & Role: Isc.csteamleadhecm +
+
+Figure 93: Navigation Menu Links
+
+B User Information (EDIT MODE)
+
+Enforce Two Factor { \,.
+Authentication
+
+First Name:
+Last Name:
+
+Enable Alias: No
+
+Account Status:
+
+$| [s| [s} is} [s} [s
+
+Account Type: HUD Employee
+
+Role:
+
+Manage Password:
+
+Current Password: stvsssseeee
+New Password:
+
+Confirm Password:
+
+es
+Figure 94: Example User Information (Edit Mode)
+
+To update your account, follow these steps:
+
+Step 1: Edit your User Information as appropriate.
+Step 2: Click [SAvE] to save your changes or [CANCEL] to abandon the changes.
+
+Instructions on how to change your password are described in Section 2.5.
+
+7.2 Change Roles
+
+Many users are assigned multiple different roles. In order to jz peer
+change between the user roles, click on your [ROLE] in the
+
+top navigation menu. The dropdown menu will show all nadacegy
+
+. ud.cssupervisor
+your assigned roles. Select the role you want, and the hud.poweruser
+website will automatically update to be viewed as the role hud.servicingsupervisor
+
+selected.
+
+Figure 95: Example User Role Options
+
+USER MANUAL | HUD.CSTEAMLEADHECM | JUNE 10, 2019 | 44
+
+8 Using the Maintenance Module
+
+8.1 Ticket Round Robin
+
+To open the Ticket Round Robin, click [MAINTENANCE] from the top navigation menu and select [TICKET
+ROUND RoBIN] from the dropdown. The name column is ordered alphabetically by First Name of active
+HUD Employees, then Inactive HUD Employees, then Contractors.
+
+6 Round Robin
+
+8 Round Robin
+Losstmigeton Omer Queue Secttetd Queue ECA Assigned - HA
+cance
+= =) [mae >) [tm =
+= Ck ian Name
+
+Status Servicing Queue Loss Mitigation Other Queue
+
+Actwe wey Inactive ¥ inactive ¥ :
+oO Inactive v Inactive v Inactive v
+Actve ov Active 9 Inactive ¥ mmactve ¥
+Inactive ¥ Inactive ¥ | Inactive . tnactive # 0 Inactive v Inactive ¥
+Inactive
+P , Inactive ¥ cove Active ¥
+inactive ¥ , active ¥ Active ¥ , , 06/27/2018 11:09:25
+
+Inactwa_¥ Inactwa_¥ , Inara 9 09/26/2018 07.07.38
+
+Figure 96: Ticket Round Robin
+
+8.1.1 Change Agent Queue
+Step 1: To change Agent Queue, click on the Queue dropdown menu and select Active or Inactive.
+Step 2: Click the [SAVE] button underneath the Round Robin title.
+Step 3: Fromthe confirmation pop-up, click [SUBMIT].
+
+The changed queue for the selected agent will now be updated and display in the Ticket Round Robin.
+
+8.1.2 Change Agent Status
+Step 1: To change Agent Status, click on the Agent’s Name.
+Step 2: Onthe Maintenance Roundrobin (Edit Mode) page, in the Status field, select either Active
+or Inactive.
+
+& Maintenance Roundrobin (EDIT MODE):
+
+Cancel
+
+Maintenance Roundrobin
+
+Name: | | Emait Address: Ashton.S.Bushman@hud.gov
+
+Status: Active ww
+
+Servicing Queue: Inactive | Loss Mitigation: | Inactive “ |
+Other Queue: Inactive | Sec-Held Queu

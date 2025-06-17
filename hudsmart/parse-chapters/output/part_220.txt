@@ -1,0 +1,309 @@
+.....ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 63
+View Customer Service (SF Data REQUEST) .............ccccccececeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 64
+VIEW TraNSactiOns .........cceeeeeeeeeeceecceaeeeeeeeeeeeeeeaaaaeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaaeeeeeeeeeaaaaaneeeeeeeeeaaaaaees 66
+7 Noel Na-]a\st- (0180) 4) eee 66
+Add Transaction that requires Check Information............:ccccccccccecsssseseeeeceeeeseeaeeseeseeeeeeaaaaeees 66
+Add CTB Transaction ...........ccccc eee eee eee e eee e eee e eee e eee e eee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 67
+Add Transaction After CTB Transaction SUDMItted ............cceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 67
+VIEW TraNSactiOns .........cceeeeeeeeeeceecceaeeeeeeeeeeeeeeaaaaeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaaeeeeeeeeeaaaaaneeeeeeeeeaaaaaees 68
+7 Noel Na-]a\st- (0180) 4) eee 68
+
+SMART USER MANUAL | LSC.CASHMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | vi
+
+Figure 157:
+Figure 158:
+Figure 159:
+Figure 160:
+Figure 161:
+Figure 162:
+Figure 163:
+Figure 164:
+Figure 165:
+Figure 166:
+Figure 167:
+Figure 168:
+Figure 169:
+Figure 170:
+Figure 171:
+Figure 172:
+Figure 173:
+Figure 174:
+Figure 175:
+Figure 176:
+Figure 177:
+Figure 178:
+Figure 179:
+Figure 180:
+Figure 181:
+Figure 182:
+Figure 183:
+Figure 184:
+Figure 185:
+Figure 186:
+Figure 187:
+Figure 188:
+Figure 189:
+Figure 190:
+Figure 191:
+Figure 192:
+Figure 193:
+Figure 194:
+Figure 195:
+Figure 196:
+Figure 197:
+Figure 198:
+Figure 199:
+Figure 200:
+Figure 201:
+Figure 202:
+Figure 203:
+Figure 204:
+
+@SMART
+
+VIEW TraNSactiOns .........cceeeeeeeeeeceecceaeeeeeeeeeeeeeeaaaaeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaaeeeeeeeeeaaaaaneeeeeeeeeaaaaaees 69
+7 Noel Ne-]a\st- (e140) 9 eee 69
+Add Transaction that requires Check Information............cccccccccccccsssseseeeceeeeeeaeaeseeeeeeeeesaaaaaess 69
+VIEW TraNSactiOns .........cceeeeeeeeeeceecceaeeeeeeeeeeeeeeaaaaeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaaeeeeeeeeeaaaaaneeeeeeeeeaaaaaees 70
+7 Noel Ne-]a\st- (e140) 9 eee 70
+Add Annual Certification Compliance Transaction ..........:cccccccccccecsesseeeecceeeesaeaenseeeeeeeesaaaaeess 70
+Add Transaction that requires Check Information............ccccccccccceccssssseeecceeessseaeseeeeeeeeeseaaaeees 71
+View Transactions (235-INSUrCd) ..........cccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 72
+Add Transaction (235-INSUrCd) ..........ccccccceeeeceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 72
+View Disbursements — Partial Claim ............ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeseeeeeeeeeeeseeeeeeeeseeeeees 73
+7 Nolo ll DIS ol 0] a\-)agl=) 0) eee 73
+AV(o)(olm D010] as\-100(-1 0] See ee 74
+Clear DiSbUrSCMENL..... cc eeeeeeeeeeeeeeeeeeeee eee en nnn n nn LLnL ELLE EELS EEE EISELE EEA E EGA G aa aaa aaa aaa a aaa 74
+Partially Void DisbUrS@Ment ...........:::ccccccccccceseseeeeeceeceseaseesseeeceeeessaesesseseeeeeessaaeasseeeeeeeesaaaagess 75
+Partially Clear DiSbDUrS@MeNt ............cccccccccccceseesseeececeeseasssseeeeceeeesseaessseeeeeeeesssaaasseeeeeeessaaaaaees 75
+Servicing Module — Partial Claim ..............ccccccccccsssssseeeccececeeeeesseeeceeeeeseeeaseeeeeeeessaaaaseeeeeseesaas 76
+Add Payoff REQUESt.........::cccccccccccecsseeeseeeeeeeeeeeeeeeeeeeeeeessaeeseeeeeeeeesaseeesseeeeeeessauaeaseeeeeeeesaaaaasss 76
+Servicing Module — Payoff REQUEST ...........cccccccccsssssseeecceeecseeeesseseeeeeesseeeeeeeeeesessaeaaaseeeeeeeesaaa 76
+Servicing Module — Print Payoff Letter. ...........ccccccssccscccccccceeesseeeeeeeeessseeesseeeeeeeesaaaeaseeeeeseesaas 77
+Payoff Tab — Print Payoff Letter .............ccccccccssssseeeccceeccesesseeeeceeeeeseseesseeeeeeessasaeaeeeeeeeessauaagess 77
+Documents Tab — Payoff Letter ............ccccccccsssssseeeccecescaseeseeeceeeeeseaseseeeeeeeeesssaeasseeeeeeeesaaaansss 77
+Servicing Module — Payoff REQUEST ...........ccccccccssssssseeeeceeeeseeeeseseeeeeeeseeeseeeeeeeeesaaaaaseeeeeseesaas 77
+Payoff Letter Issued - Eqit..........ccccccccscccccccceeessseeeeeeeessaseeseeeeeeeeesseeeeseeeeeeeesaaaeasseeeeeeeseaaaaaees 77
+Servicing Module — Payoff REQUEST ...........ccccccccssssssseeeeceeeeseeeeseseeeeeeeseeeseeeeeeeeesaaaaaseeeeeseesaas 78
+= V0) 1k I] © 78
+Submit Payoff PayMent ...........ccccccccccccsssseseeeeeeeeesseeseeeeeeeeeeeeeeeeeeeeeeeeesaeeeeeeeeeeeeesaaaaaseseeeeeesaaa 78
+Payoff Tab — Payoff Process COMpleted ............cccccccccccsssssseeeceeeecseaeseseeeceeeeeaaueaseeeeeeeeesaaagaees 78
+Servicing Module — Payoff Process Completed ...........cccccccssssssseeecceececeeesseeeceeeessaeaaseseeeeeesaaa 79
+Mortgage Release Module — Payoff Process Completed .............cccsssssesecceeeeeeeeseseeeeeeeseaaaaeees 79
+Transaction Tab — Payoff Process COMpleted...........ccccssssssssecccceeceeseeeeeccceeesaaeaeeeeeeeeeessaaagesss 79
+Servicing Search SCrEON........cccccccccccccsceesseseeeeeeeesaeeeeeeeeeeeeeeseeeeeeeeeeeeeeeseaeeseeeeeeeessaaaaaeeeeeeseesaaa 81
+Servicing Search Screen ButtONns...........ccccccccccccccseeeseeeecceeecsaaeeeseeeeeeeessseesseeeeeeeeesaeaaseeeeeseesaaa 82
+Servicing Tab (Partial Claim) ...........:ccccccssssssssssssessssssssesessessseesseeceeeesesseeseesssseesssesssessssesseaaaes 83
+Active Servicing Activity (Payoff Request — Partial Claim)...............cccccccccceeeeeeeeeeeeeeeeeeeeeeeeeees 83
+Active Servicing Activity (Payoff Request — Partial Claim)...............cccccccccceeeeeeeeeeeeeeeeeeeeeeeeeees 84
+Service Management (Payoff Request — Partial Claim)............:cc:csssssssssssssssssssssssssssssseesseeees 84
+Bankruptcy Search SCrO@n ......cccccccssssseseccccceeeeesseeeceeeesaeeeeseeeeeeeeeeseeeesseeeeeeeessaaaaeseeeeeeeesaaaaasss 85
+Bankruptcy Search Screen BUttONS .........ccccccssssssseececcecceeesseeeceeeeesaaaesseseceeessaaaeasseeeeeeessauaaases 86
+Bankruptcy Tab (Partial Claim) .......cccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 87
+Active Bankruptcy Activity (Chapter 13 — Partial Claim) ................ccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeees 87
+Inactive Bankruptcy Activity (Chapter 13 — Partial Claim) .........ccccccccccccccccccseeeeeeeeeeeeeeeeeeeeeees 88
+Bankruptcy Management (Chapter 7 — Partial Claim) ..........cccccccccccccccceeeeeeeeeeeeeeeeeeeeseeeeeeeeess 88
+Foreclosure Search SCrECM .....cccccccccccccceceeeeeeeeeeeeeee eee e eee ee eee e cece eee EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 89
+Foreclosure Search Screen Buttons ........ccccccccccccceceeeee cece eee eee ence eee e cece eee e eee eee EEEEEEEEEEEEEEEEEEEEEEEES 90
+Foreclosure Tab (Partial Claim) ........ccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeness 91
+Active Foreclosure Activity (Partial Claim) ...............cccccccccccseceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 91
+Foreclosure Management (Partial Claim) ..........cccccccccccccccceseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 92
+Mortgage Release Search SCre@N........ccccccccccssssssseeceececeaseesseeeceeeessauaeeeseeeeeesasaeaeeeeeeeeesaaagases 93
+
+SMART USER MANUAL | LSC.CASHMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | vii
+
+Figure 205:
+Figure 206:
+Figure 207:
+Figure 208:
+Figure 209:
+Figure 210:
+Figure 211:
+Figure 212:
+Figure 213:
+Figure 214:
+Figure 215:
+Figure 216:
+Figure 217:
+Figure 218:
+Figure 219:
+Figure 220:
+Figure 221:
+Figure 222:
+Figure 223:
+Figure 224:
+Figure 225:
+Figure 226:
+Figure 227:
+Figure 228:
+Figure 229:
+Figure 230:
+Figure 231:
+Figure 232:
+Figure 233:
+Figure 234:
+Figure 235:
+Figure 236:
+Figure 237:
+Figure 238:
+Figure 239:
+Figure 240:
+Figure 241:
+Figure 242:
+Figure 243:
+Figure 244:
+Figure 245:
+Figure 246:
+Figure 247:
+Figure 248:
+Figure 249:
+Figure 250:
+Figure 251:
+Figure 252:
+
+@SMART
+
+Mortgage Release Search Screen BUttONS...........cccccccccssssssseeccceceeseeeesseeeceeeeeaaaeseseeeeeeessaaaaness 94
+Mortgage Release Tab (Partial Claim) .........ccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeess 95
+Mortgage Release Tab — No Mortgage Release Activity (Partial Claim) ...........ccccccccccccceeeeeees 95
+Active Mortgage Release Activity (Partial Claim)..............ccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 96
+No Mortgage Release Activity (Partial Claim) ........cccccccccccccccccsseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeness 96
+Mortgage Release Tab — No Mortgage Release Activity (Partial Claim) ...........ccccccccccccceeeeeees 96
+Add New Mortgage Release Step (Partial Claim)..............cccccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 97
+Mortgage Release Management (Partial Claim) ...........cccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 97
+Notes Tab (Partial Claim) ........ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 98
+Edit Mortgage Release Step (Partial Claim) .........cccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeseeeeeeness 98
+Check Search SCr@n ....cceeccssseeeeeeeeeeeeeeeee eee n nnn O aaa aaa aaa aaa 99
+Disbursement Checks (Partial Claim) ........cccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeess 100
+Release Checks (Partial Claim) .......ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 100
+Edit Check (Partial Claim) .......cccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 101
+Check Printed Confirmation .........cccccesscseeeeeeeeeeeeeeeeeeeeeeeee eee n nnn e nen G Aaa aaa aaa aaa aaa aaa aaa aaa 101
+Print Batch Checks Search Screen .......ccccccccccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeee eee ee eee eee eee e ee eee eEEEeEEeEEEEts 102
+Print Batch Checks Search R@SUIts ........ccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 102
+Print HECM Endorsed not in SMART Batch Search SCreen.........ccccccccceccccceeeeeeeeeeeeeeeeeeeeeeeess 103
+Print Batch Check All (HECM Endorsed) ..........cccccccccccsceseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 103
+Data Refresh .....ccccccccccccccecceeeeeee eee ee cece eee ee eee eeee eee e cece ee ee EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 104
+Last Data Refresh ........cccccccccccccccceeceee eee eeeeee cece eee e eee e nent eee ee EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 104
+Trial Balan .....cccccccccccccceccceee cece eee ee ence eee e eee e eee e eee e eee EEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 104
+Summary Of ACCOUNT Change ........ccccccssssssseeccecccceeeesseeeeceeeeeaasesseeeeeeeeeseseesseeeeeeeessaaaaaeseeeess 105
+Trial Balance SUMMALY .......ccccccccssssssseecceceeeeaeeeeseeeeeeeeeaeeeeseeeeeeeeesaaeesseeeeeeeessaaaaseeeeeeessaaaanees 105
+USSGL ACCOUN... ccc ececceeeeeeeeeeeeeaaeeeeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaes 105
+Treasury Report on Receivables and Debt Collection Activities Report..............ccccccssssseeeees 106
+Ticket Search SCECM ....cccccccccccccceceee eee eeeeeeeeeee eee e eee e eee e eee EEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 107
+Transaction Search RESUItS .........ccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 108
+Pay.Gov Transaction HiStOry..........cccsessccccsssscccneeeecccseescccceeescceseeescesaeeseeesaeesecesseuscessueeeeesaaes 108
+oY) a WW ar=) alt= (e1d (0) a | ¢ 108
+SPS — Unprocessed Checks .........ccccccccccssssssseecceeeeaeeeesseeeceeeeessaeeseseeeeeseesseeesseeeeeeeessaaaaaseeeeess 109
+SPS — Checks Submitted / Checks Status ...........ccccsssssseecccccccceeeesseeccsccceuauaessceceseeeeeaaaanseeeeess 109
+Pay.GOV DaShbOard ..........cccccccccccssssseseeeceeeesaeeseeeeeeeeesaeseeseeeeeeeesaaeessseeeeeeessaaaasseeeeeeeesaaaaaess 110
+Pay.Gov Detailed DaShboard ............cccccccccccsssseseecceeeeeaaaeesseeeeceessaeeeaseeeeeeeesssuaasseeeeeeeesaaaaaess 110
+VIEW TranSactiOn HIStOLY...........ccccccccssescccceeecccaeseccccseuscceaeesecesaesecessueeeeeseeseeesaueeessueseesaees 111
+Return FUNAS INFOrmation ........cccccccccccccccce cece cece cece cence eee e eee EEE EE EEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 111
+VIEW CSV HIStOY ........ccecccccssecccceeeeecccaeesecesseeeeeaeseeecseuseeeseeseeeeseuseeesseuseesseuseeesaeuseeesuenseesaees 111
+= NVALCTO)VA © 10 [210 [=e ee 112
+View Existing Loan — Search SCre@n ........cccccccccssssssseececeeecaeeenseeeeeeeeeaaaeeseseeeeeesasaaaseseeeeeeeaaa 112
+REVIEW TTaNSACtiONn ...........ccccccccceeeeeeeeeeeeeeeeeaaaaeeeeeeeeeeeaaaaaeeeeeeeeeeaaaaaeeeeeeeeeeaaaaaaneeeeeeeeeaaaaaees 112
+Return FUNAS to REMItteL ..... cece cece eee cece eee e eee EEE EE EE EEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 113
+Return Funds to Another Department ...........c:cccccccccccsessssseeceeecceaeeesseeeeeeessauaasseeseeeeessaagnees 113
+X= KA Ags] = I ONS) 114
+Upload New CSV File ..........cccccccccsssssseeeeceeeecaeeeseeeeeeeeesaseeeeseeeeeeeeeaeeessseeeeeeesssuaeseeeeeeeeeaaaagass 114
+CSV Failed Validation POp-Up .........cccccccssssssseccceceseeeseeecceeeeesaeeeseseeeeeeeessaeessseeeeeeessaaaaaseeeeess 114
+Pay.Gov CSV Upload HiStOry..........ccccccccccccccsssssececeeeeeseeesseeeeeeeesaeeesseeeeeeeessauaeeseeeeeeeesaaagness 115
+Ticket Search SCECM ....cccccccccccccceceee eee eeeeeeeeeee eee e eee e eee e eee EEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 116
+Customer Service MOCUIe 2.0... ceeeeeeeeeeeeeeeeeeeeeeee eee n ene n nnn AAA E AAA G AAG aaa aaa a a aaa aaa aea 118
+
+SMART USER MANUAL | LSC.CASHMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | viii
+
+@SMART
+
+Figure 253: View/Edit Ticket Detail ...........ccccccccccccsssssssseececceeeesssseeeeeccceeesesnsaseecececesessnaseeseeeeeeesstaeeeeeess 118
+Figure 254: Ticket Detail - Ticket RESOIUTION..............ccccccccccssssseeeeceeeecsaseseseeeeeeeesaeaeasseseeeeessaaaaaeeeeeeeeeaaaa 119
+Figure 255: View Call LOG ..........cccccccccccssssseeeeceeeeeeeeeseeeeeeeeeeeeeeeseeeeeeeeeessseeeeeeeeeeeessseeasssseeeeesasaaaaeeeeeeeesaaa 119
+Figure 256: Create New Call LOg ..........cccccccccccccccceessseeeeeeeeeeaeeeseeeeeeeeeeaseeeeseeeeeeeessseeesseseeeeessaaaaasseeeeeeeeaaa 119
+Figure 257: View Ticket ACtiOn.........ccccccssssseccccceeeeeesseeeeeeeeeseeeseeeeeeeeeeseeeeeeeeeeeeeesseaeaseseeeeessaaeaaseeeeeeeesags 120
+Figure 258: Create NEW ACTION .........cc.ccccccccssescccceeeeeccaeesececseeeeeesaeeecesaesseeesseeceessascesseuseeesaaeseessunsessages 120
+Figure 259: View Ticket ACtiOn.........ccccccsssssccccccecseeeseeeeeeeeeeeeeeeeeeeeeeeeeessseeeeeeeeeeeesseeeeseeeeeeessaaaaaeeseeeeeeaaa 120
+Figure 260: VieW NOteS..........cccccccssecccceesecccaeececnseeeceeseseeeesseeeeeeeseeeeesaeeseeesseuseeessauseeeseaeeeesuaecessuansessages 121
+FiSUre 261: Add NOtC........cccccceecscccccceeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeesaeeeeeeeeeeeeeaeeeeeeeeeeeeeessseeaaseseeeeessaaeaaseeeeeeeeaaaa 121
+Figure 262: VieW DOCUMENNS ..........cccccssesccccseeecccceeeeceeaeeeeesseeeeeesseeeeeeaeuseeeeseuseesseaeeeesseeuseesaauscessuaesessages 121
+Figure 263: Borrower HiStOry..........cccccssesccccsseecccneeeeceeseeeecesaeeseeeseeeeesseseeesseuseeesseeeeesseuseeesaauseeesunsessages 122
+Figure 264: View/Edit Ticket Detail .............:cccccccccssssssssecceceeesesssseeeecccececessnaseesececesessaaeeeseeeeeeesensaseeeeess 122
+Figure 265: Reports — Customer Service DaShboard ............cccsssesecccceccseessseecceeeeeaeaeseeseeeeessaaeaeeeeeseeeeaas 123
+Figure 266: Generate Report in either Excel, PDF, Or HTM ..........ccccccccsssssesecceceeceeeeseeceeeeessaeeeeeeeeeeeesaas 123
+Figure 267: Reports — Director Reports Dashboard ............cccsssssscccceccceeeeeseecceceesaeeeseeeseeeeessaaeeseeseeeeesaas 123
+Figure 268: Reports — Servicing/Release Reports DaShboard...........cccccccsessssscecccceeeessssseeeseeeeeeessssseeeeees 124
+Figure 269: Reports — Accounting Dashboard ............ccccccccssssssseeececeeceaeeeeseeceeeeesaeeeeseeseeeeessaaaaaseeeeeeeesaas 124
+Figure 270: Navigation Menu LINKS ............cccccccccssssssseecccceesaeeesseeeeeeeeeaaseeeeeeeeeeeeesseeeseeseeeeessaaaaaeeeeeeeesaaa 125
+Figure 271: Example User Information (Edit Mode) ............::ccscssssssssssssesssssessessessesssssssssessessessesssseeasees 125
+Figure 272: Example User Role Options ............cccsssssseeccccceceaeesseeeeeeeeeaaeeeeseeeeeeeessseeeseeeeeeeessaaeaseeeeeeeeesaas 125
+Figure 273: LANGING PAGE ...........ccccccccccsssssseeeceeeeeseeeeeseeeeeeeesaseeeeeeeeeeeeessseeeeeeeeeeeessseeeseeeeeeeesaaaaaasseeeeeeesaaa 126
+Figure 274: Tech Support Tab Open .........ccccccccccsssssssseecceceesaeeeseeeeeeeeeesaeeeeseeeeeeeessseeeseeseeeeessaaaaaseeeeeeeesaas 126
+Figure 275: Tech Support POPU ..........ccccccccccccccssesseeeeceeeeseeeeseeeeeeeeeeseeeeeeeeeeeeeeeseeeesseeeeeeessaueaaeeeeeeeeeeaaa 126
+Figure 276: PopUp Chat Window ..........cccccccccccccccssssseeeceeeeseseseeeeeeeeeeseeeeeeeeeeeeeeeseeeeeseeeeeeessaaaaaseeseeeeesaaa 127
+
+Tables
+
+Table 1: Loan Search Fields ..........ccccccccssssssseeeceeeeeaaeeseeeeeeeeeeeaeeeeeeeeeeeeeessaeeeeeeeeeeeesaaeeessseeeeeeessaaeaaeeeeeeeeeeaaa 12
+Table 2: Data Table BUttons...........cccccccccsssseeeceeeeeeeeeeeeeeeeeeeesaeeeeeeeeeeeeeesseeeeeeeeeeeessaeeassseeeeeeessaaaaaseeeseeeesaaa 14
+Table 3: Servicing Search Fields ...........ccccessscccccccceeessseeeeeeeeesseeeeeeeeeeeeeesseeeeeeeeeeeeeseeeeasseeseeeeessaaeaaseeeseeeesaaa 81
+Table 4: Data Table BUttons...........cccccccccsssseeeceeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeesaseeeeeeeeeeeesaaeeeesseseeeeessaaeaaseseeeeensaga 83
+Table 5: Bankruptcy Search Fields...........cccccccccccccsesssseeeeeeeeeeaseeeeeeeeeeeeesseeeeeeeeeeeeeesaeeesseeeeeeeessaaaseseeeseeeeeaaa 86
+Table 6: Data Table BUttons...........cccccccccsssseccceeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeaaeeeesseeeeeessaaeaaeeeeeeeeeaaa 87
+Table 7: Foreclosure Search Fields .........ccccccccccccccsesssseeeeeeeeesseeeeeeeeeeeeeesseeeeeeeeeeeeesaseasseeseeeeessaaasseeeseeeesaaa 90
+Table 8: Data Table BUttons...........ccccccccssssseecceeeeeeaeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaeeeasseeeeeeessaaeaaeeeeeeeeeeaaa 91
+Table 9: Mortgage Release Search Fields .............ccseesssecccccecaeeeseeeeceeeesaeeeeeeeeeeeeseaeeeseeeeeeeeessaaeaeseeeeeeeesaaa 93
+Table 10: Data Table BUttons ..........cccccccccesccccceeeeeeeeeeeeeeeeeeeeea eee eeeeeeeeeeesaeeeeeeeeeeeeesaaeeeasseeeeeeessaaeaaeeeeseeeesaga 95
+Table 11: Check Search Fields ..........cccccssssssccccceeseeeeeseeeeeeeeeeaeeeeeeeeeeeeeesaeeeseeeeeeeeeseseeesseeeeeeessaaaaaeeeeeeeeeeaaa 100
+Table 12: Transaction Search Fields ............cccccccsssssssseecceeeeeaeeesseeeeeeeeeeaeessseeeeeeeesseeeeseeeeeeeessauaaaeeeeeeeeeaaa 107
+Table 13: Pay.GOv ICONS ........:cccccccccccccceeeeeseeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeseaeeeeeeeeeeeeesaeeeesseeeeeeessaaaaaeseeeeeeeaaa 110
+Table 14: Ticket Search Fields .........cccccccsesccccccceeeeeeseseeeeeeeeeaeeeeeeeeeeeeeeseeeeeeeeeeeeeessaeeeseeeeeeeessauaaaeseeeeeeaaaa 117
+
+SMART USER MANUAL | LSC.CASHMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | ix
+
+Document History
+
+@®SMART
+
+Version Date
+
+Description
+Original release.
+
+Updated release.
+
+No changes made.
+
+1.0 3/12/2018
+
+1.34.0 | 12/14/2018
+1.34.0 06/10/2019
+1.43.0 | 12/20/2019
+1.43.0 06/02/2020
+
+Updated release; Added PMM, Cash
+Management, CRM, etc.
+
+No changes made.
+
+SMART USER MANUAL | LSC.CASHMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | x
+
+
+@SMART
+
+1 Solution Summary
+
+This manual is designed to guide Lenders through the use of the Single-Family Mortgage Asset Recovery
+Technology (SMART) System.
+
+1.1 Features
+
+The Single-Family Mortgage Asset Recovery Technology (SMART) System is comprised of individual
+modules designed to assist the user in searching for specific loan information and performing related
+functions. The modules currently available include the following:
+
+Loan Module: Query and review loan information at a detailed level, add new loan records to
+the system, and edit existing loan information.
+
+Servicing Module: Assign mortgage servicing templates to individual loans, track the status of
+each servicing template, and generate the corresponding servicing forms and letters.
+Bankruptcy

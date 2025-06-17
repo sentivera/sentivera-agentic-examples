@@ -1,0 +1,375 @@
+eeeeeeeeeaaaaaaes 90
+New Document Wizard — BOrrowers .......cccccccccccceeeeeeeeeeeeeeeeeeeeeeee eee eeeee eee eeeeeeeeeeeeeeeeeeeeeeeeeness 91
+New Document Wizard — DOCUMENTS ..........ccccccccccceeeeeeee eee ee eee e ence eee eeeeeeeeeeeeeeeeeeEEEEEEEEEEEEeeEEts 91
+Servicing Search SCrEON........cccccccccccccsceesseseeeeeeeesaeeeeeeeeeeeeeeseeeeeeeeeeeeeeeseaeeseeeeeeeessaaaaaeeeeeeseesaaa 92
+Servicing Search Screen ButtONs............cccccccccccccceessseeeeeeeeeseaeeeseeeeeeeesaeseeseeeeeeeeesaeaaeeeeeeeeesaaa 93
+Servicing Tab (Partial Claim) ...........:ccccccssssssssssssessssssssesessessseesseeceeeesesseeseesssseesssesssessssesseaaaes 94
+Active Servicing Activity (Payoff Request — Partial Claim)...............cccccccccceeeeeeeeeeeeeeeeeeeeeeeeeees 94
+Active Servicing Activity (Payoff Request — Partial Claim)...............cccccccccceeeeeeeeeeeeeeeeeeeeeeeeeees 95
+Service Management (Payoff Request — Partial Claim)............:c::cssssssssssssssssssssesssssssessssseeeees 95
+Bankruptcy Search SCrO@n ......cccccccssssseseccccceeeeesseeeceeeesaeeeeseeeeeeeeeeseeeesseeeeeeeessaaaaeseeeeeeeesaaaaasss 96
+Bankruptcy Search Screen BUttONS .........ccccccssssssseececcecceeesseeeceeeeesaaaesseseceeessaaaeasseeeeeeessauaaases 97
+Bankruptcy Tab (Partial Claim) .......ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 98
+Active Bankruptcy Activity (Chapter 13 — Partial Claim) ................ccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeees 98
+Inactive Bankruptcy Activity (Chapter 13 — Partial Claim) .........ccccccccccccccccccseeeeeeeeeeeeeeeeeeeeeees 99
+Bankruptcy Management (Chapter 7 — Partial Claim) ..........cccccccccccccccceeeeeeeeeeeeeeeeeeeeseeeeeeeeess 99
+Foreclosure Search SCrECM .....cccccccccccccceceeeeeeeeeeeeeeeeee eee e eee ee eee e eee eeEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 100
+Foreclosure Search Screen Buttons .......cccccccccccccceceeeeeeeeeeeee eee eeeeeeeeeeee eens eee eeeeeeeeeeeeeeeeeeeeeeess 101
+Foreclosure Tab (Partial Claim) .......ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 102
+Active Foreclosure Activity (Partial Claim) ..............cccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 102
+Foreclosure Management (Partial Claim) ..........cccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeseeeeeess 103
+Mortgage Release Search SCr@n.......cccccccccssssssssecceceessesesseeeeeeeesaeeassseeeeeeesssaaasseeseeeeesaaaagess 104
+Mortgage Release Search Screen BUttONS..........cccccccccssssssseeccceeecaeeessseeeeeeessauaesseeeeeeeesaaaansss 105
+Mortgage Release Tab (Partial Claim) .........cccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 106
+Active Mortgage Release Activity (Partial Claim).............ccccccccccccccceeeeeeeeeeeeeeseeeeeeeseeseeeeeeeess 106
+Mortgage Release Management (Partial Claim) ............ccccccccccccccccseeeeeeeeeeeeeeeeeseseeeeeeeeeeeeeess 107
+
+SMART USER MANUAL | HUD.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | viii
+
+Figure 229:
+Figure 230:
+Figure 231:
+Figure 232:
+Figure 233:
+Figure 234:
+Figure 235:
+Figure 236:
+Figure 237:
+Figure 238:
+Figure 239:
+Figure 240:
+Figure 241:
+Figure 242:
+Figure 243:
+Figure 244:
+Figure 245:
+Figure 246:
+Figure 247:
+Figure 248:
+Figure 249:
+Figure 250:
+Figure 251:
+Figure 252:
+Figure 253:
+Figure 254:
+Figure 255:
+Figure 256:
+Figure 257:
+Figure 258:
+Figure 259:
+Figure 260:
+Figure 261:
+Figure 262:
+Figure 263:
+Figure 264:
+Figure 265:
+Figure 266:
+Figure 267:
+Figure 268:
+Figure 269:
+Figure 270:
+Figure 271:
+Figure 272:
+Figure 273:
+Figure 274:
+Figure 275:
+Figure 276:
+
+@SMART
+
+Check Search Screen .......cccccssecccccesecccccesecceceeeceeeueececcaeeceeceueeceeeueeeceeaeeeceeeueeecessugeeeeeaueeeeea 108
+Disbursement Checks (Partial Claim) ........cccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeess 109
+Release Checks (Partial Claim) .......ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 109
+Print Batch Checks Search Screen .......ccccccssseccccsecccceesecceceesecceceeeeceeauecceeeuseceesaeeecetsueeseeaues 110
+Print Batch Checks Search ReSUuIts ............ccccccccseeeccceesecceceeeecceeeeeeceeaueceeeeeeceesueeeceesueeeeeeages 110
+Print HECM Endorsed not in SMART Batch Search SCreen..........cccccsseeccccesseceeceeeeceeeueeeeeeaees 111
+Print Batch Check All (HECM Endorsed) .........ccccccccccceeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 111
+Data Refresh .........c..cccccccccesecccccesecceceesecceceeeecceeeeeececeueecsecaueceeeeuueeeeauneesesauaecessegecetsueneeeeages 112
+Last Data Refresh .........cccccccccccsssecceceeseccecueeecceaeeecceceuecceceueceesueueeeeauaseeesauaeceesugeecetsueeeeeaues 112
+Trial Balance ........cccccccccccccssecccceesecceceeeececeeeceecuuseccesueeccecaueceeseeeeceeeueeesesaueceesueeeeeeauaeceesagaess 112
+Summary Of ACCOUNT Change ........ccccccssssssseeccecccceeeesseeeeceeeeeaasesseeeeeeeeeseseesseeeeeeeessaaaaaeseeeess 113
+Trial Balance SUMMALY .......cccccccccsssesseeececeeeeeeeeeeeeeeeeeeaseeeeeeeeeeeeesseeeesseeeeeeessaaaaaseeeeeeeesaaagaees 113
+USSGL ACCOUNt........ccccccscccsecceseceeeeceeseeeaneeeeeeeeeeeeeeeeeeeeeaeeeeeaeeeaeeeeaeeeeaeeeeaeeceaeeeeaeeetaneeeaeee’ 113
+Treasury Report on Receivables and Debt Collection Activities Report.............cccccccsssssseeees 114
+Ticket Search SCFECN .......ccccccccseeccccesececceecceceeeeccesueeececsuseceeeaueeceeauaecsesauaeceesuueeeeeaueeeesagaess 115
+Transaction Search ReSUItS ..........c..ccccccccssseececeeeeccccueecceceuecessueeeceeeueeesesaueceesueeeeesauneeeesagaess 116
+Pay.Gov Transaction HiStOry..........cccccccccccssescccceseecccseescceceeeseceseeeseesaeuseeeseeseessseuseessaeeeesages 116
+LOAN Transaction Tab .........cccccccesecccceseccecueecceeeeecceceueccecuuseceesueeeceeauneeceseusecessueeecetsugeeeeeaues 116
+SPS — Unprocessed Checks .........ccccccccccssssssseecceeeeaeeeesseeeceeeeessaeeseseeeeeseesseeesseeeeeeeessaaaaaseeeeess 117
+Unprocessed Checks Workflow ..........cccccccccssssssescceeeeceeeeesseseeeeeesaeeesseeeeeeeessauaesseeeeeeeesaaaaness 117
+SPS — Checks Submitted / Checks Status ...........ccccsssssseecccccccceeeesseeccsccceuauaessceceseeeeeaaaanseeeeess 118
+SPS — Checks Submitted / Checks Status — Submitted to Treasury Status .............ccccceeeeeees 118
+Pay.GOV DaShbOard ..........cccccccccccssssseseeeceeeesaeeseeeeeeeeesaeseeseeeeeeeesaaeessseeeeeeessaaaasseeeeeeeesaaaaaess 119
+Pay.Gov Detailed DaShboard ..........cccccccccccccssseseeceeeeecaeeessseeeeeeeesaaeeaseeeeeeeeesauaeseeeeeeeesaaaagess 119
+VIEW TranSactiOn HIStOLY...........ccccccccssescccceeecccaeseccccseuscceaeesecesaesecessueeeeeseeseeesaueeessueseesaees 120
+Return FUNAS INFOrMation ..........ccccccceeecccceesecceceeecceceeeecceceueeceeeueeceeaueeeeesauseceesugeecetsueeeeeeaues 120
+VIEW CSV HIStOY ........ccecccccssecccceeeeecccaeesecesseeeeeaeseeecseuseeeseeseeeeseuseeesseuseesseuseeesaeuseeesuenseesaees 120
+== VA CLO )Y AL © 10 [=1 0 | =e 121
+View Existing Loan — Search SCreen ........cccccccccssssssseececeeecaeeesseeeeeeeeeeaaeeseseceeeeessaaaeseseeeeeeaaas 121
+REVICW TIaMSaCtiOn ........ccccccccsseccsseccesecceeeceaeeeeeeeceeeeeeeeeeeaeeeeeeeeeeeeeeeeeeeaeeeeaeeceaeeeeaeeeeaaeseaeeee’ 121
+REVIEW Failed CSV ........cccccccccccccssecceceesecceceeeecceeeeecceceueeccecuueeceesueueseesueeecesauaeceeseeecetsueeeeeeages 122
+Ticket Search SCFECN .......ccccccccseeccccesececceecceceeeeccesueeececsuseceeeaueeceeauaecsesauaeceesuueeeeeaueeeesagaess 123
+Customer Service MOdUle ...........ccccccccessscccceeeecceeueececcaueccecuueeceeeueeeceeeeeeceeseeeecessugeesesaueeeeea 125
+View/Edit Ticket Detail .........cccccccccccsssssseecccccccceeeesssecceccceesauesseeceseeeeuauaaseeeeceseeeuaaaanseseeeeseeaaa 125
+Ticket Detail - Ticket RESOIUTION..............cccccccceseeccccseeceeceeeceeseeeeceeeeeeccesaueceesueeeeesauaeeeesagaess 126
+ViIQW Call LOG........cccccccccccsssssseeeeceeeeeseeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaseeeeeeeeeeeeesaeeeesseeeeeeesaaaaaneeeeeeeeeaaa 126
+Create NOW Call LOG .......ccccccccsssssccccccceeaeeesseeeeeeeeeseseeeeeeeeeeeeeseeeeseeeeeeeeeesaeeeesseeeeeeessaaaaanseeeess 126
+View Ticket Action .........cccccccccccccssecccceseccccueececaueecceceeseceeaueeececaueeceeseueeceeaueeesesauaeceesugeeeeeaees 127
+Create NOW ACTION .........ccccccscccesecceseceeseceaeeceaeeceseeeeeeeceeseeeaeeeaeeeeaaeceaaeeesaeesaaeeeeeeeueeeaeeeuaes 127
+View Ticket Action .........cccccccccccccssecccceseccccueececaueecceceeseceeaueeececaueeceeseueeceeaueeesesauaeceesugeeeeeaees 127
+AAT EA VAN (0) ok 128
+AC NOte........cccccsecccccesecccceeeccccuuecsccausececcueeeceeaueecseesueeceeaueeecesaueeceecaueeceeaueeeeesaueeeeeugeeeeaues 128
+VIEW DOCUMEDNIS ........cccsscccsseccsecceneeceneeceneeeeneeseeeceeeceseeeeseeeeeeeceseeeeaeeceseeceseeceseecesaeeeaeeeeagees 128
+Borrower HIStOry..........cccccseeccccesscccceeesececseeecceuseeceesesecesseeseeeseeuseeeaeuseeeseeseessueuseeesaeeseesages 129
+View/Edit Ticket Detail .........cccccccccccsssssseecccccccceeeesssecceccceesauesseeceseeeeuauaaseeeeceseeeuaaaanseseeeeseeaaa 129
+Create NEW Ticket ..........cccccccsesccccsseeccceenecceceesecceeueeceseaeeceecueneceeeueeeeeeaeeeceseueecessugeesesauaeeeeea 130
+Customer Service MOdUle ...........ccccccccessscccceeeecceeueececcaueccecuueeceeeueeeceeeeeeceeseeeecessugeesesaueeeeea 131
+Create NEW Ticket ..........cccccccsesccccsseeccceenecceceesecceeueeceseaeeceecueneceeeueeeeeeaeeeceseueecessugeesesauaeeeeea 131
+
+SMART USER MANUAL | HUD.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | ix
+
+@SMART
+
+Figure 277: View/Edit Ticket Detail ............cccccccccccsssssssseececceceesssseeeeeeceeeeessnaeeecececesessaaeeeseeseeeessnsaaeeeeess 132
+Figure 278: Merge Ticket .........ccccccccccccsssssseeeceeeeeaesesseeeeeeeeeaeeeeeeeeeeeeeesseeeeeeeeeeeeesssaeaeseeeeeeessaaaaaseeseeeeesaaa 132
+Figure 279: CRM Re@VICW QUEUEC...........ceecccccseescccneeeececcesseeesseeeeeesseeecessesseeesseuseeessauseesseuseeesaeecessuausessages 133
+Figure 280: Import into Existing Customer Service CaSe@...........cccsecccccsseseccceeseecsseeeceeseeeceeseeusceesueneessaaes 133
+Figure 281: Reports — Customer Service DaShboard ............ccsssssscccceeccseesseeecceeeceaeeeseeeeeeeessaaaaseeeeeeeesaas 134
+Figure 282: Generate Report in either Excel, PDF, Or HTM. ..........ccccccccsssssseeececeeceeeeeseeceeeeessaeeeseeeeeeeeesaea 134
+Figure 283: Reports — Director Reports Dashboard .............ccsssssscccceecceeeesseecceceesaeaeeseeseeeeessaaaaaseeeeeeeeeaes 134
+Figure 284: Reports — Servicing/Release Reports DaShboard...........ccccccccessssscececceesessssseeeseeeeeeesssseeeeeers 135
+Figure 285: Reports — Accounting Dashboard ...........ccccccccccsssssseeecceeeesaeeeeseecceeeesasaaeseeeeeeeessaaaaaeeeseeeeesags 135
+Figure 286: Navigation Menu LINKS ............cccccccccssssssseecceceeseaeesseeeeeeeeesseeeeseeeeeeeeeseaeeseeeeeeeessaaaaaseeseeeeesaas 136
+Figure 287: Example User Information (Edit Mode) ...........::cccssssesssssssssssssssssesesssseeeesssssssesesseesesssseseeaaes 136
+Figure 288: Example User Role Options .............cccssseseeccccceceeeeseeeeeeeeeeeaeeeeseeeeeeeesseeeaeeeeeeeeesssaeaaseeeeeeeesaas 136
+Figure 289: Ticket ROUNC RODIN ...........ccceecsccccccccceeeeeeeeeceeeesaeeeseeeeeeeeeeaeeeeeeeeeeeeeesseeeesseseeeeessaaaaaeseseeeeeaaaa 137
+Figure 290: Maintenance Roundrobin (Edit Mode) ............:ccsssssssssssssssssssssssssesseesessessssesesssessessessseseaaes 137
+Figure 291: Maintenance Roundrobin (Add Mode) ..........:::ccsseceessssssssssesssseseeessseeseseessssseesseesssssesseseeaes 138
+Figure 292: Vendor Manageme nt ...........cccccccccccccssssseecceeeeeaeeeseeeeeeeeeesseeseeeeeeeeeeeseeeasseeeeeeessaaeaaseeseeeeeaaaa 139
+Figure 293: Vendor Maintenance (Add Mode) .........:::csssssssessssseseseesssssseceseseseeesseeessessssssessssessasesseasaaaes 139
+Figure 294: Landing Page...........cccccccccsssssssseeceeeeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeesseeeeeeeeeeeessseeaeeeeeeeesaaaaaaseeeeeeeeaaaa 140
+Figure 295: Tech Support Tab Open ........cccccccccccsssssssseecceceesaeeeseeeeeeeeeeaseeeeeeeeeeeeeeseeeeeseseeeeeessaaaseeseeeeesaaa 140
+Figure 296: Tech Support POPUP ..........ccccccccccccccseeeseeeeeeeeeeseeeeseeeeeeeeeessseeeeeeeeeeeesseeeaseseeeeessaaaaaeeeeeeeeeeaaa 140
+Figure 297: PopUp Chat Window ..........cccccccccccccccsessseeeeceeeeeaeeeseeeeeeeeeeeseeseeeeeeeeeesaseeasseseeeeesaaaaaaeeeeeeeesaaa 141
+
+Tables
+
+Table 1: Disposition TYP ..........cccccccccsssssseeeeceeeeeeaeeneeeeeeeeeeeaeeeeeeeeeeeeeesaeeeeeeeeeeeeesaaeeasseeeeeeeessaaeanseeeeeeeesaaa 15
+Table 2: Loan Search Fields ...........cccccccssseccccesecceceesecceceeeececsueececauseccesaueeceeaueeeseeeuecessueeeceesueeceeseueceeeagasss 22
+Table 3: Data Table BUttons............cccccccccccccsecccceesecceceeeececsueeecccaueceesaeeccesueeeseeeuaeceeeuguecessugeceesauseeeeeagasss 24
+Table 4: Servicing Search Fields ..........cccccccccccccccccseeeseeeeeeeeeeeseeeeeeeeeeeeeeeseeeeeeeeeeeeesaaeeeesseseeeeessaaaaaseeeeeeeesaaa 92
+Table 5: Data Table BUttOns............ccccccccccccessecceceesecceceeeececsueeececaueeccesauseceesueeeeeeauaeceeseeueceseueeeeeseuseceeeegasss 94
+Table 6: Bankruptcy Search Fields..........ccccccccccccccsssssseeeeeeeeeesseeeeeeeeeeeeessaeeeeeeeeeeessaaeaeeeeeeeeessaaeaeseeeeeeeeeaaa 97
+Table 7: Data Table BUttOns............cccccccccccccssecceceesecceceeeececsueeccecaueeccesaeeceeaueuceeeeeeecessugeceseueeceesaueceeeagasss 98
+Table 8: Foreclosure Search Fields ..........cccccceccccccsecceceesecceceeeececeuecceceeecseseueeceesueeceeeaueeceesaeeecessueeeeeeages 101
+Table 9: Data Table BUttOns...........ccccccccccccccesseccceeeeececeeseccessuseceeseneccecaesucceceueceeeueueeesaueeceeeaeeceseugeeeeeages 102
+Table 10: Mortgage Release Search Fields ............cccccccccecccsaeeeeseeeceeeeeeaeeseeeeceeeessaeeeseeeeeeeessaaaaseeeeeeeeesaaa 104
+Table 11: Data Table Buttons ..........c.cccccccccccsseeccceeecceceeeccecaesececeueeececauseceeceeeceeeueeeeeeueeueeesaueceeeugeeeeeages 106
+Table 12: Check Search Fields .............cccccccccsseeccceeecceceesecceeuesececeeeecceceesecceeeuseceeeueuceecegeeceeeaeeceseugeeeeeages 109
+Table 13: Transaction Search Fields .............cccccccsseccccesecceceeeececeueecceceueeeceeeeeeceesueeeceeueeeceesaeeceseueeeeeeages 115
+Table 14: Pay.GOv ICONS ........ccccccccccccccceeesseeeeeeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeseeeeseeeeeeeeesaeeeesseeeeeeessaaaaaeeeeeeeesaaa 119
+Table 15: Ticket Search Fields ............ccccccccccsseeccceeecccceesecceceusececsueecceceusecceseueeceeeueuceeeaeneceesauecessueeeeeeages 124
+
+SMART USER MANUAL | HUD.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | x
+
+@®SMART
+
+Document History
+
+Version Date
+
+Description
+Original release.
+
+Updated release.
+
+No changes made.
+
+Updated release; Added PMM, Cash
+Management, CRM, etc.
+
+1.0 3/12/2018
+
+1.34.0 | 12/14/2018
+1.34.0 06/10/2019
+1.43.0 | 12/20/2019
+1.43.0 06/02/2020
+
+No changes made.
+
+SMART USER MANUAL | HUD.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | xi
+
+
+@SMART
+
+1 Solution Summary
+
+This manual is designed to guide Lenders through the use of the Single-Family Mortgage Asset Recovery
+Technology (SMART) System.
+
+1.1 Features
+
+The Single-Family Mortgage Asset Recovery Technology (SMART) System is comprised of individual
+modules designed to assist the user in searching for specific loan information and performing related
+functions. The modules currently available include the following:
+
+Loan Module: Query and review loan information at a detailed level, add new loan records to
+the system, and edit existing loan information.
+
+Servicing Module: Assign mortgage servicing templates to individual loans, track the status of
+each servicing template, and generate the corresponding servicing forms and letters.
+Bankruptcy Module: Maintain, track, and edit bankruptcy information for individual loan
+records.
+
+Foreclosure Module: Manage loan records in the foreclosure process. Module provides a
+timeline of the required foreclosure steps and tracks the scheduled foreclosure activity vs. the
+completed foreclosure activity.
+
+Mortgage Release Module: Initiate the loan release process for satisfied loans, track the release
+status, and generate the corresponding release forms and letters.
+
+Cash Management Module: Track and manage incoming payments from Pay.Gov, submit
+disbursement checks, search for transactions and review the TROR and Trial Balance reports.
+Customer Service Module: Create, view, and manage tickets. Create and edit call logs and ticket
+actions.
+
+Maintenance Module: Manage user account, reset user passwords, and update ticket round
+robin.
+
+SMART USER MANUAL | HUD.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 1
+
+@SMART
+
+2 Getting Started
+
+2.1 Software Version
+To access the SMART web application, open your web browser and go to: https://smart.hudnsc.org.
+
+2.2 Solution Requirements
+Users must have the following to use the SMART System:
+e Screen Resolution 1920x1080 optimal
+e =Internet Connection
+e Web Browser (IE, Chrome, Firefox)
+e Avalid user name, email address, and password
+e Adobe Acrobat Reader or other .pdf reader (recommended)
+
+Users may not use the following to access the SMART System:
+e Mobile device with a screen size of 760px or less
+
+As a web-based application, SMART is accessed through a web browser, and is not “installed” onto any
+user’s computer.
+
+2.3 Logging On
+Once your SMART user profile has been created and approved, you may begin using the site. To Login,
+follow the steps outlined below.
+
+Step1: Toaccess the SMART web application, open your web browser and go to
+
+https://smart.hudnsc.org.
+
+Password
+
+Unauthorized Access Warning
+
+Figure 1: Landing Page
+
+Step 2: Input your User Name. Input your Password. @®SMART
+Step 3: Click [LOGIN]. A pop-up will appear to initiate
+setting up Multi-Factor Authentication (MFA). What type of device are you adding?
+Click [START SETUP]. © Moniie phone recoumencen
+Landline
+Step 4: Select Mobile Phone or Landline and click
+[CONTINUE].
+
+Figure 2: MFA Phone Set-Up
+
+SMART USER MANUAL | HUD.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 2
+
+@®SMART
+
+Step 5: Enter your phone number, click the box to verify the phone number, and click [CONTINUE].
+
+®SMART
+
+Enter your phone number
+
+United States A
+
++41
+
+ex: (201) 234-5678
+[2] You entered [EEN 's this the correct number?
+
+Figure 3: MFA Phone Set Up
+
+Step6: Verify the ownership of your phone. To get a phone call verification, select [CALL ME]. To
+get a text verification, select [TEXT ME]. Both options will provide you with a 6-digit code.
+Enter in the code and click [VERIFY]. When verified, click [CONTINUE].
+
+@®SMART
+
+Verify Ownership of
+
+1. We can call or text you with a verification code.
+
+} came | °r Textsent
+
+2. Enter your 6-digit code:
+
+“_ ¥
+| sack
+
+Figure 4: MFA Phone Verification
+
+Step 7: Verify your settings on the My Settings & Devices page then click [CONTINUE TO LOGIN].
+
+@®SMART
+
+a
+
+bx. 867539
+
+(Q_ Remember me for 60 days
+
+@SMART (=!
+
+Call Me
+
+Enter a Passcode
+
+(4 Remember me for 60 days
+
+Enrollment successful! This is the Duo login prompt that you'll normally
+see when logging in.
+
+Enter a passcode from a text.
+
+Dismiss Dismiss Text me new codes
+
+Figure 5: Multi-Factor Authentication
+
+Note! When you have checked the [REMEMBER ME FOR 60 DAyYs] checkbox, this bypasses the 2 factor log in for 60 days.
+
+SMART USER MANUAL | HUD.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 3
+
+@SMART
+
+Step 8: Select either [CALL ME] or [ENTER A PASSCODE].
+
+Step 9: Selecting [CALL ME] will prompt the system to call your phone. Follow the instructions in
+the phone call and you will be redirected to your default page.
+
+Step 10: Select [ENTER A PASSCODE] and click on [TEXT ME NEw CobEs] at the bottom. This will prompt
+the system to send a text message to your phone containing a 6-digit code. Enter in the
+code and click login. You will be redirected to your default page, logging you in.
+
+The first time you log in you will be asked to reset your password and input three Security Questions.
+
+@SMART
+
+O First Time Password Reset
+— : a
+
+© Setting Up Security Questions
+
+Securty Q

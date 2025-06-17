@@ -1,0 +1,793 @@
+er the
+tab [My DASHBOARD] you have four options: My Tickets, Supervisor Inbox, HUD Inbox, and Action List.
+
+2.4.2. Loan
+
+The [LOAN] tab directs the user to the Loan Module in SMART. Here you have one option: Search.
+
+2.4.3 Servicing
+
+The [SERVICING] tab directs the user to the Servicing Module. Here you have one option: Search.
+
+2.4.4 Customer Service
+The [CUSTOMER SERVICE] tab directs the user to the Customer Service Module. Here you have two
+options: Ticket Search and Create New Ticket.
+
+2.4.5 Reports
+
+Under [REPORTS] you have three options: Customer Service, Director Reports, and Servicing/Release
+Reports.
+
+2.4.6 User Information
+
+Select your user name to view and update your personal identification and contact information. You
+may also change your password and security questions.
+
+2.4.7 Role
+
+From the [ROLE] drop-down menu, select the role in which to view the SMART System.
+
+2.4.8 Maintenance
+
+The [MAINTENANCE] tab directs the user to the Maintenance Module. Here you have one option: Ticket
+Round Robin.
+
+2.5 Changing Password
+
+To comply with security policies requiring periodic modification to all access passwords, SMART includes
+the Change Password functionality on the My Account page. Follow the steps below to change your
+
+current passwo rd.
+
+Step 2: Scroll down the User Information (Edit Mode) page to the Manage Password header.
+
+Step 1: From the top Navigation Menu, click your User Name.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 5
+
+C
+
+®SMART
+
+Manage Password:
+
+New Password:
+
+Confirm Password:
+
+Figure 8: Manage Password
+
+Step 3: Input your current password. Note:
+Password must contain at least:
+
+Step 4: Input your new password.
+
+~ Twelve alphanumeric characters
+~v One special character
+
+~ One uppercase letter
+
+v One lowercase letter
+
+Step 6: Click [SAVE] at the bottom of the page. V' One number
+
+Step 5: Re-enter your new password to confirm accuracy.
+
+The user is required to change their password every 30 days. The system maintains a password history,
+so that 24 passwords cannot be reused.
+
+If the user logs into SMART after their password is expired between 30 days and 90 days from their last
+password change, they will be redirected to change their password. If the user has not logged on for 90
+days, their account will be disabled. In order to reactivate their account, they will need to contact the
+Help Desk. For information on how to contact the Help Desk, see Section 14: Getting Help.
+
+2.5.1 Forgot Password (Recover Password)
+To retrieve a lost password, go to the SMART Login Page and click [FORGOT PASsworD].
+
+@SMART
+
+Username
+
+Password
+
+_ Unauthorized Access Warning Password Reset
+
+This warning banner provides privacy and security notices consistent with
+applicable federal laws, directives, and other federal guidance for accessing this |
+
+Work Email Address
+
+Government system, which includes all devices/storage media attached to this
+system. This system is provided for Government-authorized use only.
+Unauthorized or improper use of this system is prohibited and may result in
+disciplinary action and/or civil and criminal penalties. At any time, and for any
+lawful Government purpose, the government may monitor, record, and audit
+your system usage and/or intercept, search and seize any communication or
+
+data transiting or stored on this system. Therefore, you have no reasonable pose
+
+expectation of privacy. Any communication or data transiting or stored on this
+system may be disclosed or used for any lawful Government purpose.
+
+Forgot Password Login
+
+Figure 9: Login Page — Forgot Password Figure 10. Forgot Password Page
+
+The user is prompted to input a valid email address and select one security challenge question. Enter in
+the work email address and click [SUBMIT].
+
+If the user is registered to access SMART, an email is sent to their validated email address containing a
+
+temporary password to use to access their account. If the user is not registered, the user is prompted to
+complete the registration process.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 6
+
+@SMART
+
+2.6 Exit Solution
+
+To end your SMART session, click [LOGOUT]. Be sure to [UPDATE] any work prior to exiting the system.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 7
+
+®SMART
+
+3 Using My Dashboard
+
+3.1 My Tickets
+
+After you have successfully logged into SMART your default page is the My Dashboard Page. The default
+tab of My Dashboard is the My Tickets Dashboard.
+
+& My PIN Tickets
+
+moo
+
+Figure 11: My Tickets Dashboard
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the My Tickets
+page, click on the “Back to My Tickets Tab” button.
+
+If you have never pinned a ticket to the My Tickets tab of My Dashboard, then you will only see the Top
+20 Most Recent Tickets. If you have pinned a loan to the My Tickets tab, then you will see all the loans
+you have pinned and the Top 20 Most Recent Tickets.
+
+3.1.1 Pin Ticket to My Tickets Dashboard
+
+Step 1: Identify a ticket you would like to pin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to pin, open that ticket.
+Step 3: Click [PIN TO DASHBOARD] button located under the “Ticket Information (Edit Mode)” title.
+
+a& Customer Service - Ticket No. 102622
+
+cattog RBPRTIBRAR rickotaction Notes Documents
+Ticket 102622 (9) 8 Ticket Information (EDIT MODE)
+
+Figure 12: Pin to Dashboard (Ticket Record)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 8
+
+@SMART
+
+Once you have pinned a ticket it will display on the My Tickets Dashboard. If the ticket has multiple
+property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will display in
+
+the My Tickets Dashboard.
+
+3.1.2. Unpin Tickets from My Tickets Dashboard
+
+Step 1: Identify a ticket you would like to unpin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to unpin, open that ticket.
+Step 3: Click [UNPIN FROM DASHBOARD] button located under the “Ticket Information (Edit Mode)”
+
+title.
+a&s Customer Service - Ticket No. 102622
+
+natn, Fett Acton at _ Once
+
+Ticket 102622 (t) B Ticket Information (EDIT MODE)
+FHA Case # az Y | Loan Progra i Non FHA A | Loan #
+Figure 13: Unpin from Dashboard (Ticket Record)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have unpinned a ticket it will no longer display in the My Tickets Dashboard. If the ticket has
+multiple property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will no
+
+longer display in the My Tickets Dashboard.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 9
+
+®SMART
+
+3.2 Supervisor Inbox
+
+The Supervisor Inbox displays all tickets with an open status. To open the Supervisor Inbox, click [My
+DASHBOARD] from the top Navigation menu and select [SUPERVISOR INBOX] from the dropdown.
+
+Figure 14: Supervisor Inbox
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Supervisor
+Inbox page, click on the “Back to Supervisor Inbox” button.
+
+3.2.1 Change Disposition
+
+Step 1: Inside the Supervisor Inbox, click on the [CHANGE Disposition] link from the Actions
+
+column.
+B Change Disposition (EDIT MODE)
+
+Ticket Information
+Ticket # 4 Te lority t FC Sate Date:
+
+Figure 15: Change Disposition (Edit Mode)
+
+Step 2: Select a new disposition from the Disposition dropdown menu. Options in Table 1.
+Step 3: Click [SAve].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+Disposition Type Queue
+
+Refer to NSC (Servicing) Servicing Queue
+
+Refer to NSC (Loss Mitigation) Loss Queue
+
+Refer to NSC (Other) Other Queue
+
+Refer to NSC (HECM Assigned) HECM Queue
+
+Refer to NSC (Sec Held) Sec Held Queue
+
+Refer to NSC (HECM Endorsed) HECM Endorsed Queue
+Referred for GTR Approval GTR Approval Queue
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 10
+
+@SMART
+
+Disposition Type Queue
+
+HECM (CM)
+
+HECM (CM) Queue
+
+HECM (Assigned Servicing)
+
+HECM (Assigned Servicing) Queue
+
+HECM (Endorsed)
+
+HECM Endorsed Queue
+
+Refer to Other HUD/HOC
+
+Servicing Queue
+
+Refer to Housing Counseling
+
+Servicing Queue
+
+Refer to Lender
+
+Servicing Queue
+
+Refer to Servicing
+
+Servicing Queue
+
+Controlled Correspondence
+
+Servicing Queue
+
+Handled by Contractor
+
+Servicing Queue
+
+Referred to (800) CALLFHA
+
+Servicing Queue
+
+Resource Center
+
+Servicing Queue
+
+Transferred to BAC Escalation Team
+
+Servicing Queue
+
+Claim Block
+
+Servicing Queue
+
+RQST Third Party Authorization
+
+Servicing Queue
+
+Pending Concessions
+
+Servicing Queue
+
+NSC Referred to Contractor
+
+Servicing Queue
+
+Handled by NSC
+
+Servicing Queue
+
+Escalation
+
+Servicing Queue
+
+Transferred to WF Escalation Team
+
+Servicing Queue
+
+Table 1: Disposition Types
+
+SMART Customer Service Module | Disposition Workflow
+
+Customer Service Is the
+Rep. creates new disposition type
+
+ticket and selects in the Disposition
+disposition type Type box?
+
+Disposition Type:
+Ticket enters the
+Customer Service
+
+Rep’s My Ticket
+. Refer to NSC (Other) Dashboard
+
+. Refer to NSC (HECM Assigned)
+. Refer to NSC (Sec Held)
+
+. Refer to NSC (Servicing)
+. Refer to NSC (Loss Mitigation)
+
+Supervisor
+selects the
+disposition and
+clicks save
+
+Supervisor clicks
+on the Change
+Disposition link
+
+* Is that
+Ticket enters the correct
+Supervisor Inbox disposition?
+
+Ticket gets auto
+assigned, leaves
+Supervisor inbox
+and enters into
+new assignee My
+Ticket Dashboard
+
+Supervisor clicks
+on the Auto
+Assign link
+
+. Referred for GTR Approval
+
+1
+2
+3
+4
+5
+6. Refer to NSC (HECM Endorsed)
+7
+8. HECM (CM)
+
+9
+
+1
+
+. uenee a Start bX] List of
+. HECM (Assigned Servicing) LEGEND: —— process Disposition Email sent
+0. HECM (Endorsed) EMAIL types !
+
+to Assignee
+
+Figure 16: Disposition Workflow
+
+The disposition column will update to display the new edit. Changing the disposition from the
+Supervisor Inbox will enter the ticket into the respective round robin queen and assign to a new agent
+from the respective round robin queue. The ticket can only enter the round robin queue through the
+Supervisor Inbox. The new designee will receive an email.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 11
+
+
+@®SMART
+
+3.2.2 Auto-Assign
+
+Inside the Supervisor Inbox, click on the [AUTO-AssIGN] link from the Actions column. A pop-up will
+display asking you to choose a New Designee from a drop down.
+
+Figure 17: Auto-Assign Ticket
+
+Select the New Designee and click [SuBMIT]. The ticket will be automatically assigned to that designee
+and they will receive an email.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 12
+
+®SMART
+3.3 HUD Inbox
+
+The HUD Inbox displays all tickets assigned to a HUD user with an open status. To open the HUD Inbox,
+click [My DASHBOARD] from the top Navigation menu and select [HUD InBox] from the dropdown.
+
+&B HUD Inbox
+Fitter by HUD User: ‘ [Reset | Reassign to HUD User elect HUC Reassign
+
+09 FHA Case No
+
+Figure 18: HUD Inbox
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the HUD Inbox
+page, click on the [BACK TO HUD INBox] button.
+
+3.3.1 Filter HUD Inbox
+
+Inside the HUD Inbox, a user can filter the results by selecting a user’s name from the filter drop down
+menu.
+
+Filter by HUD User: Select HUD User
+Figure 19: Filter by HUD User
+
+SMART will save the filters you have selected. When you have opened a ticket and then clicked the Back
+to HUD Inbox button, your filters will remain. The previously viewed ticket will also be highlighted.
+
+Figure 20: Filtered HUD Inbox
+
+To clear the saved filters and reset your search, click on the [RESET] button.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 13
+
+3.3.2
+
+®SMART
+
+Batch Reassign Tickets
+
+Also, inside the HUD Inbox, a user can reassign multiple tickets at once.
+
+deh || Ticket No Priority Call Date
+| meet Pro Pare | - 873248 Low 12/04/2018
+07:43:37 PM
+|
+= 873247 Low | | t Ticket No Priority Call Date
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Step 6:
+
+sravar Low
+Reassign to HUD User: Select HUD User v } Reassien | =
+erz7as Low F
+
+873248 Low 12/04/2018
+
+- 873246 Low 07:43:37 PM
+* 5 873247 Low 12/04/2018
+—————— 07:24:54 PM
+
+4 Select All 873246 Low 42/04/2018
+—— 07:24:41 PM
+
+Select Specific
+
+Figure 21: HUD Inbox Batch Ticket Reassignment
+
+In the Selection column of the HUD Inbox, check the checkbox in the Selection title
+column to select all tickets on that page OR check the checkbox next to a specific ticket.
+Select a user’s name from the Reassign to HUD User drop down menu. Make note of both
+the previous Designee and the new Designee.
+
+Click on the Reassign button.
+
+From the confirmation pop-up, click Submit.
+
+To verify the reassignment, select the previous Designee’s name from the Filter by HUD
+User drop down menu. The ticket will no longer appear.
+
+To verify the reassignment, select the new Designee’s name from the Filter by HUD User
+drop down menu. The ticket will appear.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 14
+
+@®SMART
+3.4 Action List
+
+The Action List displays all tickets that require HUD action. To open the Action List, click [My
+DASHBOARD] from the top Navigation menu and select [ACTION List] from the dropdown.
+
+& Action List
+
+Fiter by HUD User: CY SI Reset
+
+‘Action Past Due
+Action Past Due
+‘Action Due Today
+Action Due Today
+Action Due Today
+
+Action Due Today
+
+Action Dus Dec 122018
+
+Action Due Dec 122018
+
+Figure 22: Action List
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Action List
+page, click on the [BACK TO ACTION LIsT] button.
+
+3.4.1 Filter Action List
+
+Inside the Action List, a user can filter the results by selecting a user’s name from the filter drop down
+menu.
+
+Filter by HUD User: Select HUD User v
+Figure 23: Filter by HUD User
+
+SMART will save the filters you have selected. When you have opened a ticket and then clicked the Back
+to Action List button, your filters will remain. The previously viewed ticket will also be highlighted.
+
+& Action List
+om
+
+Action Oue Today
+
+1213/2018 2 Contact Requred ‘Action Oue Dec 13 2018
+
+Figure 24: Filtered Action List
+
+To clear the saved filters and reset your search, click on the [RESET] button.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 15
+
+@SMART
+
+4 Using the Loan Module & Mail
+
+4.1 Search
+
+Loans can be retrieved through various combinations of the search criteria available on the Loan Search
+Screen.
+
+Q Loan Search Screen
+Search Database SMART PRODUCTION DATABASE
++ Borrower Name: Loan Create Date >=
+
+FHA Case ®: Loan Program:
+
+Loan Skey: Label Printed: * | Property Address:
+
+Loan #: Loan Status: + | Property City
+
+Last 4 Digits of SSN: Loan State: + | Property State: Select a State + EHLP Project #:
+
+Closed Box #: Payment Pian 7 | Property Zip Code: Keyword:
+
++ | Note Create Date >=
+
+Note Text Note Type: + | Note Created By:
+
+Lender Admin
+
+. 7 ~ | Payee / Holder of a ea
+Contact Claim Servicer: Freel Select a Payee / Holder of Record
+
+[Loan Skey) “FHA Case No ) (= Loan Program | | * Borrower Name | |* Property Address | (= Lender Name ) (Closed Bax No) |= Original Prin Bal) | = Updated By | (* Updated Date | |* Loan Status
+
+Search Field Definition
+
+Figure 25: Loan Search Screen
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+
+Close Box # Physical location of stored files
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Current Servicer Servicer/Lender associated with the FHA Case
+
+Exception Type Type of Exception filed in the Exceptions tab
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Label Printed
+
+Indicator of whether or not a hard copy file has been generated for the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Note Type Type of note within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property City City wherein the loan property is located
+
+Property State State wherein the loan property is located
+
+Property Zip Code
+
+Zip Code wherein the loan property is located
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Claim Servicer
+
+Servicer/Lender associated with a Claim
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+File Rec’d Date
+
+The File Received Date of a loan
+
+EHLP Project # EHLP Project Number
+
+Keyword Searches any word within the Search Results data table
+Note Create Date Date that the Note in the Notes tab was created
+Payee/Holder of Record Servicer/Lender assigned as a Holder of Record
+
+Table 2: Loan Search Fields
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 16
+
+
+@SMART
+
+4.1.1 Loan Search — Production Database
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Production Database.”
+
+Search Database: SMART PRODUCTION DATABASE
+
+FHA Case #:
+
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 26: Search Database — Production Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+
+Step 4: — Click [START SEARCH].
+
+Figure 27: Start Search Button
+
+Search results will display in the search result dashboard. Twenty records will display in dashboard.
+
+4.1.2 Loan Search — Legacy Database
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Legacy Database.”
+
+Search Database: SMART LEGACY DATABASE
+
+FHA Case #: |
+
+SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+SMART DAT C DATABASE
+
+Loan Skey:
+
+Loan #:
+
+Figure 28: Search Database — Legacy Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. Twenty records will display in dashboard.
+
+4.1.3. Loan Search — DAT C Database
+
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 17
+
+®SMART
+
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the “DAT
+C Database.”
+
+Search Database: SMART DAT C DATABASE
+
+FHA Case #: |
+
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 29: Search Database — DAT C Database
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. Twenty records will display in dashboard.
+
+4.1.4 Search Results
+
+On the Loan Search page, as well as the Servicing, Bankruptcy, Foreclosure, Mortgage Release, Checks,
+and Customer Service Search pages, the search results will display in the table below the search screen.
+
+&B Search Results
+=<
+=r
+34826265 1205/2018 [Open
+aeons
+“4
+
+Figure 30: Search Results
+
+4.1.4.1 Actions
+
+From the Search Results page, you can generate three different reports. The table below describes the
+capabilities of the buttons located on the top left of the Search Results table. These options are also
+available on all other Search Results pages within SMART.
+
+Export to Excel Bi Excel Exports the data from the table into an excel spreadsheet.
+
+Export to PDF B PDF Exports the data from the table into a .pdf file.
+
+Print © Print Displays the data from the table into a printable page.
+Table 3: Data Table Buttons
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 18
+
+@SMART
+
+4.1.4.2 Result Headers, Search, and Sort
+
+In order to customize your view of the data tables for the Search Results page, the user has three

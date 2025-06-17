@@ -1,0 +1,652 @@
+ in the required fields will auto populate based off of the initial date selected in the first
+
+field.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 83
+
+@SMART
+
+5.2.4 Add Servicing Steps
+
+A predefined template of Servicing Activity steps is generated for a loan when the user adds a servicing
+activity. Various additional servicing activity steps are also available and may be added as needed.
+
+Step1: Click on the [ADD SERVICING STEPS] button.
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents Notes Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Payot Transactions Customer Service
+
+B Servicing Step (ADD MODE):
+
+Figure 191: Add New Servicing Step (Demand Tracking — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new servicing step and all information inserted in the add screen will display in the correct Servicing
+Activity’s timeline.
+
+Note; The Servicing Activities Certificate of Indebtedness (COI) and Loss Mitigation - Compromise Sale —
+Sec Held, does not have the [ADD SERVICING STEPS] button.
+
+5.2.5 Service Management
+The Servicing Management button offers a general summary of the Servicing template and permits the
+user to update the status of the selected servicing template.
+
+Step1: Click on the [SERVICE MANAGEMENT] button.
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspect jon Documents Notes Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Payot ‘Transactions Customer Service
+
+B Servicing Management (EDIT MODE)
+
+Status: Active ad
+
+Figure 192: Service Management (Demand Tracking — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new servicing management information will display in the main table and the Service Management
+screen.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 84
+
+@SMART
+
+5.2.6 — Inactivate Servicing Activity
+
+The status of servicing steps activities may be changed to inactive if the user added them in error or if
+they are no longer applicable for the loan.
+
+Step1: Select Servicing Activity to inactivate and click on the [SERVICE MANAGEMENT] button.
+Step 2: From the status column, select “Inactive”.
+
+Loan Summary Loan Detall_ Loan Filing Loan Recording Borrowers Property Inspection Documents Notes ©» Mortgage Release == Exceptions [IRSSISIrmm Foreclosure © Bankruptcy Disbursements Payoff’ ~—Transactions. «Customer Service
+
+Status: Inactive
+
+B Servicing Management (EDIT MODE).
+
+Servicing Management Inform =tinn For Payoff Request
+
+Payott Amount Due: 904.39
+
+Voucher No:
+
+Cert of indebtedness (CON: Select a CO! Status
+
+Figure 193: Service Management (Payoff Request — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Servicing tab. The selected servicing activity will now display with a
+grey document icon (8) and (I) in the name.
+
+5.2.7. View Notes
+
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+Loan Summary Loan Detal_ Loan Fling Loan Recording Borrowers Property inspection Documents EEE ortwaye Retease Excoptions Servicing Foreclosure Bankruptcy Disbursements Payot Transactions. Customer Service
+
+EB Notes
+
+Auto Note Payot request received
+
+Limportant charles is dong a grea tod 03/07/2018
+09:49:56 AM EST
+
+General Note Limportant charles is doing great job 0307/2018
+07:52:09 AM EST
+
+‘Auto Note Received notice of death, borrower deceased 03/06/2018 03/06/2018
+10:05:28 AM EST
+
+General Note Limportant test 03/06/2018
+
+09:59:31 AM EST
+
+03042018
+10:19:27 PM EST
+
+owoa2018 @ raas73
+
+This ts a test
+asckkhiacktas dhfsakdinlasntsfasidsjwichrawewerty wodtghkbscvbnm, wertyulozxcvondighjtietryudychynhdgbnmbycvonm,m nbvexv;cikuinghighuiopiuytr345678909 11:16:25 PMEST
+
+‘Auto Note Bankruptcy Dsmissed 03042018
+09:32:57 AM EST
+
+‘Auto Note Bankruptcy Filed 0304/2018
+09:32:38 AM EST
+
+Foreciosure Foreciosure Step: Fc! Contested Transfer to DOJ - Judicia Fel 03042018
+
+Figure 194: Notes Tab (Partial Claim)
+
+To go back to the Servicing Tab, click on [BACK TO SERVICING].
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 85
+
+@®SMART
+5.2.8 Edit Servicing Step
+
+The Edit Item action permits the user to update the status of the selected servicing step when there is a
+need for an update or change.
+
+Step 1: = Click on [EpIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+Soo a | Sime |/ Peper |[ Oommen [now || ue ase || Expo seo
+
+B Servicing Step (EDIT MODE):
+
+Active:
+
+Figure 195: Edit Servicing Step (Demand Tracking — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited servicing step and all edited information will display in that timeline’s step.
+
+5.2.9 Inactivate Servicing Step
+
+The status of servicing steps may be changed to inactive if the user added them in error or if they are no
+longer applicable for the loan.
+
+Step 1: Click on the [EpiT ITEM] link for the desired servicing step.
+Step 2: From the status column, select Inactive.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Payot!
+
+B Servicing Step (EDIT MODE):
+
+| Active: Inactive
+
+Figure 196: Inactivate Servicing Step (Demand Tracking — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+This directs the user back to the Servicing tab. The selected servicing step will now display a grey
+inactive button in the status column.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 86
+
+@SMART
+
+6 Using the Bankruptcy Module
+
+6.1 Search
+6.1.1
+
+Searching for Loans with Bankruptcy History
+
+Loans in the Bankruptcy module can be retrieved through various combinations of the search criteria
+available on the Bankruptcy Search Screen.
+
+Q Bankruptcy Search Screen
+Search Database: SMART PRODUCTION DATABASE
+FHA Case #
+
+Loan Skey
+
+Loan
+
+Lender Name: Select a Lendes
+
+Close Box #
+
+Last 4 Digits of SSW
+
+Bankruptcy Case
+
+Note Type Selecta Note Type +
+
+Result Headers:
+
+Step 1:
+Step 2:
+
+Search Field Definition
+
+* Borrower Name:
+
++ | Property Address:
+
+7 | Property State:
+
++ | Bankruptcy Chapter:
+
++ | Assigned:
+
++ | Keyword:
+
+Note Created By: Select a Note Crested By + Note Create Date >=
+
+‘Loan Skay ) (= FHA Case No] (Loan No) (Loan Program | | * Bankruptcy Chapter) (= Case Number] (= Borrower Name) | = Borrower Address | = Onginal Prin Bal] ( * Bankruptcy Status
+
+Figure 197: Bankruptcy Search Screen
+
+Click [BANKRUPTCY] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Bankruptcy Search Screen.
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 digits of SSN The last four digits of the Borrower's Social Security Number
+Bankruptcy Case # Case filing number.
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Bankruptcy Status Shows whether the bankruptcy is Active or Inactive
+
+Bankruptcy Step Bankruptcy actions that have been or need to be completed.
+
+Bankruptcy Step Status Shows whether the bankruptcy step is Pending or Completed
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Bankruptcy Chapter Bankruptcy Chapter
+
+Assigned Name of employee assigned to manage the loan through the bankruptcy.
+Keyword Keyword search.
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Prin Amt
+
+Original principal amount of the loan in dollars (numerals only)
+
+Bankruptcy Scheduled Date
+
+Date bankruptcy step was created or added to a loan
+
+Bankruptcy Completed Date
+
+Date bankruptcy step was completed
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 87
+
+
+@®SMART
+Search Field Definition
+
+Attorney Name of Attorney or Law Firm handling the Bankruptcy process.
+Note Create Date Date that the Note in the Notes tab was created
+Table 6: Bankruptcy Search Fields
+
+Step 3: — Click [START SEARCH].
+
+Figure 198: Bankruptcy Search Screen Buttons
+
+Step 4: = Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Step5: Once the Loan Record is open, you will be automatically directed to the Bankruptcy tab.
+
+6.1.2 Searching for Loans without Bankruptcy History
+
+Loans without bankruptcy history can be retrieved through various combinations of the search criteria
+available on the Loan Search Screen.
+
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 3: — Click [START SEARCH].
+
+Step 4: — Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Step5: Once the Loan Record is open, click on the Bankruptcy tab.
+
+Note: You can also access loans with bankruptcy history through this process.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 88
+
+@SMART
+
+6.2 Bankruptcy Tab
+
+Once the Loan record is open, the Bankruptcy Module is found on the Bankruptcy Tab. If mortgage
+bankruptcy activity has been initiated for a Loan, the Bankruptcy tab in the Loan Record window will be
+highlighted in light blue and will display the current bankruptcy activity of that Loan.
+
+Loan Summary Loan Detail’ Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release = Exceptions © Servicing
+
+@ Bankruptcy
+
+an d By Cre ye Changed By cl
+
+Status
+
+o2re2018
+
+02162018
+
+02162018
+
+Figure 199: Bankruptcy Tab (Partial Claim)
+
+: Exports the data from the table into an excel
+Bi Excel
+Export to Excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Add Bankruptcy Adds a new Bankruptcy Step to the Bankruptcy
+Steps Activity selected for the Loan.
+Bankruptcy View the information for the Bankruptcy Activity
+Management selected for the Loan.
+View Notes ae you to the Notes tab for the loan. See Section
+Search search Search and filter the page by specific keywords. The
+main table will filter based off of the keyword search.
+
+Table 7: Data Table Buttons
+
+The following Bankruptcy Activities apply to all loan programs: Chapter 7, Chapter 11, Chapter 12, and
+Chapter 13. HECM-Assigned, HECM-Insured, and SF Data Request is read-only and the user can not add
+new Bankruptcy Activities for these loan programs.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection ‘Transactions Documents Notes Mortgage Release Exceptions Servicing —_—Foreciosure Customer Service
+
+@ Bankruptcy
+
+Figure 200: Bankruptcy Tab — No Bankruptcy Activity (235-Insured)
+
+If there is no Bankruptcy Activity recorded for the loan, there will be no Data Table displayed on the
+right side of the Bankruptcy tab (see Figure 9). The Bankruptcy Activity data table will display on the left
+with all of the Bankruptcy Activities displayed with a blue plus mark (&).
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 89
+
+@SMART
+
+6.2.1 View an Active Bankruptcy Activity
+
+In the Bankruptcy Activity table, a green document icon (&) and (A) means that the Bankruptcy Activity is
+Active. The active Bankruptcy type will open with its timeline displayed in the main data table. See
+Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Loan Summary Loan Detait Loan Filing Loan Recording Borrowers Property inspection Oocuments Noles Mortgage Release Exceptions Servicing Foreclosure Drsburse Bankruptcy Activity
+© Bankruptcy
+
+co 2 tat Bo E Chapter 7 (A)
+BiChapter 7 (A)
+B Add Chapter
+Baca pier Proof of claim fled oz2v2018 02/16/2018
+Fates Panam a coreare conware Add Chapter 11
+Prost Cum Roce oe ome_| Add Chapter 12
+Figure 201: Active Bankruptcy Activity
+(Chapter 13 — Partial Claim) Add Chapter 13
+
+6.2.2. View an Inactive Bankruptcy Activity
+
+In the Bankruptcy Activity table, a grey document icon (8) and (1) means that the Bankruptcy Activity is
+Inactive. The active Bankruptcy Activity will open with its timeline displayed in the main data table. See
+Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Loan Summary || Leen Dou ]| Lean Fang ][ Loon Recorsing )| Borner || Dresory tepecton || Documents Sa fe! Bankruptcy Activity
+@ Bankruptcy
+Chapter 7 (A
+DD Ic E Chapter 7 (A)
+GB Chapter 7 (A)
+soueaw Bankruptcy Stops Schedule ‘Acton Date i Chapter 12()
+
+Contato of Pan Statameat of een consc0%8
+€ Add Chapter7
++] Add Chapter 7
+@ Aad Chapter 12 Bankruptcy Filed 02162018 02/162018 Pp
+Add Chapter 13 Bansruptcy notification is recewed 02/21/2018 027162018
+oo a — & Add Chapter 11
+
+Figure 202: Inactive Bankruptcy Activity
+
+Add Chapter 12
+(Chapter 12 — Partial Claim)
+
+Add Chapter 13
+
+6.2.3. Add New Bankruptcy Activity
+
+In the Bankruptcy Activity table, a blue plus box (&) means add new Bankruptcy Activity.
+
+Step1: Click on the blue plus box (&) for the Bankruptcy Activity.
+Step 2: Inthe add screen for that Bankruptcy Activity, complete all the required fields.
+
+Loan Summary Loan Detail Loan Filimg Loan Recording ‘Borrowers Property inspection Documents Notes Mortgage Release © Exceptions Servicing ‘Foreclosure Disbursements Payot! Transactions Customer Service
+
+B Bankruptcy Management (ADD MODE):
+
+New Bankruptcy Management Information
+
+Bankruptcy Filed Date: 0272172018 v
+
+Status { Actve “|
+
+Figure 203: Add New Bankruptcy Activity (Chapter 7 — Partial Claim)
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 90
+
+@SMART
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Bankruptcy Activity
+
+Gi Chapter 7 (A)
+
+Loan Summary Loan Detail Loan Filing ‘Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing ‘Foreclosure Disbursem
+© Bankruptcy
+
+moc
+“«
+
+Bankrupte!
+BiChapter 7
+
+E Chapter 12 (1)
+
+& Chapter 7 (1)
+Add Chapter 7
+Add Chapter 11
+Figure 204: New Bankruptcy Activity Added Add Chapter 12
+(Chapter 7 — Partial Claim) Add Chapter 13
+
+The new Bankruptcy Activity will display in the Bankruptcy Activity Table located on the left and all
+information and timeline inserted in the add screen will save in the main table and the Bankruptcy
+Management screen. Any existing active bankruptcy activities will change from active to inactive.
+
+An auto-note and auto-exception will generate if the user creates a new Chapter 7, Chapter 11, or
+Chapter 13. An auto-note and auto-exception will not generate if the user creates a new Chapter 12.
+
+Notes; HECM-Assigned, HECM-Insured, and SF Data Request are read-only and new Bankruptcy
+Activities cannot be added for these loan programs.
+
+6.2.4 Add Bankruptcy Steps
+
+A predefined template of Bankruptcy Activity steps is generated for a loan when the user adds a
+Bankruptcy Activity. Various additional Bankruptcy activity steps are also available and may be added as
+needed.
+
+Step1: Click on the [ADD BANKRUPTCY STEPS] button.
+
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filmg Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Disbursements Payoff Transactions Customer Service
+
+A Bankruptcy Steps (ADD MODE)
+
+Brusxxi¢ &@&& Quy ee rs =z oR kee
+
+Figure 205: Add New Bankruptcy Step (Chapter 7 — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Bankruptcy step and all information inserted in the add screen will display in the correct
+
+Bankruptcy Activity’s timeline. If the user inserts a note into the Note field, then a Bankruptcy note will
+generate in the notes tab.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 91
+
+@SMART
+
+6.2.5 Bankruptcy Management
+
+The Bankruptcy Management button offers a general summary of the Bankruptcy template and permits
+the user to update the status of the selected Bankruptcy template.
+
+Step1: Click on the [BANKRUPTCY MANAGEMENT] button.
+Step 2: Complete all required fields.
+
+B Bankruptcy Management (EDIT MODE)
+
+Bankruptcy Management For Chapter 7
+
+Figure 206: Bankruptcy Management (Chapter 7 — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Bankruptcy management information will display in the main table and the Service
+Management screen. If an edit is made to the Contested Action Concluded field, then an auto-note will
+generate into the Notes Tab.
+
+6.2.6 —_Inactivate Bankruptcy Activity
+
+The status of Bankruptcy Activities may be changed to inactive if the user added them in error or if they
+are no longer applicable for the loan.
+
+Step1: Select Bankruptcy Activity to inactivate and click on the [BANKRUPTCY MANAGEMENT]
+button.
+Step 2: From the status column, select “Inactive”.
+
+@ Bankruptcy Management (EDIT MODE):
+
+Bankruptcy Management For Chapter 7
+
+state.
+
+Figure 207: Bankruptcy Management (Chapter 7 — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Bankruptcy tab. The selected Bankruptcy Activity will now display
+with a grey document icon (8) and (I) in the name.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 92
+
+@SMART
+
+6.2.7. Reactivate Bankruptcy Activity
+Step1: Select Bankruptcy Activity to reactivate and click on the [BANKRUPTCY MANAGEMENT]
+button.
+Step 2: From the status column, select “Active”.
+
+B Bankruptcy Management (EDIT MODE):
+
+Pre [cane] i Status: Inactive
+
+Active
+
+Bankruptcy Management For Chapter 7
+
+Figure 208: Bankruptcy Management (Chapter 7 — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Bankruptcy tab. The selected Bankruptcy Activity will now display
+with a green document icon (&) and (A) in the name.
+
+6.2.8 View Notes
+
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+Loan Summary Loan Detail Loan Fil Loan Recor Borrowers Property Inspection Documents Morgage Release Exceptions Servi Forecionare Bankruptcy Disbursements. Payoff Transactions’ Customer Service
+"9 ang ty a0 00
+
+03062019
+111506 AM EST
+
+Ao Note
+
+Mortgage Release Activity @& rssres
+
+Ato Note 252
+01.2030 PM EST
+
+oxozors
+0433.05 PM EST
+
+127262018
+1228-40 PM EST
+
+Gf 7se535
+
+s2212018
+12.0335 PM EST
+
+Ato Note 12212018
+120315 PMEST
+
+Figure 209: Notes Tab (Partial Claim)
+
+To go back to the Bankruptcy Tab, click on [BACK TO BANKRUPTCY].
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 93
+
+@®SMART
+6.2.9 Edit an Original Bankruptcy Step
+
+The Edit Item action permits the user to update the status of the selected Bankruptcy step when there is
+a need for an update or change.
+
+Step 1: = Click on [EpIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+B Bankruptcy Steps (EDIT MODE).
+
+Bankruptcy Steps For Proof of claim filed
+
+Figure 210: Edit Ba

@@ -1,0 +1,808 @@
+| custamer Sence~ mops | Roe: hud.casupervsomhecm ~| i sintenance - questions? +208 6475053 SET
+Supervisorinbox | HUDInbox Action List Unassigned Tickets
+& My Tickets
+Ticket No FHA Case No jority Designee Caller Name Disposition Reason =| FC Sale Date || ServicerName | BorrowerName | Borrower Address || Aging Created Date
+10:43:48 AM
+‘Showing 1 to 1 of 1 entries revious + | Nex
+
+&B My PIN Tickets
+
+Tenet FHA Case No Proety Desig Calter Ma orrower Name oro : Created By Created Date
+@est007 Tl ST iy Contractor ‘PAYOFF QUEST 191872019 19282019
+022311 PM oraee PM
+@essae Low Handled by Contractot PAYOFF QUESTION wa2e019
+124
+(@ es34a7 ‘Low ‘Handled by Contractor QUE & PAYABLE i 1125/2019
+1 045627 PM
+ossaze Low HECM (Assignes-LSC) DISCRIMINATION s2sa0r9 sv2sore
+121426 PM 01-4453 Pw
+0 4 of 4 ent Previous + | Next
+
+Figure 7: Default Page
+From the Dashboard page you can access every point in the site needed via the Top Navigation Menu.
+
+From left to right, the options are: My Dashboard, Loan, Servicing, Customer Service, Reports, User
+Information, Role, and Maintenance.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 4
+
+@®SMART
+2.4.1. My Dashboard
+
+The default page you come to after you have logged into SMART is the [My DASHBOARD] page. Under the
+tab [My DASHBOARD] you have five options: My Tickets, Supervisor Inbox, HUD Inbox, Action List, and
+Unassigned Tickets.
+
+2.4.2 Loan
+
+The [LOAN] tab directs the user to the Loan Module in SMART. Here you have one option: Search.
+
+2.4.3 Servicing
+
+The [SERVICING] tab directs the user to the Servicing Module. Here you have one option: Search.
+
+2.4.4 Customer Service
+The [CUSTOMER SERVICE] tab directs the user to the Customer Service Module. Here you have three
+options: Ticket Search, Create New Ticket, and CRM Review Queue.
+
+2.4.5 Reports
+
+Under [REPORTS] you have three options: Customer Service, Director Reports, and Servicing/Release
+Reports.
+
+2.4.6 User Information and Roles
+
+Select your user name to view and update your personal identification and contact information. You
+may also change your password and security questions. From the [ROLE] drop-down menu, select the
+role in which to view the SMART System.
+
+2.4.7 Maintenance
+The [MAINTENANCE] tab directs the user to the Maintenance Module. Here you have one option: Ticket
+Round Robin.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 5
+
+@SMART
+
+2.5 Changing Password
+
+To comply with security policies requiring periodic modification to all access passwords, SMART includes
+the Change Password functionality on the My Account page. Follow the steps below to change your
+
+current password.
+
+Step 2: Scroll down the User Information (Edit Mode) page to the Manage Password header.
+
+Step1: From the top Navigation Menu, click your User Name.
+
+Manage Password:
+
+Figure 8: Manage Password
+
+Step 3: Input your current password. Password must contain at least:
+
+Step 4: Input your new password.
+Twelve alphanumeric characters
+
+One special character
+One uppercase letter
+
+One lowercase letter
+
+One number
+
+Step 6: Click [SAVE] at the bottom of the page. 1
+
+Step5: Re-enter your new password to confirm accuracy.
+
+446686
+
+The user is required to change their password every 30 days. The system maintains a password history,
+so that 24 passwords cannot be reused.
+
+If the user logs into SMART after their password is expired between 30 days and 90 days from their last
+password change, they will be redirected to change their password. If the user has not logged on for 90
+days, their account will be disabled. In order to reactivate their account, they will need to contact the
+Help Desk. For information on how to contact the Help Desk, see Section 14: Getting Help.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 6
+
+2.5.1 Forgot Password (Recover Password)
+
+S
+
+C
+
+SMART
+
+To retrieve a lost password, go to the SMART Login Page and click [FORGOT PASsSworD].
+
+@®SMART
+
+Username
+
+Password
+
+_ Unauthorized Access Warning
+
+This warning banner provides privacy and security notices consistent with
+applicable federal laws, directives, and other federal guidance for accessing this
+Government system, which includes all devices/storage media attached to this
+system. This system is provided for Government-authorized use only.
+Unauthorized or improper use of this system is prohibited and may result in
+disciplinary action and/or civil and criminal penalties. At any time, and for any
+lawful Government purpose, the government may monitor, record, and audit
+your system usage and/or intercept, search and seize any communication or
+data transiting or stored on this system. Therefore, you have no reasonable
+expectation of privacy. Any communication or data transiting or stored on this
+system may be disclosed or used for any lawful Government purpose.
+
+Forgot Password Login
+
+Figure 9: Login Page — Forgot Password
+
+Password Reset
+
+Work Email Address
+
+Figure 10. Forgot Password Page
+
+The user is prompted to input a valid email address and select one security challenge question. Enter in
+
+the work email address and click [SUBMIT].
+
+If the user is registered to access SMART, an email is sent to their validated email address containing a
+temporary password to use to access their account. If the user is not registered, the user is prompted to
+
+complete the registration process.
+
+2.6 Exit Solution
+
+To end your SMART session, click [LOGOUT]. Be sure to [UPDATE] any work prior to exiting the system.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 7
+
+@SMART
+3 Using My Dashboard
+3.1 My Tickets
+
+After you have successfully logged into SMART your default page is the My Dashboard Page. The default
+tab of My Dashboard is the My Tickets Dashboard.
+
+6B My Tickets
+
+FHA Case No ty Fe oS Creat
+850378 Low (601 PROGRAM (ACDWASSET OR NOTE SALE 10 o7rte2019
+10:43:48 AM
+8 of # entries
+
+Figure 11: My Tickets Dashboard
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the My Tickets
+page, click on the [BACK TO My TICKETS] button.
+
+If you have never pinned a ticket to the My Tickets tab of My Dashboard, then you will only see the Top
+20 Most Recent Tickets. If you have pinned a loan to the My Tickets tab, then you will see all the loans
+you have pinned and the Top 20 Most Recent Tickets.
+
+3.1.1 Pin Ticket to My Tickets Dashboard
+
+Step1: Identify a ticket you would like to pin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to pin, open that ticket.
+Step 3: = Click [PINTO DASHBOARD] button located under the “Ticket Information (Edit Mode)” title.
+
+4&4 Customer Service - Ticket No. 853427
+
+canton rastacio | [ees | [Oommen
+
+Tichot 853427 (A) (=) B Ticket Information (EDIT MODE)
+
+Figure 12: Pin to Dashboard (Ticket Record)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have pinned a ticket it will display on the My Tickets Dashboard. If the ticket has multiple
+property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will display in
+the My Tickets Dashboard.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 2
+
+@SMART
+
+3.1.2 — Unpin Tickets from My Tickets Dashboard
+Step 1: Identify a ticket you would like to unpin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to unpin, open that ticket.
+Step 3: — Click [UNPIN FROM DASHBOARD] button located under the “Ticket Information (Edit Mode)”
+
+#& Customer Service - Ticket No. 853427
+concog QBBBTSRIY icser ction motes documents
+Test OUT OK-) B Ticket Information (EDIT MODE)
+
+n
+
+FHA Case #: a Loan Program: | ACA~ Compliance | Loans:
+
+Figure 13: Unpin from Dashboard (Ticket Record)
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have unpinned a ticket it will no longer display in the My Tickets Dashboard. If the ticket has
+
+multiple property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will no
+longer display in the My Tickets Dashboard.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 3
+
+@SMART
+
+3.2 Supervisor Inbox
+
+The Supervisor Inbox displays all tickets with an open status. To open the Supervisor Inbox, click [My
+DASHBOARD] from the top Navigation menu and select [SUPERVISOR INBOX] from the dropdown.
+
+&B Supervisor Tickets
+
+| Be | | Brox | | ere | Seach
+Ticket No: Preity Call Date FHA Case No Om 0 Ron Ron “s r
+
+Aging
+
+Reason
+
+Disposmon
+
+sposmon
+
+Figure 14: Supervisor Inbox
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Supervisor
+Inbox page, click on the [BACK TO SUPERVISOR INBOX] button.
+
+3.2.1 Change Disposition
+
+For CRM and SMART Customer Service Tickets, the disposition for a ticket can be changed through the
+[CHANGE DisposiTION] link from the Action column.
+
+Step1: Inside the Supervisor Inbox, click on the [CHANGE Disposition] link from the Actions
+column.
+
+& Change Disposition (EDIT MODE)
+
+| Tic
+
+Figure 15: Change Disposition (Edit Mode)
+
+Step 2: Select a new disposition from the Disposition dropdown menu. Options in Table 1.
+Step 3: = Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+The disposition column will update to display the new edit. Changing the disposition from the
+Supervisor Inbox will enter the ticket into the respective round robin queen and assign to a new agent
+from the respective round robin queue. The ticket can only enter the round robin queue through the
+Supervisor Inbox. The new designee will receive an email.
+
+Disposition Type Queue
+Refer to NSC (Servicing) Servicing Queue
+Refer to NSC (Loss Mitigation) Loss Queue
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 4
+
+@SMART
+
+Disposition Type Queue
+
+Refer to NSC (Other)
+
+Other Queue
+
+Refer to NSC (HECM Assigned)
+
+HECM Queue
+
+Refer to NSC (Sec Held)
+
+Sec Held Queue
+
+Refer to NSC (HECM Endorsed)
+
+HECM Endorsed Queue
+
+Referred for GTR Approval
+
+GTR Approval Queue
+
+HECM (CM)
+
+HECM (CM) Queue
+
+HECM (Assigned Servicing)
+
+HECM (Assigned Servicing) Queue
+
+HECM (Endorsed)
+
+HECM Endorsed Queue
+
+Refer to Other HUD/HOC
+
+Servicing Queue
+
+Refer to Housing Counseling
+
+Servicing Queue
+
+Refer to Lender
+
+Servicing Queue
+
+Refer to Servicing
+
+Servicing Queue
+
+Controlled Correspondence
+
+Servicing Queue
+
+Handled by Contractor
+
+Servicing Queue
+
+Referred to (800) CALLFHA
+
+Servicing Queue
+
+Resource Center
+
+Servicing Queue
+
+Transferred to BAC Escalation Team
+
+Servicing Queue
+
+Claim Block
+
+Servicing Queue
+
+RQST Third Party Authorization
+
+Servicing Queue
+
+Pending Concessions
+
+Servicing Queue
+
+NSC Referred to Contractor
+
+Servicing Queue
+
+Handled by NSC
+
+Servicing Queue
+
+Escalation
+
+Servicing Queue
+
+Transferred to WF Escalation Team
+
+Servicing Queue
+
+Table 1: Disposition Types
+
+SMART Customer Service Module | Disposition Workflow
+
+Customer Service
+Rep. creates new
+ticket and selects
+disposition type
+
+Is the
+disposition type
+
+in the Disposition
+Type box?
+
+Disposition Type:
+Ticket enters the
+Customer Service
+Rep’s My Ticket
+Dashboard
+
+1. Refer to NSC (Servicing)
+
+2. Refer to NSC (Loss Mitigation)
+3. Refer to NSC (Other)
+
+4. Refer to NSC (HECM Assigned)
+5. Refer to NSC (Sec Held)
+
+6. Refer to NSC (HECM Endorsed)
+7. Referred for GTR Approval
+
+8. HECM (CM)
+
+9. HECM (Assigned Servicing)
+
+10. HECM (Endorsed)
+
+Supervisor
+selects the
+disposition and
+clicks save
+
+Supervisor clicks
+
+on the Change
+A Disposition link
+y's that
+VY the correct
+disposition?
+
+Ticket enters
+Supervisor Inbox
+
+Ticket gets auto
+assigned, leaves
+Supervisor inbox
+and enters into
+new assignee My
+Ticket Dashboard
+
+Supervisor clicks
+on the Auto
+Assign link
+
+: Start List of
+LEGEN D: Automatic Manual Disposition
+. Process Process p Email sent
+EMAIL types .
+to Assignee
+
+Figure 16: Disposition Workflow
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 |5
+
+
+@®SMART
+3.2.2 Auto-Assign
+
+Inside the Supervisor Inbox, SMART Customer Service Tickets will have the option to Auto-Assign a new
+Designee. To Auto-Assign, click on the [AUTO-AssIGN] link from the Action column. A pop-up will display
+asking you to choose a New Designee from a drop down.
+
+Figure 17: Auto-Assign Ticket
+
+Select the New Designee and click [SuBmit]. The ticket will be automatically assigned to that designee
+and they will receive an email.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 6
+
+@®SMART
+
+3.3 HUD Inbox
+
+The HUD Inbox displays all tickets assigned to a HUD user with an open status. To open the HUD Inbox,
+click [My DASHBOARD] from the top Navigation menu and select [HUD INBox] from the dropdown.
+
+Tet sewer oe IEEE] oo Unssane Tet
+
+EB HUD Inbox
+
+Fitter by HUD User ‘Select HUD User
+
+moe
+essaee low 12/16/2019
+11.20.43 AM
+
+12/16/2019
+1017-41 AM
+
+353479 Low 12/16/2019
+
+10:19:00 AM
+253472 Low 121042019
+10:44:57 AM
+ass471 Low 1204/2019
+10:42:31 AM
+853470 Low 1210472019
+10:38:30AM
+g 353469 Low 1210472019
+1037-11 AM
+853468 Low 12042019
+10:35:25 AM
+
+. Reassign to HUD User
+
+‘Select HUD User
+
+601 PROGRAM (ACDYASSET OR
+NOTE SALE
+
+LOSS MITIGATION
+
+235 LOAN
+CONVENTIONAL
+
+COMPLAINT
+
+‘Claim Block
+
+Assign to
+supervisor
+Inbox
+
+HECM (Assignes
+sc)
+Controties
+
+Correspondence
+
+Escatation
+
+HECM (Assigned
+~LSC)
+
+Escalation
+
+Escatation
+
+Handled by
+Contractor
+
+g @ 953466 Low 1203/2019 10
+
+10:38:14 AM
+
+235 LOAN Escalation ‘PAssign to
+a
+
+Inbox
+
+853464 Low s1za2019 12
+
+1246.21 PM
+
+203K) LOAN Escalation
+
+Figure 18: HUD Inbox
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the HUD Inbox
+page, click on the [BACK TO HUD INBox] button. If you wish to reassign the ticket to the Supervisor Inbox,
+select [ASSIGN TO SUPERVISOR INBOX] from the Action column and select [SUBMIT] on the pop-up.
+
+3.3.1 Filter HUD Inbox
+
+Inside the HUD Inbox, a user can filter the results by selecting a user’s name from the filter drop down
+menu.
+
+Filter by HUD User: | Select HUD User
+
+a
+
+Figure 19: Filter by HUD User
+
+SMART will save the filters you have selected. When you have opened a ticket and then clicked the
+[BACK TO HUD INBOX] button, your filters will remain. The previously viewed ticket will also be
+highlighted.
+
+EB HUD Inbox
+
+. Roassign to HUD User
+
+Filter by HUD User ‘Select HUD User SAME Reassspn
+
+Search
+
+jeason
+
+950875
+
+11042019
+123039 PM
+
+203(K) LOAN Controlled Correspondence
+
+@ asoure Low 1042019 6
+
+122756 PM
+
+HECM (Assigned - LSC)
+
+PAssign to
+Supervisor
+inbox
+
+203(K) LOAN
+
+Figure 20: Filtered HUD Inbox
+
+To clear the saved filters and reset your search, click on the [RESET] button.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 7
+
+@SMART
+
+3.3.2 Batch Reassign Tickets
+
+Also, inside the HUD Inbox, a user can reassign multiple tickets at once.
+
+EB HUD Inbox
+
+Ca a it Ticket No Priority Call Date
+
+11/25/2019
+
+Borrower Name
+
+853429 Low
+
+12:16:36 PM
+as3az0 ton
+a oe _ 853428 L a t Ticket No Priority Call Date
+
+a}
+ca 951038 Low oO 853429 Low 11/25/2019
+
+a @ 851038 L - 12:16:36 PM
+a Ms g 853428 Low 11/25/2019
+cit a Select All 11:54:10 AM
+3 950015 Low naa, 3 o @ 851038 Low 11/21/2019
+
+- 05:12:24 PM
+ca aso90r PP 12098 3
+05 1648 Pm
+Select Specific
+
+r
+Reassign to HUD User: | Select HUD User v Reassign
+asoaar Low signed
+ca) 850885 Low s1142019 8 PAYOFF QUESTION Escalaton Assign to
+11351 AM Supervisor
+Inbox
+
+Figure 21: HUD Inbox Batch Ticket Reassignment
+
+Step1: Inthe Selection column of the HUD Inbox, check the checkbox in the Selection title
+column to select all tickets on that page OR check the checkbox next to a specific ticket.
+
+Step 2: Select a user’s name from the Reassign to HUD User drop down menu. Make note of both
+the previous Designee and the new Designee.
+
+Step 3: Click on the Reassign button.
+
+Step 4: From the confirmation pop-up, click Submit.
+
+Step 5: To verify the reassignment, select the previous Designee’s name from the Filter by HUD
+User drop down menu. The ticket will no longer appear.
+
+Step6: To verify the reassignment, select the new Designee’s name from the Filter by HUD User
+drop down menu. The ticket will appear.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 8
+
+@SMART
+
+3.4 Action List
+
+The Action List displays all tickets that require HUD action. To open the Action List, click [My
+DASHBOARD] from the top Navigation menu and select [ACTION List] from the dropdown. To display the
+tickets requiring action, you will need to Filter the Action List (see below).
+
+Ticket No 0 Aon Prion FC Sale Date Last Action Date Serncet Nan tion Due Days in Current Action chon Required
+241084 56 Low oar172019 5 e
+a73225 12082019 2 High 1210872019 2 :
+a7 1042019 2 High 12042019 12132019 2 ute
+2019
+wing 1 to 2 of 2 erties .
+
+Figure 22: Action List
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Action List
+page, click on the [BACK TO ACTION LIsT] button.
+
+3.4.1 — Filter Action List
+
+Inside the Action List, a user can filter the results by selecting a user’s name from the filter drop down
+menu.
+
+Filter by HUD User: Select HUD User Vv
+
+Figure 23: Filter by HUD User
+SMART will save the filters you have selected. When you have opened a ticket and then clicked the
+
+[BACK TO ACTION LIST] button, your filters will remain. The previously viewed ticket will also be
+highlighted.
+
+Action List
+
+873225 12/04/2019 2 High 12/06/2019 2 Courtesy Contact ‘Action Due Today
+
+872834 121042019 2 High 127042019 12132019 2 Contact Required ‘Action Due Dec 13 2019
+
+Showing 1 to 1 of 1 entes Previous + | Nex
+
+Figure 24: Filtered Action List
+
+To clear the saved filters and reset your search, click on the [RESET] button.
+
+SMART USER MANUAL | HUD.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 9
+
+@®SMART
+
+3.5 Unassigned Tickets
+
+The Unassigned Tickets tab displays all the unassigned tickets from terminated users. To open the
+Unassigned Tickets tab, click [My DASHBOARD] from the top Navigation menu and select [UNASSIGNED
+TICKETS] from the dropdown.
+
+My Tickets Supervisor inbox HUD Inbox
+
+&B Unassigned Tickets
+Finer by Terminated User: | Select Terminated User . Reassign to User: Select User a
+1 " c c se Caller Nan ’ signee Borrower Name
+
+~ 850150 Low 09/03/2019 nR
+
+235 LOAN Referred to NSC
+03:17:57 PM (Servicing)
+
+350148, Low 0003/2019 rR 235 LOAN Referred to other
+03:1757 PM
+950147 Low 09/03/2019 R 312 REHABILITATION Resource Center
+01:3420 Pm
+850145 Low 0042019 ” 312 REHABILITATION Handled by
+07:06:35 AM Contractor
+a 950142 Low 0903/2019 nR 203K) LOAN Referred to NSC
+03:27:33 Pm (Servicing)
+950141 Low 09/03/2019 nR 235 LOAN Referred to NSC
+03:27:33 PM (Servicing)
+c 850140 Low 09/03/2019 rR ABANDONED CALL Resource Center
+03:27:33 PM
+@ 250139 Low 0904/2019 ” 312 REHABILITATION Referred to NSC
+07.43.40 AM (Servicing
+950136 Low 09/04/2019 ” 312 REHABILITATION Handed by
+07:43:40 AM ‘Contractor
+s 850135, Low 95/09/2019 152 235 LOAN Handled by
+03:04:46 Pm Contractor
+950134 Low 0003/2019 n 203(K) LOAN Resource Center
+01:3420 PM
+950133, Low 09/02/2019 tr) 235 LOAN Controtied
+01:34:20 Pm Comespondence
+@ 950132 Low 09042019 ” 1099/1098 Handed by
+07:06:35 AM ‘Contractor
+
+Figure 25: Unassigned Tickets
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Unassigned
+Tickets page, click on the [BACK TO UNASSIGNED TICKETS] button.
+
+3.5.1 — Filter Unassigned Tickets
+
+Inside the Unassigned Tickets tab, a user can filter the results by selecting a user’s name from the filter
+drop down menu.
+
+Filter by Terminated User: | Select Terminated User v
+
+Figure 26: Filter by Terminated User
+SMART will save the filters you have selected. When you have opened a ticket and then clicked the
+
+[BACK TO UNASSIGNED TICKETS] button, your filters will remain. The previously viewed ticket will also be
+highlighted.
+
+&B Unassigned Tickets
+
+Pts Pee Pern | cen
+
+235 LOAN Handied by Contractor
+
+0w002019
+10:32:10 AM
+
+235 LOAN
+
+s4n301 Low 027282019 101
+1180.31 AM
+
+Controlled Correspondence
+
+Figure 27: Filtered Unassigned Tickets
+
+To clear the saved filters and reset your

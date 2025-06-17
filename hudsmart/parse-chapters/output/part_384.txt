@@ -1,0 +1,684 @@
+B Document (ADD MODE)
+
+Document information
+
+Upload: 2 Drag and Drop tes here oF C¥ck here to upload
+
+Figure 118: Add Document
+
+Step 4: Complete all required fields and click [SAVE].
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+4.4.4.10 View/Add Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab.
+
+Loan Summary Loan Detai_ Loan Filing Loan Recording Borrowers Property nspection Transactions Documents MEER) wortgage Retease Exceptions Servicing Foreclosure Bankruptcy Payot Customer Service
+
+Note
+
+General Note
+
+= ee
+General Note
+
+General Note
+
+Figure 119: View Notes
+
+Changed By Change Date Ticket 1D
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 15
+
+@SMART
+
+Step 1: Click on the [NoTEs] tab within the Loan Record page.
+
+Step 2: Click on the [ADD NoTE] button located under the Notes title to navigate to the Add Note
+window.
+
+B Add Note
+
+Figure 120: Add Notes
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.4.11 View Mortgage Release
+
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+page. For further information, see Mortgage Release Tab.
+
+4.4.4.12 View/Add/Edit Exceptions
+Step 1: Click on the [EXCEPTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+A Exceptions
+Exception Date
+
+Search
+
+‘ Create Date Status eth
+Bankruptcy Discharged 350.00 | @& Eait tem
+qtakta aa bor
+
+Figure 121: View Exceptions
+
+Step 2: To add an exception, click on [ADD EXCEPTION] located under the Exceptions title to
+navigate to the Exception (Add Mode) window. To edit an exception, click on [EDIT ITEM]
+
+located in the Actions column of the Exceptions dashboard to navigate to Exception (Edit
+Mode).
+
+B Exceptions (ADD MODE)
+
+Status:
+
+Figure 122: Add Exceptions
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 16
+
+@SMART
+
+If the Exception Type is any of the following, then an automated note will be generated in the Notes tab.
+
+e Received notice of death, borrower e T&l due and payable decision denied as
+deceased of
+
+e Received notice of death, co-borrower e Account Lender billing - Incentive
+deceased Fee/Claim
+
+e Received notice from lender, loan has e Account Lender billing - Incentive Fee
+been referred to foreclosure as of e = Account Lender billing - CLAIM
+
+e A CAIVRS Block has been added as of e Account Lender billing PAID - Incentive
+
+e CAIVRS Block has been suppressed as of Fee/Claim
+
+e Approved for deferral of T&Il due and e Account Lender billing PAID - Incentive
+payable on Fee
+
+e T&l due and payable decision pending e Account Lender billing PAID - CLAIM
+as of e Lender Billed flag has been removed
+
+e Received Indemnity Agreement
+
+4,.4.4,13 View Servicing
+
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page. For further
+information, see Servicing Tab.
+
+4.4.4.14 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page. For
+further information, see Foreclosure Tab.
+
+4.4.4.15 View Bankruptcy
+
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page. For
+further information, see Bankruptcy Tab.
+
+4.4.4.16 View Payoff
+To access Payoff, click on the [PAYOFF] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions Documents Noles Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy [EERE Customer Service
+
+I Payoff
+
+Figure 123: View Payoff
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 17
+
+@SMART
+
+4.4.4.17 View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions + Documents Notes
+
+Mortgage Release Exceptions © Servicing Foreclosure
+as Customer Service
+
+ooo
+
+EHLP
+
+° 203(K) LOAN Low 1207/2018 12:26:44 PM
+‘Showing 1 to 1 of 1 entries
+
+1207/2018 12:26:42 PM
+
+Figure 124: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 18
+
+4.4.5. Access Details of Default Loan Records
+Note: Default Loan Records includes 235-Insured, ACA-Purchase Money, ACA-Compliance, ACA-
+Enforcement, GNND, Nehemiah, and Other.
+
+4.4.5.1
+
+View Loan Summary
+
+@SMART
+
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record.
+
+BLoan Summary
+
+Loan Detait Loan Filing Loan Recording Borrowers
+
+Property Inspection Transactions. © Documents
+
+3 Mortgage Release
+
+Servicing Foreclosure
+
+Bankruptcy Customer Service
+
+J curentsainees | bree here fp besa Aeenansy
+
+Onginal Principal Amount:
+
+Unpaid Principal Balance:
+
+Tax Escrow Balance:
+
+Farreli2m Balance:
+
+Insurance Damage Balance:
+
+Sennce Fee Balance:
+
+intorest Tax Balance:
+
+Suspense Escrow Balance:
+
+Late Charge Balance:
+
+Current Loan Balance:
+
+Credit Line Balance:
+
+Number ot Payments Delinquent
+
+Pay Type Code:
+
+Pay Application Code:
+
+Payment Status
+
+interest Paid YTD:
+
+Late Charge Pad YTD:
+
+Real Estate Tax Paid YTD:
+
+Times Late YTO
+
+Times Late Totat:
+
+Claim Pay Date:
+
+Payoff Date:
+
+11/1900
+
+Monthly Principal Amount:
+
+Monthly Tax Escrow Amount:
+
+Monthly Farreli2m Amount:
+
+Monthly Service Fee Amount:
+
+Monthly interest Tax Amount:
+
+Totals:
+
+$0.00
+
+$0.00
+
+Figure 125: View Loan Summary (235-Insured)
+
+Note: The Loan Summary tab may not be displayed depending on the Loan Program of the selected loan.
+
+4.4.5.2 View/Edit Loan Detail
+Step 1: Click on the [LOAN DETAIL] tab within the Loan Record page.
+
+Loan Summary [ARSIISEEI Loan Filing Loan Recording Borrowers Property Inspection ‘Transactions © Documents Notes. Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+#5 Loan Detail
+
+Omcer Code: Curr Prin Limit Signed Date Hold Code t:
+Loan Type: Expected int Rate: Funded Date: Hold Code 2
+FHAS 1st mig Current Net Prin Lams Mig ins Cert Date: Hold Code 3:
+30 yrs 0 mos ‘Asst Accepted: ‘Accrual Method
+OPEN ‘Assent Recorded ‘Assess Late Charge:
+First Year Set Aside: Claim Pata: Coltect Tax Escrow: No
+Serv Fee Set Aside: Tite Approval Custodiat:
+Onig Credit Line: ‘At Contractor On: Vacancy Status:
+Loan Class Code: Prin Limit At Closing ‘ARM Change Date: Vacancy Date
+Contract Type Cod F Fig Loan Date: Section of the Act
+Program Type: Status Date Print Statements: Yes
+Last CO Response: Maturity Date:
+ce. Cert Sent
+Due Date Deling NC:
+
+Figure 126: View Loan Detail (235-Insured)
+
+Step 2:
+Step 3:
+Step 4:
+
+Click on [EpIt] located under the Loan Detail title to navigate to Loan Detail (Edit Mode).
+Make the necessary changes, complete all required fields, and click [SAVE].
+On the Confirmation Pop-up, click [SUBMIT].
+
+Note: The Loan Detail tab varies depending on the Loan Program of the selected loan.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 19
+
+@®SMART
+
+4.4.5.3 View/Edit Loan Filing
+Step 1: Click on the [LOAN FILING] tab within the Loan Record page.
+
+Loan Summary Loan Detat (BSIESRIY can Recortng orrowers Property inspection Transactions Documents Notes Mortgage Release Exceptions Servicing Foreclonure Bankruptcy Customer Service
+
+i Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Mame: Mar Fe: Sales Contract: Closing Date
+Prior Servicer Phone: Labe Print HO Settoment Expiration Date
+Project Name tg Doc Exist Note Doc Exists Fie Entered Date
+Project No Deed Restriction Home Owner File Received Date:
+Project 0 of cert (Form oT Type Watce Receved
+Voucher Number Box Number: Lender Mame
+
+VRS Number
+
+Figure 127: View Loan Filing (235-Insured)
+
+Step 2: Click on [EpiT] located under the Loan Filing title to navigate to Loan Filing (Edit Mode).
+Step 3: Make the necessary changes and complete all required fields.
+
+Loan Summary Loan Detat RAIRINPIE Loan Recorsing Borrowers Property Inspection Transactions © Documents. Notes. «Mortgage Release Exceptions. §— Servicing Foreclosure Bankruptcy Customer Service
+
+B Loan Filing Information (EDIT MODE)
+
+Prior Servicer Wome: {Selecta Prior Servicer Name ~ | Closing Dat:
+Project Namo Select a Project Name ~ | xpration Date
+
+Mara Fe Select a Hard Fe | Sales contact: Select Ses Contact ~ | Fe Entered Date:
+Label Print: Sect a Labe Printed | MUO Setement Selecta HUD Settement ~ | Fie Received Date:
+Mag Doc Exists: ‘Select @ Mig Doc Exists * Note Doc Exists: ‘Select a Note Doc Exists * Notice Received Date:
+Deed Restriction: | Selecta Deed =| Home Owner incentive: | Seact a Home Owner incentive ~ | Box Number
+QecertiForm | Sect oT Cort *| or type: Seecta OT Toe ~ | Lender
+
+Voucher Number VRS Number
+
+Figure 128: Edit Loan Filing (235-Insured)
+
+Step 4: — Click [SAVE].
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+4.4.5.4 View Loan Recording
+
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail. —_Loan Filing Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+@# Loan Recording
+
+Loan Recording Information
+
+Page Nar Origination Date: Prepared By
+Instrument Loon Recorded Date Original Trustee:
+Payot Dat: Morigage Amount Subetnue Trustee:
+Aumonzes wines 4 wines 2:
+
+Figure 129: View Loan Recording (235-Insured)
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 20
+
+@®SMART
+4.4.5.5 View/Edit Borrowers
+Step 1: Click on the [BoRROWERS] tab within the Loan Record page
+
+Loan Summary Loan Detail, Loan Filing Loan Recording
+
+|” EE la OL
+& Borrowers Information
+st Name: — SSN: Furst Name: SSN:
+Last Name: Ld Last Name: 4
+Address 1 ; Mail To Name:
+— —
+city | oe: Address 2:
+Figure 130: View Borrowers (235-Insured)
+Step 2:
+:
+
+Loan Summary
+
+Click on [EpIt] located under the Borrowers title to navigate to Borrowers (Edit Mode)
+
+Loan Detail Loan Fiting Loan Recording Borrowers: Property Inspection Transactions: Documents. Notes: Mortgage Release Exceptions Servicing Forectosure Bankruptcy Customer Service
+B Borrowers Information (EDIT MODE)
+Se eee
+| iY iia Faestneme: ish:
+Home
+Birth Date me. Birth Date:
+Work
+Prone:
+
+Phone:
+
+Borrower Address
+
+os: LV Mail To Name:
+Address 2: Address 1
+city
+
+- o ou: Asaress 2
+zw code: | v
+
+| count
+
+Alternate Contact Information
+First Mama:
+
+Figure 131: Edit Borrowers (235-Insured)
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE]
+Step 4: Onthe Confirmation Pop-up, click [SUBMIT]
+
+4.4.5.6 View/Edit Property Inspection
+Step 1:
+
+Loan Summary
+
+Click on the [PROPERTY INSPECTION] tab within the Loan Record page
+
+Loan Detail Loan Filing Loan Recording Borrowers Transactions Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Payoff Customer Servic
+f% Property Inspection
+[aes J bro J ons}
+
+Figure 132: View Property Inspection (235-Insured)
+Step 2:
+
+To edit a property inspection, click on [EDIT ITEM] located in the Actions column of the
+Property Inspection dashboard to navigate to Property Inspection (Edit Mode)
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 21
+
+@SMART
+
+B Property inspection (EDIT MODE)
+
+Property Information
+
+Address 1 anion St v
+
+State Massachusetts ~
+
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.5.7 View/Add/Edit Property Picture
+
+If property pictures have been attached to a Loan, a camera icon will appear next to the property
+record. Loan Property Pictures can be viewed in the Property Inspection tab where the Active Property
+photo will be displayed.
+
+Step 1: Click on [EpiT ITEM] located in the Actions column of the Property Inspection dashboard to
+navigate to Property Inspection (Edit Mode).
+
+Step 2: Scroll to the bottom of the page to view the Property Picture dashboard.
+
+Step 3: To adda picture, click on [ADD PictTuRE] located under the Property Pictures title. To edit a
+picture, click on [EDIT PicTuRE] located in the Actions column of the Property Pictures
+dashboard.
+
+Step 4: Drag and drop a picture or click on the Upload button to upload a file (if you are using
+Internet Explorer, you can only click to upload). (Note; Only TIF, JPG, JPEG, PNG, or PDF
+files are accepted.)
+
+Step 5: Complete all required fields and click [SAVE].
+
+Step 6: Onthe Confirmation Pop-up, click [SUBMIT].
+
+After saving, the user redirects to Property Inspection edit mode and if the user scrolls down the
+Property Picture dashboard will display with new addition.
+
+4.4.5.8 View/Add/Edit Documents
+Step 1: Click on the [DOCUMENTS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers ‘Property inspection Transactions Notes Mortgage Release Exceptions Servicing ‘Foreclosure Bankruptcy Customer Service
+
+@ Documents
+
+Figure 134: View Documents (235-Insured)
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 22
+
+®SMART
+
+Step 2: To adda document, click on [ADD DOCUMENT] located under the Documents title to
+navigate to Document (Add Mode). To edit a document, click on [EDIT DOCUMENT] located
+in the Actions column of the Documents dashboard to navigate to Document (Edit Mode).
+
+Loan Summary Loan Detail Loan Filing Loan Recording “Borrowers Property Inspection Transactions Notes Mortgage Release Exceptions Servicing — Foreclosure Bankruptcy Customer Service
+& Document (ADD MODE)
+
+£.0rag and Drop fes here o Cick hee to upload
+
+Description
+
+Figure 135: Add Document (235-Insured)
+
+Step 3: Drag and drop a document or click on the Document Upload button to upload a file (if you
+are using Internet Explorer, you can only click to upload). Note: Only PDF, ZIP, DOC, DOX,
+XLS, XLSX, PPT, PPTX, and TXT files are accepted.
+
+Step 4: Complete all required fields and click [SAVE].
+
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+4.4.5.9 View/Add Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab.
+
+Loan Summary Loan De ng c a wers y Insp ments F notes | Mor se Servicing se
+6B Notes
+
+ng
+
+Ni ce
+ra Note
+: ee
+General Nob
+ito Note
+sto Note
+eral Note
+
+Creat
+
+Mote
+
+Figure 136: View Notes (235-Insured)
+
+Step1: Click on the [NoTEs] tab within the Loan Record page.
+Step 2: Click on [ADD NoTE] located under the Notes title to navigate to the Add Note window.
+
+B Add Note
+
+Figure 137: Add Note (235-Insured)
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 23
+
+@SMART
+
+4.4.5.10 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+page. For further information, see Mortgage Release Tab.
+
+4.45.11 View/Add/Edit Exceptions
+Step 1: Click on the [EXCEPTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detait Loan Filing Loan Recording Borrowers Property inspection Transactions. Documents Notes Mortgage Release Servicing Foreclosure Bankruptcy Customer Service
+
+A Exceptions
+
+moo
+Exception Date
+
+Figure 138: View Exceptions (235-Insured)
+
+Step 2: To add an exception, click on [ADD EXCEPTION] located under the Exceptions title to
+navigate to the Exception (Add Mode) window. To edit an exception, click on [EDIT ITEM]
+located in the Actions column of the Exceptions dashboard to navigate to Exception (Edit
+
+Loan Summary Lon Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions Documents Notes Mortgage Release Servicing Foreclosure Bankruptey Customer Service
+& Exceptions (ADD MODE):
+
+Figure 139: Add Exception (235-Insured)
+Step 3: Complete all required fields and click [SAVE]. On the Confirmation Pop-up, click [SUBMIT].
+
+If Exception Description is any of the following, then an automated note will be generated in the Notes
+tab:
+
+Received notice of death, borrower
+deceased
+
+Received notice of death, co-borrower
+deceased
+
+Received notice from lender, loan has
+been referred to foreclosure as of
+
+A CAIVRS Block has been added as of
+CAIVRS Block has been suppressed as of
+Approved for deferral of T&l due and
+payable on
+
+T&I due and payable decision pending
+as of
+
+T&I due and payable decision denied as
+of
+
+Account Lender billing - Incentive
+Fee/Claim
+
+Account Lender billing - Incentive Fee
+Account Lender billing - CLAIM
+Account Lender billing PAID - Incentive
+Fee/Claim
+
+Account Lender billing PAID - Incentive
+Fee
+
+Account Lender billing PAID - CLAIM
+Lender Billed flag has been removed
+Received Indemnity Agreement
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 24
+
+@SMART
+
+4.4,5.12 View Servicing
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page. For further
+information, see Servicing Tab.
+
+4.4,5.13 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page. For
+further information, see Foreclosure Tab.
+
+4.4,5.14 View Bankruptcy
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page. For
+further information, see Bankruptcy Tab.
+
+4.4.5.15 View Transactions
+To access Transactions, click on the [TRANSACTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection [IEEEESEEIN Documents Notes Mortgage Release Exceptions = Servicing Foreclosure Bankruptcy Customer Service
+
+@ Transactions
+
+| Bec! | | Brit | a
+Emective Date Tans Code E a Created By c
+
+r2072018
+
+1207201 veoe tons $102
+a A)
+Showing 1 to 3 of 3 entnes
+
+Figure 140: View Transactions (235-Insured)
+
+4.4.5.16 View Customer Service
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy
+
+a& Customer Service
+
+Poss Pons Pon]
+
+Figure 141: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 25
+
+@®SMART
+
+4.4.6 Access Details of HECM-Assured Loan Records
+Note: All HECM-Assured Loan Records are Read Only.
+
+4.4.6.1 View Loan Detail
+
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record.
+
+Loan Filing Loan Recording Borrowers Property Inspection Documents Loan Bal Trans Noles Mortgage Release Exceptions Servicing Foreclosure Sankruptcy Disbursements Property Taxes. ACH info. Payot
+Mah Statements SeLAside-E8e Customer Service
+
+# Loan Detail
+
+Loan Payment Information
+
+Loan Status 06-34 - Paiot - otner Orig Line of Creait: $21,858.99 Team Payments: 360
+Payment Plan LINE OF CREDIT Gross Line of Creat: $248,389.81 Tax Escrow Amount: $30.00
+Sch Pay Status. Payment Suspended Unsch. Loan Balance: $25,716.55 Maximum Cait: $230,000.00
+‘Sch Monthy Payment: Net Line of Credit: $248,389.61 Tax Escrow Amount
+Mortgage Signed Date orrze004 Orig Loan Date: 12972004 Cort of Occupancy:
+Funded Oate: 2103/2004 At Contractor On: 10272010 Occ. Cert Sent:
+tag ins Cert Date: oani2zo0e Title Approvat Vacancy Date:
+Assign. Date: Payott Date: 0572572017 ase Rea, For Cust
+Assign. Accepted AP Code: 8 Date Placed In Cust
+Curr Int Rate: 1.6200 Margin: 1.5000 Re 5.5800
+Prev. nt Rate: 1.6200 Rate at Closing: 27000 ARM Pion: MONTHLY
+ext mt Rate: 1.6200 Nextint Rate syoy012 Pent na: YES
+‘ARM index: [ARM Period:
+Original Principal Limit: $178 410.00 Current Principal Limit: $250,842.42
+Principat Balance: ($353.23) Interest Balance: $51.18
+Service Fee Balance: $0.00 MiP Balance $000
+
+Figure 142: View Loan Detail
+
+4.4.6.2 View Loan Filing
+To access Loan Filing, click on the [LOAN FILING] tab within the

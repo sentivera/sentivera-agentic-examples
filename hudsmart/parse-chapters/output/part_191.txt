@@ -1,0 +1,696 @@
+M
+
+in32019 11:42°30 AM
+
+1n/n32019 08:51:20 AM
+
+Accepted Sy
+Date Accepted, 1205/2019 01.2903 PM.
+
+Accoones 8;
+Date Accepted: 11262079 0147 56 PA
+Accepts 6
+ste Accepted: 11/26/2019 01 3428 Pas
+cocptes 5
+Date Accepted: 11262089 1253.31 PM
+sccoctes 8
+Date Accepled: 11262019 1142.10 4M
+Access 0y
+ate Accepted: 11252019 6245.42 PA
+Accoptes 6;
+(Date Accapted: 11252009 02.33.18 PM
+eee oy
+‘Date Revered: 1172572019 02:32:40 PHA
+Reone 2;
+Date Reverted: 11222018 08405346
+accepts 5)
+iste Accepted: 11212099 TAZ 08 AM
+Accepted ty
+(Date Accepted: 11/20/2019 01 33:45 PA
+Accootes &y
+Date Accepted: 117132018 045525 PA
+
+Accopes 5y
+ate Accepted: 11132019 069653 PA
+
+Recveses nce
+Dale Requested 11/13.2018 11 2 30 Aa
+
+Accocted 6
+(Date Accepted 11/132019 0951 20 ANE
+
+Figure 214: SPS — Checks Submitted / Checks Status
+
+Accepted by Treasury
+
+‘Accepted by Treasury
+
+‘Accepted by Treasury
+
+Accepted by Treawury
+
+Pencang Cancetaton
+
+Accepted by Treasury
+
+SMART USER MANUAL | HUD.SERVICINGSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 92
+
+@SMART
+
+9.5 Pay.Gov Dashboard
+
+To access the Pay.Gov Dashboard, click [CASH MANAGEMENT] from the top Navigation menu and then
+select [PAY.GOv DASHBOARD] from the dropdown. The Pay.Gov Dashboard summarizes all settled
+transactions submitted from Pay.Gov lender and non-lender forms regardless of where the transaction
+is in the validation process. The Dashboard is organized by the daily .xml file that is retrieved from
+Pay.Gov by the SMART system. Each file name contains a link that will open a detailed dashboard with
+all transactions retrieved from that day.
+
+{© Pay.Gov Dashboard
+
+Totat CSV Queve Total Funds Returned
+$2040 TLNL_DASHvalidations33.xisx 1 1 ° ° ° ° Processed 12/04/2019 13:40:34 PM
+1204NLCSVparent.xisx ° ° 1 o o Processes 12/04/2019 144436 PM
+1205_OT_2083.xisx 2 2 ° ° ° ° Procested 1205/2019 122338 PM
+1205_0T_2083_2.xisx 1 ° o o o Processed 1205/2019 1237.44 PM
+1205_0T_2083H4Hxlsx 1 1 ° ° ° ° Processed 12/05/2019 124128 PM
+1205_0T_2083s2.xisx 3 3 ° ° ° ° Processed 1208/2019 142252 PM
+
+1205 _DT_2083s2h4n.xisx 1 1 ° ° ° ° Processed 12/05/2019 14.30.44 PM.
+1205_DT_z00s2n4n2.xisx 1 ° ° o o Provessee 12/05/2019 144623 PM
+1205_0T_2083s2n4h22.xisx 1 1 ° ° ° ° Processed 12/08/2019 14:57:30 PM
+1205_OT_208382n4n222.xIsx 1 ° ° ° ° Processee 120052019 15:11:53 PM
+1205_0T_2083x2.x18x 1 1 ° ° ° ° Processed 12005,2019 1238.48 PM
+1205_KLXLSX01 xisx ‘ ‘ ° ° o ° Processed 12/05/2019 07:48:43 AM
+esvparentv2.xisx 1 ° ° ° 1 ° Procested 1270272099 11:14:51 AN
+FormActivityFile_09032018.xmi 2 ° 1 o 4 Processed rniazore 14:15:26 PM
+FormActiviyFte_09042019.xm 3 ° ° ° ° o Processee 1192019 14:16:02 PM
+FormActivayFte_09062049.xm 2 5 ° 5 ° ° Processed 1171972019 14:16:36 PM
+FormActivayFite_09092019.xm Fe ° ° ° ° o Processed 117192019 14:17:56 PM
+FormActivityFile_09122018.xm 3 1 ° 1 1 ° Processed tiigaoie 141932 PM
+FormActvayFite_09162019.xm 6 3 ° 1 2 ° Processed s1i1972018 14:20:16 PM
+
+Figure 215: Pay.Gov Dashboard
+
+The following icons are used in the Pay.Gov Dashboard to assist the user in identifying the location and
+origin of a transaction. The icons are located next to the FHA Case Number.
+
+Icon Description
+
+v This is for transactions that have successfully been posted to the transactions tab of a loan.
+This is for transactions that originated from a CSV file. This icon will not be present for transactions
+6 with CSV files that were “Accepted as Doc” from the Review Failed CSV screen. Instead, a date will be
+entered into the “Date CSV Failed” column.
+pig This is for transactions that have been returned to the remitter or to another department.
+
+Table 13: Pay.Gov Icons
+
+The Detailed Dashboard tracks the lifecycle of individual Pay.Gov transactions.
+
+IG Pay Gov FormActivityFile_10112019 xmi Dashboard
+
+0
+
+av Levee Patio Caen ppc $50.00 1192019 11252019 1asz018 1972572019
+
+142300 PM 133438 PM 140555 PM 14.0655 Pat
+3 Lenser Pan PROP 3687000 1200572019
+158845 PM
+
+4 Lender Pant PROP st0.00 nisz019 11Rs2019 suasc019 nzsz019
+
+142308 Pat 132615 PM 143219 PM 143219 PM
+
+av Levee Panu PROP $2500.00 1205/2019 1290522019 120572019 120952019
+
+o7s44s.am 10-11 Ane 111890 aM 111050 AM
+
+a] Lencer Pant PROP $1,900.00 1192019 svz02019 r202019
+
+14:23:68 PI 09st tn ant 095118 Mt
+
+Se Lender Pet PrOP $3242.00 11192019 11252019 qwes019 11252019
+
+1423.00 PM 144825 Pa 144534PM 144836 PM
+
+av] Lenser Pant peor 25.00 iwis2o19 122018 nesa019
+
+142308 PM 130833 13:09:33 Pt
+
+an Lenser Pate pPoP $23.433.423.00 2019 1252009 11282019
+
+142308 PM 194511 Pie 144511 Pe
+
+Figure 216: Pay.Gov Detailed Dashboard
+
+SMART USER MANUAL | HUD.SERVICINGSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 93
+
+@SMART
+
+The Detailed Dashboard has three possible action links:
+
+1. View Transaction History — This link will allow you to view the transaction history for the
+selected FHA Case Number
+
+[Pay Gov EE Transactions
+FWA Case No Transaction 1 =
+
+ase We Transaction Date
+
+|| Re Recitter 11282019 14:32:19 PM uscHPwn LUSCHPMM - Unschecuied PMM Dssbursement Overage Refund $10.00 || a ma
+‘Showing 1t0 2 of2 erties evious a Nex
+Figure 217: View Transaction History
+
+2. View Nature of Return — This link will display only if the transaction was returned to another
+department or to the remitter. The link will open a read-only version of the return transaction
+information.
+
+BRetum Funds
+
+Pay.gov Case Information
+
+(Check Note: PAY.GOV REFUND Treasury Check # ' Printed Date: 2019-11.25 1433-19553 Printed User I: PC
+
+Figure 218: Return Funds Information
+
+3. View CSV History — This link will display only if a CSV file was attached with the Pay.Gov form
+submission. The original and final CSV files are available to be downloaded.
+
+{i Pay.Gov Tracking ID 3FPGGV9R Original Form Entries
+
+Showing 1101 oft entries revious i Nex
+
+Figure 219: View CSV History
+
+To return to the Detailed Dashboard page from the three above action items, click the [BACK TO PAY.Gov
+ACTIVITY DASHBOARD] button.
+
+SMART USER MANUAL | HUD.SERVICINGSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 94
+
+@®SMART
+
+9.6 Pay.Gov Queue
+
+To access the Pay.Gov Queue, click [CASH MANAGEMENT] from the top Navigation menu and then select
+[Pay.Gov QUEUE] from the dropdown. The Pay.Gov Queue houses all transactions that did not pass
+SMART validation to board directly into the transactions tab of a loan.
+
+(@ Pay.Gov Queue - Pending Decision
+
+12/182019 01:20:05 PM Lender Partai Cisim MTC $212,087.45
+
+121822019 01:19:28 Pat Lender Hee samt 800 00
+12/18:2019 01:03:31 PM Lender Partai Cisim PRC ‘5100.00
+
+12/1772019 02-06-45 Pat Lender Pune
+
+POP
+12/17/2019 02:06:45 PM Lender pum PPO! 3555.00
+PPC
+
+12/17:2019 02:05:52 Pat Lender
+
+rane
+127172019 020552 Pat Lender Pum PoP $444.00
+127172019 0205.52 Pat Lender rane
+
+ran
+
+12/17/2019 02:05:52 PM Lender
+
+Figure 220: Pay.Gov Queue
+In the Pay.Gov Queue, users can research and determine to take one of two available actions:
+
+1. View Existing Loan — This link will only display if the FHA Case Number exists in SMART. This link
+will allow you to view the loan search screen for that loan.
+
+6B Search Results
+
+Pana Clam $0380.33 oo: =o
+Showing 1 to tof f entries revious + | Nex
+
+Figure 221: View Existing Loan — Search Screen
+
+2. Review Transaction — This link will allow you to view all the information received from Pay.Gov
+in the Pay.Gov Case Information box. This page is read only in this role.
+
+B Review Transaction
+
+Figure 222: Review Transaction
+
+SMART USER MANUAL | HUD.SERVICINGSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 95
+
+@®SMART
+
+9.7 Review Failed CSV
+
+To access the Review Failed CSV screen, click [CASH MANAGEMENT] from the top Navigation menu and
+then select [REVIEW FAILED CSV] from the dropdown. The Review Failed CSV screen is used to house all
+CSV files that did not pass the CSV validation and need further review.
+
+Review Failed CSV - Pending Decision
+
+[nee ovo ] ons | — | == Fic]
+=r rer TTT ecevaaeateat bt ape pases
+ern rere Te ete nt tHe Ser nt
+ae rE
+
+26 board 10 101162019 $20,32820 ‘The CSV column count ws not 17 If applicable, please remove s
+‘commas frors the CSV Sie
+
+deboardtoc Svcs roe2018 596,128.64 ‘The CSV column counts nat 17. f applicable, please remove z
+the CSV Se
+
+comenay fos
+
+3eboardtoC SV (HoH 10162019 $20,2058 Upioad atlemts: 3
+Grace Diamond
+‘Date: 1210422019 13:06:16 Pat
+The CSV column count isnot 17. appicable, please remove #
+‘commas tom the CSV Be
+3PMMIOC SVOUeUE.co¥ 107162019 $6,870.00 The CSV column court isnot 17. applicable, please remove «
+commas fre the CSV the
+Board to cv Lew ror62019 $8,000.90 ‘The CSV column count m not 17 If applicable, please remove &
+‘commas frors the CSV fie
+Boars to cov Nes 101622019 $1,500.98 ‘The CSV column count isnot 17. applicable, please remove «
+commas tree the CSV te
+Board to cav IVesv 1062019 $3,000.00 ‘The CSV column count snot 17 i applicable, please remove s
+‘commas fees the CSV fie
+Board to paygov Lew 10162019 357,000.00 The CSV column count isnot 17 If applicable, please remove «
+‘commas from the CSV fle
+Bookt.cev 08182019 $54. 342.734.00
+
+‘The CSV column counts not 17. applicable, please remove «
+‘commas fom the CSV fie
+
+Figure 223: Review Failed CSV
+
+From this screen the user can download the CSV file and review the reason for failure. This page is read
+only in this role.
+
+SMART USER MANUAL | HUD.SERVICINGSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 96
+
+@SMART
+
+10 Using the Customer Service Module
+
+Within the Customer Service Module, there are two types of tickets: SMART and CRM. SMART tickets
+are created using the SMART application. CRM (Customer Relationship Management), tickets are
+created in a separate program used to track customer service tickets. CRM tickets are then imported
+into SMART. The @ icon will appear before or after the CRM Ticket Number anywhere a Ticket appears
+(such as My Tickets, All Inboxes, Ticket Search Screen, and within the Customer Service Module Ticket
+Information Screen).
+
+Additionally, there are two types of tickets: sys tickets and non-sys tickets. If a Loan No. exists for a
+ticket, then that system is sys. If a Loan No. exists for a ticket, then that system is non-sys.
+
+10.1 Ticket Search
+
+Customer Service Tickets can be retrieved through various combinations of the search criteria available
+on the Ticket Search Screen.
+
+Q Ticket Search Screen
+
+FHA Case #: ~ Borrower Name:
+
+Loan Skey:
+
+* Property Address:
+
+~ Property State
+
+Figure 224: Ticket Search Screen
+
+Step 1: Click [CUSTOMER SERVICE] from the top Navigation menu. Select [TICKET SEARCH] from the
+dropdown.
+
+Step 2: Select the search criteria from the displayed search fields in the Ticket Search Screen.
+
+Step 3: — Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+Ticket Skey SMART system identification number unique to each ticket
+Control No Ticket Control Number
+
+CRM Service Request No
+
+CRM system identification number
+
+CRM Company Name
+
+Name of Company for CRM ticket.
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Ticket Status Current high-level status of the ticket (Open or Closed)
+Created By User that created the ticket
+
+Designee User that is assigned to the ticket
+
+SMART USER MANUAL | HUD.SERVICINGSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 97
+
+
+@SMART
+Search Field Definition
+
+Note Text Searches any word w/in the content of notes within the Notes tab of the Loan Record
+Note Type Type of note within the Notes tab of the Loan Record
+
+CRM Client Type Type of CRM Client (Real Estate Professional, Home Owner, Closing Agent, etc.)
+Ticket Creation Type Date the ticket was created
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Caller Name Name of the Caller
+
+Ticket No. Identification number for that ticket
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Ticket Loan Program
+
+Loan Program associated with the Ticket
+
+CRM Service Request Created Date
+
+Date the CRM ticket was created
+
+Keyword
+
+Keyword search.
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Call Date Date of the customer service call
+Ticket Create Date Date the ticket was created
+Ticket Closed Date Date the ticket was closed
+Disposition Where the ticket is assigned
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Reason For Calling
+
+Reason for the customer service call
+
+CRM Escalated Date
+
+Date the CRM ticket was escalated
+
+Table 14: Ticket Search Fields
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | HUD.SERVICINGSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 98
+
+
+@®SMART
+
+10.2 Accessing Detailed Customer Service Information
+
+From the Search Result Dashboard, click on the Ticket No. to open the ticket. The user is redirected to
+the ticket’s Ticket Detail tab in the Customer Service Module.
+
+~ ClLoan Record - Non-FHA
+
+FHA Case a Loan Program: ihc skey: a Loan Wo:
+
+Ticket No
+
+RATT TicketActon Notes. Documents. Borrower History
+Ticket 853458 () 42
+Ticket 853457 () 4)
+
+wana E>
+
+Ticket 853454 f)
+
+Figure 225: Customer Service Module
+
+10.2.1 View/Edit Ticket Detail
+
+The default page within a Customer Service Ticket is the Ticket Detail page. Here the user can view and
+edit Ticket Information.
+
+Step1: Inside the Customer Service Module, click on the [TICKET DETAIL] tab.
+
+4% Customer Service - Ticket No. 853455
+
+a er
+
+B Ticket Information (EDIT MODE)
+
+Ticket £63488 ( 42
+
+Ticket 853457 0 4)
+‘Thehet 852455 (A)
+Ticket 853454 (0)
+
+Figure 226: View/Edit Ticket Detail
+
+Step 2: Complete all required fields. Note;| The Loan Information box, Ticket # field, and
+Borrower/Caller Information box are only editable for Supervisor roles.
+Step 3: = Click [SAVE].
+
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+This saves all the updated information.
+
+SMART USER MANUAL | HUD.SERVICINGSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 99
+
+@SMART
+
+10.2.2 Ticket Resolution
+The Ticket Resolution box is found in the Ticket Detail tab. This table lists all the notes (with the
+exception of Nature of Issue) in descending order.
+
+Clicking the [Copy TO CLIPBOARD] button allows a user to Copy and Paste (Ctrl + V) into a free-form box in
+plain text.
+
+Ticket Resolution
+
+Copy to Clipboard Search
+Importance Note Create Date
+Ticket Closed by 11/29/2019 12:41:13 PM
+Original Ticket Loan Program FHA Insured has been updated to EHLP by 11/29/2019 11:59:36 AM
+Ticket Re-Assigned to Supervisor Inbox by [i 08/06/2019 16:18:42 PM
+Original Ticket Loan Program FHA Insured has been updated to Partial Claim by 08/06/2019 16:04:01 PM
+Showing 1 to 4 of 4 entries Previous + | Next
+
+Figure 227: Ticket Detail - Ticket Resolution
+
+10.2.3 Create New Call Log
+Step1: Inside the Call Log tab, click on [CREATE NEW CALL Log].
+
+Cs
+
+Ticket 083468 () #9 2 Call Logs For Ticket No 853455
+Ticket 953457 )49
+
+‘Tochat 853485 (A)
+
+Tehet 063464 th [be | Ca ~
+frst Mame Last E Prone Extent Ema Created Create o c ® Change Date
+
+Figure 228: View Call Log
+
+Step 2: Complete all required fields.
+
+RTPA) victet etait Ticket Action Notes Documents Borrower History
+
+B Edit Call Log
+
+Figure 229: Create New Call Log
+
+Step 3: = Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+The new call log and all information inserted in the add screen will display in the table on the Call Log
+tab. To edit the call log, select Edit Log in the Action column on the Call Log page. Complete all required
+fields and Click Save.
+
+SMART USER MANUAL | HUD.SERVICINGSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 100
+
+®SMART
+10.2.4 View/Add Ticket Action
+
+Step1: Inside the Customer Service Module, click on the [TICKET ACTION] tab.
+
+Ticket No. CallLog Ticket Detan RR
+
+Ticket 968566 (A) 2 Ticket Action For Ticket No 868566
+
+icket Actio Created By Create Date te Dat Days in Current Action ‘Action
+‘Authorzed Third Party 11262018 12082018 9 Click to Complete
+Courtesy Contact 11202018 11262018 3 Completed
+
+Figure 230: View Ticket Action
+
+Step 2: To adda new Ticket Action, click on [CREATE NEW ACTION].
+
+‘Tichet Su860s (A) © Create New Ticket Action For Ticket No 868566
+
+Ticket Action Detail
+Current Action: [ Selecta Curent Acton x |
+
+Complete Date: 1207/2018
+
+Figure 231: Create New Action
+
+Step 3: Select the Action to add from the Current Action dropdown menu.
+
+Step 4: If the Action has not been completed, clear the Complete Date field. If the Action has
+been completed, put the date in the Complete Date field. Then click [SAVE].
+
+Step 5: From the confirmation pop-up, click [SUBMIT].
+
+10.2.5 Complete Ticket Action
+
+Step1: Inside the Ticket Action tab, click on the [CLICK TO COMPLETE] link located in the Actions
+column for an action that has not yet been completed.
+
+Ticket No. cantog — Ticket Detat RRR woes Documents
+
+Ticket 968566 (A) © Ticket Action For Ticket No 868566
+
+Figure 232: View Ticket Action
+
+Step 2: The link redirects to the Edit Ticket Action page. Fill in the Complete Date and click [SAVE].
+Step 3: From the confirmation pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.SERVICINGSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 101
+
+@®SMART
+10.2.6 View/Add Notes
+
+Inside the Customer Service Module, all the notes associated with that Ticket Number will display in
+chronological order on the Notes tab.
+
+Ticket No. CaltLog —TheketDetat Ticket Action TEI bocuments @
+
+Ticket 871625 (A) FB Notes
+
+Is
+
+117302018 971625
+
+11302011
+09:45:47 AM EST 09:49:28 AM EST
+
+Figure 233: View Notes
+
+Step1: To add anew note, click on the [NOTES] tab within the Customer Service Module.
+Step 2: Click on [ADD NOTE] to navigate to the Add Note window.
+Step 3: Complete all required fields.
+
+Ticket No. Canto Tenet Dotan Tice Acton ERI cocuments
+
+ee BAdd Note
+
+Figure 234: Add Note
+
+Step 4: — Click [SAVE].
+Step5: On the Confirmation Pop-up, click [SUBMIT].
+
+10.2.7. View All Notes
+
+Inside the Notes tab, click on the View All Notes button. All the notes associated with that FHA Case
+
+Number will display in chronological order. To go back to the Notes associated only with the Ticket
+Number, click on the Notes tab.
+
+10.2.8 View Documents
+
+Inside the Customer Service Module, click on the Documents tab. All the documents associated with
+that FHA Case Number will display in chronological order.
+
+Ticket No Call Log Ticket Detail Ticket Action Notes
+Tickat 679026 (A) Documents
+Ticket 265813 ()
+
+0016AD30.pdt note +7202017 [Aco | @& Edit Document
+12.0028 PM EST
+
+0015C9B4.pat NCF Mertgage 1171872017 [Ace @& Edit Document
+06:22:35 AM EST
+
+Figure 235: View Documents
+
+SMART USER MANUAL | HUD.SERVICINGSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 102
+
+@®SMART
+10.2.9 Borrower History
+
+Inside the Customer Service Module, if a non_sys ticket has been merged with a sys ticket, the borrower
+name, address, and phone number form the non_sys ticket is saved into the Borrower History.
+
+Ticket No. CallLog Ticket Detail, = Ticket Action © Notes. «= Documents@ = aE
+
+‘Ticket 102266 (1) & Borrower History Information
+
+moc
+
+Figure 236: Borrower History
+
+10.2.10 Close Ticket
+
+Step1: Inside the Customer Service Module, click on the [TICKET DETAIL] tab.
+Step 2: From the Ticket Status dropdown menu in the Ticket Information box, select “Closed.”
+
+4% Customer Service - Ticket No. 853455
+
+CESS] Ticket Status: | OPEN
+Pe Eo td
+.
+
+Ticket Priority: |
+iaamshantandahad B Ticket Information (EDIT MODE)
+0
+
+CRM Service Select a Status
+
+Request Created Date:
+
+OPEN
+
+Figure 237: View/Edit Ticket Detail
+
+Step 3: — Click [SAVE] then on the confirmation pop-up, click [SUBMIT].
+
+After the user refreshes

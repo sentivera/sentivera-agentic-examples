@@ -1,0 +1,813 @@
+et No, Caller Naene
+
+873262 Partai Clam EE o TEST CALL-HUD Low 120772018 022322 Ps §— 1207/2018 0223.20 PM
+
+Showing 10 1 oft entries Previow + | Next
+
+Figure 51: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 25
+
+@SMART
+
+4.3.2 Access Details of PMM Loan Records
+
+4.3.2.1 View/Edit Loan Summary
+Step1: Click on the [LOAN SUMMARY] tab within the Loan Record page.
+
+Loan Recording Borrower / Entity Doe:
+
+Loan Detail Loan Filing
+
+B Loan Summary
+
+Figure 52: View Loan Summary
+
+Click on [EpDIT] located under the Loan Summary title to navigate to Loan Summary (Edit
+Mode).
+
+B Loan Summary (EDIT MODE)
+200.00 Unpaid Pri E Sete code .
+0 8 poor .
+
+Step 2:
+
+Principal Paid YTD:
+
+Figure 53: Edit Loan Summary
+
+Make the necessary changes, complete all required fields, and click [SAVE].
+On the Confirmation Pop-up, click [SUBMIT].
+
+Step 3:
+Step 4:
+
+4.3.2.2. View/Edit Loan Detail
+Step1: Click on the [LOAN DETAIL] tab within the Loan Record page.
+
+Loan Filing Loan Recording Borrower /Entity Documents Notes Mortgage Release Exceptions
+
+B Loan Detail
+
+Lone
+
+er:
+BSS ons Sse inisematon
+600%
+
+Hold Code 1 Annual interest Rate:
+Hold Code 2:
+
+Hold Code 3:
+
+Accrual Method:
+
+ADP Code:
+
+Figure 54: View Loan Detail
+
+Click on [EpIT] located under the Loan Detail title to navigate to Loan Detail (Edit Mode).
+
+Step 2:
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 26
+
+@®SMART
+
+4.3.2.3 View/Edit Loan Filing
+Step1: Click on the [LOAN FILING] tab within the Loan Record page.
+
+Loan Summary Loan Detait (RENITIIMIA Loan Recording Borrower/Entity Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff Transactions Customer Service
+
+B Loan Filing
+
+Loan Filing Information
+
+Home Owner Incentive: Closing Date: 12222019 Expiration Date: 06/18/2020
+
+HUD Settlement: Mortgage Docs: Note Docs:
+
+Labe! Printed Sales Contract
+
+Figure 55: View Loan Filing
+
+Step 2:
+Step 3:
+
+Click on [EpDIT] located under the Loan Filing title to navigate to Loan Filing (Edit Mode).
+Make the necessary changes, complete all required fields, and click [SAVE].
+
+to tay || Uo a SS SS — Sa oo
+
+B Loan Filing (EDIT MODE)
+
+Home Owner incentive: Select a Home Owner incentive + Closing Date: 12222019 Expiration Date: 06/1812020
+
+HUD Settiement Select a HUD Settement + Mortgage Docs: Note Docs:
+
+Label Printed: Select a Label Printed + Sales Contract: Select a Sales Contract
+
+Figure 56: Edit Loan Filing
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.3.2.4 View/Edit Loan Recording
+Step 1: Click on the [LOAN RECORDING] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing (EEMEEEEINI Borrower /Entity Documents Noles Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy Disbursements. Payoff ‘Transactions Customer Service
+
+B Loan Recording
+
+Eat
+
+Loan Recording Information
+
+Book No Release Prepared Date wotary
+Page No: Onginaon Date: 1222/2019 Prepared By:
+instrament Loan Recorded Oat Orginal Trustee
+Autnonres Mortgage Amount: $600.00 Substive Trustee
+vanes 1 ness 2
+
+Figure 57: View Loan Recording
+
+B Loan Recording (EDIT MODE)
+
+Loan Recording Information
+
+Book No: Rotease Propared Date Notary Sect Notary
+Page No Origination Date: raaan019 Prepared By Select a Prepared By
+Instrument No Loan Recorded Dat CnginatTrustoe: {Select an Orginal Trustee
+fumorzed — | Seiact an Aunorzed Person origage Amount sao Sustnute Trustee: { Sect a Substtte Tustee
+weness 1 Setect Witness +) wines 2: Sotcta Winess 2. =
+
+Figure 58: Edit Loan Recording
+
+Step 2:
+
+Step 3:
+Step 4:
+
+Click on [EDIT] located under the Loan Recording title to navigate to Loan Recording (Edit
+Mode).
+
+Make the necessary changes, complete all required fields, and click [SAVE].
+On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 27
+
+4.3.2.5 View/Edit Borrower/Entity
+
+Step 1:
+
+Loan Summary Loan Detail Loan Filing Loan Recording Documents Notes Mortgage Release Exceptions Servicing Foreclosure | Bankruptcy Oi
+
+Borrower / Entity Information
+
+Step 2:
+
+B Borrower / Entity Information (EDIT MODE)
+
+Step 3:
+Step 4:
+
+isbursements
+
+Mailing Address
+
+Address 1:
+
+Address 2:
+
+city:
+
+State:
+
+Zip Code:
+
+County:
+
+Figure 59: View Borrower/Entity
+
+State: Solect a State
+
+Figure 60: Edit Borrower/Entity
+
+@®SMART
+
+Click on the [BORROWER/ENTITY] tab within the Loan Record page.
+
+Click on [EDIT] located under the Borrower/Entity Information title to navigate to
+Borrower/Entity Information (Edit Mode).
+
+Make the necessary changes, complete all required fields, and click [SAVE].
+On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 28
+
+@SMART
+
+4.3.2.6 View/Add/Edit Documents
+
+Step 1:
+
+Loan Summary L
+
+& Documents
+
+Click on the [DOCUMENTS] tab within the Loan Record page.
+
+0 on Create Date E Ch Status Action
+CSvtoPGQuevewrongUPB.csv Uploaded from Pay gov Sut Pay gov Tracking ID: 3FPGGSOP 192572019 a © Edit Document
+01:09:33 PM EST
+
+Step 2:
+
+Step 3:
+
+Step 4:
+Step 5:
+
+Figure 61: View Documents
+
+To add a document, click on [ADD DOCUMENT] located under the Documents title to
+navigate to Document (Add Mode). To edit a document, click on [EDIT DOCUMENT] located
+in the Actions column of the Documents dashboard to navigate to Document (Edit Mode).
+Drag and drop a document or click on the Document Upload button to upload a file (if you
+are using Internet Explorer, you can only click to upload). Note: Only PDF, ZIP, DOC, DOX,
+XLS, XLSX, PPT, PPTX, and TXT files are accepted.
+
+Complete all required fields and click [SAVE].
+
+On the Confirmation Pop-up, click [SUBMIT].
+
+4.3.2.7. View/Add Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab.
+
+Ea
+ook “
+Figure 62: View Notes
+Step 1: Click on the [NOTES] tab within the Loan Record page.
+Step 2: Click on the [ADD NoTE] button located under the Notes title to navigate to the Add Note
+window.
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.3.2.8 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+page. For further information, see Mortgage Release Tab.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 29
+
+4.3.2.9 View/Add/Edit Exceptions
+
+@SMART
+
+Step1: Click on the [EXCEPTIONS] tab within the Loan Record page.
+Loan Summary Loan Detail — Loan Filing Loan Recording Borrower / Entity um ote: to ase Servi Ba somo Payot ac mer Ser
+A Exceptions
+| ct J vor Yor |
+Figure 63: View Exceptions
+Step 2: To add an exception, click on [ADD EXCEPTION] located under the Exceptions title to
+navigate to the Exception (Add Mode) window. To edit an exception, click on [EDIT ITEM]
+located in the Actions column of the Exceptions dashboard to navigate to Exception (Edit
+Mode).
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+If the Exception Type is any of the following, then an automated note will be generated in the Notes tab.
+
+Received notice of death, borrower
+deceased
+
+Received notice of death, co-borrower
+deceased
+
+Received notice from lender, loan has
+been referred to foreclosure as of
+
+A CAIVRS Block has been added as of
+CAIVRS Block has been suppressed as of
+Approved for deferral of T&l due and
+payable on
+
+T&I due and payable decision pending
+as of
+
+4.3.2.10 View Servicing
+
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page. For further
+information, see Servicing Tab.
+
+4.3.2.11 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page. For
+further information, see Foreclosure Tab.
+
+4.3.2.12 View Bankruptcy
+
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page. For
+further information, see Bankruptcy Tab.
+
+T&I due and payable decision denied as
+of
+
+Account Lender billing - Incentive
+Fee/Claim
+
+Account Lender billing - Incentive Fee
+Account Lender billing - CLAIM
+Account Lender billing PAID - Incentive
+Fee/Claim
+
+Account Lender billing PAID - Incentive
+Fee
+
+Account Lender billing PAID - CLAIM
+Lender Billed flag has been removed
+Received Indemnity Agreement
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 30
+
+@SMART
+
+4,3.2.13 View Disbursements
+To access Disbursements, click on the [DISBURSEMENTS] tab within the Loan Record page.
+
+| a | a | ee ee ee
+
+Loan Summary Loan Qetai Loan filing Loan Recording Borrower! Entity Documents. Notes Mortgage Release
+
+$ Disbursements
+
+[be | oe Porm |
+
+heching Shey Ossbursement Lype
+
+Figure 64: View Disbursements
+
+4.3.2.14 View Payoff
+
+To access Payoff, click on the [PAYOFF] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing
+
+'S Payoff
+
+Total Payot Amount
+
+Figure 65: View Payoff
+
+4,3.2.15 View Transactions
+To view Transactions, click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing
+
+@ Transactions
+
+| Bee | are orm |
+
+Figure 66: View Transactions
+
+4.3.2.16 View Customer Service
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+
+the Loan Record page.
+
+Servicing Foreclosure Bankruptcy Disbursements Payot! ~— Transactions. is
+
+Notes Mortgage Release = Exceptions
+
+Loan Summary Loan Detail = Loan Filing Loan
+
+hone Designee Created 8 Create Date
+
+4&3 Customer Service
+Date Calter Name Calter Pt
+
+Poses [or [om
+= = Sp pea Es = = = 5
+
+‘Showing 1 t0 1 of 1 entries
+
+Figure 67: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 31
+
+@®SMART
+
+4.3.3 Access Details of Secretary Held Loan Records
+
+4.3.3.1 View/Edit Loan Summary
+Step1: Click on the [LOAN SUMMARY] tab within the Loan Record page.
+
+Loan Detail Loan Filing Loan Recording “Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankrupicy Reinstatement Payoff Transactions ~—_Loan History
+
+Disbursements Mth Statements Customer Service
+
+BLoan Summary
+
+Hse is Dats Snows suey
+
+Original Principal Amount: 85,000.00 Number of Payments Desnquent: 185 Monthly P&LAmount: — $530:30 Emective Date: 0101/2009
+Unpaid Principal Balance: 51.047 68) Pay Type Cos R Monty Tax Escrow 57432 Date Last Ceried: 120272008
+Tax Escrow Balance: nx Pay Applicaton Code vot MontnnyFarretam ——_ 5599 Date Next Cermned: 190172000
+Fasrelam Batnce: Payment stats: Monthy Service Fee ga 23 Duration Ga months): 12
+Insurance Damage Balance: Principal Psd YT: $1190 Montniy interest Tax 5999 Formula Factor, 0.0000
+Service Fee Batance: Interest Pia YT: |. | dstea income:
+Interest Tax Balance: Late Charge Pasd YTO: Totals: $709.85 Formula 1 Pay: $450.10
+Suspense Escrow Batance Rea! Estate Tax Paid VIO: 541609 Formula 2 Pay 30190
+Late Charge Balance: Times Late YTD 4
+Forebearance Stat 94 jan.
+Current Loan Balance: ‘Times Late Totat: 109 Date: pe
+Forebearance e
+Credit Line oatnce: Claun Pay Date: Boravon!
+Forbearance
+Payot ate cazoeore Scheduled ktnount
+
+Figure 68: View Loan Summary
+
+Step 2: Click on [EpIT] located under the Loan Summary title to navigate to Loan Summary (Edit
+Mode).
+
+B Loan Summary (EDIT MODE)
+
+Original Principat Amount 500000 Numer o Payments Oetinquet 0s ‘030
+Unpaid Principal Balance: (81,047 68) Pay Type Cote: m3
+F
+— ariaz oy Aoptcanon cove
+Farrotam Batenc: | Ho . i
+Payment Status
+insure Demage Selance | ssc Payer Sune Monty intrest Tax
+seca
+Service Fee Gatence: Principal Paid YTD: 1119.00
+
+Interest Tax Balance Interest Paid YTO:
+
+Suspense Fscrow Balance
+
+Late Charge Paid YTD:
+Late Charge Balance:
+
+Root Estate Tax Paid YTD: 416.89
+Current Loan Balance:
+
+Tunes Late YTO 400
+Credit Line Balance:
+
+Times Late Totat 109.00
+
+Claim Pay Date:
+
+Payott Date: 2202019
+
+Figure 69: Edit Loan Summary
+
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 32
+
+4.3.3.2. View/Edit Loan Detail
+Click on the [LOAN DETAIL] tab within the Loan Record page.
+
+Step 1:
+
+Loan Summary
+
+Disbursements Math Statements,
+
+# Loan Detail
+
+Loan Detail
+
+Loan Filing
+
+Oficer Code: a Curr Prin Limit: ‘Signed Date: Hobd Code 1:
+Loan Type: Expected int Rate: Funded Date: Hold Code 2:
+FHA # 1st Mg: Current Net Prin Limit: ($402,075.65) Mig ins Cert Date: 0103/1983 Hold Code 3:
+Loan Term: 30 yts 0 mos Repair Set Aside: Asst Accepted: ‘Accrual Method 80
+Loan status OPEN Max Claim Amt: Assmt Recorded ovearg94 Assess Late Charge: N
+Loan State t: First Year Set Aside: Claim Pai Collect Tax Escrow: Y
+Loan State 2: Serv Fee Set Aside: Title Approval Custodiat:
+Loan Purpose Code nig Creait Line: At Contractor On: Vacancy Status:
+Loan Class Code: Prin Limit At Closing: ARM Change Date: Vacancy Date:
+Contract Type Code: F tity inserence cig Loan Date: sowie Section of te Act 0256
+Program Type: Curr interest Rate 1400 Status Date: Print Statements Y
+Last CO Response: Matunty Oste: s2012012
+
+Occ. Cert Sent
+
+Due Date Deng NC: 04/01/2008
+
+Loan Recording Borrowers Property inspection
+Customer Service
+
+Loan Status & Type
+
+Documents Notes Mortgage Release
+
+Excepbons.
+
+Servicing
+
+Bankruptcy
+
+Reinstatement Payoff
+
+@®SMART
+
+Transactions —_ Loan History
+
+Figure 70: View Loan Detail
+
+Step 2: Click on [EpIT] located under the Loan Detail title to navigate to Loan Detail (Edit Mode).
+
+#3 Loan Detail (EDIT MODE)
+
+—S>
+
+Loan Status & Type
+
+Snouns Shas J tosnouws Besiionsl Sesh information
+
+Omcet Code * Curr Prin Lait Signed Date Hott Code Select» Hd Code 1
+Loan Type suet Expected Int Rate Funded Oat Wotd Code 2 Selec @ Hold Code 2
+FAW A8tg Curt Wet Prin Lume: {402075 08 tig ins Cort ate ovouro0 Wold Code 3: Select a Wed Code 3
+Loan Term (Monts 0 Repair Set Aside Asst Accepted ‘Accruat Method no
+Loon status Max Clas Amt ‘samt Recorded ovawron4 Assess Late Charge No
+Loan Status 4 Fest Yoor Set Asie an Pais Cotect Tax Escrow vt
+Loan Status 2: Serv Fee Set Aside Tie Approve: Custoot sect
+Loan Purpose Code (rg Crvait Line At Contractor On Vacancy Status stat
+Loan Class Code Select» Loan Class Code Prin Limit At Closing [ARM Change Date Vacancy Date
+Contract Type Code: ' Mig insurance (rg Loan Date 129011002 Section ofthe Act: 0286
+Last CO Response: Curr interest Rate 400 Statvs Date Print Statements ves
+Maturity Oate 1wo1012
+ce, Cort sent
+ve Date Detina ne: | 0401/2000
+
+Step 3:
+Step 4:
+
+Figure 71: Edit Loan Detail
+
+Make the necessary changes, complete all required fields, and click [SAVE].
+On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 33
+
+@SMART
+
+4.3.3.3 View/Edit Loan Filing
+Step1: Click on the [LOAN FILING] tab within the Loan Record page.
+
+Loan Summary — Loan Dota IRESERRI Loan recording Borrowers Property nspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff ‘Transactions. Loan History
+
+Disbursements Mth Statements Customer Service
+i Loan Filing Information
+
+Eat
+
+Loan Filing Information
+
+Project Name: ig Doc Exists: ves Note Doc Exists: YES File Entered Date: 02/202018
+
+Deed Restriction: NO {ema Ouner yes File Received Date: 02202018
+
+Project No: Incentive:
+
+Project 0 Qt geriFom veg or Type Fee Fitter — NotCe Receives —gangnorg
+
+ios eat EE
+Lancer name
+
+Voucher Number:
+
+;
+.
+
+VRS Number:
+
+Figure 72: View Loan Filing
+
+Step 2: — Click on [EpIT] located under the Loan Filing title to navigate to Loan Filing (Edit Mode).
+Step 3: Make the necessary changes and complete all required fields.
+
+B Loan Filing information (EDIT MODE)
+
+Loan Filing Information
+
+Prior Seevicer Nome: | | +) Closing ate cazazore
+
+Project Name: 54. 30n + Expiration Date: caranore
+
+Ward Fie No + | Sales Contract ves | File Entered Date oaazore
+
+Lovet Print: vos + | HUD Settlement es +| File Recetved Date; | 02202018
+
+sig Doc Exists: ves + | Note Doc Exists: ves + | Notice Received Oate: [02202018
+
+Deed Restriction: No + Home Owner incentive: Yes + | Box Number: es
+gan rom >| or type Fre Fier ~ | Lender Name ee -
+Voucher Number: VRS Number es
+
+Figure 73: Edit Loan Filing
+
+Step 4: Make the necessary changes, complete all required fields, and click [SAVE].
+Step5: On the Confirmation Pop-up, click [SUBMIT].
+
+4.3.3.4 View/Edit Loan Recording
+Step 1: Click on the [LOAN RECORDING] tab within the Loan Record page.
+
+Loan Summary Loan Detail © Loan Filing Ioan Borrowers Property Inspection Documents Notes «Mortgage Release Exceptions © Servicing Foreclosure Bankruptcy Reinstatement = Payoff = Transactions. Loan History
+
+Disbursements Mth Statements Customer Service
+
+@4 Loan Recording
+
+Loan Recording Information
+
+Book No Release Propared Date: 027202018 Nota
+Page No Origination Date cazozore Prepared By
+tostrument Loan Recorded Date; «2202018 Onginal Trustee
+
+Payoff Date: 0220/2018 ‘Mortgage Amount: $4.224,242,242.00 Substitue Trustee:
+
+= —
+Ausmon ness 1 vweness 2
+
+Figure 74: View Loan Recording
+
+Step 2: — Click on [EpIT] located under the Loan Recording title to navigate to Loan Recording (Edit
+Mode).
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 34
+
+@# Loan Recording (EDIT MODE)
+
+@®SMART
+
+Release Prepared Date 02202018
+
+origi 02202018
+oan 02202018
+Payot Date: | 0220/2018 of 4924242342 00
+Le wanes 1 |
+
+Person:
+
+Notary
+
+Prepared By
+
+Original Trustee:
+
+Substitute
+Trustee:
+
+vonness 2
+
+Figure 75: Edit Loan Recording
+
+Step 3:
+Step 4:
+
+4.3.3.5 View/Edit Borrowers
+Step 1:
+
+eo —
+
+Disbursements Mth Statements Customer Service
+
+& Borrowers Information
+
+Borrower Information
+
+First Name: | | SSN:
+Birth
+
+Last Name: ean
+
+Home Work
+
+Phone Phone:
+
+Marital
+
+Status
+
+Borrower Address
+
+Aadress 1
+Address 2:
+
+Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff —Transactions
+
+City: State:
+Zip Code: County:
+
+Make the necessary changes, complete all required fields, and click [SAVE].
+On the Confirmation Pop-up, click [SUBMIT].
+
+Click on the [BORROWERS] tab within the Loan Record page.
+
+Loan History
+
+Co-Borrower Information
+
+First Name: SSN:
+
+Barth
+Last Name: a
+Phone:
+
+Mailing Address
+
+Mail To Name:
+Address 1:
+Address 2:
+
+Address 3:
+
+Alternate Contact Information
+
+First Name:
+
+Last Name:
+
+Address 1:
+
+‘Address 2:
+
+Cty
+
+Zip:
+
+Work Phone:
+
+Other Information:
+
+Home Phone:
+
+Figure 76: View Borrowers
+
+Step 2:
+
+B Borrowers Information (EDIT MODE)
+
+Borrower Informatior
+
+Firstname: | | hie: |v |
+Birth Date: —
+Work antl
+Prone ot
+
+Borrower Address
+
+Click on [EpDIT] located under the Borrowers title to navigate to Borrowers (Edit Mode).
+
+aadrss: —{ x Mai 0 Nam
+adress 2 ares
+cy % | sate: [Seer xr] Aaoress 2
+20 Code % } County Aaoross 3:
+
+Step 3:
+Step 4:
+
+Figure 77: Edit Borrowers
+
+Make the necessary changes, complete all required fields, and click [SAVE].
+On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | 35
+
+4.3.3.6 View/Edit Property Inspection
+Step1: Click on the [PROPERTY INSPECTION] tab within the Loan Record page.
+
+Loan Summary Loan Detail, Loan Filin
+
+Disbursements Mth Statements Cust
+
+% Property Inspection
+
+jones |
+
+Figure 78: View Property Inspection
+
+Step 2: To edit a property inspection, click on [EDIT ITEM] located in the Actions column of the
+Property Inspection dashboard to navigate to Property Inspection (Edit Mode).
+
+B Property Inspection (EDIT MODE)
+
+Figure 79: Edit Property Inspection
+
+Step 3: Make the necessary change

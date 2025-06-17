@@ -1,0 +1,680 @@
+te or change.
+
+Step 1: = Click on [EpIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+B Foreclosure Steps (EDIT MODE):
+
+Status:
+
+“}
+Al
+
+Figure 203: Edit Foreclosure Step (Partial Claim)
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 93
+
+@SMART
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Foreclosure step and all edited information will display in that timeline’s step.
+
+If the user saves the actual date for any of the Foreclosure steps below, then an auto-note will generate.
+e Request to HUD to assign commissioner
+e Commissioner assigned by HUD
+e FCL Package sent to Foreclosing Attorney
+e Foreclosure Sale Held
+e Rec'd copy of unrecorded fcl deed
+e Rec'd copy of recorded fcl deed
+e Attorney Invoice Received
+e Invoice sent to Accounting Department for Payment
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements. Payoff ‘Transactions Customer Service
+
+&B Notes
+
+=
+| Bes | Ora
+
+‘Auto Note Request Sent to HUD for commssioner assigrenent 02/21/2011
+0231551
+
+Figure 204: Auto-Note Generated (Partial Claim)
+
+7.1.9 — Inactivate Foreclosure Step
+
+The status of Foreclosure steps may be changed to inactive if the user added them in error or if they are
+no longer applicable for the loan.
+
+Step1: Click on the [EpIT ITEM] link for the desired Foreclosure step.
+Step 2: From the status column, select Inactive.
+
+B Foreclosure Steps (EDIT MODE):
+
+Status: Inactive
+
+Foreclosure Steps For Request to HUD to assign commissioner
+
+Figure 205: Inactivate Foreclosure Step (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+This directs the user back to the Foreclosure tab. The selected Foreclosure step will now display a grey
+inactive button in the status column.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 94
+
+@SMART
+
+8 Using the Mortgage Release Module
+
+8.1 Mortgage Search
+8.1.1 Searching for Loans with Mortgage Release History
+
+Loans in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Mortgage Release Search Screen.
+
+Q Mortgage Release Search Screen
+Search Database:
+
+FHA Case # Loan Progeam:
+
++ | Borrower Name:
+
+Loan Skey: * Property Address:
+
+Lender Name
+
+jose Box
+
+R
+R
+
+Note Type: Select a Note + Note Text Note Created By: elect a Note Created By
+
+Last 4 Digits of SSN:
+
+fiewilt tieaders: FHA Case No) (*Loan Program Borrower Name | = Property Address || Property State «Actual Osis
+
+| cerca cece
+
+Figure 206: Mortgage Release Search Screen
+
+Step 1: Click [MORTGAGE RELEASE] from the top Navigation menu. Select [MORTGAGE SEARCH] from
+the dropdown.
+
+Step 2: Select the search criteria from the displayed search fields in the Mortgage Release Search
+Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State
+
+Detailed Status of the loan
+
+Release Status
+
+Shows whether the release is Active or Inactive.
+
+Release Step Status
+
+Shows whether the mortgage release step is Pending or Completed.
+
+Note Text
+
+Searches any word within the content of notes within the Notes tab of the Loan Record
+
+Borrower Name
+
+Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Release Step Mortgage Release actions that have been or need to be completed.
+Keyword Searches any word within the Search Results data table
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Prin Amt
+
+Original principal amount of the loan in dollars (numerals only)
+
+Release Scheduled Date
+
+Date mortgage release step was created or added to a loan
+
+Release Completed Date
+
+Date mortgage release step was completed
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Table 8: Mortgage Release Search Fields
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 95
+
+
+Step 3:
+
+Step 4:
+Step 5:
+
+8.1.2
+
+@®SMART
+Click [START SEARCH].
+Figure 207: Mortgage Release Search Screen Buttons
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, you will be automatically directed to the Mortgage Release
+tab.
+
+Searching for Loans without Mortgage Release History
+
+Loans without Mortgage Release history can be retrieved through various combinations of the search
+criteria available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Mortgage Release tab.
+
+Note: You can also access loans with Mortgage Release history through this process.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 96
+
+@SMART
+
+8.2 Mortgage Release Tab
+
+Once the Loan record is open, the Mortgage Release Module is found on the Mortgage Release Tab. If
+Mortgage Release activity has been initiated for a Loan, the Mortgage Release tab in the Loan Record
+window will be highlighted in light blue and will display the current Mortgage Release activity of that
+Loan.
+
+eS = Se ES
+
+® Mortgage Release
+
+(BiFull Retease (A)
+Brut
+
+@ Ect tem
+
+We Storage Process Comaete ovm22020 osrs2018 @ athe
+
+Figure 208: Mortgage Release Tab (Partial Claim)
+
+Description
+Export to Excel BiExcel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Add Release Steps ‘eae Release Step to the Mortgage Release Activity
+
+Mortgage Release View the information for the Mortgage Release Activity
+Management = selected for the Loan.
+
+View Notes Takes you to the Notes tab for the loan. See Section 3.2.8.
+Search and filter the page by specific keywords. The main
+table will filter based off of the keyword search.
+
+Table 9: Data Table Buttons
+
+Search Search:
+
+HECM-Assigned, HECM-Insured, and SF Data Request is read-only and the user can not add new
+Mortgage Release Activities for these loan programs.
+
+GRISEA Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff Transactions Customer Service
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Documents,
+
+@B Mortgage Release
+
+eee | Bee peor Pr: | =
+BiChecks
+Check # Check Amount Check Date Pay To i” OK Clear c Created Date c By c Printed By Printed Dat
+
+Bi Add New Mortgage
+Release
+
+No data avatable in table
+
+Figure 209: Mortgage Release Tab — No Mortgage Release Activity (Partial Claim)
+
+If there is no Mortgage Release Activity recorded for the loan, there will be no Data Table displayed on
+the right side of the Mortgage Release tab (see Figure 9). The Release Activity data table will display on
+the left displayed with a blue plus mark (&).
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 97
+
+@®SMART
+8.2.1 View an Active Mortgage Release Activity
+
+In the Release Activity table, a green document icon (&) and (A) means that the Mortgage Release
+Activity is Active. The active Mortgage Release Activity will open with its timeline displayed in the main
+data table. See Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Loan Summary Loan eta Loan Filing Loan Recording orowers PropertyInpecton Documents Notes EEMMMEWMNMINE eaceptons Serving Forectonue Garkruptey Disbursements Payot Transactions Release Activity
+® Mortgage Release
+
+Bi Full Release (A)
+
+mem 6) Full Release (A)
+
+GiChecks
+
+2] Add New Mortgage
+3) Release
+
+Figure 210: Active Mortgage Release Activity (Partial Claim)
+
+8.2.2 Add New Mortgage Release
+
+In the Release Activity table, a blue plus mark (&) means that there is no current Mortgage Release
+
+Activity. From here, you can add a New Mortgage Release.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes
+
+@B Mortgage Release G Checks
+[ors Pare [on J EB Add New Mortgage
+Bchecs Release
+
+Add New Mortgage
+Release
+
+No Gata avazabile in table
+
+Figure 211: No Mortgage Release Activity (Partial Claim)
+
+Step1: Click on [ADD NEW MortTGAGE RELEASE] from the Release Activity table.
+Step 2: Select Release Type.
+
+Loan Summary LoanDetail_ Loan Filing Loan Recording Borrowers Property Inspection Documents Notes RMEONENNIRIR cxcestions Serving Foreclosure Gankruptcy _Dabursements Payot Transactions Customer Service
+
+B Mortgage Release Management (ADD MODE).
+
+Figure 212: Mortgage Release Tab — No Mortgage Release Activity (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have created the New Mortgage Release Activity, the selected release timeline will display in
+the Release Activity table as Active.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 98
+
+@®SMART
+8.2.3 Add Mortgage Release Steps
+
+A predefined template of Mortgage Release Activity steps is generated for a loan when the user adds a
+Mortgage Release Activity. Various additional Mortgage Release activity steps are also available and
+may be added as needed.
+
+Step1: Click on the [ADD RELEASE STEPS] button.
+Step 2: Complete all required fields.
+
+B Mortgage Release Steps (ADD MODE):
+
+Mortgage Release Steps For Release Request ReceivediInitiated
+
+Figure 213: Add New Mortgage Release Step (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Mortgage Release step and all information inserted in the add screen will display in the correct
+Mortgage Release Activity’s timeline. If the user inserts a note into the Note field, then a Mortgage
+Release note will generate in the notes tab.
+
+8.2.4 Mortgage Release Management
+
+The Mortgage Release Management button offers the user the ability to update the status of the
+selected Mortgage Release to be either Active or Inactive.
+
+Step1: Click on the [MORTGAGE RELEASE MANAGEMENT] button. Change the status to either Active
+or Inactive.
+
+Loan Summary Loan Detail Loan Filng Loan Recording Borrowers Property mspection Documents Notes, (EMERMERMRI excepuons Servicing Foreciosun Bankruptcy Disbursements Payoff Transactions Customer Service
+
+B Mortgage Release Management (EDIT MODE):
+
+Mortgage Release Management
+
+Figure 214: Mortgage Release Management (Partial Claim)
+Step 2: — Click [SAVE] then click [SUBMIT] on the Confirmation Pop-up.
+
+The new servicing management information will display in the main table and the Service Management
+screen.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 99
+
+@SMART
+
+8.2.5 View Notes
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents Morgage Release Exceptions Servicing Foreclosure ‘Sankruptcy _Oesbursements Payoff Transactions Customer Service
+&B Notes
+=o
+[net] nvoe J orm |
+Note type High importance
+
+1
+055
+
+Figure 215: Notes Tab (Partial Claim)
+
+To go back to the Mortgage Release Tab, click on [BACK TO MORTGAGE RELEASE].
+
+8.2.6 Edit Mortgage Release Step
+The Edit Item action permits the user to update the status of the selected Mortgage Release step when
+there is a need for an update or change.
+
+Step 1: = Click on [EpIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Documents Notes,
+
+B Mortgage Release Steps (EDIT MODE):
+
+Figure 216: Edit Mortgage Release Step (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Mortgage Release step and all edited information will display in that timeline’s step.
+If the user saves the actual date for any of the Mortgage Release steps below, then an auto-note will
+generate.
+
+e Lien Release package sent for recording
+e Recorded Release received from County
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 100
+
+@SMART
+
+8.3 Check Search
+
+8.3.1 Searching for Loans with Disbursement Checks
+
+Checks in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Check Search Screen.
+
+Q Check Search Screen
+Search Database: SMART PRODUCTION DATABASE
+
+FHA Case &: Loan Program:
+
+Loan Skey: Loan Status
+
+Loan #: Loan State:
+
+Lender Name: Select a Lender + | Printed By:
+
+Reimbursable: Select a Status * | Prepared By:
+
+Last 4 Digits of SSW: Pay To: Cleared:
+
+Check #: Keyword: Voiaed:
+
+Note Type: + | Note Text Note Created By:
+
+Pay To Type: jelect 8 Pay to Type | TOPS Withneld?: Select TOPS vathnela + TOPSCheck Status: | Select 2 ck Status + | TOPS Amount From: To:
+
+Loan Skey | (= FHA Case No) Loan No} (= Loan Program) |= Borrower Name || «Pay To |» Disbursement Type || «Printed | « Voided) (= Cieared «Check Number) (= Printed Check Date) = Check Amount) (= Bank info
+
+<==
+
+Result Headers:
+
+Figure 217: Check Search Screen
+
+Step 1: Click [MORTGAGE RELEASE] from the top Navigation menu. Select [CHECK SEARCH] from the
+dropdown.
+Step 2: Select the search criteria from the displayed search fields in the Check Search Screen.
+
+Select any option EXCEPT Release Checks from the Search Field Disbursement Type.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name
+
+Lender associated with the FHA Case
+
+Reimbursable
+
+Included or Excluded
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+Check # Check Number
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Pay To Type Borrower or Vendor
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Printed By User who printed the check
+
+Prepared By User who prepared the check
+
+Pay To The recipient of the check
+
+Keyword Searches any word within the Search Results data table
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+TOPS Withheld? Yes or No
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Print Status
+
+Printed or Unprinted
+
+Disbursement Type
+
+Type of expenditure
+
+Cleared
+
+Included or Excluded
+
+Voided Included or Excluded
+Note Created By SMART User who created Notes in the Notes tab
+TOPS Check Status Cleared, Voided, Partially Cleared, or Partially Voided
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 101
+
+@SMART
+
+Search Field Definition
+
+Loan Close Date Date that a loan was closed
+
+Check Amount From Amount of the check
+
+Printed Date Date the check was printed
+
+Check Created Date Date the check was issued
+
+Cleared Date Date the check was cleared
+
+Voided Date Date the check was voided
+
+Note Create Date Date that the Note in the Notes tab was created
+TOPS Amount From Amount of the TOPS
+
+Table 10: Check Search Fields
+
+Step 3: — Click [START SEARCH].
+Step 4: = Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Step5: Once the Loan Record is open, you will be automatically directed to the Disbursement tab.
+
+Figure 218: Disbursement Checks (Partial Claim)
+
+Note; Disbursement instructions can be found per Loan Program within Section 4.3 Accessing Detailed
+Loan Information.
+
+8.3.2
+
+Searching for Loans with Release Checks
+
+Checks in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Check Search Screen.
+
+Step 1: — Click [MORTGAGE RELEASE] from the top Navigation menu. Select [CHECK SEARCH] from the
+dropdown.
+Step 2: Select the search criteria from the displayed search fields in the Check Search Screen.
+Select Release Checks from the Search Field Disbursement Type.
+Step 3: — Click [START SEARCH].
+Step 4: — Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Step5: Once the Loan Record is open, you will be automatically directed to the Mortgage Release
+tab.
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents Notes Exceptions Servicing Foreciosure Bankruptcy OSB BA) Full Release (A) ner Service
+@B Mortgage Release Bi checks
+Pos [ore J ors |
+- ] ;
+Figure 219: Release Checks (Partial Claim)
+Step 6: From the Mortgage Release tab, click on the Checks link from the Release Activity table.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 102
+
+@SMART
+
+8.3.3 Edit Release Check
+
+Loan Summary Loan Detail + Loan Filing Loan Recording Borrowers Property Inspection Documents Notes [EUREEEENPAIN exceptions Servicing Foreclosure Bankruptcy Disbursements ayo =—Transactions. Customer Service
+
+B Checks (EDIT MODE):
+
+a Step 1: Click on [EDIT CHEcK], located in the
+
+Action column of the main table.
+Step 2: Complete all required fields.
+Step 3: — Click [SAVE].
+Step 4: On the Confirmation Pop-up, click
+[Susur].
+
+Figure 220: Edit Check (Partial Claim)
+
+8.3.4 Print Check
+
+Release Check information that is entered into the Mortgage Release Module can be reported and
+printed in the approved check format by users with designated security access.
+
+Step 1: — Click on [PRINT CHECK], located in the Actions column of the main table.
+
+Check printed successfully. x
+
+Close
+
+Figure 221: Check Printed Confirmation
+
+Step 2: Onthe Confirmation Pop-up, click [CLOSE].
+
+After selecting the check to print, a PDF of the check automatically downloads. The user can now open
+the PDF file and Print as needed.
+
+NIZE Only Release Checks can be printed (as in a PDF is downloaded). All other checks will not generate
+a PDF. This also applies to the pages Print Batch Checks and Print Rejects Checks.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 103
+
+@SMART
+
+9 Using the Cash Management Module
+
+Within the Cash Management Module, there are two types of transactions: SMART and Pay.Gov.
+SMART tickets are created using the SMART application. Pay.Gov transactions are payments that are
+made on Pay.Gov and submitted via a validated submission forum to SMART. The © icon will appear
+before or after the Pay.Gov Ticket Number anywhere a transaction appears (such as the Transactions
+Tab within the Loan Module, Trial Balance - USSGL Account, and the Transaction Search Screen).
+
+Data is refreshed on a nightly basis; however, if users need to refresh the data for today’s transactions,
+they can do so from Cash Management. The Cash Management screens will display Transactions as of
+the last data refresh.
+
+@ Trial Balance
+
+Start Month 111201 >| End Month: 1/2 + | Display Type: snmary .
+Summary of Account Chi
+
+Figure 222: Data Re

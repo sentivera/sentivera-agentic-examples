@@ -1,0 +1,691 @@
+| on |
+
+Figure 77: Disbursement Checks (Partial Claim)
+
+Note; Disbursement instructions can be found per Loan Program within Section 4.2 Accessing Detailed
+Loan Information.
+
+7.3.2
+
+Searching for Loans with Release Checks
+
+Checks in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Check Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+
+Step 4:
+Step 5:
+
+Loan Summary
+
+Click [MORTGAGE RELEASE] from the top Navigation menu. Select [CHECK SEARCH] from the
+dropdown.
+
+Select the search criteria from the displayed search fields in the Check Search Screen.
+Select Release Checks from the Search Field Disbursement Type.
+
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, you will be automatically directed to the Mortgage Release
+
+tab.
+
+Loan Detail Loan Filmg Loan Recording ‘Borrowers Property Inspection Documents Notes Exceptions Servicing Forectosure Bankruptcy Ost! BY Full Release (A) ner Service
+
+@B Mortgage Release
+
+Bi Full Release (A)
+
+moc
+
+checks
+
+Release
+
+Step 6:
+
+Check Amount Check Date Pay To Check Voids Check Voided Date Check Clean Check Clea
+Release Checks $97.00 swo72012 y y N
+
+Add New Mortgage
+Release Checks $5.00 oa142012 Y N N
+
+Gi Checks
+
+Disbursement Type
+
+Changed By
+
+Figure 78: Release Checks (Partial Claim)
+
+From the Mortgage Release tab, click on the Checks link from the Release Activity table.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 39
+
+@SMART
+
+8 Using the Cash Management Module
+
+Within the Cash Management Module, there are two types of transactions: SMART and Pay.Gov.
+SMART tickets are created using the SMART application. Pay.Gov transactions are payments that are
+made on Pay.Gov and submitted via a validated submission forum to SMART. The © icon will appear
+before or after the Pay.Gov Ticket Number anywhere a transaction appears (such as the Transactions
+Tab within the Loan Module, Trial Balance - USSGL Account, and the Transaction Search Screen).
+
+Data is refreshed on a nightly basis; however, if users need to refresh the data for today’s transactions,
+they can do so from Cash Management. The Cash Management screens will display Transactions as of
+the last data refresh.
+
+@ Trial Balance
+
+Start Month 111201 >| End Month: 1/2 + | Display Type: snmary .
+Summary of Account Chi
+
+Figure 79: Data Refresh
+
+Cc Last Data Refresh 12/04/2019 03-51-03 PM EST
+
+Figure 80: Last Data Refresh
+
+From any non-Pay.Gov screen under the Cash Management header, users will see a gold button below
+the Help Desk button. By clicking it once, users can see the last time transaction data was refreshed. By
+clicking it once more, users will refresh the data. Allow 1-2 minutes for the page to load.
+
+8.1 Trial Balance
+To access the Trial Balance, click [CASH MANAGEMENT] from the top Navigation menu and then select
+[TRIAL BALANCE] from the dropdown.
+
+Gi Trial Balance
+
+Start Month: 2 © End Month: 1172019 * | Display Type:
+
+JSSGL Account
+
+shment
+
+$85.00)
+
+Figure 81: Trial Balance
+
+By default, the Trial Balance screen will display the most recently completed month within the dates in
+the fields.
+
+Users can customize the display by Start Month, End Month, and Display Type (as a Summary or
+
+Breakdown by Months). These are the following available actions from the Trial Balance page:
+1. Update Report — This button will update the page with the selected dates/display type.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 40
+
+@SMART
+
+2. Summary of Account Changes — This button will open a page that summarizes account.
+Start/End Month can be selected.
+
+@ summary of Account Changes
+
+start Month ar018 ~ | na Monin 22019
+== eee eet
+
+Fund Balance with Treasury as of 12/2019 $1,043,310,77797
+Cash -Collection (317,422.48)
+Cash - Disbursement $2.00
+
+Ending Balance as of 122019 $1,043628,200.45
+
+Accounts Recetvable as of 122019 ($41,821.20
+Accounts Receivable Establishment $92,804.00
+‘Accounts Recelvable . Collections ($28,333.00)
+Accounts Receivable - Write OfT $0.00
+
+Ending Balance $24549.90
+
+Figure 82: Summary of Account Changes
+
+3. Trial Balance Summary — This button will open a page that displays the Unadjusted Trial Balance
+Summary for the most recently completed month. Start/End Month can be selected. Export
+capabilities include Excel, PDF, and Print.
+
+@ Unadjusted Trial Balance Summary (December 2019)
+
+Start Month 122019 * End Month: 122019
+
+mast
+
+Fund Balance with Treasury $1,043,628,200.45
+
+Accounts Recelvabie $24,649.80
+
+ble ($64.00
+
+Loans Rec $14,765 621,993.90
+Allowance for Loss on Loans Receivable 30.00
+Penalties and Fines Recervable - Loans $2,649.60
+Allowance for Subsidy $274540.904 45
+Advances and Prepayments s72.22481
+Accounts Payable $7222481
+Other Deferred Revenue $725 295.00
+Labinty for Non-Fiduciary Deposit Funds and Undeposites $15,896 202,135.60
+Cosections
+Interest Revenue $254,11253
+Penalties and Fines Revenue 3284960
+Other Revenue $0.00
+
+Bad Debt Expense $277,406.43
+
+[EE Ee ee Berl
+Figure 83: Trial Balance Summary
+
+4. Clicking a USSGL Accounting will open the details of that specific USSGL Account. Start/End
+Month can be selected. Users can narrow the search within the USSGL account through Loan
+Program and Transaction Code. Export capabilities include Excel, PDF, and Print.
+
+GIUSSGL Account
++ 13-1067-00 (Accounts Recehatle- Veto OM
+
+Figure 84: USSGL Account
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 41
+
+@®SMART
+8.2 TROR Report
+
+To access the Treasury Report on Receivables and Debt Collection Activities Report, click [CASH
+MANAGEMENT] from the top Navigation menu and then select [TROR REPORT] from the dropdown.
+
+Gi Treasury Report on Receivables and Debt Collection Activities Report
+
+Start Quarter 4 - 2019 + | End Quarter
+
+(A) AtAgency $0.00
+
+(B) At Third Party $0.00
+{C) Asset Sale $0.00
+(0) Collections by Treasury through Offset and Cross-Savings
+{E) Collections by Sale After Foreclosure $0.00
+(F) Collections by Department of Justice $0.00
+{G) Other . must footnote $0.00
+
+5. Adjustments (0)
+
+(A) ReclassifiediAdjusted Amounts $0.00
+{B) Adjustments Due to Sale of Assets $0.00
+{C) Consolidations $0.00
+
+(0) Foreciosure Adjustments
+
+Mt Debts Reinstated for Collection $0.00
+
+$14,772,401,525.40
+
+Figure 85: Treasury Report on Receivables and Debt Collection Activities Report
+
+The TROR screen displays the most recently completed quarter by default. Users have the ability to set
+their display preferences by Start Quarter and End Quarter. These are the following notable options
+available from this page:
+1. The number in parenthesis reflects the number of FHA Case Numbers included in that item.
+2. Selecting a line item (in blue) will open a page listing the USSGL Accounts used for that line item.
+Start/End Month can be selected. Users can narrow the search within the line item through
+Loan Program and Transaction Code.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 42
+
+@SMART
+
+8.3 Transaction Search
+
+Transactions can be retrieved through various combinations of the search criteria available on the
+Transaction Search Screen.
+
+Q Transaction Search Screen
+
+FHA Case #:
+Loan Skey:
+Loan #:
+
+Transaction Created
+By:
+
+Multiple FHA Case #'s:
+USSGL Account:
+
+Loan Program:
+
+Step 1:
+Step 2:
+
+Step 3:
+
+Loan Status * | Pay.gov Tracking ID: Transaction Date >=
+
+ADP Code: > Transaction Type: ansaction Total >=
+
+Fund: * | Fund Code: terest Amount >=
+
+* | Fund Type: Select a
+
+ject a Created By + | Activity Type: * | Mortgage ins Date >=
+
+FHA Case No ‘ADP Code (Transaction Amount) |= interest Amount
+
+Loan Status
+
+Morigage insurance Date ) (= Cohort | (* Transaction Date) (= Transaction Code) (= Transaction Description ) “AE ) (*GLDR) (*GLCR) (=Fund) [*Fund Type) (Activity Type ) |» Fund Code
+
+Figure 86: Ticket Search Screen
+
+Click [CASH MANAGEMENT] from the top Navigation menu. Select [TRANSACTION SEARCH] from
+the dropdown.
+
+Select the search criteria from the displayed search fields in the Transaction Search
+Screen.
+
+Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Transaction Created By
+
+SMART User who created the transaction
+
+Multiple FHA Case #’s
+
+Search by multiple FHA Case numbers
+
+USSGL Account
+
+US Government Standard General Ledger (USSGL) Account
+
+Loan Program
+
+Type of program associated with the loan
+
+Transaction Code
+
+Code for the transaction
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+ADP Code Automated Data Processing (ADP) Code
+
+Fund Fund (G, H, M)
+
+Activity Type Type of activity (ASSG, DLON, H4HO, PADS, PART)
+Pay.Gov Tracking ID Tracking number for a Pay.Gov transaction.
+Transaction Type Type of transaction (Pay.Gov, Pay.Gov CSV, SMART)
+Fund Code Code for the Fund
+
+Fund Type Type of fund (Financing (F), Liquidating (L))
+
+Transaction Date
+
+Date transaction was made.
+
+Transaction Total
+
+Total amount of the transaction.
+
+Interest Amount
+
+Total interest amount
+
+Mortgage Ins Date
+
+Date of Mortgage Insurance
+
+Table 10: Transaction Search Fields
+
+Search results will display in the search result dashboard. 50 transaction records will display in
+
+dashboard.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 43
+
+@®SMART
+
+§@ Transaction Search Results
+
+mee
+
+FHA Case Wi Mort ins Date Coho Trans Date rans Code sc Gt oF ac un Fund Type | Activity Type | Fund Code | ADP Code
+
+1125/2019 2020 1112572019 RPPC Reversal-Payot Partial Cian —- PYBOOR =—13-5045- 10-1011 u F PART MEXNN 100 $50.00 $0.00
+00 00
+
+1172572019 2020 1172572019 PPC Payot Partial Ciaim Pye000 © 10-1011-13-5045- u F PART MEXNN 100 $50.00 $0.00
+00 00
+
+107302019 2020 112572019 o Loan Setup Principal Balance = PL2000««13-5041- 24.0014 ) F PART MEXNN 0703 $ 100.00 $0.00
+00 00
+
+10302019 2020 12042019 ALBA ‘Transfer Debt To Albany for Tas000 24-0024 «13-5048. u F PART MEXNN 0703 $-60.00 $0.00
+Collection from the Borrower 00 00
+
+107302019 2020 1172572019 PPC Payot Partal Cian Pye000 © 10-1011 13-5045- ™ F PART MEXNN 0703 $50.00 $0.00
+00 00
+
+10302019 2020 1208/2019 PPC Payot Partial Ciaim Py8000 10-1011. 13-8045. ™ F PART MEXNN o703 $-2,000.00 $0.00
+00 00
+
+107202019 2020 12052019 RPPC Reversal Payot Partial Cian = PYBOOR = *13-5045- 10-1011- ] F PART MEXNN o703 $2,000.00 $0.00
+00 00
+
+Figure 87: Transaction Search Results
+
+Which page the FHA Case Number link will direct to depends on the type of transaction.
+1. For Pay.gov default accounting transactions (@) (Pay.gov Queue, Pay.gov Queue Reversal, and
+Pay.gov Return transactions), the link will bring the user to the Transaction History screen in the
+Pay.gov Dashboard.
+
+{i Pay.Gov 9998885553 Transactions
+
+Transaction Date Transaction Code Transaction Description jount Created Date
+
+11/28/2019 14:06:52 Pat PPC - Payot Partial Cision 1125/2019 14:06:52 PM
+
+1925/2019 13:34:39 PM PPC - Payot Partial Cisim 1172572019 133439 PM
+
+Showing 1 1o 3 of 3 entries
+
+Figure 88: Pay.Gov Transaction History
+
+2. For SMART Transactions, the link will bring users to the Transactions Tab of the loan module for
+the selected case.
+
++ ClLoan Record - Partial Claim
+
+Loan Summary Loan etal Loan Filing Loan Recording Borrowers Property nspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payott RENEE Customer Service
+
+f@ Transactions
+
+Cidacs oe
+
+1210472019 ALBA Transfer Debt To Abany for Collection trom the Borrower (360.00) 12/04/2019 03:40:30 PM
+PPC
+
+© Bi2s2019 Payott Partial Claim ($50.00) 19/25/2019 02:05:52 PM
+
+Showing 1 Yo 3 of 3 enties revous RB ven
+
+Figure 89: Loan Transaction Tab
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 44
+
+8.4 SPS
+
+To access SPS, click [CASH MANAGEMENT] from the top Navigation menu and then select [SPS] from the
+dropdown.
+
+{EB Unprocessed Checks
+
+mos =
+
+Loen Program o cro (Check Amount
+
+Partai iam terouer 1199627
+on Eecower 315000 Hal OVERAGE
+aes Brows 12500 Hal OVERAGE
+ne tevouer $200.00 NaH OVERAGE
+wae Ecrowet $100.00 Heh OVERAGE
+ne Berouer $25.00 Hal OVERAGE
+aes vendo $50.00 Hatt OVERAGE
+Pmt berowet sto00 Pm oversce
+Punt Eerowet $2000 Pun OVERAGE
+Pum Vendor $1000 Pama OVERAGE
+Pmt terovet $2000 Pum OvERAGE
+Punt Becouer $1000 Pama OVERAGE
+Pues veodor 4500 Puna OVERAGE
+
+Paria Cree Vendor $1,000.00 PARTIAL CLAIM OVERAGE
+
+Partai Cian Berowet $1200.00 PARTIAL CLAIM OVERAGE
+
+Pama ciam Eecouer 5115.00 Hal OVERAGE
+
+Paria Cain Eevouer 5700.00 PARTIAL CLAIM OVERAGE
+
+Partai Cia terouer $17.00 PARTIAL CLAIM OVERAGE
+
+Partai Cian Eerowet s700 PARTIAL CLAIM OVERAGE
+
+Paria Cian Becouer 9.28765 PARTIAL CLAIM OVERAGE
+
+OO —
+
+‘Showing 1 0 20 of 167 entiies
+
+Figure 90: SPS — Unprocessed Checks
+
+The Unprocessed Checks table shows checks available for processing. Submitted checks fall into the
+Checks Submitted/Checks Status table.
+
+@ Checks Submitted / Checks Status
+
+omc ws
+
+Total Amount Treasury ¢ palates By Upwaated Date
+
+{80420191200,0AT ‘sched-£8090300.0000000000137N-20191209120010.440 ' $500.00 Peccing Processeg
+
+209 180N20191208,0AT ‘sched-26080300-0000000000132N-20191205132481.440 2 $3,032.00 67-68 1270522018 61.2803 Pat Accepted 6y Accepted by Treasury
+Date Accepted. 12052039 01 2903 PM
+
+208 (80N20191926.04T ‘sched 66046300-0000000000130N.20191126124649,440 "3 95251469 34 1262019 01:47:58 PM Accostec 6y Acvagted by Treasury
+Date Accepted: 11262019 0147 56 PRA
+
+207 10N70191126.04T ‘scfned-B6050300-00000000001294-20191126132326.440 ‘ 24220 1-4 10262019 04:34:28 PH Accepted 6 ‘Accepted by Treanury
+steeped 11262019 01 3425 Pet
+
+206 ‘80620191126.0AT ‘schees.86080300-0000000000128N.20191126125113.640 3 serrr3a 1-3 11262019 12:53:31 PM Aconptes 6y ‘Accepted ty Treasury
+Date Accepted: 11262089 1253.31 PM
+
+206 onz0191426.04F ‘sched. 86090300.0000000000127N-20191126114918 440 1 $9020 99-99 1282019 19:42:10 AM accootes 0) Accested by Treasury
+Date Accopied IV282019 1142 108M
+
+04 ‘80N20191125.0AT ‘sched-86080300-0000000000126N- 2019125144901, 440, 7 $23,524,661 62 7 11/25:2019 02-40-42 PA Acceptes 6) Accegted by Treasury
+ate Accepted. 112572019 024842 Fd
+
+aay wonz0191125.0AT ached: B6080900.0000000000125M-20181125143224.440 2 $5000 1-2 11252019 02:53:19 PM Accoptes 0) Aecigiea i iy
+Date Accepted. 112572019 02 39 19 FHA
+
+22 bonz0191122.0Ar ‘schert-B6030300.0000000000124N.20191122084043.440 1 123.00 19/25/2019 02:32:40 PA eee oy Checks Reverted
+(Date Reverted 11252019 02 3240 PHA
+
+at ‘80N20191121.0AT ‘shed -86090300-0000000000123N-20191121184152.440 1 $81,723.62 1912202019 00:40:53 AM Revered 8; Checks Reverted
+Date Revered. 11222019 084059 AM
+
+200 10N20191120.DAT ‘sched 86030300 -0000000000122N.20191120145809.440 1 S700 co zA2019 19:42.08 AM Accoptes 8 Accepted by TWeatury
+Die Accepied. 11212089 H1AZ0GAM
+
+8 bow20181120.DAT ‘sched.86030300-0000000000115N-20191120133303.440 1 800.00 et 1zo2e18 0F:33:45 PI Accepted ty Accepted by Treasury
+Date Accepted: 112072019 01 3345 PH
+
+196 ‘90N20191913.0AT ‘sched. 86090300-00000000001138.20181119185902 440 ' $2,000.00 mw 11312019 04:50.25 PA Accepted 6 ‘Accepted by Treasury
+Date Accepted: 11132019 0459.25 Fed
+
+197 0N20191913.047 ‘sched $5090300.0000000000111N-20191113114255.440, 1 $1,900.00 4 191132019 04:56:53 PM Accopes 5y Accepted by Treawury
+ate Accepted. 11132019 04 9653 FHA
+
+196 BON2019113.0AT —_—_ached.86090300-0000000000"10N-20191819113106.440 ' 31.6800 swinzors 11:42:90 A00 Recveses nce Penang Concetatoe
+Date Requested. 117132018 11 230 Ak
+
+1% ‘90N20191113.04T sche 86086300-6000000000108N 20191813006101.460 3 $1,000.20 ey ‘132019 0055120 ant Accepted by Treasury
+
+Accocted 6
+(Date Accepted 11/132019 0951 20 ANE
+
+Figure 91: SPS — Checks Submitted / Checks Status
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 45
+
+@SMART
+
+9 Using the Customer Service Module
+
+Within the Customer Service Module, there are two types of tickets: SMART and CRM. SMART tickets
+are created using the SMART application. CRM (Customer Relationship Management), tickets are
+created in a separate program used to track customer service tickets. CRM tickets are then imported
+into SMART. The @ icon will appear before or after the CRM Ticket Number anywhere a Ticket appears
+(such as My Tickets, All Inboxes, Ticket Search Screen, and within the Customer Service Module Ticket
+Information Screen).
+
+Additionally, there are two types of tickets: sys tickets and non-sys tickets. If a Loan No. exists for a
+ticket, then that system is sys. If a Loan No. exists for a ticket, then that system is non-sys.
+
+9.1 Ticket Search
+
+Customer Service Tickets can be retrieved through various combinations of the search criteria available
+on the Ticket Search Screen.
+
+Q Ticket Search Screen
+
+FHA Case #: ~ Borrower Name:
+
+Loan Skey:
+
+* Property Address:
+
+~ Property State
+
+‘Ticket No| | Tecat Loan Program (FHA Case Ne) Loan No) (Aging) Reason) (*Piionty) Cal Date) «Caer Name) Caller Phone | (x Designee |» Ticket Created By |» Ticket Creates Date
+
+Figure 92: Ticket Search Screen
+
+Step 1: Click [CUSTOMER SERVICE] from the top Navigation menu. Select [TICKET SEARCH] from the
+dropdown.
+
+Step 2: Select the search criteria from the displayed search fields in the Ticket Search Screen.
+
+Step 3: — Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+Ticket Skey SMART system identification number unique to each ticket
+Control No Ticket Control Number
+
+CRM Service Request No
+
+CRM system identification number
+
+CRM Company Name
+
+Name of Company for CRM ticket.
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Ticket Status Current high-level status of the ticket (Open or Closed)
+Created By User that created the ticket
+
+Designee User that is assigned to the ticket
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 46
+
+@SMART
+Search Field Definition
+
+Note Text Searches any word w/in the content of notes within the Notes tab of the Loan Record
+Note Type Type of note within the Notes tab of the Loan Record
+
+CRM Client Type Type of CRM Client (Real Estate Professional, Home Owner, Closing Agent, etc.)
+Ticket Creation Type Date the ticket was created
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Caller Name Name of the Caller
+
+Ticket No. Identification number for that ticket
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Ticket Loan Program
+
+Loan Program associated with the Ticket
+
+CRM Service Request Created Date
+
+Date the CRM ticket was created
+
+Keyword
+
+Keyword search.
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Call Date Date of the customer service call
+Ticket Create Date Date the ticket was created
+Ticket Closed Date Date the ticket was closed
+Disposition Where the ticket is assigned
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Reason For Calling
+
+Reason for the customer service call
+
+CRM Escalated Date
+
+Date the CRM ticket was escalated
+
+Table 11: Ticket Search Fields
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 47
+
+
+@®SMART
+
+9.2 Accessing Detailed Customer Service Information
+
+From the Search Result Dashboard, click on

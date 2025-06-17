@@ -1,0 +1,827 @@
+No:
+
+Project ID:
+
+Voucher Number:
+
+VRS Number:
+
+Hard File:
+Label Printed:
+Mig Doc Exists:
+Deed Restriction:
+OT Cert (Form
+9548):
+
+Box Number:
+
+Sales Contact Closing Date
+WUD Settement: Expration Date:
+
+Note Doc Exist Fie Entered Dat:
+Home Owner Fe Received Date
+ore woace Reeves
+
+Lender Name
+
+Figure 114: View Loan Filing (235-Insured)
+
+4.2.5.4 View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail, —_Loan Filing
+
+@# Loan Recording
+
+Borrowers Property Inspection Transactions,
+
+Loan Recording Information
+
+Documents Notes Mortgage Release
+
+Exceptions:
+
+Servicing
+
+Book Wo: Release Propored Date Notary:
+Page No: Origination Date: Prepared By:
+Instrument Loan Recorded Oat: Orginal Trustee
+Payot Date Mortgage Amount Substiue Trustee
+Aunonzea vanes 1 winess 2
+
+Figure 115: View Loan Recording (235-Insured)
+
+View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record.
+
+Lon Recotig Popety nape
+
+Loan Filing
+
+Borrower Information
+
+Transactions
+
+First Name: SSN:
+Birth
+
+Last Name: —
+
+Home Work
+
+Phone: Phone:
+
+Marital
+
+Status:
+
+Borrower Address
+
+ato
+ity sot:
+
+Documents Notes Mortgage Release
+
+Exceptions Servicing Foreclosure = Bankruptcy Customer Service
+
+Co-Borrower Information
+
+Last Name gan
+=
+Address 2:
+
+Alternate Contact Information
+
+First Name:
+
+Last Name:
+
+Address 1:
+
+Address 2:
+
+Figure 116: View Borrowers (235-Insured)
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 46
+
+@SMART
+
+4.2.5.6 View Property Inspection
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record.
+
+SIN Transactions © Documents Noles Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+Loan Summary Loan Detail Loan Filing Loan Recording Bot
+% Property Inspection
+
+Last Inspect Date Last Appraisal Date Appraised Value Prop Type Code Prop Desc Code
+
+farce! No n 10% Con 0
+| a a
+‘Showing 1 101 of
+
+Figure 117: View Property Inspection (235-Insured)
+
+4.2.5.7 View/Add/Edit Documents
+Step 1: Click on the [DOCUMENTS] tab within the Loan Record page.
+
+Transactions Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+Document Name Hach 08 Created By Cham Change Date Status
+‘Medina recapture. 1.pat Recapture
+Medina recapture pat Recapture @& Edit Document
+‘Medina mtg.pat Mortgage 061972017 B& Edit Document
+07:15:20 AM EST
+
+Figure 118: View Documents (235-Insured)
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection
+
+@ Documents
+
+08/16/2017
+10.05.47 AM EST
+
+Step 2: To adda document, click on [ADD DOCUMENT] located under the Documents title to
+
+navigate to Document (Add Mode). To edit a document, click on [EDIT DOCUMENT] located
+in the Actions column of the Documents dashboard to navigate to Document (Edit Mode).
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions Aiming! Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+B Document (ADD MODE)
+
+x
+
+Figure 119: Add Document (235-Insured)
+
+Step 3: Drag and drop a document or click on the Document Upload button to upload a file (if you
+are using Internet Explorer, you can only click to upload). Note; Only PDF, ZIP, DOC, DOX,
+XLS, XLSX, PPT, PPTX, and TXT files are accepted.
+
+Step 4: Complete all required fields and click [SAVE].
+
+Step 5: Onthe Confirmation Pop-up, click [SUBMIT].
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 47
+
+®SMART
+
+4.2.5.8 View/Add Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab.
+
+Loan Summary LoanDetai Loan Filing Loan Recording Borrowers Property nspection Transactions Documents MIR) wortoage Reiease Exceptions Serving Foreclosure Bankruptcy Customer Service
+
+&B Notes
+
+High importance Mote
+
+Figure 120: View Notes (235-Insured)
+
+Step1: Click on the [NoTEs] tab within the Loan Record page.
+Step 2: Click on [ADD NoTE] located under the Notes title to navigate to the Add Note window.
+
+B Add Note
+
+Notes Information
+
+Figure 121: Add Note (235-Insured)
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.2.5.9 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+page.
+
+@B Mortgage Release
+
+B Full Release (A)
+
+Bchecks
+
+Figure 122: View Mortgage Release
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 48
+
+@SMART
+
+4.2.5.10 View Exceptions
+
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detal_ Loan Filing Loan Recording Borrowers Property Inspection Transactions Documents Notes Mortgage Retoase (EBIBIEIMN Servicing Foreciosure Bankruptcy Customer Service
+
+A Exceptions
+
+[os aror J ons |
+
+ton mount a Create Date
+r2n0n018 Congressional $1,500.00 TY 12/102018
+12:38:00 PM EST
+
+Figure 123: View Exceptions (235-Insured)
+
+4.2.5.11 View Servicing
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page.
+
+@ Servicing
+
+B Payot Request (A)
+
+Figure 124: View Servicing
+
+4.2.5.12 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page.
+
+@ Foreclosure
+
+Foreclosure Activity ty ryt
+
+B Foreciosure (A)
+
+0211172019
+
+Figure 125: View Foreclosure
+
+4,2.5.13 View Bankruptcy
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page.
+
+@ Bankruptcy
+Oo ooo
+Chapter 7 (A)
+Steps
+
+Figure 126: View Bankruptcy
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 49
+
+@SMART
+
+4.2.5.14 View Transactions
+To access Transactions, click on the [TRANSACTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection [RIEMEranal Oocuments Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+@ Transactions
+
+Pes or = nn
+a ve
+‘Showing 1 to 3 of 3 entries . + | Next
+
+Figure 127: View Transactions (235-Insured)
+
+4.2.5.15 View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail, Loan Filing Loan Recording Borrowers Property Inspection Transactions © Documents Notes Mortgage Release Exceptions. — Servicing Foreclosure
+
+a& Customer Service
+
+PB wer Yo
+Tastes | Taso open : ces
+
+Showng 1101 of 1 entries :
+
+Figure 128: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 50
+
+@®SMART
+
+4.2.6 SF Data Request Loan Records
+Note: SF Data Request Loan Records are Read Only.
+
+4.2.6.1 View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record.
+
+Loan
+
+=
+
+Loan Summary
+
+Loan Detail Loan Filing Loan Recording Borrowers Property Inspection
+
+Transactions Documents Notes Mortgage Release Exceptions.
+
+Servicing Foreclosure Bankruptcy
+
+Customer Service
+
+Menihly Somers
+
+Interest Tax Balance:
+
+Suspense Escrow Balance:
+
+Late Charge Paid YTD:
+
+Real Estate Tax Paid YTD:
+
+Late Charge Balance: Times Late YTD
+
+Current Loan Balance: Times Late Totat
+
+Credit Line Balance: Claim Pay Date:
+Payott Date
+
+Original Principal Amount: Number of Payments Delinquent: Monthly Principal Amount: 30.00
+Unpsid Principal Balance: Pay Type Code: Monthly Tax Escrow Amount: $0.00
+Tax Escrow Balance: Pay Application Code: Monthly Farrellzm Amount: $0.00
+Farrellzm Balance: Payment Status: Monthly Service Fee Amount: $0.00
+insurance Damage Balance: Principal Paid YTO: Monthly Interest Tax Amount: $0.00
+Service Fee Balance: Interest Paid YTD:
+
+Totals: $0.00
+
+4.2.6.2 View Loan Detail
+
+Figure 129: View Loan Summary
+
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record.
+
+Loan Summary RRS Loan Filing — Loan Recording Borrowers Property Inspection
+
+# Loan Detail
+
+4.2.6.3 View Loan Filing
+
+Transactions Documents Noles
+
+Mortgage Release
+
+Adcisions) esp information
+
+Servicing Foreclosure
+
+Figure 130: View Loan Detail
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record.
+
+Loan Summary Loan Detail BPR Loan Recording Borrowers
+
+i Loan Filing Information
+
+Property Inspection Transactions Documents Notes. © Mortgage Release = Exceptions,
+
+Bankruptcy Customer Service
+
+‘Omer Code: (Curr Prin Limit: Signed Date: Hold Code 1:
+Loan Type: Expected int Rate: Funded Date: Hold Code 2:
+FHA # 151 hig: Current Net Prin Limit: Mig Ins Cert Date: Hold Code 3:
+Loan Term: 30 yrs 0 mos Repair Set Aside: Assit Accepted: Accrual Method
+Loan Status: CLOSED ‘Max Claim Amt: ‘Asst Recorded: ‘Assess Late Charge:
+Loan State 1: First Yoar Sot Aside: Claim Paid: Collect Tax Escrow: NO
+Loan State 2: Serv Fee Set Aside: Title Approval: Custodial:
+Loan Purpose Code: Orig Creait Line: ‘At Contractor On: Vacancy Status:
+Loan Class Code: ‘ARM Change Date: Vacancy Date:
+Contract Type Code: F Orig Loan Date: ADP Code:
+Program Type: Status Date: Print Statements: ves
+Last CO Response: Maturity Date:
+Oce. Cert Sent:
+Due Date Detling NC:
+
+Servicing Foreclosure Bankruptcy Customer Service
+
+Loan Filing Information
+
+Prior Servicer Name: Mara Fue: Sales Contract: Ctosing Date
+Prior Servicer Phone Label Printed: YES HUD Settlement Expiration Date
+Project Name mig Doc Exists: Note Doc Exists: File Entered Date:
+Project No Deed Restriction: Home Owner Fie Received Date
+rock cert orm or type once Recered
+Voucher Number Box Wumber Tee name:
+
+VRS Number:
+
+Figure 131: View Loan Filing
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 51
+
+
+4.2.6.4 View Loan Recording
+
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing (EO eemrany) nsactions Documents,
+
+Borrowers Property Inspection ——Trat
+
+@4 Loan Recording
+
+Loan Recording Information
+
+Release Prepared Date:
+
+Notes
+
+Mortgage Release Exceptions Servicing Foreclosure
+
+Notary:
+Prepared By:
+Original Trustee:
+
+Substitue Trustee:
+
+@SMART
+
+Bankruptcy
+
+witness 2
+
+Figure 132: View Loan Recording
+
+4.2.6.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record.
+
+Loan Summary Loan Detail, Loan Filing Transactions Documents Notes Mortgage Release = Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+Loom recoring EERE) | ere nsoncon
+Catnrce
+
+2& Borrowers Information
+
+a
+——_ ait To Name
+ity —— Address 2:
+
+State
+
+Figure 133: View Borrowers
+
+4.2.6.6 View Property Inspection
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+
+% Property Inspection
+
+Figure 134: View Property Inspection
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 52
+
+@®SMART
+
+4.2.6.7 View Transactions
+To access Transactions, click on the [TRANSACTIONS] tab within the Loan Record.
+
+Loan Detail Loan Filmg Loan Recording Borrowers Property mspection ETRE ocuments Notes Mortgage Release Exceptions Servicmg Foreclosure ankruptcy Customer Service
+
+Figure 135: View Transactions
+
+4.2.6.8 View Documents
+To access Documents, click on the [DOCUMENTS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions [AIAN Notes
+
+& Documents
+
+| be]
+Lit! sous nce
+reno to
+
+Figure 136: View Documents
+
+4.7.6.9 View Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab. To access
+Notes, click on the [NoTEs] tab within the Loan Record.
+
+EEE worncerciease —excentions Servicing Foreclosure Bankruptcy
+
+Changed By Change Date Ticket 10
+
+& 171088
+
+Figure 137: View Notes
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 53
+
+@SMART
+
+4.2.6.10 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+page.
+
+Loan Summary Loan Detail Loan Fling Loan Recording Borrowers Property mapecton Transactions Documents Notes PRAMMUERPOPPIR caceouons servicing Foreclosure Bankruptcy Customer Service
+
+@B Mortgage Release
+
+B Full Release (A)
+
+Bichecks
+
+Copy to imaging image
+
+File to StorageiProcess Complete
+
+Figure 138: View Mortgage Release
+
+4.2.6.11 View Exceptions
+
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions. Documents. Notes. «Mortgage Release [MEMENEENMIN Servicing Foreclosure Bankruptcy Customer Service
+
+A Exceptions
+
+Figure 139: View Exceptions
+
+4,2.6.12 View Servicing
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions Documents Noles Mortgage Release Exceptions Foreclosure Bankruptcy Customer Service
+@ Servicing
+Servicing Activity
+
+Figure 140: View Servicing
+
+4,2.6.13 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filmg Loan Recording Borrowers Property Inspection Transactions. Documents Notes. Mortgage Release Exceptions Servicing Bankruptcy Customer Service
+
+@ Foreclosure
+
+Foreclosure Activity
+
+Figure 141: View Foreclosure
+
+4.2.6.14 View Bankruptcy
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Transactions. Documents Noles Mortgage Release Excepbons—_Servicin 2 Forectosure Customer Service
+@ Bankruptcy
+
+Figure 142: View Bankruptcy
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 54
+
+4,2.6.15
+
+View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection
+
+Transactions
+a& Customer Service
+
+moc
+
+Documents Notes Mortgage Release Exceptions — Servicing Foreclosure
+
+1978 PARTIAL CLAIM Low 01212011 01:29:51 PM
+ong 1 to 1 of 1 entries
+
+0172172011 01:3851 PM
+
+Figure 143: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 55
+
+@SMART
+
+5 Using the Customer Service Module
+
+5.1 Ticket Search
+
+Customer Service Tickets can be retrieved through various combinations of the search criteria available
+on the Ticket Search Screen.
+
+Q Ticket Search Screen
+
+FHA Case #:
+
+Loan Skey:
+
+Last 4 Digits of SSN:
+
+Ticket Skey:
+
+Step 1:
+
+Step 2:
+Step 3:
+
+Loan Program:
+
+Loan Status:
+
+Loan State:
+
++) Ticket Status Select a Ticket Status
+ocial Desposition:
+
+Designee: Select an Designee > | Ticket No:
+Note Text: Note Created By:
+
+Note Type: ‘Select a Note Type + | Ticket Loan Program:
+
+Ticket No’ “Ticket Loan Program “*FHACaseNo (=Loan No “Aging (*Reason (=Priorty | *Call Date | (= CallerName | Caller Phone | (Designee (Created By » Created Date
+
+Figure 144: Ticket Search Screen
+
+Click [CUSTOMER SERVICE] from the top Navigation menu. Select [TICKET SEARCH] from the
+dropdown.
+
+Select the search criteria from the displayed search fields in the Ticket Search Screen.
+Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+Ticket Skey SMART system identification number unique to each ticket
+Control No Ticket Control Number
+
+CRM Service Request No
+
+CRM system identification number
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Ticket Status Current high-level status of the ticket (Open or Closed)
+Created By User that created the ticket
+
+Designee User that is assigned to the ticket
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Note Type Type of note within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Caller Name Name of the Caller
+
+Disposition Where the ticket is assigned
+
+Ticket No. Identification number for that ticket
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Ticket Loan Program
+
+Loan Program associated with the Ticket
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 56
+
+
+@®SMART
+Search Field Definition
+
+Call Date Date of the customer service call
+
+Ticket Create Date Date the ticket was created
+
+Reason For Calling Reason for the customer service call
+
+Note Create Date Date that the Note in the Notes tab was created
+Keyword Keyword search.
+
+Table 4: Ticket Search Fields
+Search results will display in the search result dashboard. 20 records will display in dashboard.
+Note: There are two types of tickets: sys tickets and non_sys tickets. Sys tickets are tickets with loans
+
+that exist on the loan_table, i.e. the FHA Case Number exists in SMART. Non_sys tickets are tickets
+where the FHA Case Number does not exist in SMART.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 57
+
+@SMART
+
+5.2 Accessing Detailed Customer Service Information
+
+From the Search Result Dashboard, click on the Ticket No. to open the ticket. The user is redirected to
+the ticket’s Ticket Detail tab in the Customer Service Module.
+
+» CGlLoan Record - Non-FHA
+
+FHA Case #: FY Loan Program: | Ticket Skey: ; Loan No:
+
+#& Customer Service - Ticket No. 868566
+
+Create New Ticket
+canton Tet |e | | Do
+Ticket £88586 (A) B Ticket Information (EDIT MODE)
+
+Loan Information
+
+FHA Case ® a FJ) v0en program: — [nomena ¥* | Loans:
+
+Ticket Information
+
+. Ticket Loan taneHA
+Ticket # 989566 Ficnettosn [Non FHA | FC sate Date
+Disposition: Referred to NSC (Servicing | Tenet status OPEN V| cssionce: “
+Current
+Reason Disaster | Ticket Prionty Low | Completed [Courtesy Contact
+Kebon
+RM Service
+
+CRM Servic
+Request No:
+
+Figure 145: Customer Service Module
+
+5.2.1 View/Edit Ticket Detail
+The default page within a Customer Service Ticket is the Ticket Detail page. Here the user can view and
+edit Ticket Information.
+
+Step1: Inside the Customer Service Module, click on the [TICKET DETAIL] tab.
+
+canton TelatAton Nolet oocmens
+
+Ticket 868566 (A) B Ticket Information (EDIT MODE)
+
+Loan Information
+
+FHA Case #1 a Y Loan Program: | Non-FHA | Loans
+
+Ticket 263860 Fetat Loan [ Nom-FHA | FC Sale Date
+Reason Desaster A | Ticket Priority [ tow
+
+CRM Service
+
+Request Wo
+
+Nature of issue (Ticket Description}
+BIUS*%*/¢ TE aaa Qs ms
+E = zo 8 Re att
+
+syies + | Format =~ | Font + | Sze A Bien PlIAMSOnes
+
+Figure 146: View/Edit Ticket Detail
+Step 2: Complete all required fields. Note; The Loan Information box, Ticket # field, and
+Borrower/Caller Information box are only editable for Supervisor roles.
+Step 3: Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+This saves all the updated information.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 58
+
+@SMART
+
+5.2.2 Create New Call Log
+Step 1: Inside the Call Log tab, click on [CREATE NEW CALL Loc].
+
+Ticket Detait Ticket Action —-Notes—ocuments
+Ticket 868566 (A) 2 Call Logs For Ticket No 868566
+co
+First Name Last Mame
+
+Figure 147: View Call Log
+
+Step 2: Complete all required fields.
+
+Ticket No PETE) vere oeran cnet action notes Documents
+
+Ticket 868566 (A) B Create New Call Log
+
+Call Log Infor

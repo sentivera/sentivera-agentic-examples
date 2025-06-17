@@ -1,0 +1,694 @@
+s Payoff Transactions © Customer Service
+
+© Foreclosure
+
+‘BForectosure (A)
+
+Changed By
+
+Request to HUD to assign commissioner o2ni62018 o22e2018 & Esit item
+
+o2ne2018 & Esit item
+
+o2ea2018 o2n62018 Of Eait item
+
+022572018 022772018 02162018 02282018 O Esit item
+
+31072018 o2nez018 & Esit tem
+
+o4oarz018 oze2018 & Edit item
+
+oa2a2018 o2ne2018 OF Eait tem
+
+oazaz018 o2ne2018 & Esit item
+
+05042018 o2ne2018 & Ecit item
+
+95/08/2018 o2ne2018 OF Edit item
+
+Forectosure Sale hela 06/162018 o2r62018 Gf Eait item
+
+Figure 278: Foreclosure Tab (Partial Claim)
+
+: Exports the data from the table into an excel
+E | Bi Excel
+Export to Exce (= spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Add Foreclosure |) Add Foreclosure Spe | Adds a new Foreclosure Step to the Foreclosure
+Add Foreclosure Steps
+Steps Activity selected for the Loan.
+Foreclosure View the information for the Foreclosure Activity
+Management selected for the Loan.
+View Notes Takes you to the Notes tab for the loan. See Section
+3.2.8.
+Search search Search and filter the page by specific keywords. The
+main table will filter based off of the keyword search.
+
+Table 10: Data Table Buttons
+
+HECM-Assigned, HECM-Insured, and SF Data Request is read-only and the user can not add new
+Foreclosure Activities for these loan programs.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Transactions Documents Notes Mortgage Release Exceptions Servicing Bankruptcy Customer Service
+
+@ Foreclosure
+
+Figure 279: Foreclosure Tab — No Foreclosure Activity (235-Insured)
+
+If there is no Foreclosure Activity recorded for the loan, there will be no Data Table displayed on the
+right side of the Foreclosure tab (see Figure 9). The Foreclosure Type data table will display on the left
+with all of the Foreclosure Activities displayed with a blue plus mark (&).
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 129
+
+7.2.1. View an Active Foreclosure Activity
+
+In the Foreclosure Activity table, a green document icon (&) and (A) means that the Foreclosure Activity
+is Active. The active Foreclosure Activity will open with its timeline displayed in the main data table.
+See Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Foreclosure Activity
+
+B Foreclosure (A)
+
+ee oc
+
+@ Foreclosure
+
+BForectosure (A)
+
+Request to HUD to a:
+
+canes 02/16/2018
+
+o2232018 o2ne2018
+
+3102018 02/16/2018
+
+o2i62018
+
+Ee
+SZ Eaten
+
+Figure 280: Active Foreclosure Activity (Partial Claim)
+
+7.2.2 View an Inactive Foreclosure Activity
+
+In the Foreclosure Activity table, a grey document icon (8) and (I) means that the Foreclosure Activity is
+Inactive. The active Foreclosure Activity will open with its timeline displayed in the main data table. See
+Table 3 for a description of the buttons that display on top of the main Data Table.
+
+7.2.3. Add Foreclosure Steps
+
+A predefined template of Foreclosure Activity steps is generated for a loan when the user adds a
+Foreclosure Activity. Various additional Foreclosure activity steps are also available and may be added
+as needed.
+
+Step 1: Click on the [ADD FORECLOSURE STEPS] button.
+Step 2: Complete all required fields.
+
+B Foreclosure Steps (ADD MODE):
+
+New Foreclosure Step
+Foreclosure Step: Select a Forecio
+
+sonure Step x |
+“)
+caava0%s Y)
+
+BIrUusSxe I, & @ @ Qa) MS Sekeeaeere
+
+4 ei 99
+Format + | Font + | See ‘A Olen MiamMeonn
+
+Figure 281: Add New Foreclosure Step (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Foreclosure step and all information inserted in the add screen will display in the correct
+
+Foreclosure Activity’s timeline. If the user inserts a note into the Note field, then a Foreclosure note will
+generate in the notes tab.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 130
+
+@SMART
+
+7.2.4 Foreclosure Management
+
+The Foreclosure Management button offers a general summary of the Foreclosure template and permits
+the user to update the status of the selected Foreclosure template.
+
+Step1: Click on the [FORECLOSURE MANAGEMENT] button.
+Step 2: Complete all required fields.
+
+Foreclosure Management
+
+Figure 282: Foreclosure Management (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Foreclosure management information will display in the main table and the Service
+Management screen.
+
+7.2.5. Inactivate Foreclosure Activity
+
+The status of Foreclosure Activities may be changed to inactive if the user added them in error or if they
+are no longer applicable for the loan.
+
+Step1: Select Foreclosure Activity to inactivate and click on the [FORECLOSURE MANAGEMENT]
+button.
+Step 2: From the status column, select “Inactive”.
+
+B Foreclosure Management (EDIT MODE):
+
+Inactive
+
+Figure 283: Foreclosure Management (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Foreclosure tab. The selected Foreclosure Activity will now display
+with a grey document icon (8) and (I) in the name.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 131
+
+@SMART
+
+7.2.6 Reactivate Foreclosure Activity
+
+Step1: Select Foreclosure Activity to reactivate and click on the [FORECLOSURE MANAGEMENT]
+button.
+Step 2: From the status column, select “Active”.
+® Foreclosure Management (EDIT MODE):
+
+Foreclosure Management
+
+Active
+
+Attorney
+
+Petitoner
+
+Figure 284: Foreclosure Management (Partial Claim)
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Foreclosure tab. The selected Foreclosure Activity will now display
+with a green document icon (&) and (A) in the name.
+
+7.2.7 View Notes
+
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+Figure 285: Notes Tab (Partial Claim)
+
+To go back to the Foreclosure Tab, click on [BACK TO FORECLOSURE].
+
+7.2.8 Edit Foreclosure Step
+
+The Edit Item action permits the user to update the status of the selected Foreclosure step when there
+is a need for an update or change.
+
+Step 1: = Click on [EpIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+B Foreclosure Steps (EDIT MODE):
+
+Status:
+
+“}
+Al
+
+Figure 286: Edit Foreclosure Step (Partial Claim)
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 132
+
+@SMART
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Foreclosure step and all edited information will display in that timeline’s step.
+
+If the user saves the actual date for any of the Foreclosure steps below, then an auto-note will generate.
+e Request to HUD to assign commissioner
+e Commissioner assigned by HUD
+e FCL Package sent to Foreclosing Attorney
+e Foreclosure Sale Held
+e Rec'd copy of unrecorded fcl deed
+e Rec'd copy of recorded fcl deed
+e Attorney Invoice Received
+e Invoice sent to Accounting Department for Payment
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements. Payoff ‘Transactions Customer Service
+
+&B Notes
+
+=
+| Bes | Ora
+
+‘Auto Note Request Sent to HUD for commssioner assigrenent 02/21/2011
+0231551
+
+Figure 287: Auto-Note Generated (Partial Claim)
+
+7.2.9 — |nactivate Foreclosure Step
+
+The status of Foreclosure steps may be changed to inactive if the user added them in error or if they are
+no longer applicable for the loan.
+
+Step1: Click on the [EpIT ITEM] link for the desired Foreclosure step.
+Step 2: From the status column, select Inactive.
+
+B Foreclosure Steps (EDIT MODE):
+
+Status: Inactive
+
+Foreclosure Steps For Request to HUD to assign commissioner
+
+Figure 288: Inactivate Foreclosure Step (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+This directs the user back to the Foreclosure tab. The selected Foreclosure step will now display a grey
+inactive button in the status column.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 133
+
+@SMART
+
+8 Using the Mortgage Release Module
+
+8.1 Mortgage Search
+8.1.1 Searching for Loans with Mortgage Release History
+
+Loans in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Mortgage Release Search Screen.
+
+Q Mortgage Release Search Screen
+Search Database:
+
+FHA Case # Loan Progeam:
+
++ | Borrower Name:
+
+Loan Skey: * Property Address:
+
+Lender Name
+
+jose Box
+
+R
+R
+
+Note Type: Select a Note + Note Text Note Created By: elect a Note Created By
+
+Last 4 Digits of SSN:
+
+fiewilt tieaders: FHA Case No) (*Loan Program Borrower Name | = Property Address || Property State «Actual Osis
+
+| cerca cece
+
+Figure 289: Mortgage Release Search Screen
+
+Step 1: Click [MORTGAGE RELEASE] from the top Navigation menu. Select [MORTGAGE SEARCH] from
+the dropdown.
+Step 2: Select the search criteria from the displayed search fields in the Mortgage Release Search
+
+Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State
+
+Detailed Status of the loan
+
+Release Status
+
+Shows whether the release is Active or Inactive.
+
+Release Step Status
+
+Shows whether the mortgage release step is Pending or Completed.
+
+Note Text
+
+Searches any word within the content of notes within the Notes tab of the Loan Record
+
+Borrower Name
+
+Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Release Step Mortgage Release actions that have been or need to be completed.
+Keyword Searches any word within the Search Results data table
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Prin Amt
+
+Original principal amount of the loan in dollars (numerals only)
+
+Release Scheduled Date
+
+Date mortgage release step was created or added to a loan
+
+Release Completed Date
+
+Date mortgage release step was completed
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Table 11: Mortgage Release Search Fields
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 134
+
+Step 3:
+
+Step 4:
+Step 5:
+
+8.1.2
+
+@®SMART
+Click [START SEARCH].
+Figure 290: Mortgage Release Search Screen Buttons
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, you will be automatically directed to the Mortgage Release
+tab.
+
+Searching for Loans without Mortgage Release History
+
+Loans without Mortgage Release history can be retrieved through various combinations of the search
+criteria available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Mortgage Release tab.
+
+Note: You can also access loans with Mortgage Release history through this process.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 135
+
+@SMART
+
+8.2 Mortgage Release Tab
+
+Once the Loan record is open, the Mortgage Release Module is found on the Mortgage Release Tab. If
+Mortgage Release activity has been initiated for a Loan, the Mortgage Release tab in the Loan Record
+window will be highlighted in light blue and will display the current Mortgage Release activity of that
+Loan.
+
+eS = Se ES
+
+® Mortgage Release
+
+(BiFull Retease (A)
+Brut
+
+@ Ect tem
+
+We Storage Process Comaete ovm22020 osrs2018 @ athe
+
+Figure 291: Mortgage Release Tab (Partial Claim)
+
+Description
+Export to Excel BiExcel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Add Release Steps ‘eae Release Step to the Mortgage Release Activity
+
+Mortgage Release View the information for the Mortgage Release Activity
+Management = selected for the Loan.
+
+View Notes Takes you to the Notes tab for the loan. See Section 3.2.8.
+Search and filter the page by specific keywords. The main
+table will filter based off of the keyword search.
+
+Table 12: Data Table Buttons
+
+Search Search:
+
+HECM-Assigned, HECM-Insured, and SF Data Request is read-only and the user can not add new
+Mortgage Release Activities for these loan programs.
+
+GRISEA Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff Transactions Customer Service
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Documents,
+
+@B Mortgage Release
+
+eee | Bee peor Pr: | =
+BiChecks
+Check # Check Amount Check Date Pay To i” OK Clear c Created Date c By c Printed By Printed Dat
+
+Bi Add New Mortgage
+Release
+
+No data avatable in table
+
+Figure 292: Mortgage Release Tab — No Mortgage Release Activity (Partial Claim)
+
+If there is no Mortgage Release Activity recorded for the loan, there will be no Data Table displayed on
+the right side of the Mortgage Release tab (see Figure 9). The Release Activity data table will display on
+the left displayed with a blue plus mark (&).
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 136
+
+@®SMART
+8.2.1 View an Active Mortgage Release Activity
+
+In the Release Activity table, a green document icon (&) and (A) means that the Mortgage Release
+Activity is Active. The active Mortgage Release Activity will open with its timeline displayed in the main
+data table. See Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Loan Summary Loan eta Loan Filing Loan Recording orowers PropertyInpecton Documents Notes EEMMMEWMNMINE eaceptons Serving Forectonue Garkruptey Disbursements Payot Transactions Release Activity
+® Mortgage Release
+
+Full Relea:
+
+mem 6) Full Release (A)
+
+GiChecks
+
+2] Add New Mortgage
+3) Release
+
+Figure 293: Active Mortgage Release Activity (Partial Claim)
+
+8.2.2 Add New Mortgage Release
+
+In the Release Activity table, a blue plus mark (&) means that there is no current Mortgage Release
+
+Activity. From here, you can add a New Mortgage Release.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes
+
+@B Mortgage Release Gi Checks
+moo El Add New Mortgage
+= Release
+
+Add New Mortgage
+Release
+
+No Gata avazabile in table
+
+Figure 294: No Mortgage Release Activity (Partial Claim)
+
+Step1: Click on [ADD NEW MortTGAGE RELEASE] from the Release Activity table.
+Step 2: Select Release Type.
+
+Loan Summary LoanDetail_ Loan Filing Loan Recording Borrowers Property Inspection Documents Notes RMEONENNIRIR cxcestions Serving Foreclosure Gankruptcy _Dabursements Payot Transactions Customer Service
+
+B Mortgage Release Management (ADD MODE).
+
+Figure 295: Mortgage Release Tab — No Mortgage Release Activity (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have created the New Mortgage Release Activity, the selected release timeline will display in
+the Release Activity table as Active.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 137
+
+@®SMART
+8.2.3 Add Mortgage Release Steps
+
+A predefined template of Mortgage Release Activity steps is generated for a loan when the user adds a
+Mortgage Release Activity. Various additional Mortgage Release activity steps are also available and
+may be added as needed.
+
+Step1: Click on the [ADD RELEASE STEPS] button.
+Step 2: Complete all required fields.
+
+B Mortgage Release Steps (ADD MODE):
+
+=
+
+Mortgage Release Steps For Release Request ReceivediInitiated
+
+Figure 296: Add New Mortgage Release Step (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Mortgage Release step and all information inserted in the add screen will display in the correct
+Mortgage Release Activity’s timeline. If the user inserts a note into the Note field, then a Mortgage
+Release note will generate in the notes tab.
+
+8.2.4 Mortgage Release Management
+
+The Mortgage Release Management button offers the user the ability to update the status of the
+selected Mortgage Release to be either Active or Inactive.
+
+Step1: Click on the [MORTGAGE RELEASE MANAGEMENT] button. Change the status to either Active
+or Inactive.
+
+Loan Summary Loan Detail LoanFilng Loan Recording Borrowers Property inspection Documents Notes, (EEMINMERNIRI exceptions Servicing Forecosure Bankruptcy Disbursements Payot ‘Transactions. Customer Service
+
+B Mortgage Release Management (EDIT MODE):
+
+Mortgage Release Management
+
+Figure 297: Mortgage Release Management (Partial Claim)
+Step 2: — Click [SAVE] then click [SUBMIT] on the Confirmation Pop-up.
+
+The new servicing management information will display in the main table and the Service Management
+screen.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 138
+
+@SMART
+
+8.2.5 View Notes
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents Morgage Release Exceptions Servicing Foreclosure ‘Sankruptcy _Oesbursements Payoff Transactions Customer Service
+&B Notes
+=o
+[net] nvoe J orm |
+Note type High importance
+
+1
+055
+
+Figure 298: Notes Tab (Partial Claim)
+
+To go back to the Mortgage Release Tab, click on [BACK TO MORTGAGE RELEASE].
+
+8.2.6 Edit Mortgage Release Step
+The Edit Item action permits the user to update the status of the selected Mortgage Release step when
+there is a need for an update or change.
+
+Step 1: Click on [EpIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Documents Notes,
+
+B Mortgage Release Steps (EDIT MODE):
+
+Figure 299: Edit Mortgage Release Step (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Mortgage Release step and all edited information will display in that timeline’s step.
+If the user saves the actual date for any of the Mortgage Release steps below, then an auto-note will
+generate.
+
+e Lien Release package sent for recording
+e Recorded Release received from County
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 139
+
+@SMART
+
+8.3 Check Search
+
+8.3.1 Searching for Loans with Disbursement Checks
+
+Checks in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Check Search Screen.
+
+Q Check Search Screen
+Search Database: SMART PRODUCTION DATABASE
+
+FHA Case &: Loan Program:
+
+Loan Skey: Loan Status
+
+Loan #: Loan State:
+
+Lender Name: Select a Lender + | Printed By:
+
+Reimbursable: Select a Status * | Prepared By: Select a Prepared By
+
+Last 4 Digits of SSW: Pay To: Cleared:
+
+Check #: Keyword: Voiaed:
+
+Note Type: + | Note Text Note Created By:
+
+Pay To Type: ject 8 Pay to Type + | TOPS Withnela?: Select TOPS vatnnela * TOPSCheck Status: | Select a TOPS Check Statu + | TOPS Amount From: To:
+
+Loan Skey | (= FHA Case No) Loan No} (= Loan Program) |= Borrower Name || «Pay To |» Disbursement Type || «Printed | « Voided) (= Cieared «Ch

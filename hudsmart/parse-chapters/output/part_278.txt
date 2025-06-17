@@ -1,0 +1,729 @@
+ERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 30
+
+@®SMART
+4.2.2.12 View Servicing
+
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrow Property Inspection Transactions
+
+@ Servicing
+
+Mortgage Release Exceptions Foreclosure Bankruptcy
+Servicing Activity
+
+Customer Service
+
+Figure 68: View Servicing
+4,2.2.13 View Foreclosure
+
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions Documents Notes Mortgage Release —Excoptions
+@ Foreclosure
+
+Customer Service
+
+Figure 69: View Foreclosure
+4.2.2.14 View Bankruptcy
+
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page.
+
+Loan Summary Loan Detail, —_Loan Filing
+
+‘oan Recording Borrowers Property Inspection Transactions Documents. Noles Mortgage Release Exceptions Servicing ‘Foreclosure Customer Service
+@ Bankruptcy
+
+Figure 70: View Bankruptcy
+4.2.2.15 View Customer Service
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+
+Property Inspection Transactions Documents
+a& Customer Service
+
+ooo
+
+is Noles Mortgage Release Exceptions = Servicing Foreclosure
+
+1978 PARTIAL CLAIM
+‘Showing 1 to 1 of 1 entries
+
+Low 0121/2011 01:38:51 PM
+
+Figure 71: View Customer Service
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 31
+
+@®SMART
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 32
+
+@SMART
+
+5 Using the Customer Service Module
+
+Within the Customer Service Module, there are two types of tickets: SMART and CRM. SMART tickets
+are created using the SMART application. CRM (Customer Relationship Management), tickets are
+created in a separate program used to track customer service tickets. CRM tickets are then imported
+into SMART. The @ icon will appear before or after the CRM Ticket Number anywhere a Ticket appears
+(such as My Tickets, All Inboxes, Ticket Search Screen, and within the Customer Service Module Ticket
+Information Screen).
+
+Additionally, there are two types of tickets: sys tickets and non-sys tickets. If a Loan No. exists for a
+ticket, then that system is sys. If a Loan No. exists for a ticket, then that system is non-sys.
+
+5.1 Ticket Search
+
+Customer Service Tickets can be retrieved through various combinations of the search criteria available
+on the Ticket Search Screen.
+
+Q Ticket Search Screen
+
+FHA Case #: ~ Borrower Name:
+
+Loan Skey:
+
+* Property Address:
+
+~ Property State
+
+Figure 72: Ticket Search Screen
+
+Step 1: Click [CUSTOMER SERVICE] from the top Navigation menu. Select [TICKET SEARCH] from the
+dropdown.
+
+Step 2: Select the search criteria from the displayed search fields in the Ticket Search Screen.
+
+Step 3: — Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 Digits of SSN The last four digits of the Borrower's Social Security Number
+Ticket Skey SMART system identification number unique to each ticket
+Control No Ticket Control Number
+
+CRM Service Request No
+
+CRM system identification number
+
+CRM Company Name
+
+Name of Company for CRM ticket.
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Ticket Status Current high-level status of the ticket (Open or Closed)
+Created By User that created the ticket
+
+Designee User that is assigned to the ticket
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 33
+
+
+@SMART
+Search Field Definition
+
+Note Text Searches any word w/in the content of notes within the Notes tab of the Loan Record
+Note Type Type of note within the Notes tab of the Loan Record
+
+CRM Client Type Type of CRM Client (Real Estate Professional, Home Owner, Closing Agent, etc.)
+Ticket Creation Type Date the ticket was created
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Caller Name Name of the Caller
+
+Ticket No. Identification number for that ticket
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Ticket Loan Program
+
+Loan Program associated with the Ticket
+
+CRM Service Request Created Date
+
+Date the CRM ticket was created
+
+Keyword
+
+Keyword search.
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Call Date Date of the customer service call
+Ticket Create Date Date the ticket was created
+Ticket Closed Date Date the ticket was closed
+Disposition Where the ticket is assigned
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Reason For Calling
+
+Reason for the customer service call
+
+CRM Escalated Date
+
+Date the CRM ticket was escalated
+
+Table 4: Ticket Search Fields
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 34
+
+
+@®SMART
+
+5.2 Accessing Detailed Customer Service Information
+
+From the Search Result Dashboard, click on the Ticket No. to open the ticket. The user is redirected to
+the ticket’s Ticket Detail tab in the Customer Service Module.
+
+~ ClLoan Record - Non-FHA
+
+FHA Case a Loan Program: ihc skey: a Loan Wo:
+
+Ticket No
+
+RATT TicketActon Notes. Documents. Borrower History
+Ticket 853458 () 42
+Ticket 853457 () 4)
+
+wana E>
+
+Ticket 853454 f)
+
+Figure 73: Customer Service Module
+
+5.2.1 View/Edit Ticket Detail
+
+The default page within a Customer Service Ticket is the Ticket Detail page. Here the user can view and
+edit Ticket Information.
+
+Step1: Inside the Customer Service Module, click on the [TICKET DETAIL] tab.
+
+4% Customer Service - Ticket No. 853455
+
+a er
+
+B Ticket Information (EDIT MODE)
+
+Ticket £63488 ( 42
+
+Ticket 853457 0 4)
+‘Thehet 852455 (A)
+Ticket 853454 (0)
+
+Figure 74: View/Edit Ticket Detail
+
+Step 2: Complete all required fields. Note;| The Loan Information box, Ticket # field, and
+Borrower/Caller Information box are only editable for Supervisor roles.
+Step 3: = Click [SAVE].
+
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+This saves all the updated information.
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 35
+
+@SMART
+
+5.2.2 Ticket Resolution
+The Ticket Resolution box is found in the Ticket Detail tab. This table lists all the notes (with the
+exception of Nature of Issue) in descending order.
+
+Clicking the [Copy TO CLIPBOARD] button allows a user to Copy and Paste (Ctrl + V) into a free-form box in
+plain text.
+
+Ticket Resolution
+
+Copy to Clipboard Search
+Importance Note Create Date
+Ticket Closed by 11/29/2019 12:41:13 PM
+Original Ticket Loan Program FHA Insured has been updated to EHLP by 11/29/2019 11:59:36 AM
+Ticket Re-Assigned to Supervisor Inbox by [i 08/06/2019 16:18:42 PM
+Original Ticket Loan Program FHA Insured has been updated to Partial Claim by 08/06/2019 16:04:01 PM
+Showing 1 to 4 of 4 entries Previous + | Next
+
+Figure 75: Ticket Detail - Ticket Resolution
+
+5.2.3. Create New Call Log
+Step1: Inside the Call Log tab, click on [CREATE NEW CALL Log].
+
+Cs
+
+© Call Logs For Ticket No 853455
+
+= kn
+aannniest
+sey ta ten a
+
+Figure 76: View Call Log
+
+Step 2: Complete all required fields.
+
+Figure 77: Create New Call Log
+
+Step 3: = Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+The new call log and all information inserted in the add screen will display in the table on the Call Log
+
+tab. To edit the call log, select Edit Log in the Action column on the Call Log page. Complete all required
+fields and Click Save.
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 36
+
+@SMART
+5.2.4 View/Add Ticket Action
+
+Step1: Inside the Customer Service Module, click on the [TICKET ACTION] tab.
+
+Ticket No. CallLog Ticket Detan RR
+
+Ticket 968566 (A) 2 Ticket Action For Ticket No 868566
+
+icket Actio Created By Create Date te Dat Days in Current Action ‘Action
+‘Authorzed Third Party 11262018 12082018 9 Click to Complete
+Courtesy Contact 11202018 11262018 3 Completed
+
+Figure 78: View Ticket Action
+
+Step 2: To adda new Ticket Action, click on [CREATE NEW ACTION].
+
+‘Tichet Su860s (A) © Create New Ticket Action For Ticket No 868566
+
+Ticket Action Detail
+Current Action: [ Selecta Curent Acton x |
+
+Complete Date: 1207/2018
+
+Figure 79: Create New Action
+
+Step 3: Select the Action to add from the Current Action dropdown menu.
+
+Step 4: If the Action has not been completed, clear the Complete Date field. If the Action has
+been completed, put the date in the Complete Date field. Then click [SAVE].
+
+Step 5: From the confirmation pop-up, click [SUBMIT].
+
+5.2.5 Complete Ticket Action
+
+Step1: Inside the Ticket Action tab, click on the [CLICK TO COMPLETE] link located in the Actions
+column for an action that has not yet been completed.
+
+Ticket No. cantog — Ticket Detat RRR woes Documents
+
+Ticket 968566 (A) © Ticket Action For Ticket No 868566
+
+Figure 80: View Ticket Action
+
+Step 2: The link redirects to the Edit Ticket Action page. Fill in the Complete Date and click [SAVE].
+Step 3: From the confirmation pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 37
+
+@®SMART
+5.2.6 View/Add Notes
+
+Inside the Customer Service Module, all the notes associated with that Ticket Number will display in
+chronological order on the Notes tab.
+
+Ticket No. CaltLog —TheketDetat Ticket Action TEI bocuments @
+
+Ticket 871625 (A) FB Notes
+
+Is
+
+117302018 971625
+
+11302011
+09:45:47 AM EST 09:49:28 AM EST
+
+Figure 81: View Notes
+
+Step1: To add anew note, click on the [NOTES] tab within the Customer Service Module.
+Step 2: Click on [ADD NOTE] to navigate to the Add Note window.
+Step 3: Complete all required fields.
+
+Ticket No. Canto Tenet Dotan Tice Acton ERI cocuments
+
+ee BAdd Note
+
+Figure 82: Add Note
+
+Step 4: — Click [SAVE].
+Step5: On the Confirmation Pop-up, click [SUBMIT].
+
+5.2.7. View All Notes
+
+Inside the Notes tab, click on the View All Notes button. All the notes associated with that FHA Case
+
+Number will display in chronological order. To go back to the Notes associated only with the Ticket
+Number, click on the Notes tab.
+
+5.2.8 View Documents
+
+Inside the Customer Service Module, click on the Documents tab. All the documents associated with
+that FHA Case Number will display in chronological order.
+
+Ticket No Call Log Ticket Detail Ticket Action Notes
+Tickat 679026 (A) Documents
+
+Ticket 885815 (I)
+
+a te
+
+0016AD30.pdt note +7202017 [Aco | @& Edit Document
+12.0028 PM EST
+
+0015C9B4.pat NCF Mertgage 1171872017 [Ace @& Edit Document
+06:22:35 AM EST
+
+Figure 83: View Documents
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 38
+
+@SMART
+
+5.2.9. Borrower History
+
+Inside the Customer Service Module, if a non_sys ticket has been merged with a sys ticket, the borrower
+name, address, and phone number form the non_sys ticket is saved into the Borrower History.
+
+Ticket No. CallLog Ticket Detail, = Ticket Action © Notes. «= Documents@ = aE
+
+‘Ticket 102266 (1) & Borrower History Information
+
+| Bex | —
+
+Figure 84: Borrower History
+
+5.2.10 Close Ticket
+
+Step1: Inside the Customer Service Module, click on the [TICKET DETAIL] tab.
+Step 2: From the Ticket Status dropdown menu in the Ticket Information box, select “Closed.”
+
+4% Customer Service - Ticket No. 853455
+
+km Ticket Status: | OPEN
+| Tikot to. | corcoa TEETER cnet scton notes documents Borrower History
+1
+
+Ticket Priority: |
+iaamshantandahad B Ticket Information (EDIT MODE)
+0
+
+CRM Service Select a Status
+
+Request Created Date:
+
+OPEN
+
+Figure 85: View/Edit Ticket Detail
+
+Step 3: — Click [SAVE] then on the confirmation pop-up, click [SUBMIT].
+
+After the user refreshes the page, the Ticket will display “(I)” to represent Inactive in the Ticket No.
+table.
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 39
+
+@SMART
+
+5.3 Create New Ticket
+5.3.1 Create New Ticket from Header
+
+Step 1: Click [CUSTOMER SERVICE] from the top Navigation menu. Select [CREATE NEW TICKET] from
+the dropdown.
+
+B Create New Ticket
+
+BIUS*% KT a & @ Qu Fis \|e & co Rk SE Te
+
+Figure 86: Create New Ticket
+Step 2: Complete all required fields.
+
+Note: Tickets assigned to you and any tickets you have pinned will appear on the My Tickets page. If
+you insert an FHA Case Number that exists in SMART, then the Loan Program and Borrower Information
+will auto-populate. The following fields are defaulted.
+
+e The “Ticket Priority” field is defaulted to Low; this is editable.
+
+e The “Ticket Status” field is defaulted to Open; this is editable.
+
+e The “Designee” field is defaulted to the user’s name; this is editable.
+
+Step 3: = Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+After creating a new ticket, the user will be redirected to the ticket detail tab in the customer service
+module to view the new ticket. The ticket will display an “(A)” to represent Active in the Ticket No. table
+and the ticket will display in the designee’s inbox.
+
+Note: If you are creating a new ticket for a loan record that currently has an open ticket, then a pop-up
+
+will display with the following verbiage: “This case has an open SMART ticket. However, you are able to
+create a new CRM ticket.”
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 40
+
+SMART
+
+5.3.2 Create New Ticket from Tab for Specific FHA Case No.
+
+Step1: Inside the Customer Service Module, click [CREATE NEW TICKET] to create a new customer
+service ticket for that specific loan.
+
++ ClLoan Record - Non-FHA
+FHA Case len Progra cet skey a Loan Wo:
+
+B Create New Ticket
+
+Brusxewe ¢ | aaa Qu\R eles aio Sik 2am ee
+Styes = | Foamat Feet se -|A Mes BM 2aBSOas
+
+Figure 88: Create New Ticket
+
+Step 2: Complete all required fields.
+Step 3: = Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+Note: If you are creating a new ticket for a loan record that currently has an open ticket, then the next
+page will display with the following verbiage: “This case has an open SMART ticket. However, you are
+able to create a new CRM ticket.” You will have two options, [PROCEED] or [CANCEL].
+
+Selecting [PROCEED] will take you to the [CREATE NEW CRM TICKET] page. This page functions the same as
+
+the Create New Ticket page as shown in Figure 88. If you do not want to create a new CRM Ticket, select
+[CANCEL].
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 41
+
+@SMART
+
+5.4 Re-Open and Merge Tickets
+5.4.1 Re-Open Ticket
+
+Step1: From the Customer Service Ticket Search Screen, select “Closed” from the Ticket Status
+field and add “Ticket Closed Date” as a Result Header.
+
+Step 2: — Click on [START SEARCH].
+
+Step 3: From the Search Result Dashboard, click on the FHA Case Number of a ticket that had
+been closed within 24 hours. Note: The ticket will not re-open if it has been closed for
+over 24 hours.
+
+Note: If a Loan No. exists for a ticket, then that system is sys. If a Loan No. exists for a ticket, then that
+system is non-sys.
+
+Step 4: Inside the Ticket Detail tab, select “Re-Open” from the Ticket Status drop down.
+
+Pn Ln tid
+
+B Ticket Information (EDIT MODE)
+
+Ticket Status: | CLOSED A
+
+Ticket Priority:
+
+CRM Servi Select a Status
+
+ice
+
+CLOSED
+
+Figure 89: View/Edit Ticket Detail
+
+Step5: Click [SAVE].
+Step 6: From the confirmation pop-up, click [SUBMIT].
+
+After the user refreshes the page, the Ticket will display “(A)” to represent Active in the Ticket No. Table.
+
+5.4.2 Merge Non-Sys Ticket
+
+Step1: Copy the FHA Case Number of an existing sys or non-sys ticket.
+
+Step 2: Paste into the FHA Case Number field of a previously closed non-sys ticket.
+
+Step 3: — Fill out required fields marked in red and click [SAVE] then [SUBMIT].
+
+Step 4:  Analert will pop-up to merge the ticket. Select a case and click [MERGE CASE No].
+
+ase Number 561-8792534 match 4¢
+
+‘SMART,
+
+Figure 90: Merge Ticket
+
+The ticket will merge with the existing sys or non-sys FHA Case #. The merged ticket will appear in the
+Ticket No. table on the left next to a merge icon W.
+
+Notes and documents also merge. Borrower History tab is created as result of merge (if the case already
+contains merged tickets, info will be added to the Borrower History tab).
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 42
+
+@SMART
+
+6 Using Reports
+
+6.1 Customer Service Reports
+
+Step1: Click [REPORTS] from the top Navigation menu. Select [CUSTOMER SERVICE] from the
+dropdown.
+
+Bs Reports - Customer Service Dashboard
+
+© Comprehensive Report
+
+Controlled Correspondence Open Tickets Aging Lender Name:
+
+Report Start Date >= 12062018
+
+Report End Date <= 127062018
+
+Figure 91: Reports — Customer Service Dashboard
+
+Step 2: From the Reports — Customer Service Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: — Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report. Click [REPORT IN HTM] to generate a HTML report.
+
+fa Report in Excel 5 Report in PDF G Report in HTM
+
+Figure 92: Generate Report in either Excel, PDF, or HTM
+
+6.2 Director Reports
+
+Step1: Click [REPORTS] from the top Navigation menu. Select [DIRECTOR REPORTS] from the
+dropdown.
+
+Bs Reports - Director Reports Dashboard
+
+ESE 1.0 sonny drector- Expanded Report
+
+© HUD Monthly Director - Expanded Report
+
+© HUD Monthly Director Report . Loan inventory
+Summary
+
+Figure 93: Reports — Director Reports Dashboard
+
+Step 2: From the Reports — Director Reports Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: — Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 43
+
+@SMART
+
+6.3 Servicing/Release Reports
+Step 1: Click [REPORTS] from the top Navigation menu. Select [SERVICING/RELEASE REPORTS] from the
+dropdown.
+
+ls Reports - Servicing/Release Reports Dashboard
+
+°
+orn
+Orn
+orn
+Ochi
+
+Figure 94: Reports — Servicing/Release Reports Dashboard
+
+Step 2: From the Reports — Servicing/Release Reports Dashboard, click on a report from the left-
+hand menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: — Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+SMART USER MANUAL | LSC.CSSUPERVISORHECM | VERSION 1.43.0 | JUNE 2, 2020 | 44
+
+@SMART
+
+7 User Information
+
+7.1 Manage Account
+To view your personal identification and contact information, click your user name from the top
+navigation menu. From this page you can update your account and change your password.
+
+= & Role: Isc.cssupervisorhecm +
+
+Figure 95: Navigation Menu Links
+
+@ User Information (EDIT MODE)
+
+wuthentication:
+
+Manage Password:
+
+Current Password: [ sveeonnaees
+
+New Password:
+
+Confirm Password:
+
+Figure 96: Example User Information (Edit Mode)
+To update your account, follow these steps:
+
+Step 1: Edit your User Information as appropriate.
+Step 2: Click [SAVE] to save your changes or [CANCEL] to abandon the changes.
+
+Instructions on how to change your password are described in Section 2.5.
+
+7.2 Change Roles
+
+Many users are assigned multiple different roles. In order to jz | & Role: hud.admin ~
+change between the user roles, click on your [ROLE] in the
+
+top navigation menu. The dropdown menu will show all huh eseupervisor
+your assigned roles. Select the rol

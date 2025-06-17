@@ -1,0 +1,620 @@
+CM - insured | FC Sale Date:
+Program
+Disposition: [ HeCm (Assigned -Ls0) A) Ticket status: [cLoseo | ccsicnce: | ~)
+Current
+Reason: [zPavoe A] Tenet Prony: — [Low W*] Ecmptetea No Acton nee Complete
+‘ewon
+CRM Service
+Request No:
+Nature of issue (Ticket Description):
+Q
+
+Figure 185: Merged Tickets
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 75
+
+@SMART
+
+6.3 Create New Ticket
+6.3.1 Create New Ticket from Header
+
+Step 1: Click [CUSTOMER SERVICE] from the top Navigation menu. Select [CREATE NEW TICKET] from
+the dropdown.
+
+B Create New Ticket
+
+Loan Lookup
+
+FHA Case #:
+
+FC Sale Date:
+
+ante Roghy “
+
+Ticket L Ld
+Ticket Status: OPE WH | Designee:
+Ticket Pi “
+
+CRM Service
+Request No:
+
+#9 Rk Fe wt te
+
+Figure 186: Create New Ticket
+
+Step 2: Complete all required fields.
+
+Note: Tickets assigned to you and any tickets you have pinned will appear on the My Tickets page. If
+you insert an FHA Case Number that exists in SMART, then the Loan Program and Borrower Information
+
+will auto-populate. The following fields are defaulted.
+e The “Ticket Priority” field is defaulted to Low; this is editable.
+e The “Ticket Status” field is defaulted to Open; this is editable.
+e The “Designee” field is defaulted to the user’s name; this is editable.
+
+Step 3: Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+After creating a new ticket, the user will be redirected to the ticket detail tab in the customer service
+module to view the new ticket. The ticket will display an “(A)” to represent Active in the Ticket No. table
+
+and the ticket will display in the designee’s inbox.
+
+Note: If you are creating a new ticket for a loan record that currently has an open ticket, then a pop-up
+will display with the following verbiage: “FHA Case Number xxx-xxxxxxx has an opened ticket. Please
+
+review the open ticket (Ticket ID: xxxxxx).”
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 76
+
+@SMART
+
+6.3.2 Create New Ticket from Tab for Specific FHA Case No.
+
+Step 1: Inside the Customer Service Module, click [CREATE NEW TICKET] to create a new customer
+service ticket for that specific loan.
+
+» ClLoan Record - FHA Insured
+
+* @ Additional Loan Information
+
+Borrower Name Phone (Work Next Payment Due Date Gt Code
+Borrower Address: Phone (Home Contractual Due Date ot mat
+cay so: i co os: Forebearance Agreement Branch Code:
+
+a& Customer Service - Ticket No. 873263
+
+cats a] el ae
+
+‘Tickot 873263 (0) B Ticket Information (EDIT MODE)
+Ticket 1647 (1) ==
+3 Pinto Dashboard
+
+Ticket # 73263 Femttoes FHA insures A | FC Sate Date
+Disposition  controted Corespondence A) Tevet status: CLOSED | Designee: | “
+) Current
+Reason {098 A | Ticket Prony Low ‘Z| Eompictea No Acton Rem Compete
+Acton
+CRM Service
+Request No
+
+Figure 187: Customer Service Module
+
+B Create New Ticket
+
+Loan Information
+
+FHA Case # , VY > Loan Program FHA insured | Loans: P|
+Ticket Information
+Ticket # Ticket Loan Program: [FHA insured | FC Sate Date
+Disposition [ Selecta Disposison x] Ticket status OPEN | Designee ; “
+Current
+
+Reason: { Select a Reason x ] Ticket Priority Low | Completed No Action item Complete.
+e—_e—_—___) AB 9 ~
+
+CRM Service
+
+Request No
+
+Nature of issue (Ticket Description)
+
+BIrusSxxe ¢ i &&& Qu Fs) r= eo 2 ESO
+s JA Bee Bigamseaes
+
+syes + | Format =~ | Font
+
+Figure 188: Create New Ticket
+Step 2: Complete all required fields.
+
+Note: The following fields are defaulted.
+e The “Loan Program” will default to this loan record’s loan program
+e The “FHA Case #” will default to this loan record’s FHA Case Number.
+e The “Ticket Priority” field is defaulted to Low; this is editable.
+e The “Ticket Status” field is defaulted to Open; this is editable.
+e The “Designee” field is defaulted to the user’s name; this is editable.
+
+Step 3: Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 77
+
+@SMART
+
+7 Using Reports
+
+7.1 Customer Service Reports
+
+Step 1: Click [REPORTS] from the top Navigation menu. Select [CUSTOMER SERVICE] from the
+dropdown.
+
+@ Reports - Customer Service Dashboard
+
+© Comprehensive Report
+
+Lender Name:
+
+Report Start Date >= 121062018
+
+Report End Date <= 127062018
+jorkioad Specific Report
+
+fo nenet Sts | Brot esc | peas
+
+Tickets by Lender
+
+© HUD Speci
+© HUD Speci
+© HUD Specialist Open Ticket Status
+© HUD Specialist Tickets by Region
+© Open and Close Tickets By Agents
+© Open Tickets By Lender with Notes
+© Reason for Calling Report
+
+© Repeat Calis Report
+
+© Ticket Exception Report
+
+© Tickets by Calt Disposition
+
+© Tickets by Designee
+
+© Tickets by User
+
+Figure 189: Reports — Customer Service Dashboard
+
+Step 2: From the Reports — Customer Service Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+Step 4: — Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report. Click [REPORT IN HTM] to generate a HTML report.
+
+fa Report in Excel 5 Report in PDF G Report in HTM
+
+Figure 190: Generate Report in either Excel, PDF, or HTM
+
+7.2 Director Reports
+
+Step 1: Click [REPORTS] from the top Navigation menu. Select [DIRECTOR REPoRTS] from the
+dropdown.
+
+@ Reports - Director Reports Dashboard
+
+© HUD Montnty Director Report
+
+© HUD Monthly Director Report - Collection Loan program:
+Summary
+
+Fiscal Year:
+© HUD Monthty Director Report - Loan Inventory
+Summary
+
+Figure 191: Reports — Director Reports Dashboard
+
+Step 2: From the Reports — Director Reports Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 78
+
+@SMART
+
+7.3 Servicing/Release Reports
+
+Step 1: Click [REPoRTS] from the top Navigation menu. Select [SERVICING/RELEASE REPORTS] from the
+dropdown.
+
+@ Reports - Servicing/Release Reports Dashboard
+
+Loan program: Select a Loan Program
+Property State:
+Report Start Date >=
+
+Report End Date <- 127062018
+
+Loan Status
+
+© Open Partial Claims With Total UPB
+
+© open Partial Claims by Service Kk 1B Repost in POF
+
+Figure 192: Reports — Servicing/Release Reports Dashboard
+
+Step 2: From the Reports — Servicing/Release Reports Dashboard, click on a report from the left-
+
+hand menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 79
+
+@SMART
+
+8 User Information
+
+8.1 Manage Account
+
+To view your personal identification and contact information, click your user name from the top
+navigation menu. From this page you can update your account and change your password.
+
+— fi Role: hud.csteamlead +
+
+Figure 193: Navigation Menu Links
+
+B User Information (EDIT MODE)
+
+Enforce Two Factor { ya.
+Authentication 2
+
+First Name:
+Last Name:
+
+Enable Alias: No
+
+Account Status:
+
+$| [s} [s} [<} [s} [s
+
+Account Type: HUD Employee
+
+Phone:
+
+Phone Extension:
+
+Fax:
+
+Email
+
+Role:
+
+Manage Password:
+
+Current Password: svvsseese
+
+New Password:
+
+ae
+Figure 194: Example User Information (Edit Mode)
+
+To update your account, follow these steps:
+
+Step 1: Edit your User Information as appropriate.
+Step 2: Click [SAvE] to save your changes or [CANCEL] to abandon the changes.
+
+Instructions on how to change your password are described in Section 2.5.
+
+8.2 Change Roles
+Many users are assigned multiple different roles. In order to 2 | i Kisls: bodadedn @
+change between the user roles, click on your [ROLE] in the
+top navigation menu. The dropdown menu will show all hud.admin
+
+. hud.cssupervisor
+your assigned roles. Select the role you want, and the hud.poweruser
+website will automatically update to be viewed as the role hud.servicingsupervisor
+selected.
+
+Figure 195: Example User Role Options
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 80
+
+@SMART
+
+9 Using the Maintenance Module
+
+9.1 Ticket Round Robin
+
+To open the Ticket Round Robin, click [MAINTENANCE] from the top navigation menu and select [TICKET
+ROUND RoBIN] from the dropdown. The name column is ordered alphabetically by First Name of active
+HUD Employees, then Inactive HUD Employees, then Contractors.
+
+6 Round Robin
+
+8 Round Robin
+Losstmigeton Omer Queue Secttetd Queue ECA Assigned - HA
+cance
+= =) [mae >) [tm =
+= Ck ian Name
+
+Status Servicing Queue Loss Mitigation Other Queue
+
+Actwe wey Inactive ¥ inactive ¥ :
+oO Inactive v Inactive v Inactive v
+Actve ov Active 9 Inactive ¥ mmactve ¥
+Inactive ¥ Inactive ¥ | Inactive . tnactive # 0 Inactive v Inactive ¥
+Inactive
+P , Inactive ¥ cove Active ¥
+Inactive ¥ , active ¥ Active ¥ , , 06/27/2018 11:09:25
+-
+
+Inactwa_¥ Inactwa_¥ , Inara 9 09/26/2018 07.07.38
+
+Figure 196: Ticket Round Robin
+
+9.1.1 Change Agent Queue
+Step 1: To change Agent Queue, click on the Queue dropdown menu and select Active or Inactive.
+Step 2: Click the [SAVE] button underneath the Round Robin title.
+Step 3: Fromthe confirmation pop-up, click [SUBMIT].
+
+The changed queue for the selected agent will now be updated and display in the Ticket Round Robin.
+
+9.1.2 Change Agent Status
+Step 1: To change Agent Status, click on the Agent’s Name.
+
+Step 2: Onthe Maintenance Roundrobin (Edit Mode) page, in the Status field, select either Active
+or Inactive.
+
+& Maintenance Roundrobin (EDIT MODE):
+
+Cancel
+
+Maintenance Roundrobin
+
+Name: | | Emait Address: Ashton.S.Bushman@hud.gov
+
+Status: Active ww
+
+Servicing Queue: Inactive | Loss Mitigation: | Inactive “ |
+Other Queue: Inactive | Sec-Held Queue: { Inactive |
+HECM Assigned -HUD: | Inactive | HECM Endorsed -HuD: | Active |
+HECM Cash - LSC: Inactive | HECM Assigned-LSC: | inactive “|
+HECM Endorsed -LSC: | Inactive | GTR Approved Queue: { Inactive |
+
+Figure 197: Maintenance Roundrobin (Edit Mode)
+
+Step 3: Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+The changed status for the selected agent will now be updated and display in the Ticket Round Robin.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 81
+
+@®SMART
+
+9.1.3 Add New Designee
+
+Step 1: To adda new designee, click on [ADD NEW DESIGNEE].
+Step 2: Complete all required fields.
+
+& Maintenance Roundrobin (ADD MODE):
+
+Maintenance Roundrobin
+
+Name: Select a User x
+
+Status: Select x
+
+Servicing Queue: Select Xr | Loss Mitigation: { Select xr
+Other Queue: Select Xr | Sec-Held Queue: { Select x
+HECM Assigned - HUD: Select > | HECM Endorsed - HUD: { Select x
+HECM Cash - LSC: Select > | HECM Assigned - LSC: { Select xr
+HECM Endorsed - LSC: Select Xr | GTR Approved Queue: | Select x
+
+Figure 198: Maintenance Roundrobin (Add Mode)
+
+Step 3: Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 82
+
+@SMART
+
+10 Getting Help
+10.1 Tech Support
+
+On each page of the solution, there is a small blue tab on the right side of the screen with a question
+mark. This is our Technical Support function. The Technical Support function enables the user to
+
+contact Help Desk personnel live via a text-based chat conversation.
+
+SMART
+
+Unauthorized Access Warning
+
+| |
+Figure 199: Landing Page
+
+@ Tech Support
+
+Figure 200: Tech Support Tab Open
+
+In order to access this function, follow the steps below:
+
+Step 1: Click the [?] on the blue tab on the right of the screen.
+Step 2: Click [TECH SUPPORT].
+
+® TECH SUPPORT
+
+Your name:
+
+Question:
+
+& Chat Now
+
+Figure 201: Tech Support PopUp
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 83
+
+@SMART
+
+Step 3: Enter “Your Name” and a Question into the popup box. (You may input your email
+address, but that is not required) Click the box next to “I’m not a robot.”
+Step 4: — Click [CHAT Now]
+
+‘® CHAT SUPPORT © End chat 0:21
+ee
+
+Question: need help
+
+We will be with you shortly...
+Figure 202: PopUp Chat Window
+
+Once the chat window is open, a member of the Help Desk team will get with the user as soon as
+possible.
+
+10.2 Solutions to Common Problems
+
+Problems with SMART fall into three categories: internet issues, browser issues, and SMART issues.
+Please follow the steps below to resolve each issue.
+
+10.2.1 Internet and Browser Issues
+
+The Primary characteristic of this issue is a delay when loading a page. At the conclusion of this long
+delay, a message may display indicating there is a problem with internet access. Alternatively, pages
+may seem to load but appear blank. If a page has not loaded or displayed after 30 seconds, please
+follow the steps below.
+
+Note: Not all steps have to be completed; start with Step 1 and keep working until the issue is resolved.
+Once the issue is resolved, skip all remaining steps and return to your training session.
+
+Step 1: Refresh the page using the browser’s [REFRESH] button.
+
+Step 2: _ If the issue still exists, close all browser windows, wait 10 seconds, then open a new
+browser window and return to SMART.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 84
+
+Step 3:
+
+Step 4:
+
+@SMART
+
+Check your internet connectivity — do other sites display without issue? If so, proceed to
+Step 2. Otherwise, the issue may be that the browser is unable to connect to the internet.
+Check all connections and try again. If the problem persists, contact your network
+administrator or your Internet Service Provider.
+
+Send email to helpdesk@hudnsc.org. Include your email address, your contact
+information, and a description of what happened leading up to and following the issue.
+
+10.2.2 SMART Issues
+
+SMART issues may be errors which display on-screen or situations where data may not be saved
+properly. If you experience either of these problems, please contact Support via email.
+
+Step 1:
+Step 2:
+
+Step 3:
+
+Use [PRTSC] on the keyboard to capture an image of the screen.
+
+Compose a new email message and paste ([CTRL+V} on the keyboard) the screen image
+into the message. Be sure to include your Username, your contact information, a
+description of what module or page you were viewing, and what you were doing (or trying
+to do) at the time the error occurred.
+
+Send the email to helpdesk@hudnsc.org.
+
+10.3 Getting More Help
+
+If you are experiencing technical difficulties, please contact the SMART support team via email at
+helpdesk@hudnsc.org. For general questions and/or class availability concerns, please contact the
+SMART administration team via email at helodesk@hudnsc.org.
+
+When emailing, pleases include as much information as possible relating to the problem, including print
+screen(s) of the error.
+
+10.4 Help Desk
+
+Email Address helpdesk@hudnsc.org
+Phone Number 1-866-657-5893
+Hours of Operation 7am — 7pm CST
+
+Response Time Time to Resolution
+
+Customer Calls Inquiries | As quickly as possible; normally within one (1) minute of the caller’s choice
+Customer Calls Outside Respond no later than 12 noon the next business day
+
+of normal business hours
+
+Customer emails Respond to inquiries no later than 24 to 48 hours of receipt
+
+Customer On-line chat As quickly as possible; normally within five (5) minutes of the caller’s chat
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 85
+
+«SMART
+
+Single-Family Mortgage Asset Recovery Technology
+
+Manual
+
+JUNE 2, 2020
+
+This document shall not be disclosed outside of the Government and shall not be duplicated, used or
+disclosed in whole or in part for any purpose other than for HUD training. The data subject to this
+restriction is contained on every page throughout this document.
+
+@SMART
+
+Table of Contents
+
+1
+
+5
+
+Yo) [Ui do) a s10] 00) 000-] 8 Ape 1
+1.1 FOATUIES 2... eece cece eec ccc e eee e cena nett eee ee eee aan EEA eA GEE AAA G nee AeA Gn E EEE AGG HE EA AAG aE ee ec ane ee cca ae eeeaaaaeeeeaaaeeeeaaaeeeeeaaes 1
+Getting Started 0... cccccccccssseseeeeeeeeeeea ee eeeeeeeeeeeaaeeeeeeeeeeeeeesasesSESEEEE;;;;AAAAASEEEESESES;;GA OSES EESEEESEE EEA AAEEEEES 2
+2.1  —_ SOFEWALE VELSION oo. eeeeceeeteeeeeeeeeeeee teen etn E EEE EEE E EEE E LEELA AEE A EAE E EGE A GEESE GAGES EGE aaa aaa 2
+2.2 —-_ SOIUTION REQUIPFEMENHS ..........ccceeeescccccceeceeeeeeeeeeeeeeaaeeeeeeeeeeeeeeseeeseeeeeeeeeessaaeesseeeeeeessaaaasseeeeeeeeeaaa 2
+2.3 LOSSING ON... ccc cseecccccseeecccneeeececeeeeeeeeeeeeeeeaeeeeeeseeeeeeeseeeeeeeseeeeesseueeeeaeuseeesseuecesseueessaeuseesseesessages 2
+2.4 — SOIUTION M@NU 0... eeeeeeeeeeeeeeeeeeeee eee eeee nent nnn n nnn EEE EEE EAE AEA E EEE E AGG G EES E EEA a aaa 4
+2.4.1 My Dashboard... eeecesccceesseeeeeesececcesceeeeesaeeeceeaeeesesaeeeceesaeeeceeaaeeesesaeeeeseaeeeseeaeeeesenaeeeseeaeeeseneeeess 5
+2.4.2 LOAN... eee eeeccec cece eneeeeeeeeececeaeaeeeeeeececeaaaueeeeeeeeceaaaaeeeeeeeeeeaaaaeeeeeeeeeeaaauaeeeeeeeeeauaaeeeeeeeeeeauaaeeeeeeeeeeaaaaeeeeeees 5
+2.4.3 SOPVICING........eeeeeeeeeesseeseeeeeeeeeeeeeeeeeeeeenenEEEE SEES EEEEED EEE; EEEES ESE EDSSSSSSDSS DSSS SSO S SOSA OOOO OOOO OOOO OOOO SOOO OOOO OOOO OOO OOOOOOOES 5
+2.4.4  CUSTOMEL SELVICE..... eee eee eeeeeeeceeeeeeeeeeeeeeeecaaaaeeeeeeeeeeaaauaeeeeeeeeeaaaaseeeeeeeeeaaaaeeeeeeeeeeauaaeeeeeeeeeaaaaeeeeeees 5
+2.4.5 User Information and Roles ..........ccccccssssscccccccessesnseeeeecceessseseeeeeeeessseeneeeeeeeeeseeeseeeeeeeeseeeeaeeeeeeseeeeeeaaea 5
+2.5 CHANGING PASSWOM..........cccccccccsssseeeeeeeeeeeeeeseeeeeeeeeesaeeeeeeeeeeeeeesaeeeeeeeeeeeesssseeseeeeeeeeesauaaaeseeeeeeeeaaa 5
+2.5.1 Forgot Password (Recover PaSSWOIM)........ccccccssssssstcccccceseseeseeeeceeceseeeseeeeeceeeseeeseeeeeeeeseeeeaeeeeeeceseeeeanea 6
+V2 oa =>, <1 ese) (01d (0) 9 PRP 6
+Using My Dashboard ..........ccccccccssssssseecceeeeseeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeesaaeeesseeeeeeeesaaaaaseseeeeeesaaaaasss 7
+3.1 MY TICKEtS 0... cccceccccccccceeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaseeeeeeeeeeeesaeeeeeeeeeeeeessaeeeesseeeeeessaeaessseeeeeeesaaagaess 7
+3.1.1 Pin Ticket to My Tickets DaShboard..........ecceesscccceeseeeeeeenceeceeneeeeceeeeeesesaeeeceeaeeesesaeeeesenaeeeseeaeeeseneeeess 7
+3.1.2 Unpin Tickets from My Tickets DaShboard ...........cccccecesscceeeesceeeesneeeeeeeaeeeceeaeeeceeaeeeceenaeeeseeeeeesenaeeeess 8
+i 3 ans) 0] 01-1 7 10) a [0] 010), Cee 9
+3.2.1 Change Disposition .......... ec eeeseeceeescceeceeneeeesesaeeeceeaeeesesaceeceeaeeecesaeeeesesaeeeceeaeeeseeaaeessenaeeeseeeeeeseneeeess 9
+3.2.2 AUTO-ASSIQN ...... ee eeeeesseseeeeeeeeeeeeeeeeeeeeeeeeneeeenneSSESDS SESE E SEEDS SDSS SSDS SESS S SSS O OOO OO OOOO OOOO OOOO OOOO OOO OO SOOO OOOO OOOO OO OOO OOS 11
+3.30 HUD INDOX 000. nn nn nnn nnn nnn nnn e renee ene eee e ee eee eee ee eeeeeeeeeeeeeeeeeeeeeeeeeeeees 12
+3.3.1 Filter HUD INDOX oe eeecccesseeceeceeesssesneeeeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeeseeeaaeeeeeeeeseeeaaeeeeeeseseeesaaaeeeeeeeenes 12
+3.4 ACTION LIST... eee ccc c cece eae nteeeeeeeeeeeaaa eee eeeeeeeeeeaaaaaeeeeeeeeeeeaaaaaaeeeeeeeeaaaaaaaaeeeeeeeeeaaaaaaeeeeeeeeeeaaa 13
+3.4.1 — Filter Action List... ececccesssscccccccesssesneeeeeeeeeeseeseeeeeeeeeeeeeeneeeeeeeeeeeeeeaaeeeeeeeeeeeeeaaeeeeeeeseeeesaaaeeeeeesenes 13
+Using the Loan MOdule........ccccccccsssssssseccceeeceeeesseeeeeeeeeeaeeeeeeeeeeeeeeseeeeeeeeeeeeessaeeeeseseeeeeessaaaaseeeeeeeeaaaa 14
+72 Fas SY =X | 0) 9 14
+4.1.1 Loan Search — Production Database ............ccssccccccccssssssseeeecccessessneeeeceeesseesneeeeeeecesseenaaeeeeceeeseesaaeeeees 15
+4.1.2 Loan Search — Legacy Database............eecccceesscccesesneeeceeneeeeeeseeeeeeaeeeceeaeeesesaeeeeeenaeeeesenaeeeeeseeeeseneeeess 15
+4.1.3 Loan Search — DAT C Database... eecccsssssccccccesssssneeeecccessessnseeeececeseeesaeaeeeeceseseeaaeeeeeeeseeenaaeeeess 16
+4.1.4 Search R@SUItS ..........cccceesssccccccssssesneeeeeceeesseeseeeeeeeesseeeseeeeeeeeeeeeeesaeeeeeeseseeeeaeaeeeeceseseaaeeeeeeeseeeeeaeeneess 16
+4.2 Accessing Detailed Loan Information ...........cccccssecsscccccccceeeesseeeeeeeeesaueesseeeceeeesasseaseeeeeeesessaaggess 18
+4.2.1 Access Details of Partial Claim Loan ReCOrdS ............ccsesssscccecesesesnceeececesseesneeeeeccceseeeaseeeeceeeeeensaaeeeees 19
+4.2.2 Access Details of PMM Loan ReCOIdS ..........sssssccccccessssssneeeececcsseesneeeeeccceseesseeeeeeccesseeeaueeeeeeseseeeaaeeeees 25
+4.2.3 Access Details of Secretary Held Loan RECOIdS ............scccc

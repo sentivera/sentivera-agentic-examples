@@ -1,0 +1,497 @@
+eeeeesaaeesseeeeeeeessaaaasseseeeeeseaaa 34
+Figure 72: Mortgage Release Search Screen ButtOns............ccsssssscccccecceeeeseeeeceeeeesaaeeeeeeeeeeessaaaaeeeseeeeseaaa 35
+Figure 73: Mortgage Release Tab (Partial Claim) ............:::c:ssssssessssssssssssseeseeeessesesesseeseesessesesssesesssssesseae 36
+Figure 74: Active Mortgage Release Activity (Partial Claim)............::::ccscssssssssssssssssssesssssssssesssesssssssssssees 36
+Figure 75: Mortgage Release Management (Partial Claim)............:::::csssssssssssssssssesssesssssssssssssessssssssssseees 37
+Figure 76: Check Search SCre@N .....ccccccsssssssseeccceeceaeeeeseeeeeeeeeaeeeeseeeeeeeesaeeeeeeeeeeeeeesaeeeesseeeeeeeesaaaaaeseeeeeeeaaa 38
+Figure 77: Disbursement Checks (Partial Claim) ...........:ccccccsssessssssssssssssseseeseeeseesessseseseessssssesseeesessssseseaes 39
+Figure 78: Release Checks (Partial Claim) ..........::::ccsssssssssssssssssssssseesseseseessesseseseesssssesssessssessseesessesssssaees 39
+Figure 79: Data RefreSN .........ccccccccccccccceeeseeeeeeeeeeeeeeeeeeeeeeeeeeeaseeeeeeeeeeeesaseeeeeeeeeeeeeeaeeeeeseeeeeeessaaaeaeeeeeeeseaaa 40
+Figure 80: Last Data Refresh ..........cccccccsssssssecceceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeesaeeeeeeeeeeeeeseaeeeesseeeeeeesaaaaaaeeseeeeeesaaa 40
+Figure 81: Trial Balance .........ccccccccccccccceeseeeeeceeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeessseeeeeeeeeeeeesaeeeessseeseeesaaaaeaseseeeeeseaaa 40
+Figure 82: Summary Of ACCOUNT Changes .........cccccsssssseecccccccsesesseeeeeeeeeseaeseeeeeeeeessaseesseeeeeeeessaaaeseeeseeeeseaaa 41
+Figure 83: Trial Balance SUMMALY.........:::cccceccccccceeeeeseeeceeeeeeaseeeeeeeeeeeeesaseeeeeeeeeeeesaeeessseeeeeeeesaaaesseseeeeeseaaa 41
+Figure 84: USSGL ACCOUNL...........cccecccccsescccceeeeeecaeeeeeeeaeeeeeeeeeeeeeseeeeeeeeseeseessseseessaeeeeeessauseesseeueeesauseessaaases 41
+Figure 85: Treasury Report on Receivables and Debt Collection Activities Report ............cccccesseeeeeeeeeeeees 42
+Figure 86: Ticket Search SCr@N ......ccccccsssssssecccceeceeeeeseeeeeeeeeaeeeeeeeeeeeeeeseeeeeeeeeeeeeeesaeeeeseeeeeeeesaauaaseseeeeeseaaa 43
+Figure 87: Transaction Search R@SUItS ..........ccccccccssssssseecceeeeeseeessseeeeeeeesaaeeseeeeeeeeeesaeeeseseeeeeeessaaaeaeeeeeeeeseaaa 44
+Figure 88: Pay.Gov Transaction HiStOry..........cccccssesccccssesccccseeecccaeeeceesseeseeesueeeeeeaeeeeessueeseesaeeeeeesaeeseeesaaases 44
+Figure 89: LOAN TransactiONn Tab ..........cccssesccccccccceeeessseeeeeeeeeaseeeeeeeeeeeeesaeeeeeeeeeeeeeesaeeasseeeeeeessaaaaseeseeeeeeeaaa 44
+Figure 90: SPS — Unprocessed CHecKS .........cccccccccssssssseecceeeeeaeeeeseeeeeeeessaeeeeseeeeeeesaaeeesseeeeeeessauaasseseeeeeeeaaa 45
+Figure 91: SPS — Checks Submitted / Checks Status .............cccccssssscccceceeeeesssceeecececeeessssseeeeeeeceseestsaseeeeees 45
+Figure 92: Ticket Search SCr@N ......cccccsssssssseecccceeeeeeeeseeeeeeeeeaseeeeeeeeeeeeeseeeeeeeeeeeeeeeeaeeeeeeeeeeeeesaaaaeseseeeeeeeaaa 46
+Figure 93: Customer Service MOUIe ...........ccccccccssssssseeccececcaaeesseeeeeeeessaeseeeeeeeeeesaaeeseeeeeeeessaaaaaeeeseeeeseaaa 48
+Figure 94: View/Edit Ticket Detail ............cccccccccccccesssssssseeecceeeesessaeeececcesecessaeeeeeececeeeseaaeeeeececeeessnsaseeeeees 48
+Figure 95: VieW Call LOG .........ccccccccccccccseeeseseeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeseeeeeeeeeeeeeeesaeeeseseeeeeeesaaaaeseseeeeeeeaaa 48
+Figure 96: View Ticket ACtiON.........cccccccsssssesecccceeceeeeeeseeeeeeeeeseeeeeeeeeeeeeeseseeeeeeeeeeeeesaeeeesseeeeeeesaaaaaseseeeeeseaaa 49
+Figure 97: ViCW NOtS...........cccccccsseeecccseecceseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeseeeeesaeeseeesauusessseaseesauseeesaaages 49
+Figure 98: ViEW DOCUMENTS ...........ccccccsssecccceeeececaeeeeccaeseeeeeseeeeeeeeeeeeeseeeeeesseeeeeeaeeseeesaeuseesauausessauseeesaaases 49
+Figure 99: View Borrower HIStory ...........cccccssseccceeeecccseesccccaeeeeceaeeeeeesseeseeeseeeeeesaeueeeessuseesseeseeesaueeeeesaaages 50
+Figure 100: Navigation Menu LINKS ............ccccccccccssssssseecceceeeaeeeseseeeeeeeesaeeseeeeeeeeeesaeeesseseeeeeessauaasseeseeeeseaea 51
+Figure 101: Example User Information (Edit Mode) ...........::cccsssssssssssssssssessseeeeesesssessssesssssesssssssssessseseee 51
+Figure 102: Example User Role Options ...........ccccccsssssecccccceceeeesseeeeeeceesaaeeeeeeeeeeeessaseesseeeeeeeessaeaeseeeeeeeeeaaa 51
+Figure 103: Landing Page...........ccccccccccssssseesecceeeeeseeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeseeeeeeeeeeeeesaeeeeeseeeeeeesaaaaeseeseeeeesaaaa 52
+Figure 104: Tech Support Tab Open .........cccccccccccccsssssseecceeeesaeeeseseeeeeeeesaeeesseeeeeeeeesaeeesseeeeeeeessaaaaaeeeseeeeeeaaa 52
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | iv
+
+@SMART
+
+Figure 105: Tech Support POPUD ...........cccccccccccccceeeesseeeeeeeeeeaseeeeeeeeeeeeesaeeeeeeeeeeeeeesaeeessseeeeeeessaaaaaeeeseeeeseaea 52
+Figure 106: PopUp Chat Window ...........cccccccccccccccessssseeeceeeeeaeeeseeeeeeeeeesaeeeeeeseeeeeessaeeeesseeeeeeessaaaaseeeeeeeeseaaa 53
+Tables
+
+Table 1: Loan Search Fields ...........cccccccssseccccesecceceesecceceeeececeueccecauseceesaeseceesueeceeeaeeceeseuueceesueeceesaueeeesagasss 10
+Table 2: Data Table BUttOns............ccccccccccccessecceceesecceceeeececsueeccecaueceesaueceesueeeceeauuceesueeeceseugeeeesauaeeeeeugasss 12
+Table 3: Bankruptcy Search Fields...........cccccccccccccssssseeeeeeeeesaeaeeeeeeeeeeeesaaeeseeeeeeeeeesaaeesseeeeeeessaaeaeseeeeeeeesaaa 27
+Table 4: Data Table BUttOns............cccccccccccccesecceceesecceceeeececeueeccecaueccecaueeceesueueeesauaeceesueecessugceeseueeeesugasss 28
+Table 5: Foreclosure Search Fields ............cccsccccccessecceceeececeeeccccausecceseeeeceeeueecceeaueceeseueeceseueeceesaueeeesegasss 31
+Table 6: Data Table BUttOns............cccccccccccccssecceceesecceceeeececsueecceeaueccesaueceesueeesecauaecesseguecessueeesesaueceeeegasss 32
+Table 7: Mortgage Release Search Fields ............cccssssssccccceecaeeesseeeceeeeessaeeseeeeeeeeeseeeesseeeeeeeessaaeaeseeeeeeeesaaa 34
+Table 8: Data Table BUttOns............cccccccccccccssecceceesecceceeeececseeecceceuseceesaueceesueueeeeauaecessuueceeeueeceesauseeeesagasss 36
+Table 9: Check Search Fields ...........ccccccceccccessecceccesecceceeeececeueccecauecceceeseceeeueeccesaueceesueuecessugeeeesaueeeesugasss 39
+Table 10: Transaction Search Fields .............cccccccssscceceseecccceseececaeseccesaeseceesueuccesaeeceeseeueceesueeceesaueceeeagasss 43
+Table 11: Ticket Search Fields .............ccccccccessecceceesecceceeeececeueeccecaueccesaueeceeauaeceeseueceeeueueceseueeeeeseueceeeegasss 47
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | v
+
+@®SMART
+
+Document History
+
+Version Date
+
+Description
+Original release.
+
+Updated release.
+
+No changes made.
+
+Updated release; Added PMM, Cash
+Management, CRM, etc.
+
+1.0 3/12/2018
+
+1.34.0 | 12/14/2018
+1.34.0 06/10/2019
+1.43.0 | 12/20/2019
+1.43.0 06/02/2020
+
+No changes made.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | vi
+
+
+@SMART
+
+1 Solution Summary
+
+This manual is designed to guide Lenders through the use of the Single-Family Mortgage Asset Recovery
+Technology (SMART) System.
+
+1.1 Features
+
+The Single-Family Mortgage Asset Recovery Technology (SMART) System is comprised of individual
+modules designed to assist the user in searching for specific loan information and performing related
+functions. The modules currently available include the following:
+
+Loan Module: Query and review loan information at a detailed level, add new loan records to
+the system, and edit existing loan information.
+
+Servicing Module: Assign mortgage servicing templates to individual loans, track the status of
+each servicing template, and generate the corresponding servicing forms and letters.
+Bankruptcy Module: Maintain, track, and edit bankruptcy information for individual loan
+records.
+
+Foreclosure Module: Manage loan records in the foreclosure process. Module provides a
+timeline of the required foreclosure steps and tracks the scheduled foreclosure activity vs. the
+completed foreclosure activity.
+
+Mortgage Release Module: Initiate the loan release process for satisfied loans, track the release
+status, and generate the corresponding release forms and letters.
+
+Cash Management Module: Track and manage incoming payments from Pay.Gov, submit
+disbursement checks, search for transactions and review the TROR and Trial Balance reports.
+Customer Service Module: Create, view, and manage tickets. Create and edit call logs and ticket
+actions.
+
+Maintenance Module: Manage user account, reset user passwords, and update ticket round
+robin.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 1
+
+@SMART
+
+2 Getting Started
+
+2.1 Software Version
+To access the SMART web application, open your web browser and go to: https://smart.hudnsc.org.
+
+2.2 Solution Requirements
+Users must have the following to use the SMART System:
+e Screen Resolution 1920x1080 optimal
+e =Internet Connection
+e Web Browser (IE, Chrome, Firefox)
+e Avalid user name, email address, and password
+e Adobe Acrobat Reader or other .pdf reader (recommended)
+
+Users may not use the following to access the SMART System:
+e Mobile device with a screen size of 760px or less
+
+As a web-based application, SMART is accessed through a web browser, and is not “installed” onto any
+user’s computer.
+
+2.3 Logging On
+Once your SMART user profile has been created and approved, you may begin using the site. To Login,
+follow the steps outlined below.
+
+Step1: Toaccess the SMART web application, open your web browser and go to
+
+https://smart.hudnsc.org.
+
+Password
+
+Unauthorized Access Warning
+
+Figure 1: Landing Page
+
+Step 2: Input your User Name. Input your Password. @®SMART
+Step 3: Click [LOGIN]. A pop-up will appear to initiate
+setting up Multi-Factor Authentication (MFA). What type of device are you adding?
+Click [START SETUP]. © Moniie phone recoumencen
+Landline
+Step 4: Select Mobile Phone or Landline and click
+[CONTINUE].
+
+Figure 2: MFA Phone Set-Up
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 2
+
+@®SMART
+
+Step 5: Enter your phone number, click the box to verify the phone number, and click [CONTINUE].
+
+®SMART
+
+Enter your phone number
+
+United States A
+
++41
+
+ex: (201) 234-5678
+[2] You entered [EEN 's this the correct number?
+
+Figure 3: MFA Phone Set Up
+
+Step6: Verify the ownership of your phone. To get a phone call verification, select [CALL ME]. To
+get a text verification, select [TEXT ME]. Both options will provide you with a 6-digit code.
+Enter in the code and click [VERIFY]. When verified, click [CONTINUE].
+
+@®SMART
+
+Verify Ownership of
+
+1. We can call or text you with a verification code.
+
+} came | °r Textsent
+
+2. Enter your 6-digit code:
+
+“_ ¥
+| sack
+
+Figure 4: MFA Phone Verification
+
+Step 7: Verify your settings on the My Settings & Devices page then click [CONTINUE TO LOGIN].
+
+@®SMART
+
+a
+
+bx. 867539
+
+(Q_ Remember me for 60 days
+
+@SMART (=!
+
+Call Me
+
+Enter a Passcode
+
+(4 Remember me for 60 days
+
+Enrollment successful! This is the Duo login prompt that you'll normally
+see when logging in.
+
+Enter a passcode from a text.
+
+Dismiss Dismiss Text me new codes
+
+Figure 5: Multi-Factor Authentication
+
+Note! When you have checked the [REMEMBER ME FOR 60 DAyYs] checkbox, this bypasses the 2 factor log in for 60 days.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 3
+
+@SMART
+
+Step 8: Select either [CALL ME] or [ENTER A PASSCODE].
+
+Step 9: Selecting [CALL ME] will prompt the system to call your phone. Follow the instructions in
+the phone call and you will be redirected to your default page.
+
+Step 10: Select [ENTER A PASSCODE] and click on [TEXT ME NEw CobEs] at the bottom. This will prompt
+the system to send a text message to your phone containing a 6-digit code. Enter in the
+code and click login. You will be redirected to your default page, logging you in.
+
+The first time you log in you will be asked to reset your password and input three Security Questions.
+
+@SMART
+
+O First Time Password Reset
+
+Answer 1
+
+‘Securty Question 3 ‘Select One x|
+
+Figure 6: Setting up Security Questions Page
+
+Enter in a new password and all three questions and answers and click [UPDATE]. After clicking update,
+you will be taken to your default page.
+
+2.4 Solution Menu
+
+After you have successfully logged into SMART your default page is the My Dashboard Page.
+
+Loan FMA Cane # Loan # 8 . Closed Box # Orginal Prin Ba Updated by Updated Date E Loan States
+
+6B Top 20 Most Recent Loans
+
+moo = Ec
+
+Figure 7: Default Page
+
+From the Dashboard page you can access every point in the site needed via the Top Navigation Menu.
+From left to right, the options are: My Dashboard, Loan, Bankruptcy, Foreclosure, Mortgage Release,
+Cash Management, Customer Service, User Information, and Role.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 4
+
+@SMART
+
+2.4.1. My Dashboard
+
+The default page you come to after you have logged into SMART is the [My DASHBOARD] page. Under the
+tab [My DASHBOARD] you have one option: My Loans.
+
+2.4.2 Loan
+
+The [LOAN] tab directs the user to the Loan Module in SMART. Here you have one option: Search.
+
+2.4.3. Bankruptcy
+
+The [BANKRUPTCY] tab directs the user to the Bankruptcy Module. Here you have one option: Search.
+
+2.4.4 Foreclosure
+The [FORECLOSURE] tab directs the user to the Foreclosure Module. Here you have one option: Search.
+
+2.4.55 Mortgage Release
+The [MORTGAGE RELEASE] tab directs the user to the Mortgage Release Module. Here you have two
+options: Mortgage Search and Check Search.
+
+2.4.6 Cash Management
+Under [CASH MANAGEMENT] you have four options: Trial Balance, TROR Report, Transaction Search, and
+SPS.
+
+2.4.7. Customer Service
+The [CUSTOMER SERVICE] tab directs the user to the Customer Service Module. Here you have one option:
+Ticket Search.
+
+2.4.8 User Information and Roles
+
+Select your user name to view and update your personal identification and contact information. You
+may also change your password and security questions. From the [ROLE] drop-down menu, select the
+role in which to view the SMART System.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 5
+
+@SMART
+
+2.5 Changing Password
+
+To comply with security policies requiring periodic modification to all access passwords, SMART includes
+the Change Password functionality on the My Account page. Follow the steps below to change your
+
+current password.
+
+Step 2: Scroll down the User Information (Edit Mode) page to the Manage Password header.
+
+Step1: From the top Navigation Menu, click your User Name.
+
+Manage Password:
+
+Figure 8: Manage Password
+
+Step 3: Input your current password. Password must contain at least:
+
+Step 4: Input your new password.
+Twelve alphanumeric characters
+
+One special character
+One uppercase letter
+
+One lowercase letter
+
+One number
+
+Step 6: Click [SAVE] at the bottom of the page. 1
+
+Step5: Re-enter your new password to confirm accuracy.
+
+446686
+
+The user is required to change their password every 30 days. The system maintains a password history,
+so that 24 passwords cannot be reused.
+
+If the user logs into SMART after their password is expired between 30 days and 90 days from their last
+password change, they will be redirected to change their password. If the user has not logged on for 90
+days, their account will be disabled. In order to reactivate their account, they will need to contact the
+Help Desk. For information on how to contact the Help Desk, see Section 14: Getting Help.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 6
+
+2.5.1 Forgot Password (Recover Password)
+
+S
+
+C
+
+SMART
+
+To retrieve a lost password, go to the SMART Login Page and click [FORGOT PASsSworD].
+
+@®SMART
+
+Username
+
+Password
+
+_ Unauthorized Access Warning
+
+This warning banner provides privacy and security notices consistent with
+applicable federal laws, directives, and other federal guidance for accessing this
+Government system, which includes all devices/storage media attached to this
+system. This system is provided for Government-authorized use only.
+Unauthorized or improper use of this system is prohibited and may result in
+disciplinary action and/or civil and criminal penalties. At any time, and for any
+lawful Government purpose, the government may monitor, record, and audit
+your system usage and/or intercept, search and seize any communication or
+data transiting or stored on this system. Therefore, you have no reasonable
+expectation of privacy. Any communication or data transiting or stored on this
+system may be disclosed or used for any lawful Government purpose.
+
+Forgot Password Login
+
+Figure 9: Login Page — Forgot Password
+
+Password Reset
+
+Work Email Address
+
+Figure 10. Forgot Password Page
+
+The user is prompted to input a valid email address and select one security challenge question. Enter in
+
+the work email address and click [SUBMIT].
+
+If the user is registered to access SMART, an email is sent to their validated email address containing a
+temporary password to use to access their account. If the user is not registered, the user is prompted to
+
+complete the registration process.
+
+2.6 Exit Solution
+
+To end your SMART session, click [LOGOUT]. Be sure to [UPDATE] any work prior to exiting the system.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 7
+
+@SMART
+
+3 Using My Dashboard
+
+3.1 My Loans
+
+After you have successfully logged into SMART your default page is the My Dashboard Page. The default
+tab of My Dashboard is the My Loans Dashboard.
+
+6B Top 20 Most Recent Loans
+
+Coc = ac
+
+Figure 11: My Loans Dashboard
+
+Note: Each data table throughout the SMART system can generate reports in Excel, PDF or Print. The
+Excel file is downloaded to your computer. Both PDF and Print opens in a new tab. You can also use the
+search bar on any column to filter the data table results.
+
+To open a Loan Record, click on the Loan Skey, FHA Case #, or Loan #.
+
+If you have never pinned a loan to the My Loans tab of My Dashboard, then you will only see the Top 20
+Most Recent Loans. If you have pinned a loan to the My Loans tab, then you will see all the loans you
+have pinned and the Top 20 Most Recent Loans.
+
+3.1.1 Pin Loan to My Loans Dashboard
+Step 1: Identify a loan you would like to pin to the My Loans Dashboard.
+Step 2: Once you have identified a loan you would like to pin, open that loan record.
+Step 3: — Click [PIN TO DASHBOARD] button located in the top right corner of that loan record.
+
++ Goan Record - HECM - Insured
+
+Figure 12: Pin to Dashboard
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have pinned a loan it will display on the My Loans Dashboard. If the loan has multiple
+
+property inspection addresses, then the multiple Loan Records tied to that Loan Skey will display in the
+My Loans Dashboard.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 8
+
+@SMART
+
+3.1.2 | Unpin Loan from My Loans Dashboard
+Step 1: Identify a loan you would like to unpin to the My Loans Dashboard.
+Step 2: Once you have identified a loan you would like to unpin, open that loan record.
+Step 3: = Click [UNPIN FROM DASHBOARD] button located in the top right corner of that loan record.
+
+~ Loan Record - HECM - Insured G5
+
+Figure 13: Unpin from Dashboard
+Step 4: Onthe Confirmation Pop-up, click [SUBMIT].
+Once you have unpinned a loan it will no longer display in the My Loans Dashboard. If the loan has
+
+multiple property inspection addresses, then the multiple Loan Records tied to that Loan Skey will no
+longer display in the My Loans Dashboard.
+
+SMART USER MANUAL | LSC.READONLYHECM | VERSION 1.43.0 | JUNE 2, 2020 | 9
+
+@SMART
+
+4 Using the Loan Module
+
+4.1 Search
+
+Loans can be retrieved through various combinations of the search criteria available on the Loan Search
+Screen.
+
+Q Loan Search Screen
+Search Database SMART PRODUCTION DATABASE
++ Borrower Name: Loan Create Date >=
+
+FHA Case ®: Loan Program:
+
+Loan Skey: Label Printed: * | Property Address:
+
+Loan #: Loan Status: + | Property Ci

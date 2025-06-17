@@ -1,0 +1,754 @@
+ata table. See Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Release Activity
+
+5 Full Release (A)
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes JC ERINEEEINERIE Exceptions Servicing Foreclosure Bankruptcy Disbursements Paya
+
+AB Mortgage Release G Checks
+
+Release Activity
+Full Release (A)
+Bchecks
+
+B Add New Mortgage
+Release
+
+Figure 201: Active Mortgage Release Activity (Partial Claim)
+
+8.2.2. Add New Mortgage Release
+In the Release Activity table, a blue plus mark (&) means that there is no current Mortgage Release
+
+Activity. From here, you can add a New Mortgage Release.
+
+G Checks
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Oocuments Notes FEDMEMOEWNMA exceptions servicing Forecloswe — Gankruptey Disbursements Payd
+
+@B Mortgage Release
+
+Bchecks
+
+Disbursement Type
+
+Add New Mortgage
+Release
+
+Add New Mortgage
+Release
+
+Showing 0 to 0 of 0 entries
+
+Figure 202: No Mortgage Release Activity (Partial Claim)
+
+Step 1: Click on [ADD NEW MorTGAGE RELEASE] from the Release Activity table.
+Step 2: Select Release Type.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property mapection Documents Notes DEERE exceptions Servicing Forecionure_ankruptcy Ohsbursements Payot Transactions Customer Service
+
+B Mortgage Release Management (ADD MODE):
+
+‘Select a Loan Release Type
+
+rane ——CS:sSCéC
+Figure 203: Mortgage Release Tab — No Mortgage Release Activity (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have created the New Mortgage Release Activity, the selected release timeline will display in
+the Release Activity table as Active.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 91
+
+@SMART
+
+8.2.3. Add Mortgage Release Steps
+A predefined template of Mortgage Release Activity steps is generated for a loan when the user adds a
+Mortgage Release Activity. Various additional Mortgage Release activity steps are also available and
+
+may be added as needed.
+
+Step 1: Click on the [ADD RELEASE STEPS] button.
+Step 2: Complete all required fields.
+
+| Select a Mortgage Release Step x |
+
+Select a Mortgage Release Step
+
+_| Order Missing Mortgage/DOT
+
+Received Missing Mortgage/DOT
+
+Recorded Release NOT received/Closed
+
+Figure 204: Mortgage Release Step Options
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. 3 Servicing Foreclosure Bankruptcy Disbursements, Payot Transactions
+
+B Mortgage Release Steps (ADD MODE):
+
+Mortgage Release Steps For Release Request Receivediinitiated
+
+Mortgage Release Step:
+
+Scheduled Date: oze2018
+
+‘Actual Date:
+
+Figure 205: Add New Mortgage Release Step (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Mortgage Release step and all information inserted in the add screen will display in the correct
+Mortgage Release Activity’s timeline. If the user inserts a note into the Note field, then a Mortgage
+Release note will generate in the notes tab.
+
+8.2.4 Mortgage Release Management
+The Service Management button offers the user the ability to update the status of the selected
+Mortgage Release to be either Active or Inactive.
+
+Step 1: Click on the [SERVICE MANAGEMENT] button. Change the status to either Active or Inactive.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Bey ertens servicing Foveciose Bankruptcy Disbursements Payoff ‘Transactions Customer Service
+B Mortgage Release Management (EDIT MODE):
+
+Figure 206: Mortgage Release Management (Partial Claim)
+Step 2: Click [SAve] then click [SuBMIT] on the Confirmation Pop-up.
+
+The new servicing management information will display in the main table and the Service Management
+screen.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 92
+
+@SMART
+
+8.2.5 View Notes
+
+To view notes, click on the [ViEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+&B Notes
+
+Auto Note
+
+Figure 207: Notes Tab (Partial Claim)
+
+To go back to the Mortgage Release Tab, click on [BACK TO MORTGAGE RELEASE].
+
+8.2.6 Edit Mortgage Release Step
+
+The Edit Item action permits the user to update the status of the selected Mortgage Release step when
+there is a need for an update or change.
+
+Step 1: Click on [EbIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers. Property Inspection Documents
+
+B Mortgage Release Steps (EDIT MODE)
+
+Figure 208: Edit Mortgage Release Step (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Mortgage Release step and all edited information will display in that timeline’s step.
+If the user saves the actual date for any of the Mortgage Release steps below, then an auto-note will
+generate.
+
+e Lien Release package sent for recording
+e Recorded Release received from County
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 93
+
+@®SMART
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Propertyinspection Documents EME mortgage Reese Exceptions Servicing Foreclosure Bankruptcy Disbursements
+
+1 Payott Transactions Customer Service
+EB Notes
+
+oo
+
+Search
+
+‘Auto Note
+
+Recewed recorded release
+
+0272872018
+12:31:21 PMEST
+
+Figure 209: Auto-Note Generated (Partial Claim)
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 94
+
+8.3 Check Search
+
+@SMART
+
+8.3.1 Searching for Loans with Checks
+
+Checks in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Check Search Screen.
+
+Q Check Search Screen
+Search Database:
+FHA Case &:
+
+Loan Skey:
+
+Loan #
+Reimbursable:
+
+Last 4 Digits of SSH
+Check #
+
+Note Type:
+
+Pay To Type: Select 8 Payto Type»
+
+Result Headers:
+
+Step 1:
+
+SMART PRODUCTION DATABASE
+
+Loan Program:
+
+Loan Status
+
+Loan State:
+
+* | Printed By:
+
+* | Prepared By:
+
+Pay To:
+
+Keyword:
+
++ | Note Text
+
+TOPS withneld?:
+
+dropdown.
+
+Step 2:
+
+Search Field Definition
+
+* Borrower Name:
+
+Loan Create Date >=
+
++ Property Address:
+
+Property State:
+
++ Print Status:
+
+* Disbursement Type:
+
++ | Voides Date >=
+
++ | Note Create Date >=
+
+Select TOPS vatnnela * TOPSCheck Status: | Selec ‘Status
+
++ | TOPS Amount From: To:
+
+Loan Skey | (= FHA Case No) Loan No} (= Loan Program) |= Borrower Name || «Pay To |» Disbursement Type || «Printed | « Voided) (= Cieared «Check Number) (= Printed Check Date) = Check Amount) (= Bank info
+
+<==
+
+Figure 210: Check Search Screen
+
+Click [MORTGAGE RELEASE] from the top Navigation menu. Select [CHECK SEARCH] from the
+
+Select the search criteria from the displayed search fields in the Check Search Screen.
+
+FHA Case # FHA Case number for each loan
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name
+
+Lender associated with the FHA Case
+
+Reimbursable
+
+Included or Excluded
+
+Last 4 Digits of SSN
+
+The last four digits of the Borrower’s Social Security Number
+
+Check #
+
+Check Number
+
+Note Type
+
+Type of note within the Notes tab of the Loan Record
+
+Pay To Type
+
+Borrower or Vendor
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Printed By User who printed the check
+
+Prepared By User who prepared the check
+
+Pay To The recipient of the check
+
+Keyword Searches any word within the Search Results data table
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+TOPS Withheld? Yes or No
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Print Status
+
+Printed or Unprinted
+
+Disbursement Type
+
+Type of expenditure
+
+Cleared
+
+Included or Excluded
+
+Voided Included or Excluded
+Note Created By SMART User who created Notes in the Notes tab
+TOPS Check Status Cleared, Voided, Partially Cleared, or Partially Voided
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 95
+
+
+@SMART
+Search Field Definition
+
+Check Amount From Amount of the check
+
+Printed Date Date the check was printed
+
+Check Created Date Date the check was issued
+
+Cleared Date Date the check was cleared
+
+Voided Date Date the check was voided
+
+Note Create Date Date that the Note in the Notes tab was created
+TOPS Amount From Amount of the TOPS
+
+Table 11: Check Search Fields
+
+Step 3: Click [START SEARCH].
+Step 4: Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Step 5: Once the Loan Record is open, you will be automatically directed to the Mortgage Release
+
+tab.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Exceptions Servicing Foreclosure Bankruptcy O88 ner Service
+
+G Full Release (A)
+
+@B Mortgage Release
+
+Disbursement Type || Check # ov To cm check Clear Check Clea
+checks
+" ‘ ! + | Next
+
+Figure 211: Checks (Partial Claim)
+
+Step 6: From the Mortgage Release tab, click on the Checks link from the Release Activity table.
+
+8.3.2 Edit Check
+
+Loan Summary Loan Detail Loan Fling Loan Recording Borrowers Propertyinspection Documents Notes EDEMA cxcesnons Servicing Foreclonure Bankruptcy Disbursements Payot Transactions Customer Service
+
+B\ Checks (EDIT MODE):
+
+a Step 1: Click on [EDIT CHECK], located in the
+
+actions column of the main table.
+Step 2: Complete all required fields.
+Step 3: — Click [Save].
+Step 4: On the Confirmation Pop-up, click
+[SusBmit].
+
+!
+
+Payor Information
+
+Last Name:
+First Name:
+Street Address:
+Address Line 2:
+city
+
+State:
+
+Figure 212: Edit Check (Partial Claim)
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 96
+
+@SMART
+8.3.3. Print Check
+
+Release Check information that is entered into the Mortgage Release Module can be reported and
+printed in the approved check format by users with designated security access.
+
+Step 1: Click on [PRINT CHECK], located in the Actions column of the main table.
+
+Check printed successfully. x
+
+Close
+
+Figure 213: Check Printed Confirmation
+Step 2: Onthe Confirmation Pop-up, click [CLOSE].
+
+After selecting the check to print, a PDF of the check automatically downloads. The user can now open
+the PDF file and Print as needed.
+
+Note: Only Release Checks can be printed (as in a PDF is downloaded). All other checks will not generate
+a PDF. This also applies to the pages Print Batch Checks and Print Rejects Checks.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 97
+
+®SMART
+8.4 Print Batch Checks
+
+Release Check information that is entered into the Mortgage Release Module can be reported and
+
+printed in the approved check format by users with designated security access. Checks can be printed in
+batches from the Print Batch Checks page.
+
+Step 1: Click [MORTGAGE RELEASE] from the top Navigation menu. Select [PRINT BATCH CHECKS] from
+the dropdown.
+
+Step 2: Select the search criteria from the displayed search fields under Print Batch Check.
+
+Q Print Batch Check Search
+
+Loan Program:
+
+—-
+Figure 214: Print Batch Checks Search Screen
+
+Step 3: Click [SEARCH]. Search Results will display below.
+
+& Search Results - Returned 668 record(s)
+
+moo
+| Loan Skey FHA Case
+7
+
+a Loan Skey FHA Case #
+
+Select All
+
+. Select Specific
+Print Batch |
+
+Figure 215: Print Batch Checks Search Results
+
+Step 4: To select all checks, check the checkbox in the title of the Selection column. To select
+specific checks, check the checkbox for that specific check in the Selection column. To
+unselect checks, simply re-check the checked checkbox.
+
+Step 5: To print the batch, click on [PRINT BATCH].
+
+After selecting the batch to print, one PDF of the all the checks automatically downloads. The user can
+now open the PDF file and Print as needed.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 98
+
+@SMART
+
+8.5 Print Rejects Checks
+
+Release Check Information for HECM Endorsed Loan Programs that are not housed in SMART can be
+printed in the approved check format by users with designated security access. Checks can be printed in
+batches from the Print HECM Endorsed not in SMART Batch Checks page.
+
+Step 1: Click [MORTGAGE RELEASE] from the top Navigation menu. Select [PRINT REJECTS CHECKS] from
+the dropdown.
+
+Step 2: Select the search criteria from the displayed search fields under Print HECM Endorsed not
+in SMART Batch Check.
+
+Q Print HECM Endorsed not in SMART Batch
+
+Loan Program:
+
+Figure 216: Print HECM Endorsed not in SMART Batch Search Screen
+
+Step 3: Click [SEARCH]. Search Results will display below.
+
+EB Print Batch Check All
+
+Figure 217: Print Batch Check All (HECM Endorsed)
+
+Step 4: To select all checks, check the checkbox in the title of the Selection column. To select
+specific checks, check the checkbox for that specific check in the Selection column. To
+unselect checks, simply re-check the checked checkbox.
+
+Step 5: To print the batch, click on [PRINT BATCH].
+
+After selecting the batch to print, one PDF of the all the checks automatically downloads. The user can
+now open the PDF file and Print as needed.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 99
+
+@SMART
+
+8.6 Payoff Request
+
+When a mortgage has been satisfied, the user can initiate the release process and assign a predefined
+template of release activity steps to the satisfied Loan Record. The release activity templates provide
+the user with a list of required steps in a timeline format so that the user can schedule and track the
+progress of the Mortgage Release Activity
+
+8.6.1 Scenario 1: Received Request for Payoff
+Step 1: Click [SERVICING] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: Search for a Loan Record by selecting the search criteria and click [START SEARCH].
+Step 3: From the Search Result Dashboard, click on either Loan Skey, FHA Case #, or Loan # to
+open the Loan Record. You are automatically directed to the Servicing tab.
+
+Servicing Activity
+
+G Cert of Indebtedness
+(COl) (A)
+
+Loan Summary Loan Detail, Loan Filing Loan Recording
+
+@ Servicing
+
+moos
+(CONIA) er
+
+Add Cert of
+Indebtedness (COl)
+
+Schedule Date 0 ce Create Date Changed
+030172018 03/01/72018
+11:16:07 AM EST
+30272018 0301/2018
+11:16:07 AM EST
+
+Figure 218: Servicing Module
+
+Bl Add Payott Request
+
+Add Demand
+Tracking
+
+BiAdd Subordination
+
+Step 4: Click on the Add Payoff Request link from the Servicing Activity | Add Subordination
+table.
+
+B Servicing Management (ADD MODE)
+
+SET
+Servicing Type Payoff Request
+Initiation Date: [ oxnzo%e ¥]
+, ° 30172018 v |
+a a
+Payot Amount Forwarded to Lock-Box 2 (oacanete v |
+Request Received From: { x |
+Request x |
+Figure 219: Add Payoff Request
+Servicing Activity
+Step 5: Complete all required fields. Bi Cert of Indebtedness
+Step 6: Click [Save] and click [SUBMIT] on the confirmation pop-up. (CON) (A)
+& Payoff Request (A)
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. Mortgage Release Exceptions Foreclosure Bankruptcy sh
+© servicing Add Cert of
+Indebtedness (COI)
+
+Servicing Step Schedule Date plete Date Created By reate Date Add Demand B
+‘Payot Request Received 0228/2018 02/28/2018 o a Tracking ,
+Add Payoff Request
+
+Figure 220: Servicing Module — Payoff Request
+
+Add Subordination
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 100
+
+@SMART
+
+Step 7: To print the Payoff Letter, you can either click [PRINT PAYOFF LETTER] on the Servicing tab or
+[PAYorF/LETTER] on the Payoff tab.
+
+—
+i B PDF Add Servicing Steps @ Service Management BB View Notes ( BB Print Payoff Letter )
+s
+Servicing Step Schedule Date Complete Date Createa ny Create Date
+
+Figure 221: Servicing Module — Print Payoff Letter
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Noles Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements [MMMM transactions Customer Service
+© Payoff =
+Payoft Information Jason | oxova0r8 |
+
+Original Amount: $11,087.47
+
+Figure 222: Payoff Tab — Print Payoff Letter
+
+Step 8: The PDF letter will be auto downloaded to your computer and uploaded to the Documents
+tab.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Notes Mortgage Release Exceptions Servicing Foreclosure ‘Bankruptcy Ossbursements Payoff ‘Transactions Customer Service
+
+& Documents
+
+Created By
+
+Pay_Otf_Letter_2827670.pdt Payoff Letter 03/01/2018 [Active
+11:05:05 AM EST
+(COI_Letter2827670.pat CO! Letter 02/28/2018 [Adve @® Edit Document
+06:20:14 PM EST
+(001818B5.pat note 123 02/01/2018 02/28/2018 [Ate | @® Ean Document
+(03:00:50 PM EST 06:04:01 PM EST
+
+Figure 223: Documents Tab — Payoff Letter
+
+Step 9: Click on the Servicing tab and click on Payoff Request from the Servicing Activity table.
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers Property Inspection Documents Notes © Mortgage Release Exceptions RSAISIN MN Foreclosure Bankruptcy Disbursements Payoff Transactions. Customer Service
+
+@ Servicing
+
+B Cort of indebtedness
+(CON (A)
+
+Change Date
+
+B Payot Request (A) Payott Request Recewed 02282018 o282018 02/28/2018
+082000 PMEST
+
+Badd Cert of
+
+Indebtedness (CON Payot Letter issued 030172018 02/28/2018 <>
+06.20.00 PM EST
+
+BAdd Demand
+Tracking Payot Amount Recewed 0312018 0220/2018 @ Edit tem
+06:20:00 PM EST
+
+B Add Payott Request
+Payot Amount Forwarded to Lock Bax oao12018 02/29/2018 & Edit item
+06:20:00 PM EST
+
+B Add Subordination
+‘Showing 1 10 4 of 4 entries reviou i «
+
+Figure 224: Servicing Module — Payoff Request
+
+Step 10: Click on the Edit Link for the 2™ step in the Payoff Request Timeline (Payoff Letter Issued).
+
+Loan Summary Loan Detal Loan Fitmg Loan Recording ‘Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Foreclosure Bankruptcy Disbursements Payoff Transactions | Customer Service
+
+B Servicing Step (EDIT MODE):
+
+Servicing Type: Payot Request
+
+Servicing Step: Payoft Letter Issued
+
+Schedule Date: 03/022018
+
+Figure 225: Payoff Letter Issued - Edit
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 101
+
+@SMART
+
+Step 11: Insert Complete Date
+Step 12: Click [SAve] and click [SUBMIT] on the confirmation pop-up.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property inspection Documents Notes. © Mortgage Release Exceptions [IRSMSIUIE Foreclosure Bankruptcy Disbursements Payoff’ ‘Transactions Customer Service
+
+@ Servicing
+
+GB Cert of indebtedness
+fervicing Ste Schedule Date Complete Date Changed By
+
+(Conia)
+|B Payott Request (A) Payoff Request Receved oaezors careore o22erz018 SF Kettem
+; 0620.00 PM EST
+Indebtedness (CON) ‘Payot! Leter Issued 030172018 02/28/2018 oxo12018 SZ Eatnem
+0620.00 PEST 10:50:30 AM EST
+BAad Demand
+Tracking Payot! Amount Received osa12018 vane2018 & Eeit nem
+0620.00 PM EST
+Ada Payott Request
+Payot Amount Forwarded to Lock-Bax owor2018 022872018 Tce
+06:20:00 PM EST
+
+Bad Subordination
+
+Showing 1 to 4 of 4 entries vious i+ | Nex
+Figure 226: Servicing Module — Payoff Request
+
+Step 13: Click on the Payoff tab.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. © Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements [MMUIE Transactions Customer Service
+
+Payot
+
+Payoff information fasor | osov018
+
+Original Amount: $11,087.47
+Aavances: $456.00
+other increases: $0.00
+Payments, sooo
+Transterrea Amount $000
+Woite Of Amount: 0.09
+Paid Off Amount: $000
+Total Payott Amount sit.s03.47
+
+Figure 227: Payoff Tab
+
+Step 14: Click on [PAYorFF/PAYMENT].
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Motes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements, ERNIE) transactions Customer Sernce
+
+B Payoff / Payment
+
+‘Comptetion Date: 0301/2018 v
+Total Payott Amount: 1503

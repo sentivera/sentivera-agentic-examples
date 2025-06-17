@@ -1,0 +1,784 @@
+the page by specific keywords. The main
+table will filter based off of the keyword search.
+Table 11: Data Table Buttons
+
+Search Search:
+
+HECM-Assigned, HECM-Insured, and SF Data Request is read-only and the user can not add new
+Mortgage Release Activities for these loan programs.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property inspection Documents Notes [TEEEISENIM Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff ~— Transactions. «© Customer Service
+
+@B Mortgage Release
+
+BiChecks
+
+Check #
+
+Bi Add New Mortgage
+Release
+
+Showing 0 t0 0 of 0 entries
+
+Figure 232: Mortgage Release Tab — No Mortgage Release Activity (Partial Claim)
+
+If there is no Mortgage Release Activity recorded for the loan, there will be no Data Table displayed on
+the right side of the Mortgage Release tab (see Figure 9). The Release Activity data table will display on
+the left displayed with a blue plus mark (&).
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 69
+
+@SMART
+
+8.2.1 View an Active Mortgage Release Activity
+
+In the Release Activity table, a green document icon (8) and (A) means that the Mortgage Release
+Activity is Active. The active Mortgage Release Activity will open with its timeline displayed in the main
+data table. See Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Release Activity
+
+5 Full Release (A)
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes JC ERINEEEINERIE Exceptions Servicing Foreclosure Bankruptcy Disbursements Paya
+
+AB Mortgage Release G Checks
+
+Release Activity
+Full Release (A)
+Bchecks
+
+B Add New Mortgage
+Release
+
+Figure 233: Active Mortgage Release Activity (Partial Claim)
+
+8.2.2. Add New Mortgage Release
+In the Release Activity table, a blue plus mark (&) means that there is no current Mortgage Release
+
+Activity. From here, you can add a New Mortgage Release.
+
+G Checks
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Oocuments Notes FEDMEMOEWNMA exceptions servicing Forecloswe — Gankruptey Disbursements Payd
+
+@B Mortgage Release
+
+Bchecks
+
+Disbursement Type
+
+Add New Mortgage
+Release
+
+Add New Mortgage
+Release
+
+Showing 0 to 0 of 0 entries
+
+Figure 234: No Mortgage Release Activity (Partial Claim)
+
+Step 1: Click on [ADD NEW MorTGAGE RELEASE] from the Release Activity table.
+Step 2: Select Release Type.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property mapection Documents Notes DEERE exceptions Servicing Forecionure_ankruptcy Ohsbursements Payot Transactions Customer Service
+
+B Mortgage Release Management (ADD MODE):
+
+‘Select a Loan Release Type
+
+rane ——CS:sSCéC
+Figure 235: Mortgage Release Tab — No Mortgage Release Activity (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Once you have created the New Mortgage Release Activity, the selected release timeline will display in
+the Release Activity table as Active.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 70
+
+@SMART
+
+8.2.3. Add Mortgage Release Steps
+A predefined template of Mortgage Release Activity steps is generated for a loan when the user adds a
+Mortgage Release Activity. Various additional Mortgage Release activity steps are also available and
+
+may be added as needed.
+
+Step 1: Click on the [ADD RELEASE STEPS] button.
+Step 2: Complete all required fields.
+
+| Select a Mortgage Release Step x |
+
+Select a Mortgage Release Step
+
+_| Order Missing Mortgage/DOT
+
+Received Missing Mortgage/DOT
+
+Recorded Release NOT received/Closed
+
+Figure 236: Mortgage Release Step Options
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes. 3 Servicing Foreclosure Bankruptcy Disbursements, Payot Transactions
+
+B Mortgage Release Steps (ADD MODE):
+
+Mortgage Release Steps For Release Request Receivediinitiated
+
+Mortgage Release Step:
+
+Scheduled Date: oze2018
+
+‘Actual Date:
+
+Figure 237: Add New Mortgage Release Step (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Mortgage Release step and all information inserted in the add screen will display in the correct
+Mortgage Release Activity’s timeline. If the user inserts a note into the Note field, then a Mortgage
+Release note will generate in the notes tab.
+
+8.2.4 Mortgage Release Management
+The Service Management button offers the user the ability to update the status of the selected
+Mortgage Release to be either Active or Inactive.
+
+Step 1: Click on the [SERVICE MANAGEMENT] button. Change the status to either Active or Inactive.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Bey ertens servicing Foveciose Bankruptcy Disbursements Payoff ‘Transactions Customer Service
+B Mortgage Release Management (EDIT MODE):
+
+Figure 238: Mortgage Release Management (Partial Claim)
+Step 2: Click [SAve] then click [SuBMIT] on the Confirmation Pop-up.
+
+The new servicing management information will display in the main table and the Service Management
+screen.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 71
+
+@SMART
+
+8.2.5 View Notes
+
+To view notes, click on the [ViEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+&B Notes
+
+Auto Note
+
+Figure 239: Notes Tab (Partial Claim)
+
+To go back to the Mortgage Release Tab, click on [BACK TO MORTGAGE RELEASE].
+
+8.2.6 Edit Mortgage Release Step
+
+The Edit Item action permits the user to update the status of the selected Mortgage Release step when
+there is a need for an update or change.
+
+Step 1: Click on [EbIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers. Property Inspection Documents
+
+B Mortgage Release Steps (EDIT MODE)
+
+Figure 240: Edit Mortgage Release Step (Partial Claim)
+
+Step 3: Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Mortgage Release step and all edited information will display in that timeline’s step.
+If the user saves the actual date for any of the Mortgage Release steps below, then an auto-note will
+generate.
+
+e Lien Release package sent for recording
+e Recorded Release received from County
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 72
+
+@®SMART
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Propertyinspection Documents EME mortgage Reese Exceptions Servicing Foreclosure Bankruptcy Disbursements
+
+1 Payott Transactions Customer Service
+EB Notes
+
+oo
+
+Search
+
+‘Auto Note
+
+Recewed recorded release
+
+0272872018
+12:31:21 PMEST
+
+Figure 241: Auto-Note Generated (Partial Claim)
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 73
+
+8.3 Check Search
+
+@SMART
+
+8.3.1 Searching for Loans with Checks
+
+Checks in the Mortgage Release module can be retrieved through various combinations of the search
+criteria available on the Check Search Screen.
+
+Q Check Search Screen
+Search Database:
+FHA Case &:
+
+Loan Skey:
+
+Loan #
+Reimbursable:
+
+Last 4 Digits of SSH
+Check #
+
+Note Type:
+
+Pay To Type: Select 8 Payto Type»
+
+Result Headers:
+
+Step 1:
+
+SMART PRODUCTION DATABASE
+
+Loan Program:
+
+Loan Status
+
+Loan State:
+
+* | Printed By:
+
+* | Prepared By:
+
+Pay To:
+
+Keyword:
+
++ | Note Text
+
+TOPS withneld?:
+
+dropdown.
+
+Step 2:
+
+Search Field Definition
+
+* Borrower Name:
+
+Loan Create Date >=
+
++ Property Address:
+
+Property State:
+
++ Print Status:
+
+* Disbursement Type:
+
++ | Voides Date >=
+
++ | Note Create Date >=
+
+Select TOPS vatnnela * TOPSCheck Status: | Selec ‘Status
+
++ | TOPS Amount From: To:
+
+Loan Skey | (= FHA Case No) Loan No} (= Loan Program) |= Borrower Name || «Pay To |» Disbursement Type || «Printed | « Voided) (= Cieared «Check Number) (= Printed Check Date) = Check Amount) (= Bank info
+
+<==
+
+Figure 242: Check Search Screen
+
+Click [MORTGAGE RELEASE] from the top Navigation menu. Select [CHECK SEARCH] from the
+
+Select the search criteria from the displayed search fields in the Check Search Screen.
+
+FHA Case # FHA Case number for each loan
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name
+
+Lender associated with the FHA Case
+
+Reimbursable
+
+Included or Excluded
+
+Last 4 Digits of SSN
+
+The last four digits of the Borrower’s Social Security Number
+
+Check #
+
+Check Number
+
+Note Type
+
+Type of note within the Notes tab of the Loan Record
+
+Pay To Type
+
+Borrower or Vendor
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Printed By User who printed the check
+
+Prepared By User who prepared the check
+
+Pay To The recipient of the check
+
+Keyword Searches any word within the Search Results data table
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+TOPS Withheld? Yes or No
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Print Status
+
+Printed or Unprinted
+
+Disbursement Type
+
+Type of expenditure
+
+Cleared
+
+Included or Excluded
+
+Voided Included or Excluded
+Note Created By SMART User who created Notes in the Notes tab
+TOPS Check Status Cleared, Voided, Partially Cleared, or Partially Voided
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 74
+
+
+@SMART
+Search Field Definition
+
+Check Amount From Amount of the check
+
+Printed Date Date the check was printed
+
+Check Created Date Date the check was issued
+
+Cleared Date Date the check was cleared
+
+Voided Date Date the check was voided
+
+Note Create Date Date that the Note in the Notes tab was created
+TOPS Amount From Amount of the TOPS
+
+Table 12: Check Search Fields
+
+Step 3: Click [START SEARCH].
+Step 4: Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Step 5: Once the Loan Record is open, you will be automatically directed to the Mortgage Release
+
+tab.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Exceptions Servicing Foreclosure Bankruptcy O88 ner Service
+
+G Full Release (A)
+
+@B Mortgage Release
+
+Disbursement Type || Check # ov To cm check Clear Check Clea
+checks
+" ‘ ! + | Next
+
+Figure 243: Checks (Partial Claim)
+
+Step 6: From the Mortgage Release tab, click on the Checks link from the Release Activity table.
+
+8.3.2 Edit Check
+
+Loan Summary Loan Detail Loan Fling Loan Recording Borrowers Propertyinspection Documents Notes EDEMA cxcesnons Servicing Foreclonure Bankruptcy Disbursements Payot Transactions Customer Service
+
+B\ Checks (EDIT MODE):
+
+a Step 1: Click on [EDIT CHECK], located in the
+
+actions column of the main table.
+Step 2: Complete all required fields.
+Step 3: — Click [Save].
+Step 4: On the Confirmation Pop-up, click
+[SusBmit].
+
+!
+
+Payor Information
+
+Last Name:
+First Name:
+Street Address:
+Address Line 2:
+city
+
+State:
+
+Figure 244: Edit Check (Partial Claim)
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 75
+
+@SMART
+8.3.3. Print Check
+
+Release Check information that is entered into the Mortgage Release Module can be reported and
+printed in the approved check format by users with designated security access.
+
+Step 1: Click on [PRINT CHECK], located in the Actions column of the main table.
+
+Check printed successfully. x
+
+Close
+
+Figure 245: Check Printed Confirmation
+Step 2: Onthe Confirmation Pop-up, click [CLOSE].
+
+After selecting the check to print, a PDF of the check automatically downloads. The user can now open
+the PDF file and Print as needed.
+
+Note: Only Release Checks can be printed (as in a PDF is downloaded). All other checks will not generate
+a PDF. This also applies to the pages Print Batch Checks and Print Rejects Checks.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 76
+
+®SMART
+8.4 Print Batch Checks
+
+Release Check information that is entered into the Mortgage Release Module can be reported and
+
+printed in the approved check format by users with designated security access. Checks can be printed in
+batches from the Print Batch Checks page.
+
+Step 1: Click [MORTGAGE RELEASE] from the top Navigation menu. Select [PRINT BATCH CHECKS] from
+the dropdown.
+
+Step 2: Select the search criteria from the displayed search fields under Print Batch Check.
+
+Q Print Batch Check Search
+
+Loan Program:
+
+—-
+Figure 246: Print Batch Checks Search Screen
+
+Step 3: Click [SEARCH]. Search Results will display below.
+
+& Search Results - Returned 668 record(s)
+
+moo
+| Loan Skey FHA Case
+7
+
+a Loan Skey FHA Case #
+
+Select All
+
+. Select Specific
+Print Batch |
+
+Figure 247: Print Batch Checks Search Results
+
+Step 4: To select all checks, check the checkbox in the title of the Selection column. To select
+specific checks, check the checkbox for that specific check in the Selection column. To
+unselect checks, simply re-check the checked checkbox.
+
+Step 5: To print the batch, click on [PRINT BATCH].
+
+After selecting the batch to print, one PDF of the all the checks automatically downloads. The user can
+now open the PDF file and Print as needed.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 77
+
+@SMART
+
+8.5 Print Rejects Checks
+
+Release Check Information for HECM Endorsed Loan Programs that are not housed in SMART can be
+printed in the approved check format by users with designated security access. Checks can be printed in
+batches from the Print HECM Endorsed not in SMART Batch Checks page.
+
+Step 1: Click [MORTGAGE RELEASE] from the top Navigation menu. Select [PRINT REJECTS CHECKS] from
+the dropdown.
+
+Step 2: Select the search criteria from the displayed search fields under Print HECM Endorsed not
+in SMART Batch Check.
+
+Q Print HECM Endorsed not in SMART Batch
+
+Loan Program:
+
+Figure 248: Print HECM Endorsed not in SMART Batch Search Screen
+
+Step 3: Click [SEARCH]. Search Results will display below.
+
+EB Print Batch Check All
+
+Figure 249: Print Batch Check All (HECM Endorsed)
+
+Step 4: To select all checks, check the checkbox in the title of the Selection column. To select
+specific checks, check the checkbox for that specific check in the Selection column. To
+unselect checks, simply re-check the checked checkbox.
+
+Step 5: To print the batch, click on [PRINT BATCH].
+
+After selecting the batch to print, one PDF of the all the checks automatically downloads. The user can
+now open the PDF file and Print as needed.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 78
+
+@SMART
+
+9 Using the Customer Service Module
+
+9.1 Ticket Search
+
+Customer Service Tickets can be retrieved through various combinations of the search criteria available
+on the Ticket Search Screen.
+
+Q Ticket Search Screen
+
+FHA Case #:
+
+Loan Skey:
+
+Last 4 Digits of SSN:
+
+Ticket Skey:
+
+Step 1:
+
+Step 2:
+Step 3:
+
+Loan Program:
+
+Loan Status:
+
+Loan State:
+
++) Ticket Status Select a Ticket Status
+ocial Desposition:
+
+Designee: Select an Designee > | Ticket No:
+Note Text: Note Created By:
+
+Note Type: ‘Select a Note Type + | Ticket Loan Program:
+
+Ticket No’ “Ticket Loan Program “*FHACaseNo (=Loan No “Aging (*Reason (=Priorty | *Call Date | (= CallerName | Caller Phone | (Designee (Created By » Created Date
+
+Figure 250: Ticket Search Screen
+
+Click [CUSTOMER SERVICE] from the top Navigation menu. Select [TICKET SEARCH] from the
+dropdown.
+
+Select the search criteria from the displayed search fields in the Ticket Search Screen.
+Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+Ticket Skey SMART system identification number unique to each ticket
+Control No Ticket Control Number
+
+CRM Service Request No
+
+CRM system identification number
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Ticket Status Current high-level status of the ticket (Open or Closed)
+Created By User that created the ticket
+
+Designee User that is assigned to the ticket
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Note Type Type of note within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Caller Name Name of the Caller
+
+Disposition Where the ticket is assigned
+
+Ticket No. Identification number for that ticket
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Ticket Loan Program
+
+Loan Program associated with the Ticket
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 79
+
+
+@®SMART
+Search Field Definition
+
+Call Date Date of the customer service call
+
+Ticket Create Date Date the ticket was created
+
+Reason For Calling Reason for the customer service call
+
+Note Create Date Date that the Note in the Notes tab was created
+Keyword Keyword search.
+
+Table 13: Ticket Search Fields
+Search results will display in the search result dashboard. 20 records will display in dashboard.
+Note: There are two types of tickets: sys tickets and non_sys tickets. Sys tickets are tickets with loans
+
+that exist on the loan_table, i.e. the FHA Case Number exists in SMART. Non_sys tickets are tickets
+where the FHA Case Number does not exist in SMART.
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 80
+
+@SMART
+
+9.2 Accessing Detailed Customer Service Information
+
+From the Search Result Dashboard, click on the Ticket No. to open the ticket. The user is redirected to
+the ticket’s Ticket Detail tab in the Customer Service Module.
+
++» CLoan Record - Non-FHA
+
+FHA.Case # a Loon Program: Ticket Skey ri Loan Wo:
+Borrower Nam Phone (Work): Next Payment Due Date: GL Code:
+Borrower Address: Phone (Homey a Contractual Due Date GL Matrix
+city soe: zo: ssw Branch Code:
+#& Customer Service - Ticket No. 868566
+nexetno, Teta Acton Nee Document
+Ticket 968566 (A) B Ticket Information (EDIT MODE)
+Loan Information
+FHA Case #: ; Y Loan Progeam: { Non-FHA A) Loan #
+Ticket Information
+Ticket as0566 Petat Low { fon-Fi PF) rc sate vate
+Disposition: { Reterrea to NSC (Servicing) Wr) Ticket status { Setecta status A) Designee: | “)
+Current
+{ Disaster | Ticket Prionty: | tow | Completea Courtesy Contact
+‘Action
+
+Figure 251: Customer Service Module
+
+9.2.1 View Ticket Detail
+
+The default page within a Customer Service Ticket is the Ticket Detail page. To view the Ticket
+Information, click on the [TICKET DETAIL] tab.
+
+BPP conic MEETS rcseActon notes voces
+
+Tenet eeees B Ticket Information (EDIT MODE)
+
+FHA Case | Loan Program: [ NonFHA F) Loon #
+
+Ticket Information
+
+Ticket # 268966 Pemtloes [ non-H A) Fe sate vote:
+
+Orsposibon: Referred to NSC (Serving) A | Ticket status: [ Select Status A) cosicnce: (TT ~
+Current
+
+Reason: Deaster A | Ticket Priority [tow “| Completed | Courter
+Seven
+
+Figure 252: View/Edit Ticket Detail
+
+9.2.2 View Call Log
+
+Inside the Customer Service Module, click on the [CALL Log] tab to view the Call Logs.
+
+Tetete. cotton
+
+Ticket 968506 (A) & Call Logs For Ticket No 868566
+
+Figure 253: View Call Log
+
+USER MANUAL | LSC.SERVICINGTEAMLEAD | JUNE 10, 2019 | 81
+
+@®SMART
+9.2.3 View Ticket Action
+Inside the Customer Service Module, click on the [TICKET ACTION] tab to view the Ticket Actions.
+
+CallLog Ticket Detaa Notes Documents
+
+Ticket 968566 (A) 2 Ticket Action For Ticket No 868566
+
+Days in Current Action
+
+Figu

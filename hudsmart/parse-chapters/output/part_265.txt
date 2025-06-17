@@ -1,0 +1,752 @@
+assign button.
+
+From the confirmation pop-up, click Submit.
+
+To verify the reassignment, select the previous Designee’s name from the Filter by LSC
+User drop down menu. The ticket will no longer appear.
+
+To verify the reassignment, select the new Designee’s name from the Filter by LSC User
+drop down menu. The ticket will appear.
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 13
+
+@®SMART
+
+3.4 Unassigned Tickets
+
+The Unassigned Tickets tab displays all the unassigned tickets from terminated users. To open the
+Unassigned Tickets tab, click [My DASHBOARD] from the top Navigation menu and select [UNASSIGNED
+TICKETS] from the dropdown.
+
+My Tickets. LSC inbox | Supervisor inbox | [ERT
+
+& Unassigned Tickets
+
+a
+owe
+
+= nore
+
+=
+
+03.1757 Pa
+
+‘sorer tow 97032019 8 312 REMABILITATION
+01:3420 PI
+
+asores tow 97042019 ™ 312 REMABILITATION
+07:06:35 aM
+
+‘50142 Low 097032019 1s 20300) LOAN
+03:27:33 PM
+
+aor Low 9032019 8 235LOAN
+032733 PM
+
+097032019 s ABANDONED CALL
+037733 PM
+@ 850139 Low 9042019 ™ 312 REHABILITATION
+074340 aM
+= 850138 Low 097042019 ™ 312 REHABILITATION
+07:43:40 aM
+850135 low 051092019 155 235 LOAN
+. 50134 Low 097032019 s 2034) LOAN
+01:3420 PN
+097032019 5 235LOAN
+01:3420 PM
+97042019 ™ yossr1056
+07:06:35 aM
+
+aso13t 05082019 185 312 REHABILITATION
+
+0227.18 PAA
+
+087082019 185 2020 LOAN
+
+022521 PN
+
+asors tow oun019 178 2312 REMABILITATION
+0202-40 PA
+
+Figure 22: Unassigned Tickets
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Unassigned
+Tickets page, click on the [BACK TO UNASSIGNED TICKETS] button.
+
+3.4.1 — Filter Unassigned Tickets
+
+Inside the Unassigned Tickets tab, a user can filter the results by selecting a user’s name from the filter
+drop down menu.
+
+Filter by Terminated User: | Select Terminated User v
+
+Figure 23: Filter by Terminated User
+
+SMART will save the filters you have selected. When you have opened a ticket and then clicked the
+[BACK TO UNASSIGNED TICKETS] button, your filters will remain. The previously viewed ticket will also be
+highlighted.
+
+&B Unassigned Tickets
+
+0w002019
+10:32:10 AM
+
+235 LOAN Handied by Contractor
+
+s4n301 Low 027282019 101
+1180.31 AM
+
+235 LOAN Controlled Correspondence
+
+Figure 24: Filtered Unassigned Tickets
+
+To clear the saved filters and reset your search, click on the [RESET] button.
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 14
+
+3.4.2
+
+@SMART
+
+Batch Reassign Tickets
+
+Also, inside the Unassigned Tickets tab, a user can reassign multiple tickets at once.
+
+& Unassigned Tickets
+
+f ece | frst | || Ticket No Priority Call Date || | is
+
+850150 Low 09/03/2019 reatonsc
+
+03:17:57.PM_""”
+
+asovar Low aw 850148 L a t Ticket No Priority Call Date
+iv)
+
+gD 850150 Low 09/03/2019
+ome ad a 850147 L 7 03:17:57 PM
+. 7] 850148 Low 09/03/2019
+| Select All - 03:17:57 PM
+soon ae . go 850147 Low 09/03/2019
+a 7 01:34:20 PM
+
+Select Specific
+
+to 130
+Reassign to User: Select User v Reassign
+050133 Low Controlled
+nrespandence
+cm) 950132 tow onouz019 s7 1090/1096 Handles by
+07:06:35 AM Contractor
+
+Step 1:
+
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Step 6:
+
+Figure 25: Unassigned Tickets Batch Ticket Reassignment
+
+In the Selection column of the Unassigned Tickets tab, check the checkbox in the Selection
+title column to select all tickets on that page OR check the checkbox next to a specific
+ticket.
+
+Select a user’s name from the Reassign to User drop down menu. Make note of the ticket
+number and the new User.
+
+Click on the Reassign button.
+
+From the confirmation pop-up, click Submit.
+
+To verify the reassignment, enter the ticket number in the Search Bar. The ticket will no
+longer appear.
+
+To verify the reassignment, select either the [LSC INBOx] or [HUD InBox] (depending on the
+user chosen) and filter by the user’s name. The ticket will appear.
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 15
+
+@SMART
+
+4 Using the Loan Module
+
+4.1 Search
+
+Loans can be retrieved through various combinations of the search criteria available on the Loan Search
+Screen.
+
+Q Loan Search Screen
+Search Database SMART PRODUCTION DATABASE
++ Borrower Name: Loan Create Date >=
+
+FHA Case ®: Loan Program:
+
+Loan Skey: Label Printed: * | Property Address:
+
+Loan #: Loan Status: + | Property City
+
+Last 4 Digits of SSN: Loan State: + Property State: Select a State + EHLP Project #:
+
+Closed Box #: Payment Pian 7 | Property Zip Code: Keyword:
+
++ | Note Create Date >=
+
+Note Text Note Type: + | Note Created By:
+
+Lender Admin
+
+. c ~ | Payee / Holder of a ea
+Contact Claim Servicer: Freel Select a Payee / Holder of Record
+
+Result Headers: [Loan Skey) “FHA Case No ) (= Loan Program | | * Borrower Name | |* Property Address | (= Lender Name ) (Closed Bax No) |= Original Prin Bal) | = Updated By | (* Updated Date | |* Loan Status
+
+Figure 26: Loan Search Screen
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+Close Box # Physical location of stored files
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Current Servicer Servicer/Lender associated with the FHA Case
+
+Exception Type Type of Exception filed in the Exceptions tab
+
+Result Headers Search criteria columns to be displayed in the Search Results table
+Loan Program Type of program associated with the loan
+
+Label Printed Indicator of whether or not a hard copy file has been generated for the loan
+Loan Status Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property City City wherein the loan property is located
+
+Property State State wherein the loan property is located
+
+Property Zip Code Zip Code wherein the loan property is located
+
+Note Created By SMART User who created Notes in the Notes tab
+
+Claim Servicer Servicer/Lender associated with a Claim
+
+Loan Create Date Date that a loan was entered into the SMART system
+
+Loan Close Date Date that a loan was closed
+
+File Rec’d Date The File Received Date of a loan
+
+EHLP Project # EHLP Project Number
+
+Keyword Searches any word within the Search Results data table
+
+Note Create Date Date that the Note in the Notes tab was created
+
+Payee/Holder of Record Servicer/Lender assigned as a Holder of Record
+
+Table 2: Loan Search Fields
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 16
+
+@SMART
+
+4.1.1 Loan Search — Production Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Production Database.”
+
+Search Database: SMART PRODUCTION DATABASE
+
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 27: Search Database — Production Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+
+Step 4: — Click [START SEARCH].
+
+Figure 28: Start Search Button
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.2 Loan Search — Legacy Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Legacy Database.”
+
+Search Database: SMART LEGACY DATABASE
+
+FHA Case #: |
+
+SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+SMART DAT C DATABASE
+
+Loan Skey:
+
+Loan #:
+
+Figure 29: Search Database — Legacy Database
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 17
+
+@SMART
+
+4.1.3. Loan Search — DAT C Database
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the “DAT
+C Database.”
+
+Search Database: SMART DAT C DATABASE
+FHA Case #: |
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+
+SMART DAT C DATABASE
+Figure 30: Search Database — DAT C Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.4 Search Results
+
+On the Loan Search page, as well as the Customer Service Search page, the search results will display in
+the table below the search screen.
+
+&@ Search Results
+
+moc —
+
+i
+a
+
+$22.00 120772018
+04:07:44 PM
+
+$56,435.61 1207/2018
+04 14:59PM
+
+$4,890.00 120772018
+01:38:32 PM
+
+$48,262.65 1210572018
+02.0046 AM
+
+$7,900.67 121052018
+02.00.46 AM
+
+8
+
+$8,410.46 12905/201
+02:00:45 AM
+
+Figure 31: Search Results
+
+4.1.4.1 Actions
+
+From the Search Results page, you can generate three different reports. The table below describes the
+capabilities of the buttons located on the top left of the Search Results table. These options are also
+available on all other Search Results pages within SMART.
+
+Export to Excel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+
+Table 3: Data Table Buttons
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 18
+
+@SMART
+
+4.1.4.2. Result Headers, Search, and Sort
+
+In order to customize your view of the data tables for the Search Results page, the user has three
+options: Result Headers, Search, and Sort. When a user performs a search using these options, their
+options will be saved. For example, when a user navigates to a page from the Search Results page, then
+returns back, the search criteria previously used will still show in the Search Screen Fields.
+
+Q Loan Search Screen
+Search Database ‘SMART PRODUCTION DATABASE
+FHA Case Loan Program
+Loan Skey
+Loan #
+
+Last 4 Digits of SSN:
+
+Closed Box #: Payment Pian:
+
+Note Text Note Type:
+
+Current Servicer: SelectaLender + | COntet
+
+“Loan Skey | “= FHA Case No ) = Loan Program | { * Borrower Name | | Property Address | [= Lender Name | | « Closed Bax No) (= Original Prin Bal) { = Updated By | | * Updated Date | | « Loan Status
+
+Figure 32: Result Headers
+
+&B Search Results
+
+04:07:44 PM
+
+Figure 33: Search Results — Result Headers
+
+The user can change the columns in the Search Results page by changing the options within the Result
+Header field prior to clicking [START SEARCH].
+
+&B Search Results
+
+Figure 34: Search Results — Search
+
+The user can use the search bar to filter the page by specific keywords. The user can search by entering
+their search criteria into the field and clicking on Search. To clear out the search criteria, select Clear.
+
+&B Search Results
+
+-
+
+n Skey FHA Case No Loan Program Borrower Name Property Address Lender Name
+
+Figure 35: Search Results — Sort
+
+The user can use the arrows next to each column title to sort the requests by any of the columns of the
+table.
+
+4.1.4.3. Clear Search Fields
+
+To clear the search fields in the Loan Search Screen, click the [CLEAR SEARCH FIELDS] button. The
+information in the search fields will be cleared. Ten records will still remain in the Dashboard.
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 19
+
+@SMART
+
+4.2 Accessing Detailed Loan Information
+
+Opening a Loan Record from the search results will navigate the user to the Loan Record page. The Loan
+Record page consists of multiple tabs that provide detailed Loan information.
+
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+
+Step 2: In the Loan Search Screen, select the Loan Program from the Loan Program drop down.
+
+Step 3: Click [START SEARCH]. 50 records will display in the Search Results Dashboard.
+
+Step 4: From the Search Results Dashboard, click on either the Loan Skey, FHA Case #, and Loan #
+to open the loan.
+
+Figure 36: Loan Record (example)
+
+To minimize the loan record, click on the black arrow (+) located left of the Loan Record page title. To
+maximize, re-click on the black arrow.
+
+To minimize the Borrower & Property Information and Additional Loan Information, click on the white
+arrow (Ez) located left of the of the Borrower & Property information box or the white arrow located left
+of the Additional Loan Information. To maximize, re-click on the white arrow.
+
+On each Loan Record page, the selection of tabs displayed is dynamic and varies depending on the Loan
+program of the selected loan. The colors of the tabs show at a glance whether data exists in the tab or
+
+not.
+
+Note: Loans that are Closed are all Read Only.
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 20
+
+@®SMART
+
+4.2.1 Access Details of Partial Claim Loan Records
+
+4.2.1.1 View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record page.
+
+FEES noes caning Loan recording Borrowers Propertyinspection Documents Noles Morigage Release Exceptions. Servicing Foreclosure ankrupicy Disbursements Payot ‘Transactions Customer Service
+B.Loan Summary
+Year To Date Amount Paid
+
+Original Prin Amt: $1.00 Unpaid Prin Bat: $3,897.03 Pay Type Code: =. Payment Status: 90-NO PAYMENT DUE
+
+Pay App Code: N Prin Paid Yea. (8331361)
+
+Audit Information
+
+Created By: LoanConv Created Date: 0228/2009 12:00:00 AM
+
+Last Updated By: MN = Last Updated Date: 02/07/2018 09-48:05 AM
+
+Figure 37: View Loan Summary
+
+4.2.1.2. View Loan Detail
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record page.
+
+SS) SS on
+
+# Loan Detail
+
+(een Tome (rg Loan Date: reara0n Mold Code t
+Len Sat: ‘cLoseo Moturty Oat: e0ra041 Mots Code 2
+Lown Statue Due Date Dating WC: ots Code 3
+Lown State 2 Mortgage nwur Certo: 19912011 Accrual toe: 80
+Lown Perpove Code oP Code 703
+Loan Clase Code PC - Paral Ciam branch Code
+
+rent Serncer Se MERS Number
+Lender Admin Contac Prin Statement: no
+Lender Admin Emal
+ng Amn Seconry
+
+Figure 38: View Loan Detail
+
+4.2.1.3 View Loan Filing
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record page.
+
+som mary | ou Da Lose Recrang | Suoowes | Poperymapecion | Docent Noms Mocope Rene | Exceptions | Sencing  Fuecnnwe  Bamey | Ohbunements | Fay! Tmacone Cason Serie
+
+i Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Name: Hara Fe Sates Contract Closing Date
+Prior Servicer Phone: Label Printed uo Settement Expiration Date:
+Project Name Deed Restriction ome Owner Fe Entered Dat
+Project Wo ot,gert (Form ore Fe Recetved Date
+Project 10 Voucher Number: VRS Number: once Recowved
+80x Number
+
+Cam Processed Date 12052018 Claim Amount; $56,435.61 QvemTide Claim Exclude trom assing Docs Report
+:
+Signatures: ‘Missing Pages: No Document: Note not Original:
+:
+
+Figure 39: View Loan Filing
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 21
+
+@®SMART
+
+4.2.1.4. View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail = Loan Filing COE
+
+Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing
+
+Foreclosure Bankruptcy Disbursements Payot Transactions Customer Service
+4 Loan Recording
+
+Book No: Release Prepared Date: 12082018 Notary
+
+Page No Ongination Date: Prepared By
+Instrument Loan Record Date: Original Trustee:
+Payoft Date Clam Amount $90,435 substive Trustee
+Autnorzed wines 1 witness 2
+
+Figure 40: View Loan Recording
+
+4.2.1.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Property Inspection Documents Notes. Mortgage Release Exceptions
+
+& Borrowers Information
+
+Servicing Foreciosure Bankruptcy Disbursements Payoff Transactions Customer Service
+
+Borrower Information Co-Borrower Information
+SSN:
+
+First Name: ss First Name:
+
+Last Name: Birth Last Name: Btn
+Home Work
+
+Phone: Phone: Prone:
+
+Marita!
+
+Status
+
+\ddress
+
+4.2.1.6 View Property Inspection
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+
+Documents Notes Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy Disbursements Payoff ‘Transactions
+
+#% Property Inspection
+
+Parcet No
+
+Property Address
+
+Figure 42: View Property Inspection
+
+4.2.1.7 View/Add/Edit Documents
+
+Step 1: Click on the [DOCUMENTS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Fling Loan Recording Borrowers Property inspection ENESMIMI) notes Mortgage Release Exceptions
+
+@ Documents
+
+Servicing Foreclosure Bankruptcy —-Orsbursements Payoff Transactions. Customer Service
+
+Add Doc
+
+ce
+
+Changed By Change Date = | Status
+
+Create Date
+2018 02212018
+1:08:08 AM EST 081931 PM EST
+01262018
+02:20:45 PM EST
+10/162017
+01:33:15 PM EST
+
+Figure 43: View Documents
+
+check Isolation level.txt @& Eait Document
+e-fled 18-10207,pat recorded poc @ Eait Document
+‘e-fled 17-13585.pat recorded poc
+
+@ Edit Document
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 22
+
+@SMART
+
+B Document (ADD MODE)
+
+2 Drag and Drop tes here of Click here to upload
+Actve
+
+Figure 44: Add Document
+
+Step 2: To adda document, click on [ADD DOCUMENT] located under the Documents title to
+navigate to Document (Add Mode). To edit a document, click on [EDIT DOCUMENT] located
+in the Actions column of the Documents dashboard to navigate to Document (Edit Mode).
+
+Step 3: Drag and drop a document or click on the Document Upload button to upload a file (if you
+are using Internet Explorer, you can only click to upload). Note: Only PDF, ZIP, DOC, DOX,
+XLS, XLSX, PPT, PPTX, and TXT files are accepted.
+
+Step 4: Complete all required fields and click [SAVE].
+
+Step5: On the Confirmation Pop-up, click [SUBMIT].
+
+4.2.1.8 View/Add Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab.
+
+Loan Summary Loan Detail Loan Fling Loan Recording Borrowers Property inspection Documents IBIRW mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payot! ‘Transactions Customer Service
+
+EB Notes
+
+No High importance Note Created By Create Date
+
+Bankruptcy o2212018
+105022 AMEST
+
+Auto Note 022172018
+10:49:42 AM EST
+
+‘Auto Note 02212018
+104931 AM EST
+
+Auto Note 027182018
+0514.20 PM EST
+
+Bankruptcy 02152018
+05:13:49 PM EST
+
+Auto Note o2s2018
+05:13:32 PMEST
+
+Auto Note 017262018
+0220-17 PMEST
+
+Auto Note 017262018
+02:20:12 PM EST
+
+Auto Note 017262018
+022001 PMEST
+
+Figure 45: View Notes
+
+Changed
+
+Step 1: Click on the [NOTES] tab within the Loan Record page.
+Step 2: Click on the [ADD NoTE] button located under the Notes title to navigate to the Add Note
+window.
+
+B Add Note
+
+Figure 46: Add Notes
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.CSSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 23
+
+@®SMART
+
+4.2.1.9 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+
+page.
+
+Se oo So
+
+® Mortgage Release
+
+BFull Release (A)
+Bichecis
+Rosleare Request Recervedibststed cen72019 08472019 072019
+Len release package printed oensao19 08072019
+Lee Release package sent for recording cannaors ope72019 =
+Recorsed Release received tom County eraonert 08672019 =
+Copy to taging image e2nsce2t 08972019
+Fie 0 Storage/Process Complete caret ‘08072019 [acne
+
+‘Showng 1106 of 6 entries Previows u Nex
+Figure 47: Mortgage Release Tab
+
+4.2.1.10 View Exceptions
+
+To access Exceptions, click on the [EXCEPTIONS] tab within th

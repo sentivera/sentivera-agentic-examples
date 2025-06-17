@@ -1,0 +1,705 @@
+
+“Production Database.”
+
+Search Database: SMART PRODUCTION DATABASE
+
+FHA Case #: Po
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 16: Search Database — Production Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+
+Step 4: — Click [START SEARCH].
+
+Figure 17: Start Search Button
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.2 Loan Search — Legacy Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Legacy Database.”
+
+Search Database: SMART LEGACY DATABASE
+
+FHA Case #: |
+
+SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+SMART DAT C DATABASE
+
+Loan Skey:
+
+Loan #:
+
+Figure 18: Search Database — Legacy Database
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | HUD.CS | VERSION 1.43.0 | JUNE 2, 2020 | 11
+
+@SMART
+
+4.1.3. Loan Search — DAT C Database
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the “DAT
+C Database.”
+
+Search Database: SMART DAT C DATABASE
+FHA Case #: |
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+
+SMART DAT C DATABASE
+Figure 19: Search Database — DAT C Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.4 Search Results
+
+On the Loan Search page, as well as the Servicing and Customer Service Search pages, the search results
+will display in the table below the search screen.
+
+&@ Search Results
+
+moc —
+
+i
+a
+
+$22.00 120772018
+04:07:44 PM
+
+$56,435.61 1207/2018
+04 14:59PM
+
+$4,890.00 120772018
+01:38:32 PM
+
+$48,262.65 1210572018
+02.0046 AM
+
+$7,900.67 121052018
+02.00.46 AM
+
+8
+
+$8,410.46 12905/201
+02:00:45 AM
+
+Figure 20: Search Results
+
+4.1.4.1 Actions
+
+From the Search Results page, you can generate three different reports. The table below describes the
+capabilities of the buttons located on the top left of the Search Results table. These options are also
+available on all other Search Results pages within SMART.
+
+Export to Excel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+
+Table 2: Data Table Buttons
+
+SMART USER MANUAL | HUD.CS | VERSION 1.43.0 | JUNE 2, 2020 | 12
+
+@SMART
+
+4.1.4.2. Result Headers, Search, and Sort
+
+In order to customize your view of the data tables for the Search Results page, the user has three
+options: Result Headers, Search, and Sort. When a user performs a search using these options, their
+options will be saved. For example, when a user navigates to a page from the Search Results page, then
+returns back, the search criteria previously used will still show in the Search Screen Fields.
+
+Q Loan Search Screen
+Search Database ‘SMART PRODUCTION DATABASE
+FHA Case Loan Program
+Loan Skey
+
+Last 4 Digits of SSN:
+
+Closed Box #: Payment Pian:
+
+Note Text Note Type:
+
+Current Servicer: Selecta Lender + | Lender Adm Claim Servicer:
+
+“Loan Skey | “= FHA Case No ) = Loan Program | { * Borrower Name | | Property Address | [= Lender Name | | « Closed Bax No) (= Original Prin Bal) { = Updated By | | * Updated Date | | « Loan Status
+
+Figure 21: Result Headers
+
+&B Search Results
+
+04:07:44 PM
+
+Figure 22: Search Results — Result Headers
+
+The user can change the columns in the Search Results page by changing the options within the Result
+Header field prior to clicking [START SEARCH].
+
+&B Search Results
+
+Loan Sk Lender Nan Loan Status
+$22.00 120772018
+04:07:44 PM
+
+Figure 23: Search Results — Search
+
+The user can use the search bar to filter the page by specific keywords. The user can search by entering
+their search criteria into the field and clicking on Search. To clear out the search criteria, select Clear.
+
+&B Search Results
+
+-
+
+n Skey FHA Case No Loan Program Borrower Name Property Address Lender Name
+
+Loan Status
+$22.00 120772018
+04:07:44 PM
+
+Figure 24: Search Results — Sort
+
+The user can use the arrows next to each column title to sort the requests by any of the columns of the
+table.
+
+4.1.4.3. Clear Search Fields
+
+To clear the search fields in the Loan Search Screen, click the [CLEAR SEARCH FIELDS] button. The
+information in the search fields will be cleared. Ten records will still remain in the Dashboard.
+
+SMART USER MANUAL | HUD.CS | VERSION 1.43.0 | JUNE 2, 2020 | 13
+
+@SMART
+
+4.2 Accessing Detailed Loan Information
+
+Opening a Loan Record from the search results will navigate the user to the Loan Record page. The Loan
+Record page consists of multiple tabs that provide detailed Loan information.
+
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+
+Step 2: In the Loan Search Screen, select the Loan Program from the Loan Program drop down.
+
+Step 3: Click [START SEARCH]. 50 records will display in the Search Results Dashboard.
+
+Step 4: From the Search Results Dashboard, click on either the Loan Skey, FHA Case #, and Loan #
+to open the loan.
+
+Figure 25: Loan Record (example)
+
+To minimize the loan record, click on the black arrow (+) located left of the Loan Record page title. To
+maximize, re-click on the black arrow.
+
+To minimize the Borrower & Property Information and Additional Loan Information, click on the white
+arrow (Ez) located left of the of the Borrower & Property information box or the white arrow located left
+of the Additional Loan Information. To maximize, re-click on the white arrow.
+
+On each Loan Record page, the selection of tabs displayed is dynamic and varies depending on the Loan
+program of the selected loan. The colors of the tabs show at a glance whether data exists in the tab or
+
+not.
+
+Note: Loans that are Closed are all Read Only.
+
+SMART USER MANUAL | HUD.CS | VERSION 1.43.0 | JUNE 2, 2020 | 14
+
+@®SMART
+
+4.2.1 Access Details of Partial Claim Loan Records
+
+4.2.1.1 View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record page.
+
+FEES noes caning Loan recording Borrowers Propertyinspection Documents Noles Morigage Release Exceptions. Servicing Foreclosure ankrupicy Disbursements Payot ‘Transactions Customer Service
+B.Loan Summary
+Year To Date Amount Paid
+
+Original Prin Amt: $1.00 Unpaid Prin Bat: $3,897.03 Pay Type Code: =. Payment Status: 90-NO PAYMENT DUE
+
+Pay App Code: N Prin Paid Yea. (8331361)
+
+Audit Information
+
+Created By: LoanConv Created Date: 0228/2009 12:00:00 AM
+
+Last Updated By: MN = Last Updated Date: 02/07/2018 09-48:05 AM
+
+Figure 26: View Loan Summary
+
+4.2.1.2. View Loan Detail
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record page.
+
+SS) SS on
+
+# Loan Detail
+
+(een Tome (rg Loan Date: reara0n Mold Code t
+Len Sat: ‘cLoseo Moturty Oat: e0ra041 Mots Code 2
+Lown Statue Due Date Dating WC: ots Code 3
+Lown State 2 Mortgage nwur Certo: 19912011 Accrual toe: 80
+Lown Perpove Code oP Code 703
+Loan Clase Code PC - Paral Ciam branch Code
+
+rent Serncer Se MERS Number
+Lender Admin Contac Prin Statement: no
+Lender Admin Emal
+ng Amn Seconry
+
+Figure 27: View Loan Detail
+
+4.2.1.3 View Loan Filing
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record page.
+
+som mary | ou Da Lose Recrang | Suoowes | Poperymapecion | Docent Noms Mocope Rene | Exceptions | Sencing  Fuecnnwe  Bamey | Ohbunements | Fay! Tmacone Cason Serie
+
+i Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Name: Hara Fe Sates Contract Closing Date
+Prior Servicer Phone: Label Printed uo Settement Expiration Date:
+Project Name Deed Restriction ome Owner Fe Entered Dat
+Project Wo ot,gert (Form ore Fe Recetved Date
+Project 10 Voucher Number: VRS Number: once Recowved
+80x Number
+
+Cam Processed Date 12052018 Claim Amount; $56,435.61 QvemTide Claim Exclude trom assing Docs Report
+:
+Signatures: ‘Missing Pages: No Document: Note not Original:
+:
+
+Figure 28: View Loan Filing
+
+SMART USER MANUAL | HUD.CS | VERSION 1.43.0 | JUNE 2, 2020 | 15
+
+@®SMART
+
+4.2.1.4. View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail = Loan Filing COE
+
+Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing
+
+Foreclosure Bankruptcy Disbursements Payot Transactions Customer Service
+4 Loan Recording
+
+Book No: Release Prepared Date: 12082018 Notary
+
+Page No Ongination Date: Prepared By
+Instrument Loan Record Date: Original Trustee:
+Payoft Date Clam Amount $90,435 substive Trustee
+Autnorzed wines 1 witness 2
+
+Figure 29: View Loan Recording
+
+4.2.1.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Property Inspection Documents Notes. Mortgage Release Exceptions
+
+& Borrowers Information
+
+Servicing Foreciosure Bankruptcy Disbursements Payoff Transactions Customer Service
+
+Borrower Information Co-Borrower Information
+SSN:
+
+First Name: ss First Name:
+
+Last Name: Birth Last Name: Btn
+Home Work
+
+Phone: Phone: Prone:
+
+Marita!
+
+Status
+
+\ddress
+
+4.2.1.6 View Property Inspection
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+
+Documents Notes Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy Disbursements Payoff ‘Transactions
+
+#% Property Inspection
+
+Parcet No
+
+Property Address
+
+Figure 31: View Property Inspection
+
+4.2.1.7 View/Add/Edit Documents
+
+Step 1: Click on the [DOCUMENTS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Fling Loan Recording Borrowers Property inspection ENESMIMI) notes Mortgage Release Exceptions
+
+@ Documents
+
+Servicing Foreclosure Bankruptcy —-Orsbursements Payoff Transactions. Customer Service
+
+Add Doc
+
+ce
+
+Changed By Change Date = | Status
+
+Create Date
+2018 02212018
+1:08:08 AM EST 081931 PM EST
+01262018
+02:20:45 PM EST
+10/162017
+01:33:15 PM EST
+
+Figure 32: View Documents
+
+check Isolation level.txt @& Eait Document
+e-fled 18-10207,pat recorded poc @ Eait Document
+‘e-fled 17-13585.pat recorded poc
+
+@ Edit Document
+
+SMART USER MANUAL | HUD.CS | VERSION 1.43.0 | JUNE 2, 2020 | 16
+
+@SMART
+
+B Document (ADD MODE)
+
+2 Drag and Drop tes here of Click here to upload
+Actve
+
+Figure 33: Add Document
+
+Step 2: To adda document, click on [ADD DOCUMENT] located under the Documents title to
+navigate to Document (Add Mode). To edit a document, click on [EDIT DOCUMENT] located
+in the Actions column of the Documents dashboard to navigate to Document (Edit Mode).
+
+Step 3: Drag and drop a document or click on the Document Upload button to upload a file (if you
+are using Internet Explorer, you can only click to upload). Note: Only PDF, ZIP, DOC, DOX,
+XLS, XLSX, PPT, PPTX, and TXT files are accepted.
+
+Step 4: Complete all required fields and click [SAVE].
+
+Step5: On the Confirmation Pop-up, click [SUBMIT].
+
+4.2.1.8 View/Add Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab.
+
+Loan Summary Loan Detail Loan Fling Loan Recording Borrowers Property inspection Documents IBIRW mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payot! ‘Transactions Customer Service
+
+EB Notes
+
+o2212018
+105022 AMEST
+
+02212018
+10:49:42 AM EST
+
+02212018
+104931 AM EST
+
+027182018
+0514.20 PM EST
+
+02152018
+05:13:49 PM EST
+o2s2018
+05:13:32 PMEST
+017262018
+0220-17 PMEST
+017262018
+
+02:20:12 PM EST
+
+017262018
+022001 PMEST
+
+Figure 34: View Notes
+
+Step 1: Click on the [NOTES] tab within the Loan Record page.
+Step 2: Click on the [ADD NoTE] button located under the Notes title to navigate to the Add Note
+window.
+
+B Add Note
+
+Figure 35: Add Notes
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.CS | VERSION 1.43.0 | JUNE 2, 2020 | 17
+
+@®SMART
+
+4.2.1.9 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+page.
+
+Se oo So
+
+® Mortgage Release
+
+BFull Release (A)
+Bichecis
+Rosleare Request Recervedibststed cen72019 08472019 072019
+Len release package printed oensao19 080772019
+Len Release package sent for recording cannaors ope72019 =
+[Recorced Release received tom County oraonert one72019 =
+Copy No imaging image e2nsce2t 08972019
+Fie 0 Storage/Process Complete caret oso72019 =—s
+
+‘Showng 1 106 of 6 entre previows u Nex
+Figure 36: Mortgage Release Tab
+
+4.2.1.10 View Exceptions
+
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers_Property Inspection Documents Notes Mortgage Release Servicing Foreclosure Bankruptcy Disbursements Payoff Transactions Customer Service
+
+A Exceptions
+
+(Changed By
+
+03062018 Borrower Deceased $1.00 030672018
+10:05:28 AM EST
+
+owoaz018 ‘Acdove Bankruptcy owos2019
+09:32:38 AM EST
+
+03042018 ACAIVRS Block has been added $87.00 03042018
+09.29.07 AM EST
+
+oxouz018 Bankruptcy Dismissed ox042018 [awe]
+09:32:57 AM EST
+
+121082010 Bankruptcy Discharged 1270872010
+0420.36 PM EST
+
+06/23/2009 ‘Acsove Bankruptcy 0872372009
+10:56:39 PM EST
+
+Figure 37: View Exceptions
+
+4.2.1.11 View Servicing
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page. For further
+information, see Servicing Tab.
+
+4,2.1.12 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page.
+
+Loan Summary Loan Detail + Loan Filing = Loan Recording «Borrowers Property inspection Documents Notes Mortgage Release © Exceptions «Servicing Mgurmmeeaty Bankruptcy Disbursements Payoff Transactions. ~—_Customer Service
+
+@ Foreclosure
+
+Foreciosure Activity I Bex YP BrDr YG Pn
+B Forectosure (A)
+
+Scheduled Oate tus
+Request to HUD to assign commessioner 12062018 121062018 facie |
+Commissioner assigned by HUD 121172018 129062018 fActve |
+
+‘Loan referred to Commissiones00J s2na2018 121062018 [Acie]
+Rec Acknontedgement of reerral s2nsiz018 1206/2018 am
+Tite Search Receives 12282018 121062018 am
+
+Notice of Sale mailed to borrowers/Menholders ora72019 129062018 [Acwe
+Publication of Sale ozt12019 121062018 ax
+
+Order Occupancy Inspection oz112019 121062018 am
+Inspection Resuts Received 02212019 120062018 =a
+
+Figure 38: Foreclosure Tab
+
+SMART USER MANUAL | HUD.CS | VERSION 1.43.0 | JUNE 2, 2020 | 18
+
+@®SMART
+
+4.2.1.13 View Bankruptcy
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property mspecton Cocuments Notes Morigage Release Exceptions Servicing Foreclosure EEMERII) sursements Payot Transactions Customer Service
+
+@ Bankruptcy
+Bankruptey Activity f exc | @ Bankruptcy Management | s Searen
+Bchaptor 7 (A)
+
+Bankruptcy Steps Scheduled Date
+
+Bankruptcy Filed 1270672018 12062018, 120062018
+Bankruptcy notification is received 121062018 121062018
+
+Proof of ciaim fled 121072018 120672018
+
+Proof of Claim Recorded 0105/2019 1210672018
+
+Review of Plan/Statement of intention 0105/2019 1206/2018,
+
+Contrmation of PlanyStatement of Intention 0210472019 12062018
+
+Figure 39: Bankruptcy Tab
+
+4,2.1.14 View Disbursements
+To access Disbursements, click on the [DISBURSEMENTS] tab within the Loan Record page.
+
+I is iio | || omen
+
+$ Disbursements
+
+Check Voided Date Partially Voided
+
+5968562 Partal Claims 160- 120772018 $56,435.61 $1,500.00 Yes 12072018 yes $54,935.61
+Disbursement -Check Unscheduled PC
+Overrage Refund
+
+Figure 40: View Disbursements
+
+4.2.1.15 View Payoff
+
+To access Payoff, click on the [PAYOFF] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents Notes Mortgage Release == Exceptions Servicing Foreclosure Bankruptcy Disbursements JETEGIE Transactions Customer Service
+
+Payoff Information pasor | os072018
+
+© Payoff
+
+Onginal Amount: $7,182.64
+Advances: $0.00
+Other increases: $28.00
+Payments: ($188.00)
+Transterred Amount ($67.00)
+Write Off Amount: $0.00
+
+Paid Off Amount: ($6,385.25)
+Total Payoff Amount: $704.39
+
+Figure 41: View Payoff
+
+4.2.1.16 View Transactions
+To view Transactions, click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail’ Loan Filing Loan Recording Borrowers Property inspection Documents Notes Mortgage Release Exceptions. ©» Servicing Foreclosure Bankruptcy Dtsbursements Payoff
+
+@ Transactions
+
+[oat | aver ] or | -_
+
+Trans Description
+
+1200772018 RCTB Reversal - Type 15 Terminaton Conveyance of Tite for Benetts $57,935.61 12/07/2018 04:14:59 PM
+1207/2018 cre Type 15 Termination Conveyance of Title for Benefits (857,935.61) 1210772018 04:12:19 PM
+120772018 RUSCHPC ‘Void - Unscheduled PC Disbursement Overage / Refund ($54,935.61) 12072018 03-2958 PM
+1207/2018 uscHPc Unscheduled PC Disbursement Overage/Refund $56,425.61 12/07/2018 03:24:51 PM
+1210572018 o Loan Setup - Principal Balance 356,435.61 12/05/2018 02:00:46 AM
+
+ae
+Figure 42: View Transactions
+
+SMART USER MANUAL | HUD.CS | VERSION 1.43.0 | JUNE 2, 2020 | 19
+
+@SMART
+
+4.2.1.17 View Customer Service
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements RCE Customer Service
+
+a& Customer Service
+
+[Bese YP wror J aren |
+Ticket Ticket Loan Pro
+
+icket No, Caller Naene
+
+873262 Partai Clam EE o TEST CALL-HUD Low 120772018 022322 PMs §— | 1207/2018 02 23:20 PM
+
+Showing 10 1 oft entries Previow + | Next
+
+Figure 43: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+SMART USER MANUAL | HUD.CS | VERSION 1.43.0 | JUNE 2, 2020 | 20
+
+@®SMART
+
+4.2.2 Access Details of PMM Loan Records
+
+4.2.2.1. View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record page.
+
+Exceptions Servicing Foreclosure Wankruptcy Disbursements Payoff ‘Transactions Customer Service
+
+eee (bom Octal = Loan Filing Loan Recording Borrower / Entity Documents Notes. © Mortgage Release
+
+BLoan Summary
+
+‘$400 00 Unpaid Principal Balance: 5899.00 Pay Type Code: Payment Status:
+
+$0.00 Unpaid Interest Balance: $0.00 Pay App Code: Prin Paid Ye: sooo
+
+Figure 44: View Loan Summary
+
+4.2.2.2 View Loan Detail
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record page.
+
+eS nn ee ee
+
+B Loan Detail
+
+Figure 45: View Loan Detail
+
+4.2.2.3. View Loan Filing
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record page.
+
+Loan Summary Loan Detsit FRSRTESAI Loan Recording Borrower Entity Documents Notes Mortgage Release Exceptions Servicing Forectoure Bankruptcy Disbursements Payoff Transactions. Customer Service
+
+B Loan Filing
+
+Figure 46: View Loan Filing
+
+4.2.2.4. View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Orta Loan Filing ESE SEEAR sorower/ Entity Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Oiabursements Payot Transactions Customer Service
+
+Loan Recording
+
+Book Wo: Release Prepared Date’ Notary:
+
+Page No: Origination Date: razar2018 Prepared By:
+Instrument No: Loan Recorded Date Original Trustee:
+Asthorized Mortgage Amount 3600.00 Subsuive Trustee:
+
+wrtness 1 Woiness 2:
+
+Figure 4

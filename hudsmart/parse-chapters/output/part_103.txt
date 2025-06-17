@@ -1,0 +1,516 @@
+e (SF Data REQUEST) ............ccccssssssssssssessssseseseseessesssssssesssseesessessesaeaes 63
+Figure 164: View Exceptions (SF Data REQU@St)..........::cccssssssssssssssesssesessesseseeseeeeeessessssseesesesseeaeeaeesseaaaaes 63
+Figure 165: View Servicing (SF Data REQUESt)...........:::scssssssssssssssssesesseesseseeeeeeeessesseeseseeeesessesseseesaeesasaeaes 63
+Figure 166: View Foreclosure (SF Data REQUEST) ...........:c:ccssssssssssssssessesseeeeseseeeeeseseeesseseesssesseeseeessaeaeaeaes 63
+Figure 167: View Bankruptcy (SF Data REQUEST) ..........:::ccccsssssssssssessesseeseseeseeeeeeeessseeeeseeassesesseeessaeessaeaeaes 63
+Figure 168: View Customer Service (SF Data REQU@St) ..........:c:cccsssssssssssssesssessseseseeseessesssesesseeseesessesaeaes 64
+Figure 169: Servicing Search SCr@@n........cccccccccccccssssesseecceeeeeaaeeeeseeeeeeeesaeeeeeeeeeeeeeeaeeeesseeeeeseesaaaaseeeseeeeseaaa 65
+Figure 170: Servicing Search Screen BUttONS ..........ccccccccccccccsssssseeecceceecaaeeeeeeeeeeeessaaeeseseeeeeeessauaeeeeseeeeeeaaa 66
+Figure 171: Servicing Tab (Partial Claim) ............:c:ccssssssssssssssssessessesssesesseseeseeseeseessseesssseeesseesseesssseesssasaes 67
+Figure 172: Active Servicing Activity (Payoff Request — Partial Claim).............c:cccscsssssssssssssessssssssseessseeees 67
+Figure 173: Active Servicing Activity (Payoff Request — Partial Claim).............::c:cscssssssssssssssssssssesssssesseees 68
+Figure 174: Service Management (Payoff Request — Partial Claim)............cc::cssssssssssssssssesssesssessesssssssseees 68
+Figure 175: Ticket Search SCr@@N ........cccsssesscccccccceeeeesseeeeeeeeeseeeeeeeeeeeeeesaeeeeeeeeeeeeeesaeeeesseeeeeeessaaaaseeeeeeeeseaaa 69
+Figure 176: Customer Service MOdUule ..........cccccccssssssseecceeeecaaeeeseeeeeeeesaaeeseeeeeeeeessaaeesseeeeeeeessaaaaseeeeeeeeeeaaa 71
+Figure 177: View/Edit Ticket Detail ...........ccccccccccccccssssssseeecceeecessssseeecccceceesssaseeeeececeeeessaaeeeeeeeeeeesstsaaeeeeess 71
+Figure 178: Ticket Detail - Ticket RESOIUTION.............ccccccccccccssssseseeececeesaaeeseeeeeeeeeesaaseseeeeeeeessauaaeeeseeeeeeaaa 72
+Figure 179: VieW Call LOG ..........cccccccccccssssseeeeeceeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeeseeeeeeeeeeeeesaeeeesseeeeeeesaaaaneseeeeeseaaa 72
+Figure 180: Create New Call LOg ..........ccccccccccccccccseeseeeeeeeeeeeesseeseeeeeeeeeeseeeeeeeeeeeeeeesaaeeesseeeeeeesaaaaanseeseeeesaaaa 72
+Figure 181: View Ticket ACtion..........ccccccssessccccceeeseeesseeeeeeeeeeseseeeeeeeeeeeesaeeeeeeeeeeeeeesaeeeesseeeeeeessaaaeaeeseeeeeseaaa 73
+Figure 182: Create NEW ACtiON ............cccccccssseeccceeeeeeccaeneceeaseeeeesaeseeesseeseeeseeueeesaeeeeeessauseesseeuseesaueeeesaaages 73
+Figure 183: View Ticket ACtiOn.........cccccccsssscccccceecceeeeseeeeeeeeeasseeeeeeeeeeeesaeeeeeeeeeeeeeesaaeasssseeeeeessaaaaaeeseeeeeeeaaa 73
+FIZUre 184: VIEW NOtES..........cccccccseseccceeeecceseeeeeeaeeeeeeeseeeeeeseeeeeeeeeeeeeeeseeeeessaeeessaeeseeeseaeseeeseaueeesauseeesaaases 74
+Figure 185: Add NOt ........cccccsssssseccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaeeeeeseeeeeeeesseeeseeeeeeeeeesaeeeeeseeeeeeessauaasseseeeeeseaaa 74
+Figure 186: VieW DOCUMENNS ...........ccccseescccceeeeccceeeeceeaeeeeeeeaeeeeesseeeeeesseeseeesseueeesaeeeeeessaueeesaaeuseesauaeeeesaaages 74
+Figure 187: Borrower HiStOry..........cccccseecccccsseeccceeeeecccseeceeeeeeeeeseeeeesseeeeeeseeueeesaeeeeeessueeesseauseesauseeesaaases 75
+Figure 188: View/Edit Ticket Detail ............cc.ccccccccccssssssceeeecceesesssseeeceeececeessaeeeeeececeeeessaeeeeeeecesesstsaaeeeeess 75
+Figure 189: Create N@W Ticket ..........ccccccesssccccccceceeeesseeeeeeeeessseeeeeeeeeeeeeeaeeeeeeeeeeeeeesaaeessseeeeeeesaaaaeaseseeeeeseaea 76
+Figure 190: Customer Service MOdUule ..........cccccccssssssseecceeeecaesesseeceeceesaaeeeeeeeeeeeessaaeesseeeeeeeessaaaaseseeeeeeeaaa 77
+Figure 191: Create N@W Ticket .........cccccccsscsscccccceceeeeeeeeeeeeeeeeaeeeeeeeeeeeeeesseeeeeeeeeeeeeesaeeeesseeeeeeesaaaaeseeeeeeeeeaea 77
+Figure 192: Navigation M@Nu LINKS .............cccccccccssssssseecceceeeaeeesseeeeeeeeseeeeeeeeeeeeeesaaeeseeeeeeeeeesaaaaseeeeeeeeseaaa 78
+Figure 193: Example User Information (Edit Mode) ...........::ccccssssesssssssssssssseesesssseeessesseseesseessssssessssssseees 78
+Figure 194: Example User Role Options ...........cccccssssssseccecceceeeeseeeeeeceesaaeeeeeeeeeeeessaeeesseeeeeeeessaaaaseseeeeeseaea 78
+Figure 195: Landing Page..........cccccccccccssssssseeeceeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeseeseeeeeeeeeeeesaeeeesseeeeeeessauaaseeseeeeesaaaa 79
+Figure 196: Tech Support Tab Open ..........cccccccccccssssseseecceceeeaeeessseeeeeeeesaeeeeeeeeeeeeeesaeeaeseeeeeeessaaasseeeeeeeeeeaea 79
+Figure 197: Tech SUPpOrt POPUP ..........cccccccccccccccceeesseeeeeeeeeeaseeeeeeeeeeeeesaeeeseeeeeeeeeesaaeeesseeeeeeessaaaaseeeeeseeeeaea 79
+Figure 198: PopUp Chat Window ...........ccccccccccccccceesesseeeeeeeeeaaeeseseeeeeeeesaeeeseeeeeeeeeesaeeaeseeeeeeeessaaaaaeeseeeeeseaaa 80
+
+Tables
+
+Table 1: Disposition TYP ..........cccccccccsssssseeeeceeeeeeaeeneeeeeeeeeeeaeeeeeeeeeeeeeesaeeeeeeeeeeeeesaaeeasseeeeeeeessaaeanseeeeeeeesaaa 10
+Table 2: Loan Search Fields .........cccccccccssssssseeeceeeeeaaeeseeeeeeeeeeeeeeeeeeeeeeeeeesaeeeeeeeeeeeeeesaeeeesseeeeeeessaaeaaeeeeeeeeeeaaa 14
+Table 3: Data Table BUttons...........ccccccccsssseececeeeeeeaeseeeeeeeeeeeseeeeeeeeeeeeeeesseeeeeeeeeeeeesaeeaaseeeeeeeessaaeaaseeeseeeeeaaa 16
+Table 4: Servicing Search Fields ..........cccccccccccccccccseeeseeeeeeeeeeeseeeeeeeeeeeeeeeseeeeeeeeeeeeesaaeeeesseseeeeessaaaaaseeeeeeeesaaa 65
+Table 5: Data Table BUttons...........cccccccsssssseeeeeeeeeseeeseeeeeeeeeeeaeeeeeeeeeeeeeesaeeeeeeeeeeeeeesaeeaessseeeeeessaaeaasseeeeeeesaaa 67
+Table 6: Ticket Search Fields ..........ccccccccsssssecccceeeeeeeeseeeeeeeeeeeaeeeeeeeeeeeeeesaeeeeeeeeeeeeessaeeassseeeeeeesaaaeaeseeeeeeeesaaa 70
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | vi
+
+@®SMART
+
+Document History
+
+Version Date Description
+1.0 3/12/2018 Original release.
+
+1.34.0 | 12/14/2018 Updated release.
+
+1.34.0 06/10/2019 No changes made.
+
+1.43.0 | 12/20/2019 Updated release; Added PMM, Cash
+Management, CRM, etc.
+
+1.43.0 06/02/2020 No changes made.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | vii
+
+
+@SMART
+
+1 Solution Summary
+
+This manual is designed to guide Lenders through the use of the Single-Family Mortgage Asset Recovery
+Technology (SMART) System.
+
+1.1 Features
+
+The Single-Family Mortgage Asset Recovery Technology (SMART) System is comprised of individual
+modules designed to assist the user in searching for specific loan information and performing related
+functions. The modules currently available include the following:
+
+Loan Module: Query and review loan information at a detailed level, add new loan records to
+the system, and edit existing loan information.
+
+Servicing Module: Assign mortgage servicing templates to individual loans, track the status of
+each servicing template, and generate the corresponding servicing forms and letters.
+Bankruptcy Module: Maintain, track, and edit bankruptcy information for individual loan
+records.
+
+Foreclosure Module: Manage loan records in the foreclosure process. Module provides a
+timeline of the required foreclosure steps and tracks the scheduled foreclosure activity vs. the
+completed foreclosure activity.
+
+Mortgage Release Module: Initiate the loan release process for satisfied loans, track the release
+status, and generate the corresponding release forms and letters.
+
+Cash Management Module: Track and manage incoming payments from Pay.Gov, submit
+disbursement checks, search for transactions and review the TROR and Trial Balance reports.
+Customer Service Module: Create, view, and manage tickets. Create and edit call logs and ticket
+actions.
+
+Maintenance Module: Manage user account, reset user passwords, and update ticket round
+robin.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 1
+
+@SMART
+
+2 Getting Started
+
+2.1 Software Version
+To access the SMART web application, open your web browser and go to: https://smart.hudnsc.org.
+
+2.2 Solution Requirements
+Users must have the following to use the SMART System:
+e Screen Resolution 1920x1080 optimal
+e =Internet Connection
+e Web Browser (IE, Chrome, Firefox)
+e Avalid user name, email address, and password
+e Adobe Acrobat Reader or other .pdf reader (recommended)
+
+Users may not use the following to access the SMART System:
+e Mobile device with a screen size of 760px or less
+
+As a web-based application, SMART is accessed through a web browser, and is not “installed” onto any
+user’s computer.
+
+2.3 Logging On
+Once your SMART user profile has been created and approved, you may begin using the site. To Login,
+follow the steps outlined below.
+
+Step1: Toaccess the SMART web application, open your web browser and go to
+
+https://smart.hudnsc.org.
+
+®©SMART a
+
+Password
+
+Unauthorized Access Warning
+
+Figure 1: Landing Page
+
+Step 2: Input your User Name. Input your Password. @®SMART
+Step 3: Click [LOGIN]. A pop-up will appear to initiate
+setting up Multi-Factor Authentication (MFA). What type of device are you adding?
+Click [START SETUP]. © Moniie phone recoumencen
+Landline
+Step 4: Select Mobile Phone or Landline and click
+[CONTINUE].
+
+Figure 2: MFA Phone Set-Up
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 2
+
+@®SMART
+
+Step5: Enter your phone number, click the box to verify the phone number, and click [CONTINUE].
+
+®SMART
+
+Enter your phone number
+
+United States A
+
++41
+
+ex: (201) 234-5678
+[2] You entered [EEN 's this the correct number?
+
+Figure 3: MFA Phone Set Up
+
+Step6: Verify the ownership of your phone. To get a phone call verification, select [CALL ME]. To
+get a text verification, select [TEXT ME]. Both options will provide you with a 6-digit code.
+Enter in the code and click [VERIFY]. When verified, click [CONTINUE].
+
+@®SMART
+
+Verify Ownership of
+
+1. We can call or text you with a verification code.
+
+} came | °r Textsent
+
+2. Enter your 6-digit code:
+
+“_ ¥
+| sack
+
+Figure 4: MFA Phone Verification
+
+Step 7: Verify your settings on the My Settings & Devices page then click [CONTINUE TO LOGIN].
+
+@®SMART
+
+a
+
+bx. 867539
+
+(Q_ Remember me for 60 days
+
+@SMART (=!
+
+Call Me
+
+Enter a Passcode
+
+(4 Remember me for 60 days
+
+Enrollment successful! This is the Duo login prompt that you'll normally
+see when logging in.
+
+Enter a passcode from a text.
+
+Dismiss Dismiss Text me new codes
+
+Figure 5: Multi-Factor Authentication
+
+Note! When you have checked the [REMEMBER ME FOR 60 DAyYs] checkbox, this bypasses the 2 factor log in for 60 days.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 3
+
+@SMART
+
+Step 8: Select either [CALL ME] or [ENTER A PASSCODE].
+
+Step 9: Selecting [CALL ME] will prompt the system to call your phone. Follow the instructions in
+the phone call and you will be redirected to your default page.
+
+Step 10: Select [ENTER A PASSCODE] and click on [TEXT ME NEw CobEs] at the bottom. This will prompt
+the system to send a text message to your phone containing a 6-digit code. Enter in the
+code and click log in. You will be redirected to your default page, logging you in.
+
+The first time you log in you will be asked to reset your password and input three Security Questions.
+
+@SMART
+
+O First Time Password Reset
+se esromet : a
+
+© Setting Up Security Questions
+
+Securty Question 1 Select One x|
+
+Answer 1
+
+secur Onsen 3 Senct Oe *]
+
+Figure 6: Setting up Security Questions Page
+
+Enter in a new password and all three questions and answers and click [UPDATE]. After clicking update,
+you will be taken to your default page.
+
+2.4 Solution Menu
+
+After you have successfully logged into SMART your default page is the My Dashboard Page.
+
+| Bex | a
+Ti FHA Case No Prot Designee Cater Name Name A cn
+
+PAYOFF QUESTION 111512019 1112512019
+”
+PAYOFF QUESTION 1 111252019
+
+DUE & PAYABLE 117222019
+
+Figure 7: Default Page
+From the Dashboard page you can access every point in the site needed via the Top Navigation Menu.
+
+From left to right, the options are: My Dashboard, Loan, Servicing, Customer Service, User Information,
+and Role.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 4
+
+@SMART
+
+2.4.1. My Dashboard
+
+The default page you come to after you have logged into SMART is the [My DASHBOARD] page. Under the
+tab [My DASHBOARD] you have four options: My Tickets, Supervisor Inbox, HUD Inbox, and Action List.
+
+2.4.2 Loan
+
+The [LOAN] tab directs the user to the Loan Module in SMART. Here you have one option: Search.
+
+2.4.3. Servicing
+
+The [SERVICING] tab directs the user to the Servicing Module. Here you have one option: Search.
+
+2.4.4 Customer Service
+The [CUSTOMER SERVICE] tab directs the user to the Customer Service Module. Here you have two
+options: Ticket Search and Create New Ticket.
+
+2.4.5 User Information and Roles
+
+Select your user name to view and update your personal identification and contact information. You
+may also change your password and security questions. From the [ROLE] drop-down menu, select the
+role in which to view the SMART System.
+
+2.5 Changing Password
+
+To comply with security policies requiring periodic modification to all access passwords, SMART includes
+the Change Password functionality on the My Account page. Follow the steps below to change your
+
+current passwo rd.
+
+Step 2: Scroll down the User Information (Edit Mode) page to the Manage Password header.
+
+Step1: From the top Navigation Menu, click your User Name.
+
+Manage Password
+
+es
+Figure 8: Manage Password
+
+Step 3: Input your current password. Password must contain at least:
+Step 4: Input your new password.
+
+~ Twelve alphanumeric characters
+
+¥ One special character
+Step5: Re-enter your new password to confirm accuracy. Y One uppercase letter
+
+v One lowercase letter
+
+~ One number
+
+Step 6: Click [SAVE] at the bottom of the page. :
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 5
+
+@SMART
+
+The user is required to change their password every 30 days. The system maintains a password history,
+so that 24 passwords cannot be reused.
+
+If the user logs into SMART after their password is expired between 30 days and 90 days from their last
+password change, they will be redirected to change their password. If the user has not logged on for 90
+days, their account will be disabled. In order to reactivate their account, they will need to contact the
+Help Desk. For information on how to contact the Help Desk, see Section 14: Getting Help.
+
+2.5.1 Forgot Password (Recover Password)
+To retrieve a lost password, go to the SMART Login Page and click [FORGOT PASSWORD].
+
+@®SMART
+
+Username
+
+Password
+
+_ Unauthorized Access Warning Password Reset
+This warning banner provides privacy and security notices consistent with
+applicable federal laws, directives, and other federal guidance for accessing this
+
+Government system, which includes all devices/storage media attached to this
+
+system. This system is provided for Government-authorized use only.
+Unauthorized or improper use of this system is prohibited and may result in
+disciplinary action and/or civil and criminal penalties. At any time, and for any
+lawful Government purpose, the government may monitor, record, and audit
+your system usage and/or intercept, search and seize any communication or
+data transiting or stored on this system. Therefore, you have no reasonable
+expectation of privacy. Any communication or data transiting or stored on this
+system may be disclosed or used for any lawful Government purpose.
+
+Work Email Address x
+
+Forgot Password Login
+
+Figure 9: Login Page — Forgot Password Figure 10. Forgot Password Page
+
+The user is prompted to input a valid email address and select one security challenge question. Enter in
+the work email address and click [SUBMIT].
+
+If the user is registered to access SMART, an email is sent to their validated email address containing a
+
+temporary password to use to access their account. If the user is not registered, the user is prompted to
+complete the registration process.
+
+2.6 Exit Solution
+
+To end your SMART session, click [LOGOUT]. Be sure to [UPDATE] any work prior to exiting the system.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 6
+
+@SMART
+
+3 Using My Dashboard
+
+3.1 My Tickets
+
+After you have successfully logged into SMART your default page is the My Dashboard Page. The default
+tab of My Dashboard is the My Tickets Dashboard.
+
+My Tickets Supervisor Inbo 1UD Int ton
+&B My Tickets
+Ticket No FHA Case No ori Cal ie Re Fc te Borrower Nan Created Date
+850378 Low 601 PROGRAM (ACDVASSET OR NOTE SALE 110 o7/102018
+10:43:48 AM
+Showing 110 1 of 1 entries - + | Next
+6B My PIN Tickets
+
+Borr rower Address
+
+Case No Pront Designee Caller Name Reason c
+
+t Han PAYOFF QUESTION 111152019
+
+0223-11 PM
+
+@assare Low Handled by Contractor PAYOFF QUESTION 1172212019
+11:24:56 AM
+
+@esvar r Handled by Contractor QUE & PAYABLE 1972222019
+12:48:18 PM
+
+953429 Low HECM (Assigned - LSC’ DISCRIMINATION 117252019
+121426 PM
+
+Showing 1 10 4
+
+Figure 11: My Tickets Dashboard
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the My Tickets
+page, click on the [BACK TO My TICKETS] button.
+
+If you have never pinned a ticket to the My Tickets tab of My Dashboard, then you will only see the Top
+20 Most Recent Tickets. If you have pinned a loan to the My Tickets tab, then you will see all the loans
+you have pinned and the Top 20 Most Recent Tickets.
+
+3.1.1 Pin Ticket to My Tickets Dashboard
+
+Step 1: Identify a ticket you would like to pin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to pin, open that ticket.
+Step 3: Click [PINTO DASHBOARD] button located under the “Ticket Information (Edit Mode)” title.
+
+4&4 Customer Service - Ticket No. 853427
+
+Ticket
+
+Create New
+Ticket No. callLog Ticket Action Notes Documents,
+
+Ticket 053427 (A)(6) B Ticket Information (EDIT MODE)
+
+Figure 12: Pin to Dashboard (Ticket Record)
+
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have pinned a ticket it will display on the My Tickets Dashboard. If the ticket has multiple
+
+property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will display in
+the My Tickets Dashboard.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 7
+
+@SMART
+
+3.1.2 — Unpin Tickets from My Tickets Dashboard
+Step 1: Identify a ticket you would like to unpin to the My Tickets Dashboard.
+Step 2: Once you have identified a ticket you would like to unpin, open that ticket.
+Step 3: — Click [UNPIN FROM DASHBOARD] button located under the “Ticket Information (Edit Mode)”
+
+#& Customer Service - Ticket No. 853427
+concog QBBBTSRIY icser ction motes documents
+Test OUT OK-) B Ticket Information (EDIT MODE)
+
+n
+
+FHA Case #: a Loan Program: | ACA~ Compliance | Loans:
+
+Figure 13: Unpin from Dashboard (Ticket Record)
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+Once you have unpinned a ticket it will no longer display in the My Tickets Dashboard. If the ticket has
+
+multiple property inspection addresses, then the multiple Ticket Records tied to that Ticket Skey will no
+longer display in the My Tickets Dashboard.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 8
+
+@SMART
+
+3.2 Supervisor Inbox
+
+The Supervisor Inbox displays all tickets with an open status. To open the Supervisor Inbox, click [MY
+DASHBOARD] from the top Navigation menu and select [SUPERVISOR INBOX] from the dropdown.
+
+My Tickets
+
+& Supervisor Tickets
+
+[tesa J peor Yt ap | See
+Ticket No An FHA Case No Caller Nan Reason 2 Borrower Name Bon «| ma
+
+Action
+
+1172972019 PARTIAL CLAIM
+12:04:50 PM
+
+@ a53451 Low 1172972019 2 UE & PAYABLE
+120355 PM
+
+053450 Low 11/29/2019 12
+
+PAYOFF QUESTION Handled by
+12:03:08 PM
+
+Contractor
+@ as34eg Low 1172972019 12
+
+PARTIAL CLAIM Handled by
+11:5955AM
+
+‘Contractor
+
+Figure 14: Supervisor Inbox
+
+To open a Customer Service Ticket Record, click

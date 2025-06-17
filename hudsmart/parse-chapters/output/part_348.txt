@@ -1,0 +1,309 @@
+eceseeceneceseuceseuceneeeeags 22
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | iii
+
+Figure 52:
+Figure 53:
+Figure 54:
+Figure 55:
+Figure 56:
+Figure 57:
+Figure 58:
+Figure 59:
+Figure 60:
+Figure 61:
+Figure 62:
+Figure 63:
+Figure 64:
+Figure 65:
+Figure 66:
+Figure 67:
+Figure 68:
+Figure 69:
+Figure 70:
+Figure 71:
+Figure 72:
+Figure 73:
+Figure 74:
+Figure 75:
+Figure 76:
+Figure 77:
+Figure 78:
+Figure 79:
+Figure 80:
+Figure 81:
+Figure 82:
+Figure 83:
+Figure 84:
+Figure 85:
+Figure 86:
+Figure 87:
+Figure 88:
+Figure 89:
+Figure 90:
+Figure 91:
+Figure 92:
+Figure 93:
+Figure 94:
+Figure 95:
+Figure 96:
+Figure 97:
+Figure 98:
+Figure 99:
+
+@SMART
+
+VIEW LOAN SUMMMALY.........ccccseeeccceeecccceeeeeccceeeeesseuseccsseecesaeeeeeeseeuscessaesecesseuseessaueseesaeeeeesaaases 23
+ViOW LOAN Detail .........cccccccccsssssscecceceeeeeeesseeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeesssaeeseeeeeeeessaaaaaseeeeeeeesaaa 23
+VIEW LOAN FIlING ........ cece ccccccsssssseeececeeeaaeeseeeeeeeeeeaseeeeeeeeeeeeeesaeeeeeeeeeeeeeesseeeeseeeeeeesaaaaeaeeeeeeeeaaaa 23
+VIEW LOAN RECOFCING .......ccccccsseeseeccecceeeeseseseeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeesaseeesseeeeeeessaaaaaseeeeeeeeaaaa 24
+ViIGW BOFrOWELS ......cccccseeecccceesececeeeseceseeeeeeeaeeeeesseuseeeseeeeeeeseueeeeseeuseessauseeesaeusceesaueseesaueeeesaaases 24
+View Property INSPECTION ............ccccccccsseeeccceeeeccceenseccuseuscecsesseeeseauscesseueeeesseuseessaauseesaeeseessaaages 24
+VIEW DOCUMENNS ...........ccccccceeeccceeesececaeseeeeaeeeeecseuseeesseueeesaeeseeeseeueeeeseuseeeeseuseeesseuseesaueeeesaages 24
+VICW NOTES.......cccccceeccccseeecccneesececaeesecesseeeeeeeeeeeeseeeeeeseeueeesseeeeeeseeusceseeeseeesuauseessseuseesaaeeeesaaages 25
+AVAT=AWY AN =>, 0\=] ©) H 0) 9) eee 25
+VIGW SOLVICING ........ccccccseeecccceeeececaeesececeeeeeceaeeeeesseneeeeseeeeceeseueeeeseauseesaauseeesseuseeesseuseesaueeeesaaases 25
+VIEW REINSTATEMENL............cceccccceseseccceeeeeccneeceecsenseceeeeeeceeseseeesseuseessaueeeesseuseeeaeauseesseseeesaanses 26
+VICW PayOff .......ccccssessccccccceesaeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeessseeseeeeeeeeeeesseeesseeeeeeesaaaaasseseeeeeeaaaa 26
+VIEW TLANSACTIONS .........ccccccseecccceeesececseeeeccceeeeeesseeseccaseeeceeseseeesseuscessaaeecessauseeessuuseesaaeeeesagnses 26
+VIEW LOAN HIStOLY .........cccccccsescccceeeeeccceeeseccneeeeecaeuseecssesecessesseeeseeuscessaesecesaeuseeesseusessaeseeesaanses 27
+VIEW DiSbDUrS@MENKS.........ccccseeseeeeccccceceeeeeeeeeeeeeeesaeeeeeeeeeeeeeessaeeseeeeeeeeeessseessseeeeeeesaaaaasseeseeeesaaa 27
+View Monthly Statement ...........ccccccccssssssseececeeeeaeeesseeeeeeeeesseeeeeeeeeeeeesseeeeseeeeeeessaueaaseeeeeeeeeaaa 27
+VieW CUSTOMER SEPFVICE.........cccccccseeecccceeeeccaeeecccseseceuseueceeseeceessauscesseeseceesauseessseuseesaueeeeesaaases 27
+ViOW LOAN Detail .........cccccccccsssssscecceceeeeeeesseeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeesssaeeseeeeeeeessaaaaaseeeeeeeesaaa 28
+VIEW LOAN FilING ..........cccccccccsessseeecceeeeeeaeeseeeeeeeeeeeaeeeseeeeeeeeeesseeeeeeeeeeeeeessaeeeeseeeeeeesaaaaaaeeseeeeeeeaaa 28
+VIEW LOAN RECOFCING .......ccccccsseeseeccecceeeeseseseeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeesaseeesseeeeeeessaaaaaseeeeeeeeaaaa 28
+ViIGW BOFrOWELS ......cccccseeecccceesececeeeseceseeeeeeeaeeeeesseuseeeseeeeeeeseueeeeseeuseessauseeesaeusceesaueseesaueeeesaaases 29
+View Property INSPECTION ............ccccccccsseeeccceeeeccceenseccuseuscecsesseeeseauscesseueeeesseuseessaauseesaeeseessaaages 29
+VIEW DOCUMENNS ..........ccccccccseeececeeesececaeseeecaeeeeecseneeeeseeeeeesseeeeeesseuseesaaeseeesseuseeessuusessaueeeesaaases 29
+VICW NOTES.......cccccceeccccseeecccneesececaeesecesseeeeeeeeeeeeseeeeeeseeueeesseeeeeeseeusceseeeseeesuauseessseuseesaaeeeesaaages 30
+AVAT=AWY AN =>, 0\=] ©) H 0) 9) eee 30
+VIGW SOLVICING ........ccccccseeecccceeeececaeesececeeeeeceaeeeeesseneeeeseeeeceeseueeeeseauseesaauseeesseuseeesseuseesaueeeesaaases 30
+VIEW DiSbDUrS@MENKS.........ccccseeseeeeccccceceeeeeeeeeeeeeeesaeeeeeeeeeeeeeessaeeseeeeeeeeeessseessseeeeeeesaaaaasseeseeeesaaa 31
+VIEW Property TaXxe........cccccsesccccssescccceeseccseeeceessensecessueecesseseesseeuseesaeusecesseseeessuuseesaeeeeesaaases 31
+View Monthly Statement ...........ccccccccssssssseeceeeeeeaaeesseeeeeeeeeseseeeeeeeeeeeesseeeesseeeeeeessaaaaseeeeseeeeaaaa 31
+Add View Set ASIdD@/ESC Trans.........cccccsssssseecececcccesceeseecececcecauueeseececeseeuauaasseseeseseeuuaaaseeseseeeeeaaa 32
+VieW CUSTOMER SEPFVICE.........cccccccseeecccceeeeccaeeecccseseceuseueceeseeceessauscesseeseceesauseessseuseesaueeeeesaaases 32
+VIEW LOAN SUMMMALY.........ccccseeeccceeecccceeeeeccceeeeesseuseccsseecesaeeeeeeseeuscessaesecesseuseessaueseesaeeeeesaaases 33
+ViOW LOAN Detail .........cccccccccsssssscecceceeeeeeesseeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeesssaeeseeeeeeeessaaaaaseeeeeeeesaaa 33
+VIEW LOAN FIlING ........ cece ccccccsssssseeececeeeaaeeseeeeeeeeeeaseeeeeeeeeeeeeesaeeeeeeeeeeeeeesseeeeseeeeeeesaaaaeaeeeeeeeeaaaa 33
+VIEW LOAN RECOFCING .......ccccccsseeseeccecceeeeseseseeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeesaseeesseeeeeeessaaaaaseeeeeeeeaaaa 34
+ViIGW BOFrOWELS ......cccccseeecccceesececeeeseceseeeeeeeaeeeeesseuseeeseeeeeeeseueeeeseeuseessauseeesaeusceesaueseesaueeeesaaases 34
+View Property INSPECTION ............ccccccccsseeeccceeeeccceenseccuseuscecsesseeeseauscesseueeeesseuseessaauseesaeeseessaaages 34
+VIEW TLANSACTIONS .........ccccccseecccceeesececseeeeccceeeeeesseeseccaseeeceeseseeesseuscessaaeecessauseeessuuseesaaeeeesagnses 34
+VIEW DOCUMENNS ...........ccccccceeeccceeesececaeseeeeaeeeeecseuseeesseueeesaeeseeeseeueeeeseuseeeeseuseeesseuseesaueeeesaages 35
+VICW NOTES.......cccccceeccccseeecccneesececaeesecesseeeeeeeeeeeeseeeeeeseeueeesseeeeeeseeusceseeeseeesuauseessseuseesaaeeeesaaages 35
+AVAT=AWY AN =>, 0\=] ©) H 0) 9) eee 35
+VIGW SOLVICING ........ccccccseeecccceeeececaeesececeeeeeceaeeeeesseneeeeseeeeceeseueeeeseauseesaauseeesseuseeesseuseesaueeeesaaases 36
+VICW PayOff .......ccccssessccccccceesaeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeessseeseeeeeeeeeeesseeesseeeeeeesaaaaasseseeeeeeaaaa 36
+VieW CUSTOMER SEPFVICE.........cccccccseeecccceeeeccaeeecccseseceuseueceeseeceessauscesseeseceesauseessseuseesaueeeeesaaases 36
+View Loan Summary (235-INSUrCC).........ccecesssssesssssesessssssseeseseeeesesseeeseeeessesesseesssseesesaaesaasaaaaaes 37
+View Loan Detail (235-INSUreC) ..........ccceeceeesssssessseesseseeseeeeeeseessseeeeeeeseeeeeesessesssseasaseasasaaaaaaaaes 37
+View Loan Filing (235-INSUr@) ..........cccceseesseessessssseesesseseseeeeseeeseeesesesseeeeeesesseesseseassesesseessaaaaes 38
+View Loan Recording (235-INSUre) .........::cccccessessssseessssseeesseseeseseseseeeseeseseseeeseseesesssssessaeaaaaes 38
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | iv
+
+Figure 100:
+Figure 101:
+Figure 102:
+Figure 103:
+Figure 104:
+Figure 105:
+Figure 106:
+Figure 107:
+Figure 108:
+Figure 109:
+Figure 110:
+Figure 111:
+Figure 112:
+Figure 113:
+Figure 114:
+Figure 115:
+Figure 116:
+Figure 117:
+Figure 118:
+Figure 119:
+Figure 120:
+Figure 121:
+Figure 122:
+Figure 123:
+Figure 124:
+Figure 125:
+Figure 126:
+Figure 127:
+Figure 128:
+Figure 129:
+Figure 130:
+Figure 131:
+Figure 132:
+Figure 133:
+Figure 134:
+Figure 135:
+Figure 136:
+Figure 137:
+Figure 138:
+Figure 139:
+Figure 140:
+Figure 141:
+Figure 142:
+Figure 143:
+Figure 144:
+Figure 145:
+Figure 146:
+Figure 147:
+
+@SMART
+
+View Borrowers (235-INSUrCd)..........cccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 38
+View Property Inspection (235-INSUrE) ...........ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 39
+View Documents (235-INSULEd) ..........ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 39
+View Notes (235-INSUrEd) ...........cccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 39
+View Exceptions (235-INSUred) ...........cccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 39
+VIGW SOLVICING ........cccceeeccccceeeececeeesecccaeeececaeeeeeeeseeseeesseeeeesaeeeeeesaaeeeeseueeeesseseeesaaseesaeseessaaases 40
+View Transactions (235-INSUrC) ..........cccccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 40
+VieW CUSTOMEL SELVICE........ceecccccceeeeeeeeeeeeeeeeeeaaeaeeeeeeeeeeeaaaaaeeeeeeeeeeaaaaaeeeeeeeeeeeaaaaaneeeeeeeeeaaaaaaes 40
+VIEW LOAN SUMMMALY..........csecccccseesccccseeecccceeeeeecseusceesseeeeeeaeeseeessaueceeseuseeessauseeessausessaeaseeesaanses 41
+View Loan Detail 00.0.0... ieee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeees 41
+VIEW LOAN FIlING ...... ccc ceeeeeeeccceeceeeeeeeeeeeeeeeeseeeeeeeeeeeeeesseeeeeeeeeeeeeaseeeeseeeeeeeseaeaeaseeeeeeeesaaagaass 41
+VIEW LOAN RECOFCING .........:ccccccccccccessesseeeceeeeeeaeeeeeeeeeeeeesaeeeeeeeeeeeeeeaseeeseeeeeeessauaeaseeeeeeeesaaaaaass 42
+ViCEW BOLrOWELS.... ee eeceecceeeeeeeeeeeeeeeeeaaaeeeeeeeeeeeeeaaaaeneeeeeeeeeaaaaaaeeeeeeeeeaaaaaaaeeeeeeeeaaaaaaneeeeeeeeeaaaaaaes 42
+View Property INSPECTION ...........cccccccsssecccneeeececaeeecccsseeeeecaesecesseueceeseuseeesseseeeseuuseesseeeeessaaases 42
+VIEW TraNSactiONS ........ ec eeeeeeeececeeeeeaaeeeeeeeeeeeeeaaaaeneeeeeeeeeaaaaaeeeeeeeeeeaaaaaeeeeeeeeeeaaaaaneeeeeeeeeaaaaaaes 43
+VIEW DOCUMENMS 2.0... cece eeceeeeeeeeeeceeeeeaeeeeeeeeeeeeeaaaaaeeeeeeeeeeaaaaaaeeeeeeeeeaaaaaaaeeeeeeeeaaaaaaneeeeseeeeaaaaaaes 43
+VICW NOtCS 00... eeecccecccceeeeeeeeeeeeeeeeaaaeeeeeeeeeeeeaaaaaeneeeeeeeeeaaaaaaeeeeeeeeeaaaaaaaeeeeeeeeeaaaaaneeeeeeeeeaaaaaaes 43
+View Mortgage Rel@ase........cccccccccsssssssseccceeeeeaeseeeeeeeeeeseeeeseeeeeeeeeesseeesseeeeeeeessaaaaeeeeeeeesaaagaaes 43
+AVATEAWY AN =>, (0X2) ©) #0) 6) eee 44
+VIGW SOLVICING ........cccceeeccccceeeececeeesecccaeeececaeeeeeeeseeseeesseeeeesaeeeeeesaaeeeeseueeeesseseeesaaseesaeseessaaases 44
+VIOW FOreClOSULE....... cece nee EEE EEE EEE EEE EEE SEES EEE EES Eee eee eeeeeeeeeeeeeeeeeeeeeeeeeeeees 44
+VIQEW BAaNnkrUptcy ......ccccccccesseseecccceeeaeeeseeeeeeeeeseeseeeeeeeeeeeeeseeeseeeeeeeeeeseeeeeseeeeeeessaeaaaseeeeeeeesaaaggsss 44
+View CUStOMEL SEPVICE........eeeececc cee eeeeeeeeeeeeeeeaaeaeeeeeeeeeeeaaaaaeeeeeeeeeaaaaaaeeeeeeeeeaaaaaneeeeeeeeeaaaaaees 44
+Bankruptcy Search SCrO@n ......cccccccssssseseccccceeeeesseeeceeeesaeeeeseeeeeeeeeeseeeesseeeeeeeessaaaaeseeeeeeeesaaaaasss 45
+Bankruptcy Search Screen BUttONS .........ccccccssssssseececcecceeesseeeceeeeesaaaesseseceeessaaaeasseeeeeeessauaaases 46
+Bankruptcy Tab (Partial Claim) .......ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 47
+Active Bankruptcy Activity (Chapter 13 — Partial Claim) ................ccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeees 47
+Inactive Bankruptcy Activity (Chapter 13 — Partial Claim) .........ccccccccccccccccccseeeeeeeeeeeeeeeeeeeeeees 48
+Bankruptcy Management (Chapter 7 — Partial Claim) .........cccccccccccccccccceeeeeeeeeeeeeeeeeeeseeeeeeeeess 48
+Foreclosure Search SCrECM .....cccccccccccccceceeeeeeeeeeeeeee eee e eee ee eee e cece eee EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 49
+Foreclosure Search Screen Buttons ........ccccccccccccceceeeee cece eee eee ence eee e cece eee e eee eee EEEEEEEEEEEEEEEEEEEEEEEES 50
+Foreclosure Tab (Partial Claim) ........ccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 51
+Active Foreclosure Activity (Partial Claim) ...............cccccccccccseceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 51
+Foreclosure Management (Partial Claim) ..........cccccccccccccccceseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 52
+Mortgage Release Search SCr@@n.......cccccccccccsssssseseccceeceasesseeeceeeeeseaseseeeceesessaaeaseeeeeeessaaagasss 53
+Mortgage Release Search Screen BUttONS...........cccccccccssssssseeccceceeseeeesseeeceeeeeaaaeseseeeeeeessaaaaness 54
+Mortgage Release Tab (Partial Claim) .........ccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeess 55
+Active Mortgage Release Activity (Partial Claim)..............ccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 55
+Mortgage Release Management (Partial Claim) ...........cccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 56
+Check Search SCrECN ....eeecccceeeeeeeeeeeeeee ee ee eee n nnn Enna aaa aaa a aaa aaa 57
+Disbursement Checks (Partial Claim) .......ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 58
+Release Checks (Partial Claim) .......ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 58
+Data Refresh .....cccccccccccccccceeeeee cece cece ence eee e eee eeeeeeeeee cette eee EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 59
+Last Data Refresh ........ccccccccccccccccee cece cece cece eee e eee ee eee e eee ee eee EEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 59
+Trial Balance ......cecccccccccccccceeeeee cece cece eee e eee eeeee eee ee eee e eee EE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 59
+Summary Of ACCOUNt Change .........cccccssssssecccceecseeeeseeeeceeeesaeeeeseeeeeeeeesseeesseeeeeeeesaaaaaseeeeeeeesaaa 60
+Trial Balance SUMMALY .......cccccccccssssseesececeeeeaaeeeeeeeeeeeeeesaeeeeeeeeeeeeesseeeeseeeeeeeessaaeasseeeeeeeseaaaaaaes 60
+USSGL ACCOUNt Lo... cece cecccceeeeeeeeeeeeeaaeeeeeeeeeeeeeeaaaaeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaees 60
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | v
+
+@SMART
+
+Figure 148: Treasury Report on Receivables and Debt Collection Activities Report...........ccccccseccseceeeeeeees 61
+Figure 149: Ticket Search SCr@@N ........cccseeesscccccceceeeesseeeeeeeeeseeeeeeeeeeeeeesaseeeeeeeeeeeeesaeeeesseeeeeeessaaaeaeeseeeeessaaa 62
+Figure 150: Transaction Search R@SUItS ..........ccccccssssssseecceceecsseeseseeeeeeeesaaeeseeeeeeeeeesaeeesseeeeeeeessaaaeeeeseeeeseaaa 63
+Figure 151: Pay.Gov Transaction HiStOry..........cccccccccccssescccceeeeccceeeeccccseeseeeseeeeeesaeseeesseeuseessseeeeesaueseeesaaases 63
+Figure 152: Loan Transaction Tab .........ccccccccccccccccesssseeeeceeeeeasseseeeeeeeeeesaeeeeeeeeeeeeessaeeesseeeeeeeesaaaaasseseeeeeseaaa 63
+Figure 153: SPS — Unprocessed Checks .........cccccccssssssseeececeecaseeesseeeeeeeesaeeeeeeeeeeeessaeeesseseeeeeeesaaaeeesseeeeseaaa 64
+Figure 154: SPS — Checks Submitted / Checks Status ............cccccesssscccccceeeessssnseeeeececesesssnseeeeeeesesessnsaeeeeeess 64
+Figure 155: Ticket Search SCr@@N ........cccssessseccccceceeeessseeeeeeeeeseeeeeeeeeeeeeesaeeeeeeeeeeeeeesaaeeesseeeeesesaaaaaseeseeeeeseaaa 65
+Figure 156: Customer Service MOdUule ..........cccccccssssssseecceeeccsaaeseeeeeeeeesaaeeeeeeeeeeeeesaeeesseeeeeeeessaaaeseeeseeeeseaaa 67
+Figure 157: View/Edit Ticket Detail ...........cccccccccccccsssssssseeeccceesessssseeeeecceecesssaseeececececeesaaeeeeeeeeeeessnsaaeeeeess 67
+Figure 158: View Call LOG ..........ccccccccccccssssseseeeeeeeeeeeeeeeeeeeeeeeeaeseeeeeeeeeeeeseeeeeeeeeeeeeeesaaeeessseeeeeessaaeaseeseeeeeseaaa 67
+Figure 159: View Ticket ACtion.........ccccccssssssccccceeceeeeeeeeeeeeeeeeeseeeeeeeeeeeesaeeeeeeeeeeeeesaaeeeseeeeeeeesaaaeseseeeeeeeaaa 68
+FiGUre 160: VieW NOteS..........cccccccsesccccesescceceeeeeeeaeeeeeeeseeeeeeeeeeeeeeseeeeeeeseeeeeeeeeeesaeeseeessauseesaeauseesaueeeesaaases 68
+Figure 161: VieW DOCUMENIS ...........ccccseeccccceeeeccceeeecccaeeeceeeeeeeeeseeeeeeeeseecesseeueeesaeeeeeesaeuseesauaueeesaueeeeesaaages 68
+Figure 162: View Borrower HiStOry ...........ccccecccccssseecccseesccceeeececeeeseeesseesceeseeueessaeeeeesaeseesseeseeesaueeeesaaases 69
+Figure 163: Navigation M@Nnu LINKS .............cccccccccssssssseeccececeaeeeeseeceeeeessaeeeeeeeeeeeesaeeessseeeeeeessauaaseeeeeeeeseaaa 70
+Figure 164: Example User Information (Edit Mode) ...........::c:ssssssssssssssessssssssesessesesseessessssseesssssssssssseaeees 70
+Figure 165: Example User Role Options ...........ccccssssssseecccccecseeeseeeeeeeeesaaeeseeeeeeeeeesaeeesseeeeeeeessauaesseeseeeeseaaa 70
+Figure 166: LANGING PAGe...........ccccccccccssssseeseeceeeeeeeseeeseeeeeeeeeaeseeeeeeeeeeeesseeeseeeeeeeeeesaeeeesseeeeeeessaaaaseeseeeeeseaaa 71
+Figure 167: Tech Support Tab Open .........ccccccccccccssssssseecceceeeaeeseseeeeeeeesaeeeeeeeeeeeeesaaeeseeeeeeeeessaaaaseeeeeeeeseaea 71
+Figure 168: Tech SUpport POPUP ...........cccccccccccccceeesseeeeeeeeeeeaseeeeeeeeeeeeesaeeeseeeeeeeeeesaaeesseeeeeeeeeaaaaasneeeeeeeeaaea 71
+Figure 169: PopUp Chat Window ...........cccccccccccccccesseseeeceeeeeaeseseeeeeeeeeeaeeeeeeeeeeeeeessaaeeesseeeeeeessaaaasseeeeeeeeeaaa 72
+
+Tables
+
+Table 1: Loan Search Fields .........cccccccccssssssseeeeeeeecaeeseeeeeeeeeeeeeeeeeeeeeeeeeesaeeeeeseeeeeeesaaeeessseeeeeeessaaeaaseseseeeesaaa 10
+Table 2: Data Table BUttons...........cccccccccsssseeeceeeeeeeeeeeeeeeeeeeesaeeeeeeeeeeeeeesseeeeeeeeeeeessaeeassseeeeeeessaaaaaseeeseeeesaaa 12
+Table 3: Bankruptcy Search Fields...........cccccccccccccssssseeeeeeeeesaeaeeeeeeeeeeeesaaeeseeeeeeeeeesaaeesseeeeeeessaaeaeseeeeeeeesaaa 46
+Table 4: Data Table BUttons...........cccccccccsssseeeceeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeesaseeeeeeeeeeeesaaeeeesseseeeeessaaeaaseseeeeensaga 47
+Table 5: Foreclosure Search Fields .........ccccccccccccccesssseeeeeeeeeeeaseeeseeeeeeeeesaeeseeeeeeeeeeesaeeasseeseeeeessaaesaeeeeseeeeaaaa 50
+Table 6: Data Table BUttons...........cccccccccsssseccceeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeaaeeeesseeeeeessaaeaaeeeeeeeeeaaa 51
+Table 7: Mortgage Release Search Fields ............cccssssssccccceecaeeesseeeceeeeessaeeseeeeeeeeeseeeesseeeeeeeessaaeaeseeeeeeeesaaa 53
+Table 8: Data Table BUttons...........ccccccccssssseecceeeeeeaeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaeeeasseeeeeeessaaeaaeeeeeeeeeeaaa 55
+Table 9: Check Search Fields .........ccccccccsssssseecccceecseeeeeeeeeeeeeesseeeeeeeeeeeeeesseeeeeeeeeeeeessaeeaassseeeeeessaaaanseeeeeeeesaga 58
+Table 10: Transaction Search Fields ...........ccccccccccssssssseeeceeeecaseeeseeeeeeeeesseeeeseeeeeeeeesaeaeeseeeeeeeessaaeaseeeeeeeeaaaa 62
+Table 11: Ticket Search Fields .........ccccccccssssecccceeeeeeeeseeeeeeeeeeeseeeeeeeeeeeeeesaeeeeeeeeeeeeessaeeeasseeeeeeessaaeaeseeeeeseesaaa 66
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | vi
+
+@®SMART
+
+Document History
+
+Description
+Original release.
+
+Updated release.
+
+No changes made.
+
+Updated release; Added PMM, Cash
+Management, CRM, etc.
+
+Version Date
+
+1.0 3/12/2018
+1.34.0 12/14/2018
+1.34.0 | 06/10/2019
+1.43.0 12/20/2019
+1.43.0 | 06/02/2020
+
+No changes made.
+
+SMART USER MANUAL | LSC.READONLY | VERSION 1.43.0 | JUNE 2, 2020 | vii
+
+@SMART
+
+1 Solution Summary
+
+This manual is designed to guide Lenders through the use of the Single-Family Mortgage Asset Recovery
+Technology (SMART) System.
+
+1.1 Features
+
+The Single-Family Mortgage Asset Recovery Technology (SMART) System is comprised of individual
+modules designed to assist the user in searching for specific loan information and performing related
+functions. The modules currently available include the following:
+
+Loan Module: Query and review loan information at a detailed level, add new loan records to
+the system, and edit existing loan information.
+
+Servicing Module: Assign mortgage servicing templates to individual loans, track the status of
+each servicing template, and generate the corresponding servicing forms and letters.
+Bankruptcy Module: Maintain, track, and edit bankruptcy information for individual loan
+records.
+
+Foreclosure Module: Manage loan records in the foreclosure process. Module provides a
+timeline of the required foreclosure steps and tracks the scheduled foreclosure activity vs. the
+completed foreclosure activity.
+
+Mortgage Release Module: Initiate the loan release process for satisfied loans, track the release
+status, and generate the corresponding release forms and letters.
+
+Cash Management Module: Track and manage incoming payments from Pay.Gov, submit
+disbursement checks, search for transactions and review the TROR and Trial Balance reports.
+Customer Service Module: Create, view, and manage tickets. Create and edit call logs and ticket
+actions.
+
+Maintenance Module: Manage user ac

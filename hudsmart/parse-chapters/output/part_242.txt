@@ -1,0 +1,720 @@
+e Bankruptcy Disbursements. Property Taxes. ACH Info. Payoff
+FREE serssice tse customer service
+1 Monthly Statements
+
+Reporting Period Loan Type Int Rate % Prev int Rate % Next int Rate % Credit Line Growth % Payment Option Program Type Payments Remaining Unpaid Principal Bal Mise Charges Cash Draws
+
+‘Showing 0 to 0 of O entnes Previous Next
+
+Figure 162: View Monthly Statements
+
+4.4.6.19 View Set Aside/Esc Trans
+To access Set Aside/Esc Trans, click on the [SET ASIDE-Esc] tab within the Loan Record.
+
+Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Loan Bal Trans Notes Mortgage Release Exceptions — Servicing Foreclosure Bankruptcy Disbursements Property Taxes. © ACHinfo. Payoff
+
+mun Statements PRPRRREFRE customer service
+
+© Set Aside/Esc Trans
+
+Fflective Date Trans Code Action Code Trans Description Service Fee SA Repair Fee SA Others SA Tax Escrow Balance Total Trans Amount Create By Created Date
+
+093072012 SFSA 2000 Monthly Agustment Service Fee Set Aside ($30.00) $30.00) 09/29/2012
+11:11:49 AM EST
+
+083172012 2000 Monthly Agustment Service Fee Set Aside $30.00) $30.00) 08312012
+07:00:00 PM EST
+7312012 SFSA 2000 Monthy Agustment Service Fee Set Aside $30.00) $30.00) 0773172012
+10:17:36 PM EST
+(06/302012 SFSA 2000 Monthly Agustment Service Fee Set Aside ($30.00) $30.00) 063072012
+10:19:26 AM EST
+053172012 SFSA 2000 Monthly Agustment Service Fee Set Aside $30.00) $30.00) 05/31/2012
+10.00.00 PM EST
+ow302012 SFSA 2000 Monthly Agustment Service Fee Set Aside ($30.00) $30.00) 04/30/2012
+10:08:14 PM EST
+0373172012 SFSA 2000 Monthly Agustment Service Fee Set Aside $30.00) $30.00) 0401/2012
+01:28:01 AM EST
+02 SFSA 2000 Monthly Agustment Service Fee Set Aside ($30.00) $30.00) 03032012
+
+04:18:02 PM
+
+ovsi2012 SFSA 2000 Monthly Agustment Service Fee Set Aside $30.00) $30.00) 0201/2012
+12.28.35 AM EST
+
+1aawaon1 SFSA 2000 Monthly Adjustment Service Fee Set Aside $30.00) $30.00) 129172011
+05:02:02 PM EST
+
+14302011 SFSA 2000 Monthly Adjustment Service Fee Set Aside ($30.00) $30.00) 12012011
+12:20:18 AM EST
+
+10/31/2011 SFSA 2000 Monthly Agustment Service Fee Set Aside $30.00) $30.00) 11012011
+12.2228 AM EST
+
+902011 SFSA 2000 Monthly Agustment Service Fee Set Aside ($30.00) $30.00) 10012011
+07:05:59 AM EST
+
+08/31/2011 SFSA 2000 Monthly Agustment Senice Fee Set Aside $30.00) $30.00) 083172011
+10:47:17 PM EST
+
+o7av2011 SFSA 2000 Monthy Adjustment Service Fee Set Aside ($30.00) $30.00) 712011
+
+Figure 163: View Set Aside/Esc Trans
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 69
+
+@SMART
+
+4.4.6.20 View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Detail Loan Filing == Loan Recording =» Borrowers Property Inspection Documents Loan Bal Trans Notes. © Mortgage Release == Exceptions. §— Servicing Foreclosure
+Mth Statements Set Aside-Esc
+
+Bankruptcy Disbursements Property Taxes = ACH Info. Payoff
+
+#& Customer Service
+
+Ticket No. Ticket Loan Progr
+
+‘Showing 0 100 of 0 entries
+
+Figure 164: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 70
+
+@®SMART
+
+4.4.7 Access Details of HECM-Insured & SF Data Request Loan Records
+Note: All HECM-Insured and SF Data Request Loan Records are Read Only.
+
+4.4.7.1 View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record.
+
+ETE Loan Deta Loan Filing Loan Recording Borrowers. Property Inspection Transactions = Documents Notes. «Mortgage Release = Exceptions «== Servicing Foreclosure Bankruptcy Customer Service
+
+BLoan Summary
+
+Menihly Somers
+
+Figure 165: View Loan Summary (SF Data Request)
+4.4.7.2 View Loan Detail
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record.
+Loan Summary ‘Loan Filing | Loan Recording | Borrowers | Property inspection | Transactions | Documents Noles | Mortgage Release Exceptions | Servicing Foreclosure Bankruptcy | Customer Service
+
+# Loan Detail
+
+‘Omer Code: (Curr Prin Limit: Signed Date: Hold Code 1:
+Loan Type: Expected int Rate: Funded Date: Hold Code 2:
+FHA # 151 hig: Current Net Prin Limit: Mig Ins Cert Date: Hold Code 3:
+Loan Term: 30 yrs 0 mos Repair Set Aside: Assit Accepted: Accrual Method
+Loan Status: CLOSED ‘Max Claim Amt: ‘Asst Recorded: ‘Assess Late Charge:
+Loan State 1: First Yoar Sot Aside: Claim Paid: Collect Tax Escrow: NO
+Loan State 2: Serv Fee Set Aside: Title Approval: Custodial:
+Loan Purpose Code: Orig Creait Line: ‘At Contractor On: Vacancy Status:
+Loan Class Code: ‘ARM Change Date: Vacancy Date:
+Contract Type Code: F Orig Loan Date: ADP Code:
+Program Type: Status Date: Print Statements: yes
+Last CO Response: Maturity Date:
+Oce. Cert Sent
+Due Date Detling NC:
+
+Figure 166: View Loan Detail (SF Data Request)
+
+4.4.7.3 View Loan Filing
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record.
+
+Loan Summary Loan Detail RBEGEZIETIE Loan Recording Borrowers. Property Inspection Transactions. © Documents Notes. «Mortgage Release = Exceptions. © Servicing Foreclosure Bankruptcy Customer Service
+
+i Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Name: ara Fie: Sales Contract: Closing Dat:
+Prior Servicer Phone Label Printed: YES HUD Settlement Expiration Date
+Project Name: tig Doc Exist: Note Doc Exists: File Entered Date:
+Project Wo Deed Restriction: Home Owner File Received Date
+roc of cert Form ore wcaceRecewes
+Voucher Number: Box Number: IY Lender name:
+
+VRS Number:
+
+Figure 167: View Loan Filing (SF Data Request)
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 71
+
+@SMART
+
+4.4.7.4 View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail’ Loan Filing (ERAEESENTENEN Borrowers Property Inspection Transactions Documents Notes Mortgage Release Exceptions — Servicing —Foreciosure Bankruptcy Customer Service
+
+@4 Loan Recording
+
+Loan Recording Information
+
+Book W Release Prepared ate: Nota
+Page w Prepare By
+Instrument Loan Recorded Date Original Trustee
+Payot at Mortgage Amount suipstive Trustee
+Aumonzed wraness 1 wanes 2
+
+Figure 168: View Loan Recording (SF Data Request)
+
+4.4.7.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record.
+
+Loan Summary Loan Detail. Loan Filing = Loan Recording Matta Transactions Documents Notes Mortgage Release = Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+2& Borrowers Information
+
+So Ssrowss Infomation
+
+First Name:
+
+Last Name:
+
+Address 1:
+
+Address 2:
+
+SSW:
+Birth
+Date
+
+Work
+Phone:
+
+ddress
+
+State.
+
+County;
+
+First Name:
+
+Address 1
+
+‘Address 2:
+
+Address 3:
+
+Mail To Name:
+
+SSN:
+Birth
+Date:
+
+Mailing Address
+
+as
+Address 1:
+
+Address 2:
+
+city state
+
+be: Home Phone
+Work Phone:
+
+Other information:
+
+Figure 169: View Borrowers (SF Data Request)
+
+4.4.7.6 View Property Inspection
+To access Property Inspection, click on the [PROPERTY INSPECTION] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+
+% Property Inspection
+
+[ Bec! | | rt | ~~
+
+Property Address t| Parcel No
+
+Figure 170: View Property Inspection (SF Data Request)
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 72
+
+@®SMART
+
+4.4.7.7 View Transactions
+To access Transactions, click on the [TRANSACTIONS] tab within the Loan Record.
+
+Loan Recording Borrowers Property mspection [ETMPPOMARI cocuments Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+Figure 171: View Transactions (SF Data Request)
+
+4.4.7.8 View Documents
+To access Documents, click on the [DOCUMENTS] tab within the Loan Record.
+
+Figure 172: View Documents (SF Data Request)
+
+4.4.7.9 View Notes
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab. To access
+Notes, click on the [NoTEs] tab within the Loan Record.
+
+Loan Summary Loan Detal_ Loan Filing Loan Recording Borrowers Property inspection Transactions Oocuments MEER) Monoage Release Exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+Changed By Change Date Ticket 10
+
+& 171088
+
+Figure 173: View Notes (SF Data Request)
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 73
+
+@SMART
+
+4.4.7.10 View Mortgage Release
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers Property inspection Transactions ~=—- Documents. «Notes. [EUREEEENEMIN exceptions Servicing Foreclosure Bankruptcy Customer Service
+
+@B Mortgage Release
+
+B Full Release (A)
+
+Bichecks
+Release Request Recenedintated
+
+oai2011 o2v082011
+
+a2i14r2011 o2n082011
+
+Copy to imaging image
+
+c272011
+
+File to StorageiProcess Complete 0200712011
+
+Figure 174: View Mortgage Release (SF Data Request)
+
+4.4.7.11 View Exceptions
+To access Exceptions, click on the [EXCEPTIONS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions Documents Notes Mortgage Release (EMMI servicing Foreclosure Bankruptcy Customer Service
+A Exceptions
+
+Figure 175: View Exceptions (SF Data Request)
+
+4.4,7.12 View Servicing
+
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions Documents Noles Mortgage Release Exceptions Foreclosure Bankruptcy Customer Service
+@ Servicing
+Servicing Activity
+
+Figure 176: View Servicing (SF Data Request)
+
+4.4,7.13 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filmg Loan Recording Borrowers Property Inspection Transactions. Documents Notes. Mortgage Release Exceptions Servicing Bankruptcy Customer Service
+
+@ Foreclosure
+
+Figure 177: View Foreclosure (SF Data Request)
+
+4.4.7.14 View Bankruptcy
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property Inspection Transactions. Documents Noles Mortgage Release Excepbons—_Servicin 2 Forectosure Customer Service
+@ Bankruptcy
+
+Figure 178: View Bankruptcy (SF Data Request)
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 74
+
+4.4.7.15
+
+View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection
+
+Transactions
+a& Customer Service
+
+moc
+
+Documents Notes Mortgage Release Exceptions — Servicing Foreclosure
+
+1978 PARTIAL CLAIM Low 01212011 01:29:51 PM
+ong 1 to 1 of 1 entries
+
+0172172011 01:3851 PM
+
+fs | Nex
+Figure 179: View Customer Service (SF Data Request)
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 75
+
+@SMART
+
+5 Using the Servicing Module
+
+5.1 Search
+
+5.1.1 Searching for Loans with Servicing History
+Loans with servicing history can be retrieved through various combinations of the search criteria
+available on the Servicing Search Screen.
+
+Q Servicing Search Screen
+
+earch Database: MART PRODUCTION DATABASE
+
+FHA Case ®
+Loon Skey:
+
+Loon #:
+
+Lender Name
+
+Close Box #
+
+Last4 Digits of SSW
+
+Note Type: Selecta Note Type +
+
+Result Headers: ot]
+
+Step 1:
+Step 2:
+
+ase No| * Loan No
+
++ | Servicing Step Status: | $2
+
++ | Servicing Type
+
+Note Created By: Select a Note Created 8 * | Mote Create Oate >
+
+Loan Program = Parcel Number || « Borrower Name | | * Property Adéress | | * Loan Status
+
+<== ==
+
+Figure 180: Servicing Search Screen
+
+Click [SERVICING] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Servicing Search Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files.
+
+Last 4 digits of SSN The last four digits of the Borrower’s Social Security Number
+Note Type Type of note within the Notes tab of the Loan Record
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State
+
+Detailed Status of the loan
+
+Payment Plan
+
+Type of Payment Plan associated with the loan
+
+Servicing Status
+
+Indicator that the servicing type is completed or is still pending completion by the user.
+
+Servicing Step
+
+Servicing activity step associated with the servicing activity timeline
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Servicing Step Status
+
+Indicator the step is completed or is still pending completion by the user
+
+Servicing Type
+
+Type of servicing activity assigned to a loan in the form of a predefined template of servicing
+activity steps
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Lend Amt From
+
+Original principal amount of the loan in dollars (numerals only)
+
+Scheduled Date
+
+The date that a servicing activity step is scheduled to be completed by the user.
+
+Servicing Completed Date
+
+The date that a servicing activity step is actually completed by the user
+
+Keyword
+
+Keyword search.
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Table 3: Servicing Search Fields
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 76
+
+
+Step 3:
+
+Step 4:
+Step 5:
+
+a
+®SMART
+Click [START SEARCH].
+Figure 181: Servicing Search Screen Buttons
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Once the Loan Record is open, you will be automatically directed to the Servicing tab.
+
+5.1.2. Searching for Loans without Servicing History
+Loans without servicing history can be retrieved through various combinations of the search criteria
+available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Servicing tab.
+
+Note: You can also access loans with servicing history through this process.
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 77
+
+@SMART
+
+5.2 Servicing Tab
+
+Once the Loan record is open, the Servicing Module is found on the Servicing Tab. If mortgage servicing
+activity has been initiated for a Loan, the Servicing tab in the Loan Record window will be highlighted in
+light blue and will display the current servicing activity of that Loan.
+
+i cc EEE |r Sj 3
+
+@ Servicing
+
+B.Cert of indebtedness
+{CON (A)
+
+B Cert of Indebtedness Payot Request Received 0303/2018 ovaaz018 osns2018 Pcie]
+
+(Conia) 122729 AM EST
+
+B Payot Request (A) Payoff Letter Issued 0304/2018 04032018 owox2018 [ Actwe
+123557 AMEST
+
+B Payott Request (f)
+
+Payot! Amount Receives 0403/2018
+
+Payott Amount Forwarded to Lock-Box 04/04/2018
+
+Figure 182: Servicing Tab (Partial Claim)
+
+Export to Excel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Service Management View the information for the Servicing Activity selected for
+the Loan.
+View Notes B View Notes Takes you to the Notes tab for the loan. See Section 3.2.8.
+Search search Search and filter the page by specific keywords. The main
+table will filter based off of the keyword search.
+
+Table 4: Data Table Buttons
+
+The Servicing Activity table at the left side of the Servicing Tab will change depending on what Loan
+Program is associated with the loan. This information is read-only, and the user can not add new
+servicing activities for loan programs.
+
+5.2.1 View an Active Servicing Activity
+
+In the Servicing Activity table, a green document icon (&) and (A) means that the Servicing Activity is
+Active. The active servicing activity will open with its timeline displayed in the main data table. See the
+above table for a description of the buttons that display on top of the main Data Table.
+
+oor | CITI Activity
+
+@ Servicin:
+"9 i Cert of Indebtedness
+[oss Par [ore | osecnnemm [wenn [rere | (CON (A)
+B Cert of indebtedness
+
+Bi cortotinaeanes Pavel Rees Raced oveaanre cannon 3201 E Cert of Indebtedness
+Brey re conan now (CON) (A)
+B Payot Request (N) 12:27:29 AM ES
+
+Payot hoa Reco oveacors 320 Pe
+
+Payot! Amount Forwarded to Lock-Box owoa2018
+
+6 Payoff Request (I)
+
+Showing 1 to 4 of
+
+Figure 183: Active Servicing Activity (Payoff Request — Partial Claim)
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 78
+
+@SMART
+
+5.2.2. View an Inactive Servicing Activity
+
+In the Servicing Activity table, a grey document icon (8) and (1) means that the Servicing Activity is
+Inactive. The active servicing activity will open with its timeline displayed in the main data table. See
+the above table for a description of the buttons that display on top of the main Data Table.
+
+Servicing Activity
+Loan Summary | LosnDetal | Loan Fiing Loe Recording Borrowers Property mspection Documents Notes Morgage Release Exceptions EWM roreciosure santrptey —Disbur
+
+@ Senicing
+Gi Cert of Indebtedness
+[oss Pare [or [ osrecsinem | wives | w rate (CON (A)
+6 of Indebtedness:
+
+GE Cert of Indebtedness
+(COl) (A)
+
+Payot Request Received oxo72018 owor2o18
+
+Bi Payott Request (A) Payot ter lowed
+
+B Payot Request (1)
+
+E Payoff Request (A)
+
+6 Payoff Request (I)
+
+Figure 184: Active Servicing Activity (Payoff Request — Partial Claim)
+
+5.2.3. Service Management
+The Service Management button offers a general summary of the servicing activity.
+
+oan Summary Loan Detail Loan Fing Loan Recording Borrowers Property inspection Documents Notes Mortgage Release Exceptions [EIMMIM) roreciosure Bankruptcy Disbursements Payol ‘Transactions Customer Service
+
+B Servicing Management (EDIT MODE)
+
+Servicing Management Information For Payoff Request
+
+Cert of indebtedness (COI: Select a COI Status
+
+Figure 185: Service Management (Payoff Request — Partial Claim)
+
+5.2.4 View Notes
+To view notes, click on the [ViEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record. To go back to the Servicing Tab, click on [BACK TO SERVICING].
+
+USER MANUAL | LSC.CASHMGMTTEAMLEAD | JUNE 10, 2019 | 79
+
+@SMART
+
+6 Using the Bankruptcy Module
+
+6.1 Search
+
+6.1.1 Searching for Loans with Bankruptcy History
+Loans in the Bankruptcy module can be retrieved through various combinations of the search criteria
+available on the Bankruptcy Search Screen.
+
+Q Bankruptcy Search Screen
+Search Database: SMART PRODUCTION DATABASE
+FHA Case #
+
+Loan Skey
+
+Loan
+
+Lender Name: Select a Lendes
+
+Close Box #
+
+Last 4 Digits of SSW
+
+Bankruptcy Case
+
+Note Type Selecta Note Type +
+
+Result Headers:
+
+Step 1:
+Step 2:
+
+* Borrower Name:
+
++ | Property Address:
+
+7 | Property State:
+
++ | Bankruptcy Chapter:
+
++ | Assigned:
+
++ | Keyword:
+
+Note Created By: Select a Note Crested By + Note Create Date >=
+
+‘Loan Skay ) (= FHA Case No] (Loan No) (Loan Program | | * Bankruptcy Chapter) (= Case Number] (= Borrower Name) | = Borrower Address | = Onginal Prin Bal] ( * Bankruptcy Status
+
+<——
+Fi

@@ -1,0 +1,308 @@
+a 38
+Figure 84: View Loan RECOIING..........cccsesesseccccceceeeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaeeeeeeeeeeeeeesaaeeesseeeeeeesaaaaaaesseeeeeeaaa 38
+Figure 85: VieW BOrrOWETLS ........ccsseccccceesscccceeeececseeeeeeeaeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeueeesaeeeeessauuseesseaseeesauaseeesaaases 39
+Figure 86: View Property INSP@CtION .............ccccccssescccceeesecceaeeeeecaeeeeesseuscessueeeeesaeeeeessaeuseesseesseesaueeeesaaages 39
+Figure 87: VieW DOCUMENNS ...........ccccccsseecccceeececaeeeeeecaeeeeeeseeeeeesseeeeesseeeeesseeeeeesaeeseeessaueeessaeueeesaaeseeesaaases 39
+FiGUre 88: VIEW NOtES...........cccccccseeseccceeeeceseeeeeeseeeeeeeeseeeeeeseeeeeeeeeeeeeeeseeeesseeeeeesaeeseeeseaseessaauseesauseeesaaases 40
+Figure 89: VieW EXCEptions ...........cccccccsssscccceseeccceeeeeceeaeeeeeeeeeeeeeeseeseeesseeeeeeseeeeeseaeeeeeesaeseeseaauseesaueeeesaaages 40
+Figure 90: VieW DiSbUrS@MEeNKS...........cccsseeececccceceeeseeeseeeeeeeeesseeseeeeeeeeeesssseeeeeeeeeessaeeeesseeeeeeesaaaaaaeeseeeeeeeaaa 41
+Figure 91: View Property Taxes..........cccccccccsseecccseeececcssececeseeeeseeeeeeesseeseesseeueeesaeeeeeesseuseesaeaeseesaueeeeesaaases 41
+Figure 92: View Monthly Statements ...........ccccccccssssssseecceceecaeeessseeeeeeeessaeeeeeeeeeeeesaeeeeeeeeeeeesaaaaaseeeeeeeeseaaa 42
+Figure 93: Add View Set ASId@/ESC Tranns..........ccccccseessssccececeeecessnsseeeceeceeceessaseeeeececeeeeesaaeeeeeeecesessnsaseeeeess 42
+Figure 94: View CUStOMEN SEPFViCe..........cccccsseeeccceseeecccseeececeeeeeeesseeeeeesseeeeessaeeeeesaeeeeeessueeessueueeesauaeeeesaaases 42
+Figure 95: View LOAN SUMIMALY.........cc.seecccccseeecccueesecccseeeceeaseeeesseeeeeeeseeseesseeeeeesaeeeeessaeseesseeuseesaunseeesaaases 43
+Figure 96: View Loan Detail ...........ccccccccssssssecccceeeeeeeeeeeeeeeeeesseseeeeeeeeeeeesaeseeeeeeeeeeeesaaeessseeeeeeessaaaaasesseeeeseaaa 43
+Figure 97: VieW Loan Filing ...........cccccccssessseeeececeeceeeeeeeeeeeeeeeaeeeeeeeeeeeeeessseeeeeeeeeeeeseaeeeseseeeeeeessaaaeaeseeeeeseaaa 44
+Figure 98: VieW LOAN RECOFCING ..........cccsesesseccccceceeeesseeeeeeeeeesseeseeeeeeeeeeesseeeeeeeeeeeessaaeeesseeeeeeessauaeaeeeseeeeseaaa 44
+Figure 99: VieW BOFrOWETSS ........ccssecccccseeecccneeececaeeeeeeeseeeeeeaeeeeeeeeeeeeeseeseeesseeeesaeuseessausseessueuseesauseeesaaases 44
+Figure 100: View Property INSP@CtION ............cccccsseeccccseesccceeeeeeecaeeccecseeseeeseeeeeesaeeeeeeseeuseessauseesaueeeeesaaases 45
+Figure 101: VieW TranSactiOns ............ccccccccsseeecccseeeecccseeseeeseeeeeeaeeeeesseseeeseeueeesaeeeeeeseeseesaueueeesauaseeesaaases 45
+Figure 102: VieW DOCUMENNS ...........ccccseescccceseeccceeeecceseeeeeeeaeeeeesaeeeeeesseeeeesaeeeesaeeeeeeseaseessuaseesausseeenaaases 45
+Figure 103: VieW NOteS..........ccccccssescccceeescceceeeeeeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeseeeeeeaeeseeessauseesseeeeesauaeeeesaaases 46
+Figure 104: VieW ExCeptions ...........cccccsseeccccseeccceeeeecccaeseceeeseeeeesseeeeeesseeseessseueeeeaeeeeeesauseessaeueeesaueseeesaaaees 46
+Figure 105: Add Exceptions.........cccccccccssssssseeeceeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeseeeeeeesaeeeesseeeeeeeesaaaaaesseeeeseaaa 46
+Figure 106: VieW Payoff .........ccccccccccccccsesesseeeeeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaseeeeeeeeeeeeeeaeeeesseeeeeeessaaeeseeseeeeseaaa 47
+Figure 107: View CUStOMEN SEPViCe..........ccccseeeccceeeeecccseeeccccaeeeeeseseeesseescesseeueeeeaeeeeessuseesseueeeesaueeeeesaaases 48
+
+SMART USER MANUAL | LSC.SERVICING | VERSION 1.43.0 | JUNE 2, 2020 | v
+
+Figure 108:
+Figure 109:
+Figure 110:
+Figure 111:
+Figure 112:
+Figure 113:
+Figure 114:
+Figure 115:
+Figure 116:
+Figure 117:
+Figure 118:
+Figure 119:
+Figure 120:
+Figure 121:
+Figure 122:
+Figure 123:
+Figure 124:
+Figure 125:
+Figure 126:
+Figure 127:
+Figure 128:
+Figure 129:
+Figure 130:
+Figure 131:
+Figure 132:
+Figure 133:
+Figure 134:
+Figure 135:
+Figure 136:
+Figure 137:
+Figure 138:
+Figure 139:
+Figure 140:
+Figure 141:
+Figure 142:
+Figure 143:
+Figure 144:
+Figure 145:
+Figure 146:
+Figure 147:
+Figure 148:
+Figure 149:
+Figure 150:
+Figure 151:
+Figure 152:
+Figure 153:
+Figure 154:
+Figure 155:
+
+@SMART
+
+View Loan Summary (235-INSUrEd) ...........cccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 49
+View Loan Detail (235-INSUred) ............ccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 49
+View Loan Filing (235-INSUr@d) ...........ccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 50
+View Loan Recording (235-INSUred) ............ccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeees 50
+View Borrowers (235-INSUrCd)..........cccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 50
+View Property Inspection (235-INSUrE) ...........ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 51
+View Documents (235-INSULEd) ..........ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 51
+View Notes (235-INSUrEd) ...........cccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 51
+View Exceptions (235-INSUred) ...........cccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 52
+Add Exception (235-INSUred) ...........ccccccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 52
+View Transactions (235-INSUrCd) ..........ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 53
+VieW CUSTOMEL SELVICE........ceecccccceeeeeeeeeeeeeeeeeeaaeaeeeeeeeeeeeaaaaaeeeeeeeeeeaaaaaeeeeeeeeeeeaaaaaneeeeeeeeeaaaaaaes 53
+View Loan Detail 00.0.0... ieee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeees 54
+VIEW LOAN FIlING ...... ccc ceeeeeeeccceeceeeeeeeeeeeeeeeeseeeeeeeeeeeeeesseeeeeeeeeeeeeaseeeeseeeeeeeseaeaeaseeeeeeeesaaagaass 54
+VIEW LOAN RECOFCING .........:ccccccccccccessesseeeceeeeeeaeeeeeeeeeeeeesaeeeeeeeeeeeeeeaseeeseeeeeeessauaeaseeeeeeeesaaaaaass 54
+ViCEW BOLrOWELS.... ee eeceecceeeeeeeeeeeeeeeeeaaaeeeeeeeeeeeeeaaaaeneeeeeeeeeaaaaaaeeeeeeeeeaaaaaaaeeeeeeeeaaaaaaneeeeeeeeeaaaaaaes 55
+View Property INSPECTION ...........ccccccssssecccceeeccccaeescccnseeseccaeesecessauecesseueeeesaeseeessuuseesaeseeesaenses 55
+VIEW DOCUMENMS 2.0... cece eeceeeeeeeeeeceeeeeaeeeeeeeeeeeeeaaaaaeeeeeeeeeeaaaaaaeeeeeeeeeaaaaaaaeeeeeeeeaaaaaaneeeeseeeeaaaaaaes 55
+View Loan Balance Transfer............cccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 56
+VICW NOtCS 00... eeecccecccceeeeeeeeeeeeeeeeaaaeeeeeeeeeeeeaaaaaeneeeeeeeeeaaaaaaeeeeeeeeeaaaaaaaeeeeeeeeeaaaaaneeeeeeeeeaaaaaaes 56
+View Mortgage RelCase.........ccccccccsssssssseeceeeeseeeeneseeeeeeeesseeeseeeeeeeeesaseeesseeeeeeessssaeaseeeeeeeesaaagasss 57
+AVATEAWY AN =>, (0X2) ©) #0) 6) eee 57
+VIGW SOLVICING ........cccceeeccccceeeececeeesecccaeeececaeeeeeeeseeseeesseeeeesaeeeeeesaaeeeeseueeeesseseeesaaseesaeseessaaases 57
+VIOW FOreClOSULE....... cece nee EEE EEE EEE EEE EEE SEES EEE EES Eee eee eeeeeeeeeeeeeeeeeeeeeeeeeeeees 57
+ViICEW Bankruptcy .......cccccccesssssecccceeceeeeseeeeeeeeeeeaeeeeeeeeeeeeesaeeeeeeeeeeeeeesseeesseeeeeeessauaeaseeeeeeeesaaagases 58
+View DiSbUrSQMeNKS............cc cece cece cece eter e eee e eee e eee e eee e ee eee een eee Ee EEE EE EEE EEEE SESS SSeS ee eeeeeeeeeeeeeeeeeeeeeeeees 58
+VIEW Property Taxe..........ccccccccssssccccsseecccceeeeeecaeesceesseeseesseeseeessaueeesseuueeesseseeessuuseesaeuseeesaanses 58
+View ACH Information... eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeees 58
+View Monthly Statements ..........ccccccssssseccccccceeeesseeceeeeeseeeeseeeeeeeeeeaaeeesseeeeeeeesaeaeaeeeeeeeesaaaggess 59
+View Monthly Statements ..........ccccccssssseccccccceeeesseeceeeeeseeeeseeeeeeeeeeaaeeesseeeeeeeesaeaeaeeeeeeeesaaaggess 59
+View Set ASide@/ESC Tranns.......cccccccccssssseesccccccceueesseeecccececuauesseceeseceeuaueeseeceeeeeeuauaesseceeseceuuaaennss 59
+VieW CUSTOMEL SELVICE........ceecccccceeeeeeeeeeeeeeeeeeaaeaeeeeeeeeeeeaaaaaeeeeeeeeeeaaaaaeeeeeeeeeeeaaaaaneeeeeeeeeaaaaaaes 60
+View Loan Summary (SF Data REQUGSt) ............ccccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 61
+View Loan Detail (SF Data REQUEST) ...............cccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 61
+View Loan Filing (SF Data REQUEST) ..............cccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 62
+View Loan Recording (SF Data REQUGSt) .............ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 62
+View Borrowers (SF Data REQUEST) ............ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 62
+View Property Inspection (SF Data REQU@St) ............ccccccceeeceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 63
+View Transactions (SF Data REQU@St) ............ccccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseseeeeeeeeeees 63
+View Documents (SF Data REQUGSt)............ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 63
+View Notes (SF Data REQUEST) .............ccccccceeceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 63
+View Mortgage Release (SF Data REQUEST) .............ccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 64
+View Exceptions (SF Data REQU@St) .............ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 64
+View Servicing (SF Data REQUGSt).............ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 64
+View Foreclosure (SF Data REQUEST) .............ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 64
+View Bankruptcy (SF Data REQUGSt) ............ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 64
+View Customer Service (SF Data REQUEST) .............ccccccececeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 65
+DYoXeLTanT=1 0) HAA L0) 641 (0) 66
+
+SMART USER MANUAL | LSC.SERVICING | VERSION 1.43.0 | JUNE 2, 2020 | vi
+
+Figure 156:
+Figure 157:
+Figure 158:
+Figure 159:
+Figure 160:
+Figure 161:
+Figure 162:
+Figure 163:
+Figure 164:
+Figure 165:
+Figure 166:
+Figure 167:
+Figure 168:
+Figure 169:
+Figure 170:
+Figure 171:
+Figure 172:
+Figure 173:
+Figure 174:
+Figure 175:
+Figure 176:
+Figure 177:
+Figure 178:
+Figure 179:
+Figure 180:
+Figure 181:
+Figure 182:
+Figure 183:
+Figure 184:
+Figure 185:
+Figure 186:
+Figure 187:
+Figure 188:
+Figure 189:
+Figure 190:
+Figure 191:
+Figure 192:
+Figure 193:
+Figure 194:
+Figure 195:
+Figure 196:
+Figure 197:
+Figure 198:
+Figure 199:
+Figure 200:
+Figure 201:
+Figure 202:
+Figure 203:
+
+@SMART
+
+NCF QU@UC.... ec eeeccccccc cee neeeeeeeeeeeeeaaaeeeeeeeeeeeeeaaaaeeeeeeeeeeeaaaaaeeeeeeeeeeaaaaaaaeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaees 66
+New Document Wizard — Borrowers .......cccccccccccceceeeeeeeeeeeeeeeeeeeeee eee eeeeeee ents eee e ee ee eee ee eEEEeEeeetts 67
+New Document Wizard — DOCUMENTS ..........ccccccccccceeeeeeee eee ee eee e ence eee eeeeeeeeeeeeeeeeeeEEEEEEEEEEEEeeEEts 67
+Servicing Search SCr@@n........cccccccccccccccesssssseeeeeeeeaeeeeeeeeeeeeeeseeeeeeeeeeeeesaesesseeeeeeeeesaaaaaseseeeseesaaa 68
+Servicing Search Screen BUttONS ..........ccccccccccccccceaessseeeccececsaaeesseeeceeeesseseeseeeeeeeesauaaseeeeeeeeesaaa 69
+Servicing Tab (Partial Claim) ...........:ccccccssssssssssssessssssssesessessseesseeceeeesesseeseesssseesssesssessssesseaaaes 70
+Servicing Tab — No Servicing Activity (Partial Claim) ............::::cccsssssssssssssssssssesssssssssssssssseeees 70
+Active Servicing Activity (Payoff Request — Partial Claim)...............cccccccccceeeeeeeeeeeeeeeeeeeeeeeeeees 72
+Inactive Servicing Activity (Payoff Request — Partial Claim ) ........cccccccccccccccccceeeeeeeeeeeeeeeeeeeess 72
+Add New Servicing Activity (Demand Tracking — Partial Claim)..............ccccccccceceeeeeeeeeeeeeeeeeees 73
+New Servicing Activity Added (Demand Tracking — Partial Claim).............ccccccccccccccceeeeeeeeeeeees 73
+Add New Servicing Step (Demand Tracking — Partial Claim) ................ccccccceceeeeeeeeeeeeeeeeeeeeeees 74
+Service Management (Demand Tracking — Partial Claim) .............:::csssssssssssssessssesesssssesseseeees 74
+Service Management (Payoff Request — Partial Claim)............:c::cssssssssssssssssssssesssssssessssseeeees 75
+Notes Tab (Partial Claim) ........ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 75
+Edit Servicing Step (Demand Tracking — Partial Claim) ..........ccccccccccccccccceseeeeeeeeeeeeeeeeeeeeeeeeeess 76
+Inactivate Servicing Step (Demand Tracking — Partial Claim) ..........cccccccccccccccccseeeeeeeeeeeeeeeeeees 76
+Bankruptcy Search SCrO@n ......cccccccssssseseccccceeeeesseeeceeeesaeeeeseeeeeeeeeeseeeesseeeeeeeessaaaaeseeeeeeeesaaaaasss 77
+Bankruptcy Search Screen BUttONS .........ccccccssssssseececcecceeesseeeceeeeesaaaesseseceeessaaaeasseeeeeeessauaaases 78
+Bankruptcy Tab (Partial Claim) .......ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 79
+Bankruptcy Tab — No Bankruptcy Activity (235-INSUPEG) oo... cc ccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 79
+Active Bankruptcy Activity ..........ccccccccccsccccccecceeesseeeceeeeessaseeeeeeeeeesaseeesseeeeeeessasaeaeeseeeeesaaagasss 80
+Inactive Bankruptcy Activity ..........cccccccccccccccessssseeeceeceesaeesseeseeeeeeeseeeesseeeceeeseaaaeaseeeeeeeessaaaaases 80
+Add New Bankruptcy Activity (Chapter 7 — Partial Claim)...............cccccccccceceeeeeeeeeeeeeeeeeeeeeeeees 80
+New Bankruptcy Activity Added ............cccccccsssssseeeccccecceeeeseeeeceeeesseaeseeeeceeseesaaeaseeeeeeeesaaangees 81
+Add New Bankruptcy Step (Chapter 7 — Partial Claim) ...............cccccccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeees 81
+Bankruptcy Management (Chapter 7 — Partial Claim) ..........cccccccccccccccceeeeeeeeeeeeeeeeeeeeseeeeeeeeess 82
+Bankruptcy Management (Chapter 7 — Partial Claim) ..........cccccccccccccccceeeeeeeeeeeeeeeeeeeeseeeeeeeeess 82
+Bankruptcy Management (Chapter 7 — Partial Claim) ..........cccccccccccccccceeeeeeeeeeeeeeeeeeeeseeeeeeeeess 83
+Notes Tab (Partial Claim) ........ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 83
+Edit Bankruptcy Step (Chapter 7 — Partial Claim) ........cccccccccccccccccceseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 84
+Edit Bankruptcy Step (Chapter 7 — Partial Claim) ........cccccccccccccccccceseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 84
+Auto-Exception Generated (Chapter 7 — Partial Claim) ...............ccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 85
+Inactivate Bankruptcy Step (Chapter 7 — Partial Claim) ..........ccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeess 85
+Foreclosure Search SCrECM .....cccccccccccccceceeeeeeeeeeeeeee eee e eee ee eee e cece eee EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 86
+Foreclosure Search Screen Buttons ........ccccccccccccceceeeee cece eee eee ence eee e cece eee e eee eee EEEEEEEEEEEEEEEEEEEEEEEES 87
+Foreclosure Tab (Partial Claim) ........ccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 88
+Foreclosure Tab — No Foreclosure Activity (235-INSUr@d) ........ccccccccccccceeceeeeeeeeeeeeeeeseeeeeeeeeeess 88
+Active Foreclosure Activity (Partial Claim) ...............ccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeees 89
+Add New Foreclosure Step (Partial Claim)..............cccccccccccceceeceeeeeeeeeeseeeeeeeeeeeseeeeeeeeseeeeeeeeeees 89
+Foreclosure Management (Partial Claim) ..........cccccccccccccccceseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 90
+Foreclosure Management (Partial Claim) ..........cccccccccccccccceseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 90
+Foreclosure Management (Partial Claim) ..........cccccccccccccccceseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 91
+Notes Tab (Partial Claim) ........ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 91
+Edit Foreclosure Step (Partial Claim) .......ccccccccccccccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 91
+Auto-Note Generated (Partial Claim) ..............cccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeees 92
+Inactivate Foreclosure Step (Partial Claim) .......cccccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseseeeeeness 92
+Mortgage Release Search SCr@@n.......cccccccccccsssssseseccceeceasesseeeceeeeeseaseseeeceesessaaeaseeeeeeessaaagasss 93
+
+SMART USER MANUAL | LSC.SERVICING | VERSION 1.43.0 | JUNE 2, 2020 | vii
+
+Figure 204:
+Figure 205:
+Figure 206:
+Figure 207:
+Figure 208:
+Figure 209:
+Figure 210:
+Figure 211:
+Figure 212:
+Figure 213:
+Figure 214:
+Figure 215:
+Figure 216:
+Figure 217:
+Figure 218:
+Figure 219:
+Figure 220:
+Figure 221:
+Figure 222:
+Figure 223:
+Figure 224:
+Figure 225:
+Figure 226:
+Figure 227:
+Figure 228:
+Figure 229:
+Figure 230:
+Figure 231:
+Figure 232:
+Figure 233:
+Figure 234:
+Figure 235:
+Figure 236:
+Figure 237:
+Figure 238:
+Figure 239:
+Figure 240:
+Figure 241:
+Figure 242:
+Figure 243:
+Figure 244:
+Figure 245:
+Figure 246:
+Figure 247:
+Figure 248:
+Figure 249:
+Figure 250:
+Figure 251:
+
+@SMART
+
+Mortgage Release Search Screen BUttONS...........cccccccccssssssseeccceceeseeeesseeeceeeeeaaaeseseeeeeeessaaaaness 94
+Mortgage Release Tab (Partial Claim) .........ccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeess 95
+Mortgage Release Tab — No Mortgage Release Activity (Partial Claim) ...........ccccccccccccceeeeeees 95
+Active Mortgage Release Activity (Partial Claim)..............ccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 96
+No Mortgage Release Activity (Partial Claim) .........cccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseseeeeeeenees 96
+Mortgage Release Tab — No Mortgage Release Activity (Partial Claim) ...........ccccccccccccceeeeeees 96
+Add New Mortgage Release Step (Partial Claim)..............cccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 97
+Mortgage Release Management (Partial Claim) ...........cccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 97
+Notes Tab (Partial Claim) ........ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeness 98
+Edit Mortgage Release Step (Partial Claim) .........cccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeness 98
+Check Search SCr@n ....cceeccssseeeeeeeeeeeeeeeee eee n nnn O aaa aaa aaa aaa 99
+Disbursement Checks (Partial Claim) ........cccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeess 100
+Release Checks (Partial Claim) .......ccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 100
+Edit Check (Partial Claim) .......cccccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 101
+Check Printed Confirmation .........cccccesscseeeeeeeeeeeeeeeeeeeeeeeee eee n nnn e nen G Aaa aaa aaa aaa aaa aaa aaa aaa 101
+Print Batch Checks Search Screen .......ccccccccccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeee eee ee eee eee eee e ee eee eEEEeEEeEEEEts 102
+Print Batch Checks Search R@SUuIts .........ccccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 102
+Print HECM Endorsed not in SMART Batch Search SCreen.........cccccccccccccccceeeeeeeeeeeeeeeeeeeeeeess 103
+Print Batch Check All (HECM Endorsed) .........ccccccccccceeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 103
+Data Refresh .....ccccccccccccccecceeeeeee eee ee cece eee ee eee eeee eee e cece ee ee EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 104
+Last Data RefreSH .......cccccccccccccccceee cece cece cence eee e eee e eee e eect eee ee EE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 104
+Trial Balan .....cccccccccccccceccceee cece eee ee ence eee e eee e eee e eee e eee EEE EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 104
+Summary Of ACCOUNT Change ........ccccccssssssseeccecccceeeesseeeeceeeeeaasesseeeeeeeeeseseesseeeeeeeessaaaaaeseeeess 105
+Trial Balance SUMMALY .......ccccccccssssssseecceceeeeaeeeeseeeeeeeeeaeeeeseeeeeeeeesaaeesseeeeeeeessaaaaseeeeeeessaaaanees 105
+USSGL ACCOUN... ccc ececceeeeeeeeeeeeeaaeeeeeeeeeeeeeaaaaaaeeeeeeeeeeaa

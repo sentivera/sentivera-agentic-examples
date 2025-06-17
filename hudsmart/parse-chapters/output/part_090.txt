@@ -1,0 +1,767 @@
+n Program = Parcel Number || « Borrower Name | | * Property Adéress | | * Loan Status
+
+<== ==
+
+Figure 162: Servicing Search Screen
+
+Click [SERVICING] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Servicing Search Screen.
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files.
+
+Last 4 digits of SSN The last four digits of the Borrower’s Social Security Number
+Note Type Type of note within the Notes tab of the Loan Record
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State
+
+Detailed Status of the loan
+
+Payment Plan
+
+Type of Payment Plan associated with the loan
+
+Servicing Status
+
+Indicator that the servicing type is completed or is still pending completion by the user.
+
+Servicing Step
+
+Servicing activity step associated with the servicing activity timeline
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Servicing Step Status
+
+Indicator the step is completed or is still pending completion by the user
+
+Servicing Type
+
+Type of servicing activity assigned to a loan in the form of a predefined template of servicing
+activity steps
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+Orig Lend Amt From
+
+Original principal amount of the loan in dollars (numerals only)
+
+Scheduled Date
+
+The date that a servicing activity step is scheduled to be completed by the user.
+
+Servicing Completed Date
+
+The date that a servicing activity step is actually completed by the user
+
+Keyword
+
+Keyword search.
+
+Note Create Date
+
+Date that the Note in the Notes tab was created
+
+Table 4: Servicing Search Fields
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 64
+
+
+Step 3:
+
+Step 4:
+Step 5:
+
+a
+®SMART
+Click [START SEARCH].
+Figure 163: Servicing Search Screen Buttons
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+Once the Loan Record is open, you will be automatically directed to the Servicing tab.
+
+5.1.2. Searching for Loans without Servicing History
+Loans without servicing history can be retrieved through various combinations of the search criteria
+available on the Loan Search Screen.
+
+Step 1:
+Step 2:
+Step 3:
+Step 4:
+Step 5:
+
+Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Select the search criteria from the displayed search fields in the Loan Search Screen.
+Click [START SEARCH].
+
+Click on either Loan Skey, FHA Case #, or Loan # to open the Loan Record.
+
+Once the Loan Record is open, click on the Servicing tab.
+
+Note: You can also access loans with servicing history through this process.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 65
+
+@SMART
+
+5.2 Servicing Tab
+
+Once the Loan record is open, the Servicing Module is found on the Servicing Tab. If mortgage servicing
+activity has been initiated for a Loan, the Servicing tab in the Loan Record window will be highlighted in
+light blue and will display the current servicing activity of that Loan.
+
+Ta Seamy | [Looms | [Laanrany | [Lomsmscoen | [ Boneens || Pesev nape || Ooommea] [omn | | meinem cot EEE foo ao
+
+@ Servicing
+oe Oo Oo oS ooo 2 rr
+B Cert of indebtedness
+(CON (A) Created By te Changed By Change Date
+1B cert of indebtedness
+(con 1A)
+B Payott Request (A) Payoft Letter tssue 03042018 2018
+
+B Payott Request ()
+
+Figure 164: Servicing Tab (Partial Claim)
+
+Export to Excel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+View the information for the Servicing Activity selected for
+Service Management g Activity
+the Loan.
+View Notes BP View Notes Takes you to the Notes tab for the loan. See Section 3.2.8.
+Search search Search and filter the page by specific keywords. The main
+table will filter based off of the keyword search.
+
+Table 5: Data Table Buttons
+
+The Servicing Activity table at the left side of the Servicing Tab will change depending on what Loan
+Program is associated with the loan. This information is read-only, and the user can not add new
+servicing activities for loan programs.
+
+5.2.1 View an Active Servicing Activity
+
+In the Servicing Activity table, a green document icon (&) and (A) means that the Servicing Activity is
+Active. The active servicing activity will open with its timeline displayed in the main data table. See the
+above table for a description of the buttons that display on top of the main Data Table.
+
+Servicing Activity
+{oon Sommay || Losnoum || Comune || Comneceann || Goowme || Provwo ipeceon|[ Docu || tome || lemon maser || Eisen Foncionre || oomrwxy |
+
+@ Servicing G Cert of Indebtedness
+
+Ooo ooo (CON (A)
+
+1 of indebted
+1)
+
+Bcanctnannens SSE= sonnaor8 oonzora E Cert of Indebtedness
+Bpayt Raut a svouao seoszo (COI) (A)
+Gi Payoff Request (1)
+Payoll Amount Received owos2018 = |=] Payoff Request (A)
+Payoft Amount Forwarded to Lock-Box 04042018 , epsens
+snow ottedct dena & Payoff Request (I)
+
+Figure 165: Active Servicing Activity (Payoff Request — Partial Claim)
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 66
+
+@SMART
+
+5.2.2. View an Inactive Servicing Activity
+
+In the Servicing Activity table, a grey document icon (8) and (I) means that the Servicing Activity is
+Inactive. The active servicing activity will open with its timeline displayed in the main data table. See
+the above table for a description of the buttons that display on top of the main Data Table.
+
+Servicing Activity
+Con sommary || teen etn || Lonnramg || Lean ecoreng || sevewers || Property mepecton || Docoments || news || morgage matcss || Excpuees Foreconue — Ganevptcy Os
+
+@ Servicing GE Cert of Indebtedness
+
+exes eaerane E Cert of Indebtedness
+oscen0%s (CON) (A)
+
+0407/2018
+
+B Payoff Request (A)
+
+16 0 Lock-Bax o40e2018
+
+6 Payoff Request (I)
+
+Figure 166: Active Servicing Activity (Payoff Request — Partial Claim)
+
+5.2.3. Service Management
+The Service Management button offers a general summary of the servicing activity.
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property inspection Documents Notes. «© Mortgage Release Exceptions Foreclosure Bankruptcy ‘Disbursements Payoff ‘Transactions Customer Service
+
+B Servicing Management (EDIT MODE)
+
+~
+
+Voucher No:
+
+Cert of indebtedness (CON): Select a COI Status
+
+Figure 167: Service Management (Payoff Request — Partial Claim)
+
+5.2.4 View Notes
+
+To view notes, click on the [ViEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record. To go back to the Servicing Tab, click on [BACK TO SERVICING].
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 67
+
+@SMART
+
+6 Using the Customer Service Module
+
+6.1 Ticket Search
+
+Customer Service Tickets can be retrieved through various combinations of the search criteria available
+on the Ticket Search Screen.
+
+Q Ticket Search Screen
+
+FHA Case #:
+
+Loan Skey:
+
+Last 4 Digits of SSN:
+
+Ticket Skey:
+
+Step 1:
+
+Step 2:
+Step 3:
+
+Loan Program:
+
+Loan Status:
+
+Loan State:
+
++) Ticket Status Select a Ticket Status
+ocial Desposition:
+
+Designee: Select an Designee > | Ticket No:
+Note Text: Note Created By:
+
+Note Type: ‘Select a Note Type + | Ticket Loan Program:
+
+Ticket No’ “Ticket Loan Program “*FHACaseNo (=Loan No “Aging (*Reason (=Priorty | *Call Date | (= CallerName | Caller Phone | (Designee (Created By » Created Date
+
+Figure 168: Ticket Search Screen
+
+Click [CUSTOMER SERVICE] from the top Navigation menu. Select [TICKET SEARCH] from the
+dropdown.
+
+Select the search criteria from the displayed search fields in the Ticket Search Screen.
+Click [START SEARCH].
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+Loan # HUD identification number for each loan.
+
+Lender Name Lender associated with the FHA Case
+
+Close Box # Physical location of stored files
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+Ticket Skey SMART system identification number unique to each ticket
+Control No Ticket Control Number
+
+CRM Service Request No
+
+CRM system identification number
+
+Result Headers
+
+Search criteria columns to be displayed in the Search Results table
+
+Loan Program
+
+Type of program associated with the loan
+
+Loan Status
+
+Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Ticket Status Current high-level status of the ticket (Open or Closed)
+Created By User that created the ticket
+
+Designee User that is assigned to the ticket
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Note Type Type of note within the Notes tab of the Loan Record
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property State State wherein the loan property is located
+
+Caller Name Name of the Caller
+
+Disposition Where the ticket is assigned
+
+Ticket No. Identification number for that ticket
+
+Note Created By
+
+SMART User who created Notes in the Notes tab
+
+Ticket Loan Program
+
+Loan Program associated with the Ticket
+
+Loan Create Date
+
+Date that a loan was entered into the SMART system
+
+Loan Close Date
+
+Date that a loan was closed
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 68
+
+
+@®SMART
+Search Field Definition
+
+Call Date Date of the customer service call
+
+Ticket Create Date Date the ticket was created
+
+Reason For Calling Reason for the customer service call
+
+Note Create Date Date that the Note in the Notes tab was created
+Keyword Keyword search.
+
+Table 6: Ticket Search Fields
+Search results will display in the search result dashboard. 20 records will display in dashboard.
+Note: There are two types of tickets: sys tickets and non_sys tickets. Sys tickets are tickets with loans
+
+that exist on the loan_table, i.e. the FHA Case Number exists in SMART. Non_sys tickets are tickets
+where the FHA Case Number does not exist in SMART.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 69
+
+@SMART
+
+6.2 Accessing Detailed Customer Service Information
+
+From the Search Result Dashboard, click on the Ticket No. to open the ticket. The user is redirected to
+the ticket’s Ticket Detail tab in the Customer Service Module.
+
+» CGlLoan Record - Non-FHA
+
+FHA Case #: FY Loan Program: | Ticket Skey: ; Loan No:
+
+#& Customer Service - Ticket No. 868566
+
+Create New Ticket
+canton Tet |e | | Do
+Ticket £88586 (A) B Ticket Information (EDIT MODE)
+
+Loan Information
+
+FHA Case ® a FJ) v0en program: — [nomena ¥* | Loans:
+
+Ticket Information
+
+. Ticket Loan taneHA
+Ticket # 989566 Ficnettosn [Non FHA | FC sate Date
+Disposition: Referred to NSC (Servicing | Tenet status OPEN V| cssionce: “
+Current
+Reason Disaster | Ticket Prionty Low | Completed [Courtesy Contact
+Kebon
+RM Service
+
+CRM Servic
+Request No:
+
+Figure 169: Customer Service Module
+
+6.2.1 View/Edit Ticket Detail
+The default page within a Customer Service Ticket is the Ticket Detail page. Here the user can view and
+edit Ticket Information.
+
+Step1: Inside the Customer Service Module, click on the [TICKET DETAIL] tab.
+
+canton TelatAton Nolet oocmens
+
+Ticket 868566 (A) B Ticket Information (EDIT MODE)
+
+Loan Information
+
+FHA Case #1 a Y Loan Program: | Non-FHA | Loans
+
+Ticket 263860 Fetat Loan [ Nom-FHA | FC Sale Date
+Reason Desaster A | Ticket Priority [ tow
+
+CRM Service
+
+Request Wo
+
+Nature of issue (Ticket Description}
+BIUS*%*/¢ TE aaa Qs ms
+E = zo 8 Re att
+
+syies + | Format =~ | Font + | Sze A Bien PlIAMSOnes
+
+Figure 170: View/Edit Ticket Detail
+Step 2: Complete all required fields. Note; The Loan Information box, Ticket # field, and
+Borrower/Caller Information box are only editable for Supervisor roles.
+Step 3: Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+This saves all the updated information.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 70
+
+@SMART
+
+6.2.2 Create New Call Log
+Step 1: Inside the Call Log tab, click on [CREATE NEW CALL Loc].
+
+Ticket Detait Ticket Action —-Notes—ocuments
+Ticket 868566 (A) 2 Call Logs For Ticket No 868566
+co
+First Name Last Mame
+
+Figure 171: View Call Log
+
+Step 2: Complete all required fields.
+
+Ticket No PETE) vere oeran cnet action notes Documents
+
+Ticket 868566 (A) B Create New Call Log
+
+Call Log Information
+
+Furst Name: x | Last Name: { x |
+
+Figure 172: Create New Call Log
+
+Step 3: Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+The new call log and all information inserted in the add screen will display in the table on the Call Log
+tab. To edit the call log, select Edit Log in the Action column on the Call Log page. Complete all required
+fields and Click Save.
+
+6.2.3. View/Add Ticket Action
+
+Step1: Inside the Customer Service Module, click on the [TICKET ACTION] tab.
+
+Ticket No. CallLog Ticket Detan RR
+
+Ticket 968566 (A) 2 Ticket Action For Ticket No 868566
+
+Ticket Action Created By Create Date Days in Current Action ‘Action
+‘Authorzed Third Party 11262018 12082018 9 Click to Complete
+Courtesy Contact 11202018 11262018 3 Completed
+
+Figure 173: View Ticket Action
+
+Step 2: To add anew Ticket Action, click on [CREATE NEW ACTION].
+
+cating Tet =
+as) B Create New Ticket Action For Ticket No 868566
+
+Ticket Action Detail
+c mn:
+
+1207720)
+
+Figure 174: Create New Action
+
+Step 3: Select the Action to add from the Current Action dropdown menu.
+
+Step 4: | If the Action has not been completed, clear the Complete Date field. If the Action has
+been completed, put the date in the Complete Date field. Then click [SAvE].
+
+Step 5: From the confirmation pop-up, click [SUBMIT].
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 71
+
+®SMART
+
+6.2.4 Complete Ticket Action
+
+Step 1: Inside the Ticket Action tab, click on the [CLICK TO COMPLETE] link located in the Actions
+column for an action that has not yet been completed.
+contca ves ovat EEBERIE ves ocamens
+Ticket 968566 (A) 2 Ticket Action For Ticket No 868566
+Figure 175: View Ticket Action
+Step 2: The link redirects to the Edit Ticket Action page. Fill in the Complete Date and click [SAvE].
+Step 3: Fromthe confirmation pop-up, click [SUBMIT].
+
+6.2.5 View/Add Notes
+
+Inside the Customer Service Module, all the notes associated with that Ticket Number will display in
+chronological order on the Notes tab.
+
+Ticket No.
+Ticket 871625 (A)
+
+Ticket 865813 (1)
+
+Step 1:
+Step 2:
+Step 3:
+
+Ticket 868566 (A)
+
+Step 4:
+Step 5:
+
+CallLog Ticket Data Ticket Acton EE ocuments s
+6 Notes
+Not nce
+
+ie type
+
+Figure 176: View Notes
+
+To add a new note, click on the [NoTEs] tab within the Customer Service Module.
+Click on [ADD NoTE] to navigate to the Add Note window.
+Complete all required fields.
+
+CallLog Ticket Detail’ —_Ticket Action Documents
+
+B Add Note
+
+=
+Figure 177: Add Note
+Click [SAVE].
+
+On the Confirmation Pop-up, click [SUBMIT].
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 72
+
+@SMART
+
+6.2.6 View All Notes
+
+Inside the Notes tab, click on the View All Notes button. All the notes associated with that FHA Case
+Number will display in chronological order. To go back to the Notes associated only with the Ticket
+Number, click on the Notes tab.
+
+6.2.7. View Documents
+Inside the Customer Service Module, click on the Documents tab. All the documents associated with
+that FHA Case Number will display in chronological order.
+
+Ticket No Caltes | TetatDeull | ‘Tctet Acton | Webe
+
+Ticket 871625 (A) Documents
+
+Ticket 865813 (I)
+
+‘Search
+
+Figure 178: View Documents
+
+6.2.8 View Borrower History
+Inside the Customer Service Module, if a non_sys ticket has been merged with a sys ticket, the borrower
+name, address, and phone number form the non_sys ticket is saved into the Borrower History.
+
+Ticket No. CallLog Ticket Detail Ticket Action Notes.» Documents @ iE
+
+Ticket 102268 () 40 & Borrower History Information
+
+moc
+
+Figure 179: View Borrower History
+
+6.2.9 Close Ticket
+
+Step1: Inside the Customer Service Module, click on the [TICKET DETAIL] tab.
+Step 2: From the Ticket Status dropdown menu in the Ticket Information box, select “Closed.”
+
+canton Teton tm —_Uocuent
+
+Tice 0008s 0 B Ticket Information (EDIT MODE)
+
+| see | srmioouitna | Ticket Priority: | |
+
+Ticket Status: | OPEN wv |
+
+bean information Select a Status
+OPEN
+‘icket #: 262566 Tichet Loon Non-FHA 7 (ma ua = -
+Disposition: Ret SC (Servicing us OPEN ; “
+
+Figure 180: View/Edit Ticket Detail
+
+Step 3: Click [Save] then on the confirmation pop-up, click [SUBMIT].
+
+After the user refreshes the page, the Ticket will display “(1)” to represent Inactive in the Ticket No.
+table.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 73
+
+@®SMART
+6.2.10 Re-Open Ticket
+
+A ticket can only be re-opened within the same day that it was closed.
+
+Step 1: From the Customer Service Ticket Search Screen, search for a Ticket with a Create Date of
+TODAY and a Close Date of TODAY.
+
+Step 2: Click on [START SEARCH].
+
+Step 3: From the Search Result Dashboard, click on the Ticket Number to open the ticket.
+
+Step 4: From the Ticket Status drop down menu in the Ticket Information box, select “Open.”
+
+icket No. Call Log xa [TIE Ticket Action Notes © Documents |
+
+Ticket Status: | CLOSED iv AN
+Ticket 873263 (A) B Ticket Information (EDIT MODE)
+Ticket 1617 @)
+ae =a Ticket Priority: |
+
+Select a Status
+
+CLOSED
+
+=
+|__| “
+
+Figure 181: View/Edit Ticket Detail
+
+Step 5: Click [SAvE].
+Step 6: Fromthe confirmation pop-up, click [SUBMIT].
+
+After the user refreshes the page, the Ticket will display “(A)” to represent Active in the Ticket No. Table.
+
+6.2.11 Editing a Closed Ticket
+
+After a ticket is closed, whether a ticket can be edited or not depends on where the ticket resides on the
+backend.
+
+If the ticket is on the non_sys table (FHA Case Number does not exist in SMART), the ticket is editable.
+The following fields are editable: FHA Case Number, Borrower/Caller Information Box, and
+Mortgage/Loss Mitigation/Housing Counseling Information Box.
+
+cotton TevatAcon soe oocaents
+
+‘Ticket 102262 (0) B Ticket Information (EDIT MODE)
+
+Loan Information
+
+Figure 182: Edit Closed Ticket (non_sys)
+
+If the ticket is on the loan_table (FHA Case Number does exist in SMART), the ticket is not editable.
+
+USER MANUAL | HUD.CSTEAMLEAD | JUNE 10, 2019 | 74
+
+@®SMART
+
+TE
+
+‘Ticket 964987 (1) B Ticket Information (EDIT MODE)
+
+3 Pin to Dashboard
+
+Ticket 864898 (1)
+
+Loan Information
+
+FHA Case #: T Y | Loan Program:
+
+HECM - insured | Loans: 093-6768693
+Ticket Information
+Ticket # eneoe7 Pete Loon HECM- Insured A) Fc sate bate:
+Disposition: [Heom (Assigned - LS) WZ) Ticket status: [CLOSED | ccsionce: | ~|)
+Reason: [zPavoe - J Ticket Priority: { Low ~ ] Caretttes [No Action tem Complete
+Aewoa
+CRM Service
+Request No
+Nature of issue (Ticket Description):
+Qa
+
+Figure 183: Edit Close Ticket (sys)
+
+If the ticket exists in both the non_sys table and the loan_table, a pop-up will display asking if the user
+wants to merge the tickets.
+
+Step 1: After clicking [SAVE], a pop-up will display for the user to select a FHA Case to merge to.
+
+ALERT! FHA Case Number 241-501844 match
+‘one or more loans in SMART.
+
+‘Select a Case No to merge into,
+
+. Pastial Cision
+FHA Insured
+Al
+verge Case No
+
+Figure 184: Merge Tickets
+
+Step 2:
+
+Select a case number to merge to and click [MERGE CASE No].
+Step 3:
+
+The ticket will merge into that FHA Case Number’s Customer Service Record and save the
+information.
+
+to
+
+‘Ticket 964987 (0) B Ticket Information (EDIT MODE)
+
+3 Pin to Dashboard
+
+Ticket 864898 (1)
+
+Loan Information
+
+FHA Case #: P| Y Loan Program: HECM. insured A) Loans: 093-6786003
+Ticket #: 964087 [ichet Loon HE

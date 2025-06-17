@@ -1,0 +1,403 @@
+ailed Customer Service Information...........ccccccssssssssececeecsaeeeseeeeceeeeseaaeaseeeeeeeeeeaaa 28
+5.2.1 View/Edit Ticket Detail............0ccccccccsssssssssssssssssssssssssssssssssssssssssssssssssssssssssesssessessesssesesssseeseeseseesererens 28
+5.2.2 Ticket RESOIUtION ..........cccccccsesssscccccceessesneeeeeeeeeeseeseeeeeeeeeeeeeeeeeeeeeeeesseeeaaeeeeeeeeeeeeeaaeeeeeeseeeeeeaaaeeeeeeeeaes 29
+5.2.3 Create NeW Call LOg........ ee eeeesceceesneeeeeeseeeecesaeeeceesaceeceeaeeccesaeecesenaeeesesaeeeceesaeeessenaeeesesaeeeesenaeeeseeaaees 29
+5.2.4 View/Add Ticket Action ..........ccccccsssssssssssssssssssssssssssssssssssssssssssesssssssesssssssssssssssessessssssssesesseesesseseeeees 30
+5.2.5 Complete Ticket Action .........ccccceeesscccceeseeeeeeeeeeeeesaeeeceeaeeceesaeeeeeenaeeeseseeeeeeeaeeeceeaeeeeesaeeeeeeeeeeseeaaees 30
+5.2.6 ViG@W/Ad Note .........ccccccccsssssssscecceccecssssseeeccceecesesnseeeececeeeessaeeeececeeceesaeeeeceeseeeesssseeeceeeeeessesaeeeeeeeees 31
+5.2.7 VIEW AI] NOt@S ........ccccccccccccsssessnececcceessessneeeeeeeeeeesesneeeeeeeeeeeeeseeeeeeeeeeeeeeaaeeeeeeeeseeesaaeeeeeeseeseeeaaaeeeeeeeenes 31
+5.2.8 View DOCUMENNS.......... ee eeeceeeeeeeeeeeeeeeaeeeeeeeeeceeeaaaaaeeeeeceeeeaaaaeeeeeeeeeaaaaaeeeeeeeeeeauaaeeeeeeeeeeauaaaeeeeeeeeeeaaaaees 31
+5.2.9  BOrrowe r HiStOSy .......... eeeeeeesseseeeesseseesseeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeee SSeS ASSO SES SOAS SSSA OOOO SOAS OOOO OOOO SOO OO OOOO OOOO OOOOES 32
+5.2.10 Close Ticket ..........ccccsssccccccesssesseeeeecceeesessneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeseeeeeaaeeeeeeeseseeeaaaeeseeeeenes 32
+5.3 Create NeW TIiCKet........ nee nnn e eee e ene ee nee e ee ee ee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 33
+5.3.1 Create New Ticket from Header...........cccscccccccccsssssssececccccessesseeeececesseeeneeeeeeeeeseeeeaeeeeeeeeeseeeaaeeeeeeeees 33
+5.3.2 Create New Ticket from Tab for Specific FHA Case No. .........essccccesseeeeeesneeeeeeseeeseenaeeecesaeeeesenaeeeseeaaees 34
+User INFOrmation .......cccccccccccccccceeeee cece eee ee ence ee ee eee eeeeeeeeeeee nent ee eee EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEES 35
+6.1 Manage ACCOUNL.........:ccccccsseseccceeseeeseeeeeeeeeeeeeeaeeseeeeseeeeeseeeeeeeaeeeeeeeeeeeeeaeeeeeesseuseesaaaueeesaaeeeeea 35
+6.2 —-_ CHANGES ROL!S ...... cc sceeeccccccccccceesssseeceeeeeeaeeeeseeeeeeeeeeaeeeeeeeeeeeeeseeeeeeeeeeeeeesseeeeeseeeeeeeesaaaeaaseseeeeeeeaaa 35
+Getting HEI ........cccecccccccccccceeseeeeeeeeeeseeeeeeeeeeeeeeeseeeeeeeeeeeeeeesseeeeseeeeeeeeseeeeeeeeeeeeeesaeaeaeseseeeeessaaaaaseeeess 36
+
+SMART USER MANUAL | LSC.CSHECM | VERSION 1.43.0 | JUNE 2, 2020 | i
+
+@SMART
+
+yas es I-19 1S) 0] ©) 00) npr 36
+
+7.2 SOIUTIONS CO COMMON PrObleMs ............cceeeccecessecccceececcceeseccccuusececeueeeeeeauaeceesauseceesueeeeeesugeeseeaues 37
+
+7.2.1 — Internet and Browser ISSUGS...........::::::ssssssssssesssesssssessesseseeseeeseeeeeeesessesssssssssssssssssssssssssOsssOOOOOOOOOOOOES 37
+
+7.2.2 SMART ISSUGS .......ccccccssecccceeecceseecceeeeeceseeeeeeeeeeeeeeeeeeeseeeeeeseeeeeeeeeeeeeeeeeceeeeeesesseeesesseessessueesesauessessneses 38
+
+7.3 Getting More HElP oo... ccccceseseecccccecsesseeeeeeeeeeeseeeeeeeeeeeeeesseeeeeeeeeeeeessaeeeeseeeeeeessaaaaaeeeeeeeeeeaaa 38
+
+9 eS (=) | 0 DY 1) Gen 38
+Figures
+
+Figure 1:
+Figure 2:
+Figure 3:
+Figure 4:
+Figure 5:
+Figure 6:
+Figure 7:
+Figure 8:
+Figure 9:
+
+Figure 10.
+Figure 11:
+Figure 12:
+Figure 13:
+Figure 14:
+Figure 15:
+Figure 16:
+Figure 17:
+Figure 18:
+Figure 19:
+Figure 20:
+Figure 21:
+Figure 22:
+Figure 23:
+Figure 24:
+Figure 25:
+Figure 26:
+Figure 27:
+Figure 28:
+
+LANGING PAGC.........cccccccccccccceeeeseeeeeeeeeeeeeeeeeeeeeeeeesaeeeeeeeeeeeeeeaseeeeeeeeeeeeessseesseeeeeeeessaaaaasseeeeeeesaaaaaass 2
+
+MEA Phone Set-Up... ...cccccccccssssseecceceeeaeeeseeeeeeeeeeeaseeeeeeeeeeeesaeeeeeeeeeeeeeesaeeeseseeeeeeessaaaasseeeeeeeeeaaaaaass 2
+MEA Phone Set Up .......cccccccccssssseecceeeeeneeseeeeeeeeeeeaeeeeeeeeeeeeesaseeeeeeeeeeeesaseeseseeeeeeessaaaaaeeeeeeeeesaagaess 3
+Vaya ea ae) a =aA=1 01 Cer 100) 9 ee 3
+Multi-Factor AUthentication .........cccccccsseeeeeeeeeeeeeeeeeeeeeeeen nent nnn A GAGA A Ga aaa aaa aa aaa aaa aaa a aaa 3
+Setting Up Security QUESTIONS PABe .........cecccccssesccccesesccceseeeecceeseececaeuscecseueeeesaeueceesseeeeessaeeeesaaases 4
+Default Page .........ccccccccccccccseeseeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeesaseeeeeeeeeeeeeesseeseeeeeeeeeesaaaeasseeeeeeeeaaagaass 4
+Manage PaSSWOI .......cccccccsssssseeeeceeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaseeeeeeeeeeeesaaaaaasseeeeeeesaaaaaess 5
+Login Page — Forgot PaSSWOM .......cccccsssssssseececceceaeeeeseeeceeeeeaeseseeeeeeeeeesaeaesseeeeeeeessaaaesseeeeeeeesaaagaess 6
+
+Forgot PaSSWOIrd Page .....ccccccccccccssssseseeeceeeeesseeeeeeeeeeeeeeeeeeeeeeeeeeeeesseeseeeeeeeeeesaaeeessseeeeeeeesaaaanseeeeess 6
+My Tickets DaShbOard .........cccccccccccccsssssseeeeceeeeneeeeeseeeeeeeeeeeeeeeeeeeeeeeesseeeeseeeeeeeessauaesseseeeeeeeaaaagess 7
+Pin to Dashboard (Ticket RECOM) ...........cccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeees 7
+Unpin from Dashboard (Ticket R@COM)...........ccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeees 8
+LOAN S@arch SCrEEN ......ccccccseeecceceeseccccueccccuuseccecaueecceeueececaueecseseuseceeeueueeeeaueceseeuecessugeeeeeaneeeeees 9
+Search Database — Production Database ..............ccccccccsseccceeeeececeeeeceecueeeceeeueecceseuseceseueeeeeeaues 10
+Start Search BUttOn .........cccccccececccceesecceceeeecceceeeececauecceceuseceeeueeccecaeeceeeuueecessueeceesauaeceeeugeeeeeages 10
+Search Database — Legacy Database ...........ccccccccccccccssssseeeeceeeesaaeeseseeeeeeessaeeeeseeeeeeeessaaaeseeseess 10
+Search Database — DAT C Database ............ccccccccccessecceceesececeeeeececeeeceeseeeeceesueeceesauaeceseueeeeeeages 11
+Search R@SUItS .........cccccccessecccceeecccceusecceceeeecceceeececeueceeeeeneceeeeeeececaueeceeeueeeceseueeeeesauecessueeeeeeages 11
+RESUIt HEACELS ...........cceccccccssecccceeseccecueeecccsueececaueucsecuuseccesueeeseeeuaecseeeeeceseueueseeeuneceesauseeeesaganss 12
+Search Results — RESUIt HEACESS ............ccccccccssecccceeseceeceeeececeueeececaueceeeaueecessueeceesauaeceseugeeeeeaees 12
+Search ReSults — SC arch .........ccccccccssecccceseecceceeeccecauseccecauseceeeeeeecesauecseeueeeceeeueeceesaueceseugeeeeeages 12
+Search ReSUuIts — SOrt........ccccccseecccccesecceceeeecceeueececeeseceecauseceeeeeeeceeaueceseueeeceeeueeceeseueeeseueeeeeeages 12
+o}-1 a -10) 00m (->¢- 100] ©) (=) ree 13
+View Loan Detail ...........ccccccccecccccessecccceseecccaeeccecuenecceeueucceceeseceeseeeececsueeceeeueeceseueeeeeseuaeceeeaganss 14
+VIEW LOAN FilING ..........cccccccccsessseeecceeeeeeaeeseeeeeeeeeeeaeeeseeeeeeeeeesseeeeeeeeeeeeeessaeeeeseeeeeeesaaaaaaeeseeeeeeeaaa 14
+VIEW LOAN RECOFCING .......ccccccsseeseeccecceeeeseseseeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeesaseeesseeeeeeessaaaaaseeeeeeeeaaaa 14
+AVAT =A Via 3X0) ©) .<) 6 coe 15
+
+Figure 29: View Property INSPECTION .............ccccccseeeccceeeseccceeeeecaeeeeessesceesaeeeeeeaeeeeessaeseesseuseeesaueeeesaaaees 15
+Figure 30: VieW DOCUMENNS ...........ccccccseescccceeeeecceeeeeeecseeeeeeeseeeeeeaeeeeesseeeeeeeseeeeesaeeseeessaseessauueeesaueseeesaaases 15
+Figure 31: View Loan Balance Transfer .........cccccccssssssseecceceeesaeessseeeeeceesaaeeeeeeeeeeessaeeeseeeeeeeeeesaaasseeeseeeeeeaaa 16
+Figure 32: VieW NOtOS...........ccccccccsescccceeeecccseeeeeeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeeeseeeeeeseeeeesaeeeeeeseaeeessuauseesaueseeesaaases 16
+Figure 33: View Mortgage Rel@ase.........ccccccccccccccssssssseecceeeeeaseeseseeeeeeeesseseeeeeeeeeeeesaeeesseeeeeeeesaaaaaaseeseeeessaaa 17
+Figure 34: VieW EXC@ptions ...........cccccccssescccceeeeecceeeeeeceaeeseeeaseeeeeeseeeeeeseeseeeseeueeesaeeeeeesaauseessaeueeesausseeesaaases 17
+Figure 35: ViOW S@rViCiNg .........ccccseecccccssescccceeeeccceeeeeeeeseeeeeenseeeeeeseeeeeeeseeeeeesseeeesaeeseeesauseesauaeseesaueseeesaaases 17
+Figure 36: ViCW FOreCIOSUIEC ......ccccccccccssessseeeeeeeeeeeeeeeeseeeeeeeesaeeeeeeeeeeeeeesaeeeeeeeeeeeeeeeaaeeesseeeeeeesaaaaasssseeeeeseaaa 17
+Figure 37: ViGW Bankruptcy .........ccccccccssssseeeeceeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeeseeeeeeeeeeeeesaeeeeeseeeeeeessaaaeasesseeeeseaaa 18
+
+SMART USER MANUAL | LSC.CSHECM | VERSION 1.43.0 | JUNE 2, 2020 | ii
+
+Figure 38:
+Figure 39:
+Figure 40:
+Figure 41:
+Figure 42:
+Figure 43:
+Figure 44:
+Figure 45:
+Figure 46:
+Figure 47:
+Figure 48:
+Figure 49:
+Figure 50:
+Figure 51:
+Figure 52:
+Figure 53:
+Figure 54:
+Figure 55:
+Figure 56:
+Figure 57:
+Figure 58:
+Figure 59:
+Figure 60:
+Figure 61:
+Figure 62:
+Figure 63:
+Figure 64:
+Figure 65:
+Figure 66:
+Figure 67:
+Figure 68:
+Figure 69:
+Figure 70:
+Figure 71:
+Figure 72:
+Figure 73:
+Figure 74:
+Figure 75:
+Figure 76:
+Figure 77:
+Figure 78:
+Figure 79:
+Figure 80:
+Figure 81:
+Figure 82:
+Figure 83:
+
+@SMART
+
+View DiSDUPSEMENKS............cceccccccssecccceeseccceuecccceueeccceueuccecauseceeseeeececsueecseeueeceseueuseeseuaeceesaganss 18
+VIEW Property TaXxe........cccccsesccccssescccceeseccseeeceessensecessueecesseseesseeuseesaeusecesseseeessuuseesaeeeeesaaases 18
+View ACH Information...........ccccccccseccccccseecccceeecceceuseccceueeccecauseceeseeeececaueeceeeaueeceeeueueeeseueeeesaganss 18
+View Monthly Statement ...........ccccccccssssssseeceeeeeeaaeesseeeeeeeeeseseeeeeeeeeeeesseeeesseeeeeeessaaaaseeeeseeeeaaaa 19
+View Monthly Statement ...........ccccccccssssssseececeeeeaeeesseeeeeeeeesseeeeeeeeeeeeesseeeeseeeeeeessaueaaseeeeeeeeeaaa 19
+View Set ASide@/ESC Tranns........ccccccccccccccescsssececcccccuusessseeececceeauuesseeceseseeusuaesseeceseceeeuaaaseeseseeeeeaaa 19
+VIEW CUSTOMETL SELVICE........cccccseecccsecceeceeecceeecesenceeeeceseeceseeceseeceseeceaeeceseceseeceneceseuceseuceneeeeags 20
+VIEW LOAN SUMMMALY.........ccccseeeccceeecccceeeeeccceeeeesseuseccsseecesaeeeeeeseeuscessaesecesseuseessaueseesaeeeeesaaases 21
+View Loan Detail ..........ccccccccceccccccssecceceeeccceeeecsecausecceeueucceeaueceeseeeeceeauaeeceeaueceesueeeeeseuaeceeeuganss 21
+VIEW LOAN FIlING ........ cece ccccccsssssseeececeeeaaeeseeeeeeeeeeaseeeeeeeeeeeeeesaeeeeeeeeeeeeeesseeeeseeeeeeesaaaaeaeeeeeeeeaaaa 21
+VIEW LOAN RECOFCING .......ccccccsseeseeccecceeeeseseseeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeesaseeesseeeeeeessaaaaaseeeeeeeeaaaa 22
+AVAT =A Via 3X0) ©) .<) 6 coe 22
+View Property INSPECTION ............ccccccccsseeeccceeeeeecaeneeccueueeceeseuscessseuscesseusecesseuseeesseusessaeeseeesaaases 22
+VIEW TrANSACTIONS ........ccceccccescccsecceeecceeceeeeceaeeceseeeeeeeeeseeceaeeceseeceseueeaeceseceseceseuceseucesgeceneeeeaes 22
+VIQEW DOCUMENLS ........cccccescccssceeeceeeeceeeeceaeeeeaeeceeeeeeaeeeeaeeeeaeeeeseeceseneeaeceseceseuceseuseseeeseuceneueeags 23
+VIQW NOtS.........ccceccccsecccsscceeeceeeceaeeceaeeceaeeeeaseeeeeneeeeeeeseneeaeeeeaeeceseceseeeesecesenceseuceseeeseuceseneeges 23
+View Mortgage RelCase.........cccccccccccccccsssseseeeeeeeeeeeeeseeeeeeeeeesaeeeeeeeeeeeeeesseeeesseeeeeeesaaueaseeeeeeeeeaaaa 23
+AVAT=AWY AN =>, 0\=] ©) H 0) 9) eee 23
+VIGW SOLVICING ........ccccccseeecccceeeececaeesececeeeeeceaeeeeesseneeeeseeeeceeseueeeeseauseesaauseeesseuseeesseuseesaueeeesaaases 24
+VIEW FOE CIOSULE .........ccccccccsesccccceseccccueuecccaueceecausecceeuuecceceueceesueeececaueeceeeueaecessueuseesauseceesaganss 24
+VIEW BaNkrUptcy .........cccccccccsssssseeececeeesaeesseeeeeeeeeeseeeeeeeeeeeeeessseeeeeeeeeeeeesseeeeseeeeeeesaaaaaaeseeeeeenaaa 24
+VIEW CUSTOMETL SELVICE........cccccseecccsecceeceeecceeecesenceeeeceseeceseeceseeceseeceaeeceseceseeceneceseuceseuceneeeeags 24
+Ticket Search SCN .........cccccccccesseccccsseececeuecceceueecccceeueceeeuuecsecauseceesuueeeeeeueuccesaueeeeesaueceesugasss 26
+Customer Service MOUle ............ccsecccccesecceceecceceesecceceeeeceeeeeeeceeaeeceseueeeceesueeceeseueeeeeeueeeeeeages 28
+View/Edit Ticket Detail ..........cccccecccccccccssesssecececcccseeesseeecceccecaueeseeeeceseeeauaasseeceseseeauaaasseseseeseeaaa 28
+Ticket Detail - Ticket RESOIUTION ..........ccccccceeecccceeeecceceeeececeeeeececaeseceeceeeeceeeueeeesaueeceesuuaeceseugasss 29
+AV AT=AYVis OF] | Ko): en 29
+Create NOW Call LOG .........cccccccccssssseeececeeeeeeeeseeeeeeeeeesaeeeeeeeeeeeeeesseeesseeeeeeessseeeesseeeeeeessaaaaaseeseess 29
+View Ticket ACtion.........cccccccceccccccssecccceseecccaeeecsecaenecceeuuecceceueceeeeeuececsueeceeeaeeceesueeeeeseuaeceesaganss 30
+Create NOW ACTION ........ccccccccsscccssecceseceeeeeceseecsseceaseeeseceseeeeeeeeseeeeeeeceseeceaaeceaeeeeaeeseaeeeeaaeseaeeees 30
+View Ticket ACtion.........cccccccceccccccssecccceseecccaeeecsecaenecceeuuecceceueceeeeeuececsueeceeeaeeceesueeeeeseuaeceesaganss 30
+VIQW NOtS.........ccceccccsecccsscceeeceeeceaeeceaeeceaeeeeaseeeeeneeeeeeeseneeaeeeeaeeceseceseeeesecesenceseuceseeeseuceseneeges 31
+7 Nolo \ (0) (cee 31
+VIQEW DOCUMENLS ........cccccescccssceeeceeeeceeeeceaeeeeaeeceeeeeeaeeeeaeeeeaeeeeseeceseneeaeceseceseuceseuseseeeseuceneueeags 31
+Borrower HiStOry..........ccccccssescccceeescceceeeecccueeeeceaeesecesseuseceseeeeeeeaeeseeesseseeeseuuseesaueesessaeuseessaanges 32
+View/Edit Ticket Detail ..........cccccecccccccccssesssecececcccseeesseeecceccecaueeseeeeceseeeauaasseeceseseeauaaasseseseeseeaaa 32
+Create NEW Ticket ..........ccccccccssecccceesecceceeecceeueeccecaueceecueseceeeueeccecaueceesueeeceeeueeceeseuecessugeeeeeages 33
+Customer Service MOUle ...........ccceecccccessecceceecccceesecceceueeceeeeeeccecauseceseuueceseueceesauseeeseugeeeeeages 34
+Create NEW Ticket ..........ccccccccssecccceesecceceeecceeueeccecaueceecueseceeeueeccecaueceesueeeceeeueeceeseuecessugeeeeeages 34
+Navigation Menu LINKS ...........ccccccccsssssssseecccceeeaeeeeseeeeeeeesssseeeeeeeeeeeesaaaesseeeeeeeessaaaasseeeeeeessaaagasss 35
+Example User Information (Edit MOde) ..............cccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 35
+Example User Role Options .............ccsssessecccceccesesseeeeceeeessseeesseeeeeeeesaeeesseeeeeeeeessaaasseeeeeeessaaagnees 35
+LANGING PAGEC.........cccccccccccssssseeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeesssseeeeeeeeeeeesaeeesseeeeeeeeesaaaassseeeeeeesaaagasss 36
+Tech SUPPOrt Tab OPen........cccccccccccsssssseecceeeseeeeeeseeeeeeeeeseeeeeeeeeeeeeesaseeesseeeeeeessaaaaeseeeeeeeesaaaeaess 36
+Tech SUPPOrt POPUP .........ccccccccccccccseeeeseeeeeeeeeeaeeeeseeeeeeeesaseesseeeeeeeeesaseeesseeeeeeessaaaasseeeeeeeesaaaaaegs 36
+POPUp Chat WiIndOW ..........cccccccccccccsessseseeceeeeeeaeeeeeeeeeeeeesseeeeeeeeeeeeesaaeeaseseeeeeesaaaaasseeeeeeeesaaaaaess 37
+
+SMART USER MANUAL | LSC.CSHECM | VERSION 1.43.0 | JUNE 2, 2020 | iii
+
+@SMART
+
+Tables
+
+Table 1: Loan Search Fields wo... ccccccccccccsceeesceeceeeceseeceseeeseeuesecueeeeeeeuceeseeeeeueseueeeueesuessueeseueeeugeseuneees 9
+Table 2: Data Table BUttOns ........ccccccccccccccccceccsceceseeeeeceeeeeceeeeueeseueeseceseeeeseeeeeueeseueeseuessuueeseueeseueeseneauanes 11
+Table 3: Ticket Search Fields .......cccccccccccccccceecsceceseeceseeeeeeceseeueeeeueeseceseeueeeeueeeeueseeuesseueseuueeseueeeeueeeuneueunes 27
+
+SMART USER MANUAL | LSC.CSHECM | VERSION 1.43.0 | JUNE 2, 2020 | iv
+
+Document History
+
+@®SMART
+
+Version Date
+
+Author Description
+Original release.
+
+Updated release.
+
+No changes made.
+
+Updated release; Added PMM, Cash
+Management, CRM, etc.
+
+1.0 3/12/2018
+
+1.34.0 | 12/14/2018
+1.34.0 06/10/2019
+1.43.0 | 12/20/2019
+1.43.0 06/02/2020
+
+No changes made.
+
+SMART USER MANUAL | LSC.CSHECM | VERSION 1.43.0 | JUNE 2, 2020 | v
+
+
+@SMART
+
+1 Solution Summary
+
+This manual is designed to guide Lenders through the use of the Single-Family Mortgage Asset Recovery
+Technology (SMART) System.
+
+1.1 Features
+
+The Single-Family Mortgage Asset Recovery Technology (SMART) System is comprised of individual
+modules designed to assist the user in searching for specific loan information and performing related
+functions. The modules currently available include the following:
+
+Loan Module: Query and review loan information at a detailed level, add new loan records to
+the system, and edit existing loan information.
+
+Servicing Module: Assign mortgage servicing templates to individual loans, track the status of
+each servicing template, and generate the corresponding servicing forms and letters.
+Bankruptcy Module: Maintain, track, and edit bankruptcy information for individual loan
+records.
+
+Foreclosure Module: Manage loan records in the foreclosure process. Module provides a
+timeline of the required foreclosure steps and tracks the scheduled foreclosure activity vs. the
+completed foreclosure activity.
+
+Mortgage Release Module: Initiate the loan release process for satisfied loans, track the release
+status, and generate the corresponding release forms and letters.
+
+Cash Management Module: Track and manage incoming payments from Pay.Gov, submit
+disbursement checks, search for transactions and review the TROR and Trial Balance reports.
+Customer Service Module: Create, view, and manage tickets. Create and edit call logs and ticket
+actions.
+
+Maintenance Module: Manage user account, reset user passwords, and update ticket round
+robin.
+
+SMART USER MANUAL | LSC.CSHECM | VERSION 1.43.0 | JUNE 2, 2020 | 1
+
+@SMART
+
+2 Getting Started
+
+2.1 Software Version
+To access the SMART web application, open your web browser and go to: https://smart.hudnsc.org.
+
+2.2 Solution Requirements
+Users must have the following to use the SMART System:
+e Screen Resolution 1920x1080 optimal
+e =Internet Connection
+e Web Browser (IE, Chrome, Firefox)
+e Avalid user name, email address, and password
+e Adobe Acrobat Reader or other .pdf reader (recommended)
+
+Users may not use the following to access the SMART System:
+e Mobile device with a screen size of 760px or less
+
+As a web-based application, SMART is accessed through a web browser, and is not “installed” onto any
+user’s computer.
+
+2.3 Logging On
+Once your SMART user profile has been created and approved, you may begin using the site. To Login,
+follow the steps outlined below.
+
+Step1: To access the SMART web application, open your web browser and go to
+
+https://smart.hudnsc.org.
+
+Password
+
+Unauthorized Access Warning
+
+Figure 1: Landing Page
+
+Step 2: Input your User Name. Input your Password. @®SMART
+Step 3: Click [LOGIN]. A pop-up will appear to initiate
+setting up Multi-Factor Authentication (MFA). What type of device are you adding?
+Click [START SETUP]. © Moniie phone recoumencen
+Landline
+Step 4: Select Mobile Phone or Landline and click
+[CONTINUE].
+
+Figure 2: MFA Phone Set-Up
+
+SMART USER MANUAL | LSC.CSHECM | VERSION 1.43.0 | JUNE 2, 2020 | 2
+
+@®SMART
+
+Step 5: Enter your phone number, click the box to verify the phone number, and click [CONTINUE].
+
+®SMART
+
+Enter your phone number
+
+United States A
+
++41
+
+ex: (201) 234-5678
+[2] You entered [EEN 's this the correct number?
+
+Figure 3: MFA Phone Set Up
+
+Step6: Verify the ownership of your phone. To get a phone call verification, select [CALL ME]. To
+get a text verification, select [TEXT ME]. Both options will provide you with a 6-digit code.
+Enter in the code and click [VERIFY]. When verified, click [CONTINUE].
+
+@®SMART
+
+Verify Ownership of
+
+1. We can call or text you with a verification code.
+
+} came | °r Textsent
+
+2. Enter your 6-digit code:
+
+“_ ¥
+| sack
+
+Figure 4: MFA Phone Verification
+
+Step 7: Verify your settings on the My Settings & Devices page then click [CONTINUE TO LOGIN].
+
+@®SMART
+
+a
+
+bx. 867539
+
+(Q_ Remember me for 60 days
+
+@SMART (=!
+
+Call Me
+
+Enter a Passcode
+
+(4 Remember me for 60 days
+
+Enrollment successful! This is the Duo login prompt that you'll normally
+see when logging in.
+
+Enter a passcode from a text.
+
+Dismiss Dismiss Text me new codes
+
+Figure 5: Multi-Factor Authentication
+
+Note! When you have checked the [REMEMBER ME FOR 60 DAYs] checkbox, this bypasses the 2 factor log in for 60 days.
+
+SMART USER MANUAL | LSC.CSHECM | VERSION 1.43.0 | JUNE 2, 2020 | 3
+
+@SMART
+
+Step 8: Select either [CALL ME] or [ENTER A PASSCODE].
+
+Step 9: Selecting [CALL ME] will prompt the system to call your phone. Follow the instructions in
+the phone call and you will be redirected to your default page

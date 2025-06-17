@@ -1,0 +1,792 @@
+ on the ticket number. To go back to the Supervisor
+Inbox page, click on the [BACK TO SUPERVISOR INBOX] button.
+
+3.2.1 Change Disposition
+
+For CRM and SMART Customer Service Tickets, the disposition for a ticket can be changed through the
+[CHANGE DisposiTION] link from the Action column.
+
+Step1: Inside the Supervisor Inbox, click on the [CHANGE Disposition] link from the Actions
+column.
+
+& Change Disposition (EDIT MODE)
+
+Figure 15: Change Disposition (Edit Mode)
+
+Step 2: Select a new disposition from the Disposition dropdown menu. Options in Table 1.
+Step 3: = Click [SAVE].
+Step 4: From the confirmation pop-up, click [SUBMIT].
+
+The disposition column will update to display the new edit. Changing the disposition from the
+Supervisor Inbox will enter the ticket into the respective round robin queen and assign to a new agent
+from the respective round robin queue. The ticket can only enter the round robin queue through the
+Supervisor Inbox. The new designee will receive an email.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 9
+
+@SMART
+
+Disposition Type Queue
+
+Refer to NSC (Servicing)
+
+Servicing Queue
+
+Refer to NSC (Loss Mitigation) Loss Queue
+Refer to NSC (Other) Other Queue
+Refer to NSC (HECM Assigned) HECM Queue
+
+Refer to NSC (Sec Held)
+
+Sec Held Queue
+
+Refer to NSC (HECM Endorsed)
+
+HECM Endorsed Queue
+
+Referred for GTR Approval
+
+GTR Approval Queue
+
+HECM (CM) HECM (CM) Queue
+
+HECM (Assigned Servicing) HECM (Assigned Servicing) Queue
+HECM (Endorsed) HECM Endorsed Queue
+
+Refer to Other HUD/HOC Servicing Queue
+
+Refer to Housing Counseling
+
+Servicing Queue
+
+Refer to Lender
+
+Servicing Queue
+
+Refer to Servicing
+
+Servicing Queue
+
+Controlled Correspondence
+
+Servicing Queue
+
+Handled by Contractor
+
+Servicing Queue
+
+Referred to (800) CALLFHA
+
+Servicing Queue
+
+Resource Center
+
+Servicing Queue
+
+Transferred to BAC Escalation Team
+
+Servicing Queue
+
+Claim Block
+
+Servicing Queue
+
+RQST Third Party Authorization
+
+Servicing Queue
+
+Pending Concessions
+
+Servicing Queue
+
+NSC Referred to Contractor
+
+Servicing Queue
+
+Handled by NSC
+
+Servicing Queue
+
+Escalation
+
+Servicing Queue
+
+Transferred to WF Escalation Team
+
+Servicing Queue
+
+Table 1: Disposition Types
+
+SMART Customer Service Module | Disposition Workflow
+
+Is the
+Y disposition type
+in the Disposition
+Type box?
+
+Customer Service
+Rep. creates new
+ticket and selects
+disposition type
+
+Disposition Type:
+Ticket enters the
+Customer Service
+Rep’s My Ticket
+Dashboard
+
+1. Refer to NSC (Servicing)
+
+2. Refer to NSC (Loss Mitigation)
+3. Refer to NSC (Other)
+
+4. Refer to NSC (HECM Assigned)
+5. Refer to NSC (Sec Held)
+
+6. Refer to NSC (HECM Endorsed)
+7. Referred for GTR Approval
+
+8. HECM (CM)
+
+9. HECM (Assigned Servicing)
+
+10. HECM (Endorsed)
+
+LEGEND:
+
+Supervisor
+selects the
+disposition and
+clicks save
+
+Supervisor clicks
+on the Change
+Disposition link
+
+Y \s that
+the correct
+disposition?
+
+Ticket enters
+Supervisor Inbox
+
+Ticket gets auto
+assigned, leaves
+Supervisor inbox
+and enters into
+new assignee My
+Ticket Dashboard
+
+Supervisor clicks
+on the Auto
+Assign link
+
+List of
+Disposition
+types
+
+bX
+
+EMAIL
+
+Email sent
+to Assignee
+
+Start
+Automatic Manual
+Process Process
+
+SMART USER MAN
+
+Figure 16: Disposition Workflow
+
+UAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 10
+
+
+@®SMART
+3.2.2 Auto-Assign
+
+Inside the Supervisor Inbox, SMART Customer Service Tickets will have the option to Auto-Assign a new
+Designee. To Auto-Assign, click on the [AUTO-AssIGN] link from the Action column. A pop-up will display
+asking you to choose a New Designee from a drop down.
+
+Figure 17: Auto-Assign Ticket
+
+Select the New Designee and click [SuBMiT]. The ticket will be automatically assigned to that designee
+and they will receive an email.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 11
+
+@®SMART
+3.3 HUD Inbox
+
+The HUD Inbox displays all tickets assigned to a HUD user with an open status. To open the HUD Inbox,
+click [My DASHBOARD] from the top Navigation menu and select [HUD INBox] from the dropdown.
+
+SS pete
+EB HUD Inbox
+
+Ticket No 1) | Priotity Call Date
+
+246011 Low 1011772011 2049
+12:49:40 PM
+
+LOSS MITIGATION Referred to NSC
+(Loss Mitigation)
+
+662493 Medium 1004/2017 551
+
+HECM INQUIRY Referred to NSC
+125414 PM (HECM
+
+Endorsed - HUD)
+
+62498 Medium 1004/2017 551
+
+HECM INQUIRY Referred to NSC
+12:53:00 PM (HECI
+
+(HECM
+Endorsed - HUD)
+
+711261 Low 1272272017 as7
+
+HECM INQUIRY Referred to NSC
+10:53:42 AM (HECM
+
+E
+Endorsed - HUD)
+
+raaant Medium 02/26/2018 455
+
+HECM INQUIRY Referred to NSC
+09:18:50 AM 0
+
+(HECM
+Endorsed - HUD)
+
+760582 High 03/29/2018 432
+10:34:47 AM
+
+COMPLAINT Handled by NSC
+
+766105 Low oat12018 423
+
+HECM INQUIRY Referred to NSC
+11:00:15 AM [
+
+Endorsed - HUD)
+
+ra136 Medium 04/23/2018 415
+
+HECM INQUIRY Referred to NSC
+02:00:39 Pm THECM
+
+Endorsed - HUD)
+
+714614 Low 04/27/2018 an
+
+HECM INQUIRY Referred to NSC
+03:54:50 Pa Hi
+
+Endorseé - HUD)
+
+779509 Low 05/04/2018 406
+05:19:24 PM
+
+COMPLAINT Escalation
+
+Figure 18: HUD Inbox
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the HUD Inbox
+page, click on the [BACK TO HUD INBox] button. If you wish to reassign the ticket to the Supervisor Inbox,
+select [ASSIGN TO SUPERVISOR INBOX] from the Action column and select [SUBMIT] on the pop-up.
+
+3.3.1 Filter HUD Inbox
+
+Inside the HUD Inbox, a user can filter the results by selecting a user’s name from the filter drop down
+menu.
+
+Filter by HUD User: | Select HUD User Vv |
+
+Figure 19: Filter by HUD User
+
+SMART will save the filters you have selected. When you have opened a ticket and then clicked the
+[BACK TO HUD INBOX] button, your filters will remain. The previously viewed ticket will also be
+highlighted.
+
+EB HUD Inbox
+
+948186 Low 031062019 235 LOAN
+05:31:20 PM
+
+235 LOAN Escalation
+
+11:16:17 AM
+
+Figure 20: Filtered HUD Inbox
+
+To clear the saved filters and reset your search, click on the [RESET] button.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 12
+
+@SMART
+
+3.4 Action List
+
+The Action List displays all tickets that require HUD action. To open the Action List, click [My
+DASHBOARD] from the top Navigation menu and select [ACTION List] from the dropdown. To display the
+tickets requiring action, you will need to Filter the Action List (see below).
+
+B Action List
+
+Ticket No Date Assign Proxity FC Sale Date Last Action Date ct Action Due Days in Current Action Action Requit ;
+eatoas oartanor9 58 Low oa772019 022672019 5 Contact Requrea Action Past Oue
+a73225 12042019 2 ign 12062019 2 Courtesy Contact ‘Action Due Today
+ar 12042018 2 High 12002018 12132019 2 Contact Requrea Acton Due Dec 13
+
+Figure 21: Action List
+
+To open a Customer Service Ticket Record, click on the ticket number. To go back to the Action List
+page, click on the [BACK TO ACTION LIsT] button.
+
+3.4.1 — Filter Action List
+
+Inside the Action List, a user can filter the results by selecting a user’s name from the filter drop down
+menu.
+
+Filter by HUD User: Select HUD User v
+
+Figure 22: Filter by HUD User
+
+SMART will save the filters you have selected. When you have opened a ticket and then clicked the
+[BACK TO ACTION LIST] button, your filters will remain. The previously viewed ticket will also be
+highlighted.
+
+Action List
+
+873225 12/04/2019 2 High 12/06/2019 2 Courtesy Contact ‘Action Due Today
+
+872834 121042019 2 High 127042019 12132019 2 Contact Required ‘Action Due Dec 13 2019
+
+Showing 1 to 1 of 1 entes Previous + | Nex
+
+Figure 23: Filtered Action List
+
+To clear the saved filters and reset your search, click on the [RESET] button.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 13
+
+@SMART
+
+4 Using the Loan Module
+
+4.1 Search
+
+Loans can be retrieved through various combinations of the search criteria available on the Loan Search
+Screen.
+
+Q Loan Search Screen
+Search Database SMART PRODUCTION DATABASE
++ Borrower Name: Loan Create Date >=
+
+FHA Case ®: Loan Program:
+
+Loan Skey: Label Printed: * | Property Address:
+
+Loan #: Loan Status: + | Property City
+
+Last 4 Digits of SSN: Loan State: + Property State: Select a State + EHLP Project #:
+
+Closed Box #: Payment Pian 7 | Property Zip Code: Keyword:
+
++ | Note Create Date >=
+
+Note Text Note Type: + | Note Created By:
+
+Lender Admin
+
+. c ~ | Payee / Holder of a ea
+Contact Claim Servicer: Freel Select a Payee / Holder of Record
+
+Result Headers: [Loan Skey) “FHA Case No ) (= Loan Program | | * Borrower Name | |* Property Address | (= Lender Name ) (Closed Bax No) |= Original Prin Bal) | = Updated By | (* Updated Date | |* Loan Status
+
+Figure 24: Loan Search Screen
+
+Search Field Definition
+
+FHA Case # FHA Case number for each loan
+
+Loan Skey SMART system identification number unique to each loan
+
+Loan # HUD identification number for each loan.
+
+Last 4 Digits of SSN The last four digits of the Borrower’s Social Security Number
+Close Box # Physical location of stored files
+
+Note Text Searches any word within the content of notes within the Notes tab of the Loan Record
+Current Servicer Servicer/Lender associated with the FHA Case
+
+Exception Type Type of Exception filed in the Exceptions tab
+
+Result Headers Search criteria columns to be displayed in the Search Results table
+Loan Program Type of program associated with the loan
+
+Label Printed Indicator of whether or not a hard copy file has been generated for the loan
+Loan Status Current high-level status of the Loan (Open or Closed)
+
+Loan State Detailed Status of the loan
+
+Payment Plan Type of Payment Plan associated with the loan
+
+Note Type Type of note within the Notes tab of the Loan Record
+
+Borrower Name Name of the Borrower
+
+Property Address Address of the loan property
+
+Property City City wherein the loan property is located
+
+Property State State wherein the loan property is located
+
+Property Zip Code Zip Code wherein the loan property is located
+
+Note Created By SMART User who created Notes in the Notes tab
+
+Claim Servicer Servicer/Lender associated with a Claim
+
+Loan Create Date Date that a loan was entered into the SMART system
+
+Loan Close Date Date that a loan was closed
+
+File Rec’d Date The File Received Date of a loan
+
+EHLP Project # EHLP Project Number
+
+Keyword Searches any word within the Search Results data table
+
+Note Create Date Date that the Note in the Notes tab was created
+
+Payee/Holder of Record Servicer/Lender assigned as a Holder of Record
+
+Table 2: Loan Search Fields
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 14
+
+@SMART
+
+4.1.1 Loan Search — Production Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Production Database.”
+
+Search Database: SMART PRODUCTION DATABASE
+
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+SMART DAT C DATABASE
+
+Figure 25: Search Database — Production Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+
+Step 4: — Click [START SEARCH].
+
+Figure 26: Start Search Button
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.2 Loan Search — Legacy Database
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the
+“Legacy Database.”
+
+Search Database: SMART LEGACY DATABASE
+
+FHA Case #: |
+
+SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+SMART DAT C DATABASE
+
+Loan Skey:
+
+Loan #:
+
+Figure 27: Search Database — Legacy Database
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 15
+
+@SMART
+
+4.1.3. Loan Search — DAT C Database
+Step 1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+Step 2: From the Loan Search Screen, from dropdown menu for Search Database, select the “DAT
+C Database.”
+
+Search Database: SMART DAT C DATABASE
+FHA Case #: |
+Loan Skey: SMART PRODUCTION DATABASE
+
+SMART LEGACY DATABASE
+
+Loan #:
+
+SMART DAT C DATABASE
+Figure 28: Search Database — DAT C Database
+
+Step 3: Select the search criteria from the displayed search fields in the Loan Search Screen.
+Step 4: — Click [START SEARCH].
+
+Search results will display in the search result dashboard. 50 records will display in dashboard.
+
+4.1.4 Search Results
+
+On the Loan Search page, as well as the Servicing and Customer Service Search pages, the search results
+will display in the table below the search screen.
+
+&@ Search Results
+
+moc —
+
+i
+a
+
+$22.00 120772018
+04:07:44 PM
+
+$56,435.61 1207/2018
+04 14:59PM
+
+$4,890.00 120772018
+01:38:32 PM
+
+$48,262.65 1210572018
+02.0046 AM
+
+$7,900.67 121052018
+02.00.46 AM
+
+8
+
+$8,410.46 12905/201
+02:00:45 AM
+
+Figure 29: Search Results
+
+4.1.4.1 Actions
+
+From the Search Results page, you can generate three different reports. The table below describes the
+capabilities of the buttons located on the top left of the Search Results table. These options are also
+available on all other Search Results pages within SMART.
+
+Export to Excel Exports the data from the table into an excel spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+
+Table 3: Data Table Buttons
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 16
+
+@SMART
+
+4.1.4.2. Result Headers, Search, and Sort
+
+In order to customize your view of the data tables for the Search Results page, the user has three
+options: Result Headers, Search, and Sort. When a user performs a search using these options, their
+options will be saved. For example, when a user navigates to a page from the Search Results page, then
+returns back, the search criteria previously used will still show in the Search Screen Fields.
+
+Q Loan Search Screen
+Search Database ‘SMART PRODUCTION DATABASE
+FHA Case Loan Program
+Loan Skey
+Loan #
+
+Last 4 Digits of SSN:
+
+Closed Box #: Payment Pian:
+
+Note Text Note Type:
+
+Current Servicer: SelectaLender + | COntet
+
+“Loan Skey | “= FHA Case No ) = Loan Program | { * Borrower Name | | Property Address | [= Lender Name | | « Closed Bax No) (= Original Prin Bal) { = Updated By | | * Updated Date | | « Loan Status
+
+Figure 30: Result Headers
+
+&B Search Results
+
+04:07:44 PM
+
+Figure 31: Search Results — Result Headers
+
+The user can change the columns in the Search Results page by changing the options within the Result
+Header field prior to clicking [START SEARCH].
+
+&B Search Results
+
+Figure 32: Search Results — Search
+
+The user can use the search bar to filter the page by specific keywords. The user can search by entering
+their search criteria into the field and clicking on Search. To clear out the search criteria, select Clear.
+
+&B Search Results
+
+-
+
+n Skey FHA Case No Loan Program Borrower Name Property Address Lender Name
+
+Figure 33: Search Results — Sort
+
+The user can use the arrows next to each column title to sort the requests by any of the columns of the
+table.
+
+4.1.4.3. Clear Search Fields
+
+To clear the search fields in the Loan Search Screen, click the [CLEAR SEARCH FIELDS] button. The
+information in the search fields will be cleared. Ten records will still remain in the Dashboard.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 17
+
+@SMART
+
+4.2 Accessing Detailed Loan Information
+
+Opening a Loan Record from the search results will navigate the user to the Loan Record page. The Loan
+Record page consists of multiple tabs that provide detailed Loan information.
+
+Step1: Click [LOAN] from the top Navigation menu. Select [SEARCH] from the dropdown.
+
+Step 2: In the Loan Search Screen, select the Loan Program from the Loan Program drop down.
+
+Step 3: Click [START SEARCH]. 50 records will display in the Search Results Dashboard.
+
+Step 4: From the Search Results Dashboard, click on either the Loan Skey, FHA Case #, and Loan #
+to open the loan.
+
+Figure 34: Loan Record (example)
+
+To minimize the loan record, click on the black arrow (+) located left of the Loan Record page title. To
+maximize, re-click on the black arrow.
+
+To minimize the Borrower & Property Information and Additional Loan Information, click on the white
+arrow (Ez) located left of the of the Borrower & Property information box or the white arrow located left
+of the Additional Loan Information. To maximize, re-click on the white arrow.
+
+On each Loan Record page, the selection of tabs displayed is dynamic and varies depending on the Loan
+program of the selected loan. The colors of the tabs show at a glance whether data exists in the tab or
+
+not.
+
+Note: Loans that are Closed are all Read Only.
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 18
+
+@®SMART
+
+4.2.1 Access Details of Partial Claim Loan Records
+
+4.2.1.1 View Loan Summary
+To access Loan Summary, click on the [LOAN SUMMARY] tab within the Loan Record page.
+
+FEES noes caning Loan recording Borrowers Propertyinspection Documents Noles Morigage Release Exceptions. Servicing Foreclosure ankrupicy Disbursements Payot ‘Transactions Customer Service
+B.Loan Summary
+Year To Date Amount Paid
+
+Original Prin Amt: $1.00 Unpaid Prin Bat: $3,897.03 Pay Type Code: =. Payment Status: 90-NO PAYMENT DUE
+
+Pay App Code: N Prin Paid Yea. (8331361)
+
+Audit Information
+
+Created By: LoanConv Created Date: 0228/2009 12:00:00 AM
+
+Last Updated By: MN = Last Updated Date: 02/07/2018 09-48:05 AM
+
+Figure 35: View Loan Summary
+
+4.2.1.2. View Loan Detail
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record page.
+
+SS) SS on
+
+# Loan Detail
+
+(een Tome (rg Loan Date: reara0n Mold Code t
+Len Sat: ‘cLoseo Moturty Oat: e0ra041 Mots Code 2
+Lown Statue Due Date Dating WC: ots Code 3
+Lown State 2 Mortgage nwur Certo: 19912011 Accrual toe: 80
+Lown Perpove Code oP Code 703
+Loan Clase Code PC - Paral Ciam branch Code
+
+rent Serncer Se MERS Number
+Lender Admin Contac Prin Statement: no
+Lender Admin Emal
+ng Amn Seconry
+
+Figure 36: View Loan Detail
+
+4.2.1.3 View Loan Filing
+
+To access Loan Filing, click on the [LOAN FILING] tab within the Loan Record page.
+
+som mary | ou Da Lose Recrang | Suoowes | Poperymapecion | Docent Noms Mocope Rene | Exceptions | Sencing  Fuecnnwe  Bamey | Ohbunements | Fay! Tmacone Cason Serie
+
+i Loan Filing Information
+
+Loan Filing Information
+
+Prior Servicer Name: Hara Fe Sates Contract Closing Date
+Prior Servicer Phone: Label Printed uo Settement Expiration Date:
+Project Name Deed Restriction ome Owner Fe Entered Dat
+Project Wo ot,gert (Form ore Fe Recetved Date
+Project 10 Voucher Number: VRS Number: once Recowved
+80x Number
+
+Cam Processed Date 12052018 Claim Amount; $56,435.61 QvemTide Claim Exclude trom assing Docs Report
+:
+Signatures: ‘Missing Pages: No Document: Note not Original:
+:
+
+Figure 37: View Loan Filing
+
+SMART USER MANUAL | HUD.CSESCALATIONHECM | VERSION 1.43.0 | JUNE 2, 2020 | 19
+
+@®SMART
+
+4.2.1.4. View Loan Recording
+To access Loan Recording, click on the [LOAN RECORDING] tab within the Loan Record.
+
+Loan Summary Loan Detail, Loan Filing
+
+Loan Recording
+
+Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Payoff ‘Transactions Customer Service
+4 Loan Recording
+
+Book W Release Prepared Date: 12082018 Notary
+
+Page Ongination Date: Prepared By
+Instrument Loan Record Date: Original Trustee:
+Payott Dat Clam Amount $90,435 substive Trustee
+Autnorzed wines 1 witness 2
+
+Figure 38: View Loan Recording
+
+4.2.1.5 View Borrowers
+To access Borrowers, click on the [BORROWERS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Property Inspection Documents Notes. Mortgage Release Exceptions Servicing ‘Foreclosure Bankruptcy Disbursements. Payoff Transactions Customer Service
+& Borrowers Information
+
+Borrower Information 

@@ -1,0 +1,711 @@
+e Select» Loan Class Code Prin Limit At Closing [ARM Change Date Vacancy Date
+Contract Type Code: ' Mig insurance (rg Loan Date 129011002 Section ofthe Act: 0286
+Last CO Response: Curr interest Rate 400 Statvs Date Print Statements ves
+Maturity Oate 1wo1012
+ce, Cort sent
+ve Date Detina ne: | 0401/2000
+
+Step 3:
+Step 4:
+
+Figure 98: Edit Loan Detail
+
+Make the necessary changes, complete all required fields, and click [SAVE].
+On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 47
+
+@SMART
+
+4.4.3.3 View/Edit Loan Filing
+Step1: Click on the [LOAN FILING] tab within the Loan Record page.
+
+Loan Summary — Loan Dota IRESERRI Loan recording Borrowers Property nspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff ‘Transactions. Loan History
+
+Disbursements Mth Statements Customer Service
+i Loan Filing Information
+
+Eat
+
+Loan Filing Information
+
+Project Name: ig Doc Exists: ves Note Doc Exists: YES File Entered Date: 02/202018
+
+Deed Restriction: NO {ema Ouner yes File Received Date: 02202018
+
+Project No: Incentive:
+
+Project 0 Qt geriFom veg or Type Fee Fitter — NotCe Receives —gangnorg
+
+ios eat EE
+Lancer name
+
+Voucher Number:
+
+;
+.
+
+VRS Number:
+
+Figure 99: View Loan Filing
+
+Step 2: — Click on [EpIT] located under the Loan Filing title to navigate to Loan Filing (Edit Mode).
+Step 3: Make the necessary changes and complete all required fields.
+
+B Loan Filing information (EDIT MODE)
+
+Loan Filing Information
+
+Prior Seevicer Nome: | | +) Closing ate cazazore
+Project Name: 54. 30n + Expiration Date: caranore
+
+Ward Fie No + | Sales Contract ves | File Entered Date oaazore
+
+Lovet Print: vos + | HUD Settlement es +| File Recetved Date; | 02202018
+
+sig Doc Exists: ves + | Note Doc Exists: ves + | Notice Received Oate: [02202018
+
+Deed Restriction: No + Home Owner incentive: Yes + | Box Number: es
+gan rom >| or type Fre Fier ~ | Lender Name ee -
+Voucher Number: VRS Number es
+
+Figure 100: Edit Loan Filing
+
+Step 4: Make the necessary changes, complete all required fields, and click [SAVE].
+Step5: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.3.4 View/Edit Loan Recording
+Step 1: Click on the [LOAN RECORDING] tab within the Loan Record page.
+
+Loan Summary Loan Detail © Loan Filing Ioan Borrowers Property Inspection Documents Notes «Mortgage Release Exceptions © Servicing Foreclosure Bankruptcy Reinstatement = Payoff = Transactions. Loan History
+
+Disbursements Mth Statements Customer Service
+
+@4 Loan Recording
+
+Loan Recording Information
+
+Book No Release Propared Date: 027202018 Nota
+Page No Origination Date cazozore Prepared By
+tostrument Loan Recorded Date; «2202018 Onginal Trustee
+
+Payoff Date: 0220/2018 ‘Mortgage Amount: $4.224,242,242.00 Substitue Trustee:
+
+= —
+Ausmon ness 1 vweness 2
+
+Figure 101: View Loan Recording
+
+Step 2: — Click on [EpIT] located under the Loan Recording title to navigate to Loan Recording (Edit
+Mode).
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 48
+
+@# Loan Recording (EDIT MODE)
+
+@®SMART
+
+Release Prepared Date 02202018
+
+origi 02202018
+oan 02202018
+Payot Date: | 0220/2018 of 4924242342 00
+Le wanes 1 |
+
+Person:
+
+Figure 102: Edit
+
+Step 3:
+Step 4:
+
+4.4.3.5 View/Edit Borrowers
+Step 1:
+
+eo —
+
+Disbursements Mth Statements Customer Service
+
+& Borrowers Information
+
+Borrower Information
+
+First Name: | | SSN:
+Birth
+Last Name: a
+
+Home Work
+Phone Phone:
+Marital
+Status
+
+Borrower Address
+
+Aadress 1
+
+Address 2:
+
+Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff —Transactions
+
+or —
+Ze Code county
+
+Notary
+Prepared fy
+Original Trustee:
+Substitute
+Trustee
+
+vonness 2
+
+Loan Recording
+
+Make the necessary changes, complete all required fields, and click [SAVE].
+On the Confirmation Pop-up, click [SUBMIT].
+
+Click on the [BORROWERS] tab within the Loan Record page.
+
+Loan History
+
+Co-Borrower Information
+
+First Name: SSN:
+
+Barth
+Last Name: a
+Phone:
+
+Mailing Address
+
+Mail To Name:
+Address 1:
+Address 2:
+
+Address 3:
+
+Alternate Contact Information
+
+First Name:
+
+Last Name:
+
+Address 1:
+
+‘Address 2:
+
+Cty
+
+Zip:
+
+Work Phone:
+
+Other Information:
+
+Home Phone:
+
+Figure 103: View Borrowers
+
+Step 2:
+
+B Borrowers Information (EDIT MODE)
+
+Borrower Informatior
+
+Firstname: | | hie: |v |
+Birth Date: ome
+Work antl
+Prone ot
+
+Borrower Address
+
+Click on [EpDIT] located under the Borrowers title to navigate to Borrowers (Edit Mode).
+
+Step 3:
+Step 4:
+
+aadrss: —{ x Mai 0 Nam
+adress 2 ares
+cry ( % | su: [seer x] Aaoress 2
+2 Cove: % } County Aaross 3:
+
+De
+Figure 104: Edit Borrowers
+
+Make the necessary changes, complete all required fields, and click [SAVE].
+On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 49
+
+@SMART
+
+4.4.3.6 View/Add/Edit Property Inspection
+Step1: Click on the [PROPERTY INSPECTION] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+
+Disbursements Mth Statements Customer Service
+
+% Property Inspection
+
+Figure 105: View Property Inspection
+
+Step2: To adda new property, click on [ADD PROPERTY] located under the Property Inspection title
+
+to navigate to Property Inspection (Add Mode). To edit a property inspection, click on
+[EpiT ITEM] located in the Actions column of the Property Inspection dashboard to navigate
+
+to Property Inspection (Edit Mode).
+
+Property inspection (ADD MODE):
+
+Address 2:
+
+Figure 106: Add Property Inspection
+
+Step 3: Make the necessary changes, complete all required fields, and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.3.7 View/Add/Edit Property Picture
+
+If property pictures have been attached to a Loan, a camera icon will appear next to the property
+record. Loan Property Pictures can be viewed in the Property Inspection tab where the Active Property
+photo will be displayed.
+
+Step 1: — Click on [EpIT ITEM] located in the Actions column of the Property Inspection dashboard to
+navigate to Property Inspection (Edit Mode).
+
+Step 2: Scroll to the bottom of the page to view the Property Picture dashboard.
+
+Step 3: To adda picture, click on the [ADD PicTURE] button located under the Property Pictures
+title. To edit a picture, click on [EDIT PictuRE] located in the Actions column of the
+Property Pictures dashboard.
+
+Step 4: Drag and drop a picture or click on the Upload button to upload a file (if you are using
+Internet Explorer, you can only click to upload). (Note; Only TIF, JPG, JPEG, PNG, or PDF
+files are accepted.)
+
+Step 5: Complete all required fields and click [SAVE].
+
+Step 6: On the Confirmation Pop-up, click [SUBMIT].
+
+After saving, the user redirects to Property Inspection edit mode and if the user scrolls down the
+Property Picture dashboard will display with new addition.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 50
+
+@SMART
+
+4.4.3.8 View/Add/Edit Documents
+Step 1: Click on the [DOCUMENTS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection [IVSTIISME Notes Mortgage Release Exceptions © Servicing Foreclosure © Bankruptcy Reinstatement Payoff Transactions Loan History
+Disbursements Mh Statements Customer Service
+
+@ Documents
+Document Name c =
+Find out Orphans Userstxt test o2212018 E Est Document
+0229:18 PMEST
+288156.pat Legal 06/03/2013 [Active & Edit Document
+02:41:25 PM EST
+195688.pat Correspondence 197242012 @& Eait Document
+0218-11 PM EST
+195699.pat Correspondence +W2H2012 @& Eait Document
+02:18:04 PM EST
+(0007E776.1IF Correspondence: 0131/2012 [ Actve & Edit Document
+01.45.33 PM EST
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection [EMMI notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payot ‘Transactions Loan History
+
+Disbursements Mth Statements Customer Service
+
+& Document (ADD MODE):
+
+Document Uploss 2 Drag and Drop fies here or Cick here to upload
+Acove
+
+Description: { x
+
+Figure 108: Add Document
+
+Step 2: To adda document, click on [ADD DOCUMENT] located under the Documents title to
+navigate to Document (Add Mode). To edit a document, click on [EDIT DOCUMENT] located
+in the Actions column of the Documents dashboard to navigate to Document (Edit Mode).
+
+Step 3: Drag and drop a document or click on the Document Upload button to upload a file (if you
+are using Internet Explorer, you can only click to upload). Note: Only PDF, ZIP, DOC, DOX,
+XLS, XLSX, PPT, PPTX, and TXT files are accepted.
+
+Step 4: Complete all required fields and click [SAVE].
+
+Step5: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4.3.9 View/Add Notes
+
+Notes and comments associated with a loan can be entered and/or viewed in the Notes tab.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property nspecton Documents EMERIM tontvaps Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff ‘Transactions. Loan History
+Disbursements Mth Statements Customer Service
+EB Notes
+
+22172018
+02:32:30 PM EST
+oara12018
+02:30:33 PMEST
+22172018
+02:07:15 PMEST
+oar212018
+02.0715 PMEST
+
+99/29/2017
+04:25:58 PMEST
+
+Note Created By
+Ato Note
+Auto Note
+‘Auto Note
+‘Auto Note
+Genera Note
+‘Auto Note
+
+Figure 109: View Notes
+
+09:24:20 AMEST
+
+Step 1: Click on the [NOTES] tab within the Loan Record page.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 51
+
+@SMART
+
+Step 2: Click on the [ADD NoTE] button located under the Notes title to navigate to the Add Note
+window.
+
+Badd Note
+
+Figure 110: Add Notes
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+4.4,3.10 View Mortgage Release
+
+To access the Mortgage Release Module, click on the [MORTGAGE RELEASE] tab within the Loan Record
+page. For further information, see Mortgage Release Tab.
+
+4,4,3.11 View/Add/Edit Exceptions
+
+Step 1: Click on the [EXCEPTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detai! Loan Filing Loan Recording ‘Borrowers Property inspection Documents Notes Mortgage Release Servicing Foreclosure Bankruptcy — Rei
+Disbursements Mth Statements Customer Service
+
+A Exceptions
+
+Figure 111: View Exceptions
+
+Step 2: To add an exception, click on [ADD EXCEPTION] located under the Exceptions title to
+navigate to the Exception (Add Mode) window. To edit an exception, click on [EbIT ITEM]
+
+located in the Actions column of the Exceptions dashboard to navigate to Exception (Edit
+Mode).
+
+Loan Summary Loan Detail Loan Filmg Loan Recording Borrowers Property inspection Documents Notes Mortgage Release Servicing Foreclosure Bankruptcy Reinstatement Payoff — Transactions. Loan History
+
+Figure 112: Add Exceptions
+
+Step 3: Complete all required fields and click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 52
+
+@SMART
+
+If the Exception Type is any of the following, then an automated note will be generated in the Notes tab.
+
+e Received notice of death, borrower e T&l due and payable decision denied as
+deceased of
+
+e Received notice of death, co-borrower e Account Lender billing - Incentive
+deceased Fee/Claim
+
+e Received notice from lender, loan has e Account Lender billing - Incentive Fee
+been referred to foreclosure as of e Account Lender billing - CLAIM
+
+e A CAIVRS Block has been added as of e Account Lender billing PAID - Incentive
+
+e CAIVRS Block has been suppressed as of Fee/Claim
+
+e Approved for deferral of T&l due and e Account Lender billing PAID - Incentive
+payable on Fee
+
+e T&lI due and payable decision pending e Account Lender billing PAID - CLAIM
+as of e Lender Billed flag has been removed
+
+e Received Indemnity Agreement
+
+4.4.3.12 View Servicing
+
+To access the Servicing Module, click on the [SERVICING] tab within the Loan Record page. For further
+information, see Servicing Tab.
+
+4.4,3.13 View Foreclosure
+To access the Foreclosure Module, click on the [FORECLOSURE] tab within the Loan Record page. For
+further information, see Foreclosure Tab.
+
+4.4.3.14 View Bankruptcy
+
+To access the Bankruptcy Module, click on the [BANKRUPTCY] tab within the Loan Record page. For
+further information, see Bankruptcy Tab.
+
+4.4.3.15 View Reinstatement
+To access Reinstatement, click on the [REINSTATEMENT] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers. Property inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy ESEENENIME Payot! Transactions. §—_Loan History
+
+Disbursements Mh Statements Customer Service
+
+Reinstatement
+
+fos [ome Pom]
+
+Figure 113: View Reinstatement 7
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 53
+
+4.4,.3.16 View Payoff
+
+@SMART
+
+To access Payoff, click on the [PAYOFF] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers
+Disbursements Mth Statements Customer Service
+© Payoff
+
+Property Inspection
+
+Documents Notes Mortgage Release
+
+ee
+
+Exceptions Servicing Foreclosure Bankruptcy Reinstatement [IESMRUM Transactions §—_Loan History
+
+Adjusted Principal Amount Principal Pasd Amount
+
+Mortgage Principat
+
+13.5000%
+
+owor2010 $52,007.15 ($11,977.80) ($14.92477) ($1,047.68) ‘$52,007.15
+
+Tax Escrow (826.23 $2,410.18) ($2,410.18) (871.32 ($7132) (826.23
+
+Incutfcent Funds Fee
+Late Charges
+Sermce Charge owsr2010 (51958) ($41.15) (841.15) 199)
+
+Tax Advances
+
+‘omer Aavances
+
+Suspense
+
+Showing 1 10 8 of 8 entries
+
+$51,901.33 (814,429.13) ($2,846.97) (817,276.10) ($4,119.00) $0.00 (81,119.00)
+
+Figure 114: View Payoff
+
+4.43.17 View/Add Transactions
+
+Step 1: Click on the [TRANSACTIONS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording «Borrowers Property Inspection Documents Notes. «Mortgage Release Exceptions Servicing Foreclosure Bankruptcy _—_—Reinstatement
+
+cot EEG
+
+Disbursements Mth Statements Customer Service
+
+@ Transactions
+
+Coco _
+
+Trans Description Total Payment
+
+08012011 ogrz072011 LssH 09 Insumicient Funds Fee Loan Set Up Sec-Heid Posted
+08012011 992072011 LssH one Late Charges Loan Set Up Sec-Heid Posted
+080172011 92072011 LssH a9 Mortgage Principat Loan Set Up Sec-Heid $32,500.00 $32,500.00 Posted
+o8m12011 992072011 Lssk a9 Other Advances Loan Set Up Sec-Held Posted
+o8m12011 ogrzorz011 LssH 9 Sorvice Charge Loan Set Up Sec-Held Posted
+osm12011 ogrz0r2011 Lssk 09 ‘Suspense Loan Set Up Sec-Held Posted
+oam12011 92072011 LssH 09 Tax Advances Loan Set Up See-Held Posted
+oam1/2011 ogrz0r2011 LssH 019 Tax Escrow Loan Set Up Sec-Heid Posted
+0812011 972072011 LssH 09 xfer int Loan Set Up See-Hiaid Posted
+107302016 102902016 ‘SWOFF 1900 4536 Principal ‘Sec-Held Write-Of Adjustment ($32,500.00) ($32,500.00) Posted
+
+‘$0.00 $0.00 $0.00
+
+‘Showing 1 to 10 of 10 entnes
+
+Figure 115: View Loan Balance Transfer
+
+Step 2: Click on [ADD TRANSACTION] button located under the Transactions title to navigate to the
+
+Add Transaction window.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Noles Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff
+
+Loan History
+
+Disbursements Mth Statements Customer Service
+
+B Add Transaction
+
+Transaction Information
+
+Loan Balance: $0.00
+Eftectve Date: [remo 7 |
+Transaction Type: ‘Select a Transaction Type ”
+Transaction Amount [x]
+
+Figure 116: Add Transaction
+
+Step 3:
+Step 4:
+
+Complete all required fields and click [SAVE].
+On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 54
+
+@SMART
+
+4.4.3.18 View Loan History
+To access Loan History, click on the [LOAN HistToRY] tab within the Loan Record.
+
+Loan Summary Loan Detail_ Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payot — Transactions. [Enna
+Disbursements Mth Statements Customer Service
+'D Loan History
+ode ton Co rans Description Total Amount Principal Amount Interest Amount ser vice Charge wspen
+onza017 FF 1900 Sec Held Vinte-Oft $71.00 $71.00
+osii12017 sworF 1900 ‘Sec Hela virte-oM (81,190.00) $1,190.00
+Aqustnent
+1002016 SworF 1900 Sec-Held Wite-Oft $1,119.00 $1,119.00
+“Agustment
+owis2013 SWOFF 1900 Adjustment - Accrual 81,13776) 568.08 3568.88
+onis2013 sworF 1900 Adustment - Principal $560.88 $868.88
+onraor3 ETOSH 170 $560.68 $568.98
+oo72012 StF 185 557 Adustment $40,588.00) (s40.77053 $19053
+oaz7a02 BRP o02 Payment (6709 00 $709 09
+ornw20%2 eRP on2 Payment (3710.00 (8710.00)
+
+95/23/2012 BRP 02 Payment (8710.00 ($638.68)
+
+Figure 117: View Loan History
+
+4.4.3.19 View/Add/Edit Disbursements
+Step1: Click on the [DISBURSEMENTS] tab within the Loan Record page.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff Transactions Loan History
+
+$ Disbursements
+
+(Check Voided Check Voided Date c leared Date Printed Date Printed User
+
+Sec Held Escrow 120772018 $500.00
+Disbursement - Check
+
+Figure 118: View Disbursements
+
+Step 2: To adda disbursement, click on [ADD DISBURSEMENT] located under the Disbursements title
+to navigate to Disbursement (Add Mode). To edit, click on [EDIT ITEM] located in the
+Actions column of the dashboard to navigate to the Disbursement (Edit Mode).
+
+Step 3: Complete all required fields and click [SAVE].
+
+Step 4: Onthe Confirmation Pop-up, click [SUBMIT].
+
+Nelee The disbursement details can be edited until the payment has been generated.
+
+4,.4,3.20 View Monthly Statements
+To access Monthly, click on the [MTH STATEMENTS] tab within the Loan Record.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes © Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff Transactions Loan History
+
+Disbursements Customer Service
+
+@ Monthly Statements
+
+Principal Amt Other Advances Suspense UPB Created By Create Date Changed By
+dy 2012 ormuao12 $39,502.51 (8996 62 $40,499.85 os2a2012 103
+04:33:42 PM EST 023551
+June 2012 $39,590.65 5996 62 $41,149.85 0 2 owea
+10 EST 023551
+May 2012 $39,632.29 (8925.30 $41,788.53 2 0103
+121851 PM EST 023551
+Apa 2012 339,032.99 (3925.30 $41,788.53 05152012 o1oa
+02:20:24 PM EST 023551
+
+Figure 119: View Monthly Statements
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 55
+
+@®SMART
+4.4.3.21 View Customer Service
+
+To access a read only version of the Customer Service Module, click on the [CUSTOMER SERVICE] tab within
+the Loan Record page.
+
+Property Inspection Documents Notes
+
+Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Reinstatement Payoff
+a& Customer Service
+
+tats
+
+Figure 120: View Customer Service
+
+Note: To access the Customer Service Module with full management capability, click on [CUSTOMER
+SERVICE] from the top Navigation Menu. See Using the Customer Service Module for more information.
+
+SMART USER MANUAL | HUD.ADMIN | VERSION 1.43.0 | JUNE 2, 2020 | 56
+
+@®SMART
+
+4.4.4 Access Details of H4H Loan Records
+4.4.4.1 View Loan Detail
+
+To access Loan Detail, click on the [LOAN DETAIL] tab within the Loan Record.
+
+Loan Filing Loan Recording «Borrowers Property Inspection Documents Loan Bal Trans Notes Mortgage Release Exceptions Servicing Foreclosure Bankruptcy Disbursements Property Taxes Mth Statements Set Aside-Esc
+
+Customer Service:
+# Loan Detail
+
+Loan Information
+
+ACTIVE - Loan Active Fund Code: # Orig Appraised Vaiue: ‘$170,000.00
+
+HOPE Mortgage (1st
+ie 167331,0000
+
+Loan Status 1:
+
+ADP Code: 817 ‘Shared Equity Note: 9.0000
+
+Loan Dates
+Closing Date: o7a72011 Orig Loan Date: 072272011 ‘SEM Mig Note / Signed Date: orzo
+Endorse Date: cano201 ‘At Contractor On: 10032011 SAM Mig Note | Signed Date:
+
+Payott Date: ‘Maturity Date: 06/31/2081 Title Search Ordered:
+
+ADP Code: 87 Title Search Recerved:
+
+Appreciation - Sub Holder Lien 1
+
+‘Sub Lien Holder:
+
+‘Shared Apprecisbon: Uptront Appreciation:
+Sub Lien Address: City: State:
+Zip: Tax iD: Certinicate:
+
+‘Maximum Allowed to Sub Lien Holder 1: Total Claims of Prior Sub L

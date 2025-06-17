@@ -1,0 +1,258 @@
+eeeeeeeeeeaaaaaeeeeeeeeeeeaaaaeeeeeeeeeeeeaaaaes 87
+6.1.1 Searching for Loans with Bankruptcy HiStOry...........cccceesceceesneeeeeeseeeeeeseeeeeeeeaeeeceeaeeesesaeeeeseneeeeeeaaees 87
+6.1.2 Searching for Loans without Bankruptcy HIStory ............::cceesseeceeeseceeeeeneeeeeeeaeeeceenaeeeceeaeeeeseeaeeeseeaaees 88
+
+6.2 —_ BaNkruptcy Tab........ccececcccccccssssseeecceeeeeaeeeeseeeeeeeeeeeeeeeeeeeeeeeeeesseeeeeeeeeeeessaaaeesseeeeeeesaaaaaaeeeeeeeeaaaa 89
+6.2.1 View an Active Bankruptcy Activity ...........ceeeeecceeesnceeeeeneeeceesaeeeeeesaeeecesaaeeeeesaeeeceeaeeecesaeeeesenaeeeseeaaees 90
+6.2.2 View an Inactive Bankruptcy ACctivity...........eeeeceeesececcesseeeeeesneeeeeenaeeeceseeeeeeeaeeeceeaeeeceeaeeeeeeeaeeeseeaaees 90
+6.2.3 Add New Bankruptcy Activity... eeeescccessseceeeseeecesneeeeeeeaeeeeseaeeecesaeeeeeesaeeeceeaeeesesaeeeeseeaeeeeeeaaees 90
+6.2.4 Add Bankruptcy Steps.........eeeeeccceessccceseseeesesneeeceesaeeecesaeeceseaeeeceenaeeesesaaeeceeaeeeseeaeeesesaeeeeseeaeeeeeeaaees 91
+6.2.5 Bankruptcy Management............cccssccccssseeesesseeeeeesaeeeceeseeeceesaeeeeeeaeeeseeaeeeeeeeaeeeseenaeeesesaeeeesesaeeeseeaaees 92
+6.2.6  Inactivate Bankruptcy ACtiVity.......... ee eeeecccessseeeeeeseeeeceeeeeeeeeaeeeeeeaeeeceaeeeeseaeeeseeaaeeeseeaeeeesenaeeeseeaaees 92
+6.2.7 Reactivate Bankruptcy Activity... ececeeessceeeeesnceeceeneeeeeesaeeeeeesaeeeceeaeeeeseeaeeesseaeeesesaeeeeeeeaeeeeeeaaees 93
+6.2.8  VICW NOES 0... eeeeesseeeeeeeeeeeeeeeeeeeeeeeeeenneeeneeeSSSEE;E EE ESSE EE SESE S SDSS SDSS SESS OS SOOO OOOO OOOO OOOO OOOO OOOO OOOO OOOO OO OOO OOOO OES 93
+6.2.9 Edit an Original Bankruptcy Step... eeeeceeesseecesesneeeeeeneeeeeeeaeeeeeenaeeeceeaeeeesesaeeeseeaeeesesaeeeesenaeeeeeeaaees 94
+6.2.10 Edit a New Bankruptcy Step... eeecccceescceeeesneeeeeesaeeeceseeeceesaeeeeseaeeesesaeeeesesaeeesseaeeesesaeeeesenaeeeeeeaaees 94
+6.2.11 Inactivate Bankruptcy Step .......eeeeeceessceeeeesneeeeeesaeeeceseeeceseaeeceseaeeecesaeeeesesaeeeseeaeecsesaeeeesenaeeeseeaaees 95
+
+7 ~—_ Using the Foreclosure MOdule ...........ccccssesecccccccceeeesseeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeseseeeesssaaaaaaseeeess 96
+
+TL SQA CHa eee eeeececcnnee cece ee eeeeene eee ee eee teen aaeee eee eeeeeeeaaaeee eee eeeeeeaaaaeeeeeeeeeeeeaaaaeeeeeeeeeeeaaaaeeeeeeeeeeeeaaaaes 96
+7.1.1 Searching for Loans with Foreclosure HiStOry ..........::ccesscceceesseeceeeseeeeeeeeeceesaeeeceenaeeecesaeeeeseeaeeeseeaaees 96
+7.1.2 Searching for Loans without Foreclosure HiStOry...........c:cccceessceceeeseeeeeeeeeeeceesaeeeceenaeeeceseeeesenaeeeeeeaaees 97
+
+7.2 FOr@CIOSUPE Tab ooo... eeeeeeeecneeeeeeeeeeeeenaaeeeeeeeeeeeeeaaaeeeeeeeeeeeeaaaeeeeeeeeeeeesaaaaeeeeeeeeeeeeaaaaeeeeeeeeeeeeaaaaes 98
+7.2.1 View an Active Foreclosure ACtiVity..........::cceeescccceeseceeceeseeeeeesaeeeeeeaeeeeesaeeeeeeaeeecseaeeesesaeeeesenaeeeeeeaaees 99
+7.2.2 View an Inactive Foreclosure ACtiVity ...........ccccceseseceeceeseeeeceeaeeceeesaeeecesaeeeeeeeaeeeseeaaeeeseeaeeeesenaeeeseeaaees 99
+7.2.3 Add Foreclosure Steps .........:essccceesssceeeeseeeeeeeeeeceesaeeecesaeeceseaeeeesesaeeecesaaeeceesaeeesseaeeeceseeeeseneeeeeeaaees 99
+7.2.4 Foreclosure Management ...........:cccsscccceeseceeceeneeeeceeceeeeeeaeeeceeeeecsesaeeeesesaeeeseeeeeeseseeeeeeaeeeseeneeeesenae 100
+7.2.5 — Inactivate Foreclosure ACtiVity .0.........eeeecceceeseeeeeeeneeeeeenaeeeceeaeeeeeesaeeeesesaeeeseeaaeeesesaeeeeeenaeeeseenaeeeeenae 100
+7.2.6 Reactivate Foreclosure ACtiVity ..........:ccesecccessseeeeeeeneeceeeeaeeeceeeeeceesaeeecseaeeeceeaaeeesesaeeeesenaeeeseeeeeesenae 101
+7.2.7 — VIOW NOtES 0... eeeeeeeseeeseeseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeene Senn SES SESS E EES SESS SDSS SSS SSSA ASSO O OOOO SOOO OOOO OOOO OOOO OOOO OOO OO SOOO EOE 101
+7.2.8 Edit Foreclosure Step ........eeeesecccessseeeeeseeeceeneeeeseeaeeeceeaeeeceeaeeesesaeeeeseaeeeceeaeeesesaeeeesenaeeeseeaeeesenae 101
+7.2.9 — Inactivate ForecloSUre Step..........esecccceeseceeeeneeeeceeneeeeeenaeeeceeaaeeeeesaeeeceeaeeeceeaaeeesesaeeeesenaeeeseeeeeetenae 102
+
+8 Using the Mortgage Release MOdule ...........ccccccccssssssseeccceeeeeaeeeseeeeeceeesaaaeesseeeeeeessasaaaseeeeeeeessauagaess 103
+
+8.1 —-_ Mortgage S@arch .........ccccccccssssssseecceeeeeaeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaeseeesseeeeeessaaaaaseseeeeeeaaaa 103
+8.1.1 Searching for Loans with Mortgage Release HIStory ...........:cceesececeeeseeeeseeneeeeeeeaeeeceeneeeeeesaeeeeeeeaeeeess 103
+8.1.2 Searching for Loans without Mortgage Release History ............ssccceessececeesseeeeeeeaeeeeeeneeeesesneeeeseeeeeess 104
+
+8.2 Mortgage Release Tab ..........cccccccccccccccsssssseeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeesaaeeeseeseeeeessaaaaaseseeeeeesaaa 105
+8.2.1 View an Active Mortgage Release ACtiVity ...........:cceeeccceeesseeeeeeseeeeceeneeeeceeaeeeceeaeeeceeaeeeseseeeseeneeeess 106
+8.2.2 Add New Mortgage Release...........ccssccccssssceceeesneeecesneeeeceeneeeeeesaeeecesaeeesesaeeeceesaeeeeseneeeeseeeeeeeeneeeess 106
+8.2.3 Add Mortgage Release Steps ..........ceecccsesseeceeeeneeeceeneeeeceeeeeesesaeeecesaeeesesaeeeeeeeaeeeeeeaeeeseseeeeeeeaeeeess 107
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | ii
+
+@SMART
+
+8.2.4 Mortgage Release Management ............ccssccceesseceeeeeseeeeeesneeeeeeeaeeecesaeeeseeaeeeceesaeeeseeaeeeseseeeeeeneeeess 107
+8.2.5  VICW NOTES .........eeceeecee cee seeeeeeeeeeeeeaeeeeeeeeeeeceaaaaeeeeeseeeeaaaaeeeeeeseeeaaaaaeeeeeeeeeeaaaaeeeeeeeeeeaaaaeeeeeseeeauaaeeeeeees 108
+8.2.6 Edit Mortgage Release Step ........eeeeecccesssceceeeseeeceeneeeeceeaeeeeseaeeeceeaaeeesesaeeeceesaeeeeseaeeeseeaeeeeseeeeeess 108
+
++S iis a Ol a <0) ES) <1] 60 6 eee 109
+8.3.1 Searching for Loans with Disbursement Che@ckS...........:cccssccceeeseceeeeeseeeeceeeeeceeeaeeeeeenaeeeeeeeeeeeeeeeeess 109
+8.3.2 Searching for Loans with Release CheckS.............:cccesssceeeeesseeeeeeseeeeceeneeeeseeeeeceeeaeeesseaeeeseseeeeeeeeeeess 110
+8.3.3 Edit Release Che CK... eecccsssssnccccecesseseneeeecceeseseeseeeeeeeeeseeeeaeeeeeceesseeeaaeeeeeeeeeseeaaeeeeeeeseeeeeaaaaeeees 111
+8.3.4 — PLINt CHECK... eee eececesseecccceeeesssneeeeeeeeeseeesseeeeeeeeeeeeeaeeeeeeeeeeeeesaeeeeeeeseseeesaeeeeeeeseseesuaeeeeseeseseeeaaaaeeees 111
+
+9 Using the Cash Management Module ...........cccccccssssssseeecceeeeeaeeeeseeeceeeesaseeesseeeeeeessasaasseeeeeeeeesaaagaess 112
+oe a aE] S|] 9 ee 112
+9.2 =» TROR R@Port ........ccccccecccccseeeccceeeeececaeeseeeseeeeeeseeeeeeeeeeeeeseeeeeeseeeeeesaeeseeesaeuseeessauseesauaesessaeeseeees 114
+9.3 Transaction S@arch......... cece eeee ences eee ee eeeeee eee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeeeeeeeees 115
+oS) ee eee 117
+9.5  — Pay. GOV DaShbOard.......cccccccssssseseeeceeeeeaaeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeesaeseesseeeeeeesaaaaaaseseeeeeeaaaa 118
+9.6 E> VA CL©)Y AL © 10 [=1 0 | =e 120
+9.7 — Review Failed CSV... nnn nee n en en eee e eee e eee e ee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 121
+10 Using the Customer Service MOdUule ............cccsssceccccccceeeesseeeeeeeeeesseeeseeeeeeeessaeeasseseeeeesssaaaaeeeeeeeeesaaa 122
+10.1 Ticket SC arch .......cceccccccecccceeeeceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 122
+10.2 Accessing Detailed Customer Service INfOrMatiOn...........ccccccccccccccsssssseeececeeecaaaeseeseeeeessaaaeness 124
+10.2.1 View/Edit Ticket Detail.............cccccccssssscccccceesssssseeecceeecssssseeeeceeeeesesseeeeceeeeesssseeeeeceeeeeessaaeeeeeeseeeeeaaea 124
+10.2.2 Ticket RESOIUtION ............ccccsscsccccessssssneeeeeeeeeseeeseeeeeeeeeeeeeseeeeeeeeesseeeaeeeeeeeeeeeeeaeeeeeseseseeesaeaeeeceseeeeeaaes 125
+10.2.3 Create NeW Call LOg.........eeeecceeeesseceeeseeeeceeeeeesesaeeeceeaaeeesesaeeeceeaaeeesesaeeeesesaeeeeseaeeeseeaaeessesaeeeeeeaates 125
+10.2.4 View/Add Ticket Action ........ccccccccssscccssssscccsessecccssseeccsesseeccseseeecseseeecesseecceesseeceesseeesesaueeceseaseeseesaees 126
+10.2.5 Complete Ticket ACtion ..........cccceesscccceeseeeeseeeeeeeesaeeeceeaeeeeesaeeeeseaeeesesaaeeesesaeeecsesaeeeseeaaeeesenaeeeeeeaates 126
+OW MAA T=1 7X0 (0 (010 -\ ee 127
+10.2.7 View All NOtes wo... cccccssscccccessssssneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeesseeeaaeeeeeeeseeeesaeeeeeseseseeeaeeeeeeeseeeeaaes 127
+10.2.8 View DOCUMENNS.............cceecceeeeeeeeeeeeeeeeeeeeeeeeeeeeecaaaaaeeeeeeeeeeaauaeeeeeeeeecaaauaeeeeeseeeeaaaaeeeeeeseseaaaaeeeeeeeeeeeas 127
+10.2.9 BOrrower HiStOLY ......ecseeeeeeeeeeeeeeeeeeeeeeeeeeeeneeeeeneeeeeeeeneeeeeeeeeenaeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeea 128
+10.2.10 Close Ticket .......ccccccccccccssssssseeecceesssssneeeeeeeeeseeeseeeeeeeeeeeeeeaeeeeeeeeeseeeeeeeeeeeseeeeeeaeeeeeseesseeeeaeaeeeeeseeeeeaaes 128
+10.3 Create NEW Ticket... cccccccccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 129
+10.3.1 Create New Ticket from He@ader.......ccccccccccccsssssscccccccsssesnneeeececesseessseeeeceeeeeeesseeeeceesseeeaeeeeeeesseeeeaaes 129
+10.3.2 Create New Ticket from Tab for Specific FHA Case No. ........::ccccsssececcesseeeeseseeeeeenaeeesesaeeeesenaeeeesenaees 130
+10.4 Re-Open and Merge Tickets ...........ccccccccccccccceeessseeeeeceeesaeeeeeseeeeeeeeesseeeeeeeeeeeesseaeaseeeeeeeessaaaggess 131
+10.4.1 Re-Open Ticket ..........eeecccccessceeeeesneeeeeeneeeecesaeeeeeesaeeecesaeeesesaeeeeseaeeesesaeeeesesaeeeeseaeeesesaeeeeseneeeseenates 131
+10.4.2 Merge Non-Sys Ticket ...........cccccccesseceeseseeecesaeeeceesaeeeceeaeeceesaeeeeseaeeeceeaaeeesesaeeeceeaaeeesesaaeeesenaeeeseeaates 131
+
+i is Rn) | 24 p=) 00) 6 ee 132
+11.1 Customer Service Reports ...........cccccccssesecccssesecesaeeeccaeeececaeeeeeesseueceesaeeeeessuueeesseeeseesaeuseessaaases 132
+11.2 DirectOr REPOrts ..........ccccccceeeccccceeeecceeeeececaeesecesaeeeeesaeeeeesseueeeeeseeseeeaeseeeesseeeesseaseeesaueeeessaagses 132
+11.3 Servicing/Release REPOrts............cccccccccccsssssscseecccececeessnseeececeeecesssnseeeseceeeceesaaeeeeeeeceeesstsaeeeeeess 133
+11.4 ACCOUNTING REPOFtS...........ccccccccccssesccceeeeeecceeesecesaeeeeesaseeeesseueeeesaeuseesaeeeeeessueeesseaseeesaeseessaaases 133
+12 User INFOrmation... ccccccceeeeeeeeeeeeeeeeeee eee ne nnn nnn 134
+12.1 Manage ACCOUNL...........ccccccssescccceeeseccnseeeeecaeeseeesaeeeeesaeeeeeesseueeeeeseuecesaesseceseueeeeseuueeesaaeeeesaaages 134
+12.2 Change ROIOS .......cccccccccsssssseeeecceeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeaeeeeeeeeeeeeeessaseeseeeeeeeeesaaaeaassseeeeeesaaagaass 134
+13 Using the Maintenance MOdule..........ccccccccssssssseeccccceseeeesseeeeeeeesasseeeseeeeeeeessseeeeeseeeeessaaaaaeeeeeeeesaaa 135
+13.1 Ticket ROUNC RObIMN...........cccccccccceccececeeeeceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees 135
+13.1.1 Change Agent Status OF QUEUE ....... ce eesceeceessceeeeeseeeeeeeeeeeeesaeeeeeesaeeeceaeeeesesaeeecseaaeeesesaaeeesenaeeeseeaaees 135
+13.1.2 Add New Designee...........cceeeccccsssseceeeseeeeceseeeceenaeeecseaeeesesaaeecsesaeeeseeaeeeesesaeeeeseaeeeseeaeeessenaeeeseeaates 136
+
+oS CTS 0-2 (=) | eee 137
+i Sos ns 10) 0 S10 | ©) 00) 6 nee 137
+14.2 Solutions to COMMON PrObleMs...........cccccccccsccecccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeess 138
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | iii
+
+@SMART
+
+14.2.1 Internet and BrowSer ISSUCS.........ccccccccccsssesecccecscceeueceecccssscuuueeececsssseueeseecsesssseuueeseeessssseuueeeessesseeees 138
+14.2.2 SMART ISSUES .........ccccccesecceccscceceuecceceueeceseuecceceuecceseuecceseuecceseuecceseuscceseuecessauecceseueccesegeceesaneceesanereees 139
+14.3 Getting More Help .........cccecccccccccccsessseseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeesseesseeeeeeeesaaaessseseeeeeesaaaagess 139
+14.4 Help De@SK .......cccceccccccccccssssseeeeeeeeeeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeesaeeeeseeeeeeeesaaaeaaseseeeseesaaagnsgs 139
+Figures
+
+Figure 1:
+Figure 2:
+Figure 3:
+Figure 4:
+Figure 5:
+Figure 6:
+Figure 7:
+Figure 8:
+Figure 9:
+
+Figure 10.
+Figure 11:
+Figure 12:
+Figure 13:
+Figure 14:
+Figure 15:
+Figure 16:
+Figure 17:
+Figure 18:
+Figure 19:
+Figure 20:
+Figure 21:
+Figure 22:
+Figure 23:
+Figure 24:
+Figure 25:
+Figure 26:
+Figure 27:
+Figure 24:
+
+LANGING PAGC.........cccccccccccccceeeeseeeeeeeeeeeeeeeeeeeeeeeeesaeeeeeeeeeeeeeeaseeeeeeeeeeeeessseesseeeeeeeessaaaaasseeeeeeesaaaaaass 2
+
+MEA Phone Set-Up... ...cccccccccssssseecceceeeaeeeseeeeeeeeeeeaseeeeeeeeeeeesaeeeeeeeeeeeeeesaeeeseseeeeeeessaaaasseeeeeeeeeaaaaaass 2
+MEA Phone Set Up 2... cccccccccssssscecceceeeeeeeeeeeeeeeeeeaeeeeseeeeeeeesaeeeeeeeeeeeeeesaseeesseeeeeeessaaaeaseeeeeeeeeaaagasss 3
+Vaya ea ae) a =aA=1 01 Cer 100) 9 ee 3
+Multi-Factor AUthentication .........cccccccsseeeeeeeeeeeeeeeeeeeeeeeen nent nnn A GAGA A Ga aaa aaa aa aaa aaa aaa a aaa 3
+Setting Up SECUrity QUESTIONS PAGE .........cecccccssescccceseecccceeeececaeseecessuueeecssueeeeseeseesssauseessaeeeesaaases 4
+Default Page .........ccccccccccccccseeseeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeesaseeeeeeeeeeeeeesseeseeeeeeeeeesaaaeasseeeeeeeeaaagaass 4
+Manage PaSSWOI .......cccccccsssssseeeeceeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaseeeeeeeeeeeesaaaaaasseeeeeeesaaaaaess 6
+Login Page — Forgot PaSSWOM .......cccccsssssssseececceceaeeeeseeeceeeeeaeseseeeeeeeeeesaeaesseeeeeeeessaaaesseeeeeeeesaaagaess 7
+
+Forgot PaSSWOIrd Page .....ccccccccccccssssseseeeceeeeesseeeeeeeeeeeeeeeeeeeeeeeeeeeeesseeseeeeeeeeeesaaeeessseeeeeeeesaaaanseeeeess 7
+My Loans DaShbOard.........cccccccccccccccsssseseeeeeeeeseeeeeeeeeeeeeesseeeeeeeeeeeeesaeeeeeeeeeeeeeesaaaaesseeeeeeeesaaaggess 8
+Pin to Dashboard (Loan Record 235-INSUred)...........ccccccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeseeeeeeeeeeees 8
+Unpin from Dashboard (Loan Record 235-INSUred)...........cccccceceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeees 9
+Unassigned Tickets ...........cccsccccccccccceeeseseeeeeeeeesaeeeeeeeeeeeeeseeeeeeeeeeeeeeesaaeeaseeeeeeeeesauaasseeeeeeeesaaggasss 10
+Filter by Terminated USCP..........cccccccsssssseccccceeseeeseeeeceeeesseeeesseeeeeeeesaeeesseeeeeeeessaaaaseeeeeeeessaaagaess 10
+Filtered Unassigned Tickets ..........cccccsssssccccccecceeeeseeecceeeesseeeeseeeeeeeesaeeesseeeeeeeesaaaaasseeeeeeessaaagaess 10
+Unassigned Tickets Batch Ticket REasSiSNMeNt ............ccsssessseecceceeceeeeseeeceeeeeeaaaeeseeeeeeeesaeageess 11
+LOAN Search SCrEEN ......cccseseessccccececeaeseeeeeeeeeeeeeeeeeeeeeeeeeeesaseeeeeeeeeeeesaeeeeseseeeeeeesaaaasseeeeeeeesaaggasss 12
+Search Database — Production Database ...........cccccccssssssseeececeeeaaeesseeeceeeessaaeesseeeeeeesssaaaaseseeess 13
+Start Search BUttONn .........cccccccccssssseeeeceeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeessseeeeeeeeeeeeseseeeesseeeeeeeesaaaaneeeeees 13
+Search Database — Legacy Database ...........ccccccccccccccssssseeeeceeeesaaeeseseeeeeeessaeeeeseeeeeeeessaaaeseeseess 13
+Search Database — DAT C Database ...........cccccccccccccccsseesseeeeceeeeeaaeesseeeeeecessaaeesseeeeeeesessaaeseeeees 14
+SE arch R@SUItS ......ccccccsssseeecceceeeeeeeeseeeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeaeeeeeeeeeeeeeseaeeeeseeeeeeeessaaaaneseeess 14
+RESUIt HEACEIS 00... .ccccccccccssssseeeceeeeeeaeseeeeeeeeeeeeeeeeeeeeeeeeeeesseeeeeeeeeeeeeesaaeeeseeeeeeeesaaaaaasseeeeeeesaaaaaess 15
+Search Results — RESult HEA eM... eccessssseecceeeecaeeesseeeeeeeeessaeeseeeeeeeeesssaseeseeeeeeeessaaaaseeeeeess 15
+Search ReSults — SCarch .......ccccccsssssseecceeeeeeeesseeeeeeeeesaeeeseeeeeeeeeesseeeeeeeeeeeeessseeeesseseeeeeesaaaanseseeess 15
+Search ReSUIts — SOPrt.......ccccccccssssssseeeeeeeeeeaeeeeeeeeeeeeeeeeeeeeeeeeeeeeesseeeeeeeeeeeeessseeeesseeeeeeessaaaaaseseeess 15
+PMC QUQUC... 0... ceecccccseseccneeeeeceeeeeeeeeeeeeeenseeeeeeaeeeeeesseeeeeeseeeeeeaaeseeesseueeeeseauseesaaessessaauseessaanses 16
+
+Figure 29: Import into Existing LOAN.............cccccccsseeeccceeesccceaeececaeeccesaeuscessaeeeessaeeeeessaeusessseeseeesaueeeesaaages 16
+Figure 30: Loan Record (CxaMple).........:cccccesssssssssssssssssssessseeeseseseseeeesceeeeseessseessseeseseesseeessesseseasssseasaaaaaes 17
+Figure 31: View LOAN SUMMALY............cssccccceeecccseeeecccaeneeeceaeeeeessaeeeeesseeeesseeeeeeeaeeeeeesaaseesaeeuseesaueseeesaaages 18
+Figure 32: Edit LOAN SUMMALY .......ccccccssseseseeececeeceeeeeeeeeeeeeeeeasseeeeeeeeeeeesaseeeeeeeeeeeessaeeeesseeeeeeesaaaaaaseeeeeeeseaaa 18
+Figure 33: VieW Loan Detail ...........ccccccccssssssecccceeeeeeeeseeeeeeeeeeeeeeeeeeeeeeeeesaeseeeeeeeeeeessaaeessseeeeeeessaaaasseeeeeeeeaaaa 18
+Figure 34: Edit Loan Detail ............ccccccccsssssscecccceeeseeseeeeeeeeeeeseeeseeeeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeseeeeeeessaaaaaseseeeeeseaea 19
+Figure 35: VieW Loan Filing ...........cccccccsssssseeeececeeeeeeeeeeeeeeeeeeeaseeeeeeeeeeeeesseeeeeeeeeeeeeesaaeeeeseeeeeeeesaaaaaeeseeeeeeeaaa 19
+Figure 36: Edit Loan Filing ............ccccccccssssssseecceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeesseeeeeeeeeeeeeesaeeeseseeeeeeesaauaeseeseeeeeseaea 19
+Figure 37: VieW LOAN RECOFCING ..........ccsseeesceccccceceeseeeeeeeeeeeeeaeeeeeeeeeeeeeesaeseeeeeeeeeeesaeeeeeseeeeesesaaaaeseeseeeeseaaa 20
+Figure 38: VieW BOFrOWELS ........cccsecccccseeecccceeeeceeaeeeeeeeseeeeeeeeeeeeeesaeeeeeeseeeeeseeeeesaeseeeesaueeesseasseesaueeeesaaages 20
+Figure 39: Edit BOFrOWEYSS ........cccccccccccccseesseeeeceeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeessaeeeeeeeeeeeeesaeeeesseeeeeeesaaaaaasesseeeeseaaa 20
+
+SMART USER MANUAL | LSC.POWERUSER | VERSION 1.43.0 | JUNE 2, 2020 | iv
+
+Figure 40:
+Figure 41:
+Figure 42:
+Figure 43:
+Figure 44:
+Figure 45:
+Figure 46:
+Figure 47:
+Figure 48:
+Figure 49:
+Figure 50:
+Figure 51:
+Figure 52:
+Figure 53:
+Figure 54:
+Figure 55:
+Figure 56:
+Figure 57:
+Figure 58:
+Figure 59:
+Figure 60:
+Figure 61:
+Figure 62:
+Figure 63:
+Figure 64:
+Figure 65:
+Figure 66:
+Figure 67:
+Figure 68:
+Figure 69:
+Figure 70:
+Figure 71:
+Figure 72:
+Figure 73:
+Figure 74:
+Figure 75:
+Figure 76:
+Figure 77:
+Figure 78:
+Figure 79:
+Figure 80:
+Figure 81:
+Figure 82:
+Figure 83:
+Figure 84:
+Figure 85:
+Figure 86:
+Figure 87:
+
+@SMART
+
+View Property INSPECTION ............ccccccccsseeeccceeeeccceenseccuseuscecsesseeeseauscesseueeeesseuseessaauseesaeeseessaaages 21
+View Property PiCtUres ..........ccccccssesccccsseeeccaeeeceecseuscceseeeecesseeseesseauseesseeeecesseuseeesseuseesaeseeesageses 21
+Add Property Picture ........cccccesssscccecceeeeeeeeeeeeeeeeeeaeeeseeeeeeeeeesseeeeseeeeeeeeesseeeesseeeeeeessaaaaaeeeeeeeeeeaaa 21
+VIEW DOCUMENNS ..........ccccccccseeececeeesececaeseeecaeeeeecseneeeeseeeeeesseeeeeesseuseesaaeseeesseuseeessuusessaueeeesaaases 22
+VICW NOTES.......cccccceeccccseeecccneesececaeesecesseeeeeeeeeeeeseeeeeeseeueeesseeeeeeseeusceseeeseeesuauseessseuseesaaeeeesaaages 22
+ACC NOUS .....cccccccsssesseeeeeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeeaaeeeeeeeeeeeeeeeGeeeeeeeeeeeeeeesseeseseeeeeeesaaaeaaseseeeeeeaaaa 22
+AVAT=AWY AN =>, 0\=] ©) H 0) 9) eee 23
+FAN fo Mlb. (oX-] 0) 0 0) 6 | een 23
+VIEW DiSbDUrS@MENKS.........ccccseeseeeeccccceceeeeeeeeeeeeeeesaeeeeeeeeeeeeeessaeeseeeeeeeeeessseessseeeeeeesaaaaasseeseeeesaaa 24
+VICW PayOff .......ccccssessccccccceesaeeeeeeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeessseeseeeeeeeeeeesseeesseeeeeeesaaaaasseseeeeeeaaaa 24
+VIEW TLANSACTIONS .........ccccccseecccceeesececseeeeccceeeeeesseeseccaseeeceeseseeesseuscessaaeecessauseeessuuseesaaeeeesagnses 24
+VIEW CUSTOMER SEPVICE.........cccccccssesccccseeeeccneeeeecseseccssuuecessesceesseuscesaeueecesseuseeesseuseesaueeeesaanses 25
+VIEW LOAN SUMMMALY.........ccccseeeccceeecccceeeeeccceeeeesseuseccsseecesaeeeeeeseeuscessaesecesseuseessaueseesaeeeeesaaases 26
+Edit LOAN SUMMALY ..........cseeessecceeeceeeeeeeeeeeeeeeeeaeeeeeeeeeeeeesaeseeeeeeeeeeeesaaeeaeeeeeeeessaaaaasseeeeeeesaaagaess 26
+ViOW LOAN Detail .........cccccccccsssssscecceceeeeeeesseeeeeeeeeeeeeeeeeeeeeeeeeseeeeeeeeeeeeeeesssaeeseeeeeeeessaaaaaseeeeeeeesaaa 26
+VIEW LOAN FIlING ........ cece ccccccsssssseeececeeeaaeeseeeeeeeeeeaseeeeeeeeeeeeeesaeeeeeeeeeeeeeesseeeeseeeeeeesaaaaeaeeeeeeeeaaaa 27
+Edit LOAN Filing..........cccccccccssseeccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaseeeeeeeeeeeesaeeesseeeeeeeessaaaaaseeeeeeeessaagness 27
+VIEW LOAN RECOFCING .......ccccccsse

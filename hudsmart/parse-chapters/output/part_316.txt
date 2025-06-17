@@ -1,0 +1,423 @@
+
+fo nenet Sts | Brot esc | peas
+
+Tickets by Lender
+
+© HUD Speci
+© HUD Speci
+© HUD Specialist Open Ticket Status
+© HUD Specialist Tickets by Region
+© Open and Close Tickets By Agents
+© Open Tickets By Lender with Notes
+© Reason for Calling Report
+
+© Repeat Calis Report
+
+© Ticket Exception Report
+
+© Tickets by Calt Disposition
+
+© Tickets by Designee
+
+© Tickets by User
+
+Figure 230: Reports — Customer Service Dashboard
+
+Step 2: From the Reports — Customer Service Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report. Click [REPORT IN HTM] to generate a HTML report.
+
+fa Report in Excel 5 Report in PDF G Report in HTM
+
+Figure 231: Generate Report in either Excel, PDF, or HTM
+
+10.2 Director Reports
+
+Step 1: Click [REPORTS] from the top Navigation menu. Select [DIRECTOR REPoRTS] from the
+dropdown.
+
+@ Reports - Director Reports Dashboard
+
+© HUD Montnty Director Report
+
+© HUD Monthly Director Report - Collection Loan program:
+Summary
+
+Fiscal Year:
+© HUD Monthty Director Report - Loan Inventory
+Summary
+
+Figure 232: Reports — Director Reports Dashboard
+
+Step 2: From the Reports — Director Reports Dashboard, click on a report from the left-hand
+menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 99
+
+@SMART
+
+10.3 Servicing/Release Reports
+
+Step 1: Click [REPoRTS] from the top Navigation menu. Select [SERVICING/RELEASE REPORTS] from the
+dropdown.
+
+@ Reports - Servicing/Release Reports Dashboard
+
+Loan program: Select a Loan Program
+Property State:
+Report Start Date >=
+
+Report End Date <- 127062018
+
+Loan Status
+
+© Open Partial Claims With Total UPB
+
+© Open Partial Claims by Servicer [reteset | a=
+Figure 233: Reports — Servicing/Release Reports Dashboard
+
+Step 2: From the Reports — Servicing/Release Reports Dashboard, click on a report from the left-
+
+hand menu.
+
+Step 3: Complete all required fields to generate the report.
+
+Step 4: Click [REPORT IN EXCEL] to generate a report in Microsoft Excel. Click [REPORT IN PDF] to
+generate a PDF report.
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 100
+
+@SMART
+
+11 User Information
+
+11.1 Manage Account
+To view your personal identification and contact information, click your user name from the top
+navigation menu. From this page you can update your account and change your password.
+
+=a & Role: Isc.docmgmtteamlead +
+
+Figure 234: Navigation Menu Links
+
+B User Information (EDIT MODE)
+
+Enforce Two Factor { ya.
+Authentication 2
+
+First Name:
+Last Name:
+
+Enable Alias: No
+
+Account Status:
+
+$| [s} [s} [<} [s} [s
+
+Account Type: HUD Employee
+
+Phone:
+
+Phone Extension:
+
+Fax:
+
+Email
+
+Role:
+
+Manage Password:
+
+Current Password: svvsseese
+
+New Password:
+
+ae
+Figure 235: Example User Information (Edit Mode)
+
+To update your account, follow these steps:
+
+Step 1: Edit your User Information as appropriate.
+Step 2: Click [SAvE] to save your changes or [CANCEL] to abandon the changes.
+
+Instructions on how to change your password are described in Section 2.5.
+
+11.2 Change Roles
+
+Many users are assigned multiple different roles. In order to 2 | & Role: hud.aamin ©
+change between the user roles, click on your [ROLE] in the
+
+top navigation menu. The dropdown menu will show all
+
+. hud.cssupervisor
+your assigned roles. Select the role you want, and the hud.poweruser
+website will automatically update to be viewed as the role hud.servicingsupervisor
+selected.
+
+hud.admin
+
+Figure 236: Example User Role Options
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 101
+
+@SMART
+
+12 Getting Help
+12.1 Tech Support
+
+On each page of the solution, there is a small blue tab on the right side of the screen with a question
+mark. This is our Technical Support function. The Technical Support function enables the user to
+
+contact Help Desk personnel live via a text-based chat conversation.
+
+SMART
+
+Unauthorized Access Warning
+
+| |
+Figure 237: Landing Page
+
+@ Tech Support
+
+Figure 238: Tech Support Tab Open
+
+In order to access this function, follow the steps below:
+
+Step 1: Click the [?] on the blue tab on the right of the screen.
+Step 2: Click [TECH SUPPORT].
+
+® TECH SUPPORT
+
+Your name:
+
+Question:
+
+& Chat Now
+
+Figure 239: Tech Support PopUp
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 102
+
+@SMART
+
+Step 3: Enter “Your Name” and a Question into the popup box. (You may input your email
+address, but that is not required) Click the box next to “I’m not a robot.”
+Step 4: — Click [CHAT Now]
+
+‘® CHAT SUPPORT © End chat 0:21
+ee
+
+Question: need help
+
+We will be with you shortly...
+Figure 240: PopUp Chat Window
+
+Once the chat window is open, a member of the Help Desk team will get with the user as soon as
+possible.
+
+12.2 Solutions to Common Problems
+
+Problems with SMART fall into three categories: internet issues, browser issues, and SMART issues.
+Please follow the steps below to resolve each issue.
+
+12.2.1 Internet and Browser Issues
+
+The Primary characteristic of this issue is a delay when loading a page. At the conclusion of this long
+delay, a message may display indicating there is a problem with internet access. Alternatively, pages
+may seem to load but appear blank. If a page has not loaded or displayed after 30 seconds, please
+follow the steps below.
+
+Note: Not all steps have to be completed; start with Step 1 and keep working until the issue is resolved.
+Once the issue is resolved, skip all remaining steps and return to your training session.
+
+Step 1: Refresh the page using the browser’s [REFRESH] button.
+
+Step 2: _ If the issue still exists, close all browser windows, wait 10 seconds, then open a new
+browser window and return to SMART.
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 103
+
+Step 3:
+
+Step 4:
+
+@SMART
+
+Check your internet connectivity — do other sites display without issue? If so, proceed to
+Step 2. Otherwise, the issue may be that the browser is unable to connect to the internet.
+Check all connections and try again. If the problem persists, contact your network
+administrator or your Internet Service Provider.
+
+Send email to helpdesk@hudnsc.org. Include your email address, your contact
+information, and a description of what happened leading up to and following the issue.
+
+12.2.2 SMART Issues
+
+SMART issues may be errors which display on-screen or situations where data may not be saved
+properly. If you experience either of these problems, please contact Support via email.
+
+Step 1:
+Step 2:
+
+Step 3:
+
+Use [PRTSC] on the keyboard to capture an image of the screen.
+
+Compose a new email message and paste ([CTRL+V} on the keyboard) the screen image
+into the message. Be sure to include your Username, your contact information, a
+description of what module or page you were viewing, and what you were doing (or trying
+to do) at the time the error occurred.
+
+Send the email to helpdesk@hudnsc.org.
+
+12.3 Getting More Help
+
+If you are experiencing technical difficulties, please contact the SMART support team via email at
+helpdesk@hudnsc.org. For general questions and/or class availability concerns, please contact the
+SMART administration team via email at helodesk@hudnsc.org.
+
+When emailing, pleases include as much information as possible relating to the problem, including print
+screen(s) of the error.
+
+12.4 Help Desk
+
+Email Address helpdesk@hudnsc.org
+Phone Number 1-866-657-5893
+Hours of Operation 7am — 7pm CST
+
+Response Time Time to Resolution
+
+Customer Calls Inquiries | As quickly as possible; normally within one (1) minute of the caller’s choice
+Customer Calls Outside Respond no later than 12 noon the next business day
+
+of normal business hours
+
+Customer emails Respond to inquiries no later than 24 to 48 hours of receipt
+
+Customer On-line chat As quickly as possible; normally within five (5) minutes of the caller’s chat
+
+USER MANUAL | LSC.DOCMGMTTEAMLEAD | JUNE 10, 2019 | 104
+
+‘@) SMART
+
+Single-Family Mortgage Asset Recovery Technology
+
+JUNE 2, 2020
+
+This document shall not be disclosed outside of the Government and shall not be duplicated, used or
+disclosed in whole or in part for any purpose other than for HUD training. The data subject to this
+restriction is contained on every page throughout this document.
+
+@SMART
+
+Table of Contents
+
+1
+
+5
+
+SOIULION SUMIMALY.......cccccccccccssssssneeeeeeeceseesnaeeeeeeeeesseeneeeeeeeeeeeeeeeaeaeeeeeeeseeeeaeeeeeeeeeeeeeaaeeeeeeseseseaaaeeeeeeseseeeaaaaeeees 1
+1.1 FOATUIES 2... eece cece eec ccc e eee e cena nett eee ee eee aan EEA eA GEE AAA G nee AeA Gn E EEE AGG HE EA AAG aE ee ec ane ee cca ae eeeaaaaeeeeaaaeeeeaaaeeeeeaaes 1
+Getting Started ....... cc ecccccssssseceececesesesseeeeeeeesseeseeeeeeeeeeeseeeaeeeeeeeeeeeeeaaeeeeeeseeeeeeeeeeeeeeeeeeesaeeeeeeseseeeeaaeaeeeeeeees 2
+2.1  —_ SOFEWALE VELSION oo. eeeeceeeteeeeeeeeeeeee teen etn E EEE EEE E EEE E LEELA AEE A EAE E EGE A GEESE GAGES EGE aaa aaa 2
+2.2 —-_ SOIUTION REQUIPFEMENHS ..........ccceeeescccccceeceeeeeeeeeeeeeeaaeeeeeeeeeeeeeeseeeseeeeeeeeeessaaeesseeeeeeessaaaasseeeeeeeeeaaa 2
+2.3 LOSSING ON... ccc cseecccccseeecccneeeececeeeeeeeeeeeeeeeaeeeeeeseeeeeeeseeeeeeeseeeeesseueeeeaeuseeesseuecesseueessaeuseesseesessages 2
+2.4 — SOIUTION M@NU 0... eeeeeeeeeeeeeeeeeeeee eee eeee nent nnn n nnn EEE EEE EAE AEA E EEE E AGG G EES E EEA a aaa 4
+2.4.1 My Dashboard... eeecesccceesseeeeeesececcesceeeeesaeeeceeaeeesesaeeeceesaeeeceeaaeeesesaeeeeseaeeeseeaeeeesenaeeeseeaeeeseneeeess 5
+2.4.2 LOAN ANA Mail........ccccccccccccsssessneeccceceeeeesneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeaeeeeeeeeeeeeeaaeeeeseseeeeeaaea 5
+2.4.3 SOPVICING........eeeeeeeeeesseeseeeeeeeeeeeeeeeeeeeeenenEEEE SEES EEEEED EEE; EEEES ESE EDSSSSSSDSS DSSS SSO S SOSA OOOO OOOO OOOO OOOO SOOO OOOO OOOO OOO OOOOOOOES 5
+2.4.4 Mortgage RElease..........ecsecccessceccsesneeecesneeeeseeeeecesnaeeeeseaeeecesaeeeceeeeeesesaeeeseeaeeeseeaeeeesenaeeeseeaeeeseneeeess 5
+2.4.5 Cash Management ............cccceessceceseseceecesneeeeeeseeeceeaeeesesaeeeceeaeeecesaaeeeseaeeesseaeeeseeaeeeesenaeeeseeaeeesenaeeeess 5
+2.4.6 CUSTOMERS SELVICE 0... cess eeeeececeeceaeeeeeeeeeeeeeaaeaeeeeeececeauaaeeeeeeeeeeaaaaaeeeeeeecaauaaeeeeeeeeeeauaaeeeeeeeeeeaaaaeeeeeees 5
+72 Ee A 3 \-) 0 0) 0 Sep EEE EEEEEEEEEEEESEEEETSESTSTESTOSESSOSEEESOSOSOOOSOOOSSOOSOOOSOOOOOOOSOOOOOOOOOOOTOOOOOOSOOOOOOSSOOSSOOOOOOOOOOOOOOSOOOOSOOOOOOOTOOOO® 5
+2.4.8 User Information and Roles ..........ccccccsessscccccceesessnneeeeeeceessseseeeeeeceeeseeeseaeeeeeeeeseesseeeeeeeeseeeeaeeeeeeseseeeaaea 5
+2.5 CHANGING PASSWOM..........cccccccccsssseeeeeeeeeeeeeeseeeeeeeeeesaeeeeeeeeeeeeeesaeeeeeeeeeeeesssseeseeeeeeeeesauaaaeseeeeeeeeaaa 6
+2.5.1 Forgot Password (Recover PaSSWOId)........ccccccssssssseeccccesssesseeeeceeeseseeneeeeeceeesseeseeeeeeeeseeeeaeeeeeeceseeeeaaea 7
+V2 oa =>, <1 ese) (01d (0) 9 PRP 7
+Using My Dashboard ........ccccccccccccssssssseeeccccsssessneeeeeeeeeseeeseeeeeeeeeeeeeeeeeeeeeeeseeesaeeeeeeeseeeeeaseeeeeeeeseeeaaaeeeeeseeeeenaes 8
+3.1 My LOANS .......ccccceeecccccseeecccneecceeeeeeeeeaeeeeeeeaeeeeeesseeeeeeaeeeeeeeseeeeeeseeueeesaeaseeessaueeeeseueeesauscessueeseesages 8
+3.1.1 Pin Loan to My Loans Dashboard ............ecceeessceeeesseeeeceseeeceeaeeeceeeeeceesaeeeeeeaeeesesaeeeeeenaeeeseeaeeeseneeeess 8
+3.1.2 Unpin Loan from My Loans Dashboard...........ceccceeesecceeesseeeceeseceeeeeeeeeeesaeeeeeesaeeesesaeeeceenaeeeseeaeeeseneeeess 9
+3.2 MY TICK@tS 0... eccceececcccceeeeeeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaeeeeeeeeeeeeeeeaseeeeeeeeeeeessaaeeesseeeeesesaaaeaaseeeeeeeeeaaa 10
+3.2.1 Pin Ticket to My Tickets DaShboard...........ceeesecccesseeeecesneeeeseeaeecesenaeeecesaaeecsesaeeeceeaeeecesaeeeeseeaeeeseeaaees 10
+3.2.2 Unpin Tickets from My Tickets Dashboard ...........csccccessececeesseeeeeeseeeeeseeeeeeeaeeeeseaeeecesaeeeesenaeeeeseaaees 11
+Using the Loan Module & Mail ........ccccccccccccsssssscceccccessesnseeeeeceseseseneeeeeeeeesseeeseeeeeeeeeseeesaeeeeeeeesseeeaeeeeeeeeseneaaes 12
+72 Fas SY =X | 0) 9 12
+4.1.1 Loan Search — Production Database ............ccssccccccccssssssseeeecccessessneeeeceeesseesneeeeeeecesseenaaeeeeceeeseesaaeeeees 13
+4.1.2 Loan Search — Legacy Database............eecccceesscccesesneeeceeneeeeeeseeeeeeaeeeceeaeeesesaeeeeeenaeeeesenaeeeeeseeeeseneeeess 13
+4.1.3 Loan Search — DAT C Database... eecccsssssccccccesssssneeeecccessessnseeeececeseeesaeaeeeeceseseeaaeeeeeeeseeenaaeeeess 14
+4.1.4 Search RESUItS .........cccccessscccccccesssesneeeeeeeeessseseeeeeeeeeeeseseeeeeeeeeeeeeeaeeeeeeeeeeeeeaaaeeeceseeeeesuaeeeeseseeeeeaaeeneees 14
+4.2 PMC QUeUC 2... eeeeceecce cece eeeeeeeeeeeeeaaaeaeeeeeeeeeeeaaaaeeeeeeeeeeaaaaaaaeeeeeeeeeaaaaaeeeeeeeeeeaaaaaaeeeeeeeeeeaaaaaaes 16
+4.3 Accessing Detailed Loan Information ............cccccsscsssccccccccseeesseeeceeeeseaeeesseseceeeessaaasseeeeeeesesaaaaasss 17
+4.3.1 Access Details of Partial Claim Loan ReCOrdS ............ccsesssscccecesssssnceeeccceseessneeeeececeseeesaseeeeeeeeseeeaaeeeees 18
+4.3.2 Access Details of PMM Loan ReCOIdS ..........sssssccccccessssssseeeececesesesnseeeececesseesaaeeeececesseeaseeeeeeesseesaaeeeess 25
+4.3.3 Access Details of Secretary Held Loan RECOIdS ............sccccsesseecesesneeeeeeneeeeeesaeeeeeenaeeeceesaeeeeeseeeeseneeeess 30
+4.3.4 Access Details Of H4H Loan RECOIS............cssscccccccesssessneeeececesseesnseeeececeseeeseeeeeecceeseeaaeeeeeceeseeeaaeeeess 39
+4.3.5 Access Details of EHLP Loan R@COrdS...........csssscccccccssssssneeecccesseesneeeeccceseeeeeaeeeeceeseeenaseeeeeeseseenaaeeeees 45
+4.3.6 Access Details of Default Loan RECOIdS .........c:ccccccccssssssstececcccseeesneeeecceesseeseaeeeeceesseesaaeeeeceseseeesaaeeeees 52
+4.3.7 Access Details of HECM-Assured Loan RECOIdS...........cssssccccccessssssseeeecccessessneeeeeeccesseesaseeeeeeeeseesaaeeeees 59
+4.3.8 Access Details of HECM-Insured & SF Data Request Loan ReCOrdS. ...........:scccceeseceeeeeseeeeesneeeeeeteeeess 66
+4.4 ee 71
+4 A1L  NCF QUQUC 2... cence eeeceeeeeeaeeeeeeeeeeeeeaaeaaeeeeeeeeeeaaaaeeeeeeeceaaaaaeeeeeeceeaaaaaeeeeeeeeeaaaaeeeeeeeeeaaaaeeeeeeeeeeaas 71
+4.4.2 DOCUMENT WIZAIC..........cccccccccccssssssseeeeececessesseeeeeeeeseseeseeeeeeeeeeseeeaeeeeeeeeseeesaeaeeeeeceeseeaseeeeeeesseeeaaaneess 72
+Using the Servicing MOUIEC............ccssccccccccesssssnneeececceesesseeeeeeeeeseeenseeeeeeeeeseeeaeeeeeeeeeeeeeeaaeeeeeeseeeeesaeeeeeeeeseeeeaaes 73
+ioe MS <T- 1 0) 9 eee 73
+5.1.1 Searching for Loans with Servicing HistOry ...........ccccceseseceeeesneeeeeeseeeceseeeeeesaeeeseeaeeeceseeeesenaeeeseeaaees 73
+5.1.2 Searching for Loans without Servicing HiStOry ............ccescccceesseeceeesneeeeeeeeeeeeesaeeeeeenaeeecesaeeeesetaeeeeeeaaees 74
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | i
+
+6
+
+9
+
+@SMART
+
+bo oS =1 2 ( | 0) 24 I=) © en 75
+5.2.1 View an Active Servicing ACtiVILY ........... ce eessssssssessseesseesseessesseseseeeeteeeeeeesssesess assesses ese eA Os SESS OE OOS O OOO OEOES 77
+5.2.2 View an Inactive Servicing ACtiVItY ........... cs eessssssssseesssssessereeseeeseeeeeeeeeeeeeeeesessseseeees ae sO SSO OSS EOS OO OSE O OOOO 77
+5.2.3 Add New Servicing Activity...........ececccesssccccessseeeeesceeceeneeeceesaeecesenaeeeceseeeeeesaeeesseaeeesesaeeeeseeeeeseeaates 78
+5.2.4 Add Servicing Steps..........eeeescceceesncceceeseeeeeeeeeeceesaeeeceeaeeeeeeaeeeesenaeeesesaeeeceesaeeessenaeeeeesaeeeesesaeeeeeeaaees 79
+5.2.5 Service ManageMe nt ............eeeesesessssssssessssseeesseeesseeeeseeeeeeeeeeeeeeeeeeessss ses A ASO S AAA SA OOO OO OOOO SOOO OO OOOO OOOO OOO OOOES 79
+5.2.6 Inactivate Servicing ACTIVITY .............eeeeesseeseeeeeesteeseeseseeeeeeeeeteeeeeeeeeesssssse essa sees SA es aAA Sa ASA ASO AO SAO E SOOO OOOO OEE 80
+5.2.7 VIEW NOteS ..... eee eeeessseseeeeeeeeeeeeeeeeeeeeeeeeeeeeneeneneeSSnSSSSS SESE E SESE SSSS DSSS SESS S DSSS OOOO OOOO SOO OO OOOO OOOO OOOO OOOO OOOO OOO OO NOES 80
+5.2.8 Edit Servicing Step 0... eeeeseceeesneeeceeseeeeeeeaeeeeeesaeeeceeaaeeeseeaeeeeseaeeeeesaaeeeeeaeeeseeaeeeseeaeeeesenaeeeeeeaaees 81
+5.2.9  Inactivate Servicing Step .......... eeeeeseeeesesseeeeessesessseeeeseeeeeeseeeeeeeeeseesss esses sees SOO SAO OOO OOOO OOOO OOOO SEES OOOO OOOO EOE 81
+Using the Bankruptcy MOdule.........ccccccccccccsssssssccccccessessseeeeeeeeeeseeseeeeeeeeeeseeseeeeeeeeesseeaeeeeeeeseseeeaeeeeeeceseeeeaaea 82
+
+(ope Ma 3-1 01,400) ©1002 I~] 0 en 82
+6.1.1 View an Active Bankruptcy Activity ...........eeeeeceeeseceecesneeeeeeeeeeeeenaeeeeesaeeeeeesaeeecseaeeecesaeeeesenaeeeseeaaees 83
+6.1.2 View an Inactive Bankruptcy ACtivity..........eeeecceeeseceeceeseeeeeeeeeceeenaeeecesaaeeeeesaeeeceeaeeesesaaeeeeenaeeeeeeaaees 83
+6.1.3 Add New Bankruptcy Activity... eeeseccceesseeeeesaeeeceeneeeeeesaeeecsesaeeecesaeeeeseeaeeeseenaeeeseeaeeeeseeaeeeeeeaaees 83
+6.1.4 Add Bankruptcy Steps... eeecceseseccccesseeeeeseeeeeeeaeeeceeeeeeeseaeeeceeaeeeseeaeeeceeeaeeeseeaeeeeesaeeeeseeeeeseeaaees 84
+6.1.5 Bankruptcy Management............cceseccccesseeeeeesneeeeeesaeeeceenaeeceeeaeeeceeaeeesesaaeeeseaeeeseenaeeeseeaeeeesenaeeeeeeaaees 86
+6.1.6 —Inactivate Bankruptcy ACtiVity......... ce eesecceeesseeeeeesaceeceeneeeeeesaeeeeeenaeeeeesaeeeeseaeeeseeaeeeseeaeeeesenaeeeeeeaaees 86
+6.1.7 Reactivate Bankruptcy Activity .........eeeeeeeesceeceeseeecesneeeecesaeeeesenaeeeessaaeeeseeaeeeseeaeeeseeaeeeesenaeeeeeeaaees 87
+6.1.8 VIEW NOteS ......eeeeeeseseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeSeeeSeSSS SESS SEES SDS ES DSSS DSSS SSDS DSSS OOOO OOOO SOAS SOOO OOOO OOOO OOOO OOOO OOO OOES 87
+6.1.9 Edit an Original Bankruptcy Step... eeeeeeeescceeeesnceeceeneeeeeesaeeeceesaeeecesaaeeesesaeeeseeaeecsesaeeeeseeaeeeseeaates 88
+6.1.10 Edit a New Bankruptcy Step... eeccceeseceeessneeeeeesaeeeceeneeeceesaeeceseaeeesesaeeeesesaeeeseeaeeesesaeeeesenaeeeeeeaaees 88
+6.1.11 Inactivate Bankruptcy Step ....... eee eeecceeesceeeeesneeeeeesaceecesaeeeeesaeeeeseaeeesesaeeeeeetaeeesseaeeeceeaeeeesenaeeeeeeaaees 89
+Using the Foreclosure MOUle ........cc:ccccccccssssssstccecccceesesneeeeeeceeseeeseeeeeeeesseeeaeeeeeeseeeeesaaeeeeeesseseeaeeeeeceeseeeeaaea 90
+
+7.1 ForecloSure Tab .........eeeeeecccceeeceeeeeeeeennaeeeeeeeeeeeeeaaaeeeeeeeeeeeeeaaaeeeeeeeeeeeeeaaaaeeeeeeeeeeeeaaaaeeeeeeeeeeeeaaaaes 90
+7.1.1 View an Active Foreclosure ACtiVity..........:cccecescccceesneeeceeseeeceeeaeeeeeenaeeeseeaeeeeeeeaeeeseeaeeeeesaeeeeseeaeeeeeeaaees 91
+7.1.2 View an Inactive Foreclosure ACtiVity ...........cecccceeseceecesseeeeeeseeeeeenaeeeceeaeeeceesaeeeceeaeeeceeaeeeeeeeaeeeseeaaees 91
+7.1.3 Add Foreclosure Steps .........cesscccceeseceeeeseeeeeeeaceeceesaeeecesnaeeceseaeeeesesaeeecesaaeeesesaeeesseaeeesesaeeeesenaeeeeeeaaees 91
+7.1.4 Foreclosure Management ..........:ccessccccsssceeesesnceeeeesaeeeceeeeeceeeaeeceseaeeeseeeeeeeesaeeeseeaeeeeesaeeeeseneeeseeaaees 92
+7.1.5 — Inactivate Foreclosure ACtiVItY .0....... ec eeeeeccceesseeeeeeeeeeceeeeeeeeeaeeeeeenaeeeeeeaeeeeseaeeeseeaeeeeeeaeeeesenaeeeeeeaaees 92
+7.1.6 Reactivate Foreclosure ACtivity ..........ceeccceeesseeeeeesceeeeeneeeeeeeaeeeeeeaeeeeesaeeecseeaeeeseenaeeesesaeeeeseeaeeeeeeaaees 93
+7.1.7 — ViOW NOtES 0... eeeeeeeeeseseeeeeeeeeeeeeeneeeeeeenenneneeeneeneneSS SSS; S SESS SS SSDS DSSS SSO SOOO SSSA SOOO OOO OO OOO OO OOOO OOOO OOOO OOO OOOOOOOOES 93
+7.1.8 Edit Foreclosure Step ........ceeeseccceeseeceeesseeeeeeeeeeeeesaeeecesaeeeeeeaeeeesenaeeeseeeeeeeesaeeeseeaeeesesaeeeeseneeeeeeaaees 93
+7.1.9 — Inactivate Foreclosure Step.........eeeeccccssseeeeesseeeeeesaceecesneeeceesaeeeeeeaeeeceeaeeeeseeaeeesseaeeecesaeeeeseeaeeeseeaaees 94
+Using the Mortgage Release MOdule............cccssssscccccssssssseceeceeeseeeseeeececesseeeeeeeeeeeseesesaeeeeeeseeseeaaeeeeeeeseeeeaaea 95
+
+8.1 —»-_ Mortgage S@arch .........cccccccccsssssseeeeceeeeeaeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeaeeeeeeeeeeeeeesaeeeesseeeeeeesaaaeaaeeseeeeeaaaa 95
+8.1.1 Searching for Loans with Mortgage Release HIStory ..........::cceesececeesseeeeeeseeeceeeeeeseeaeeeceesaeeeseeneteeseeae 95

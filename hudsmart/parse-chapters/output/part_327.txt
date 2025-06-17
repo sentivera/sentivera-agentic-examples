@@ -1,0 +1,656 @@
+020 | 81
+
+@SMART
+
+6 Using the Bankruptcy Module
+
+6.1 Bankruptcy Tab
+
+Once the Loan record is open, the Bankruptcy Module is found on the Bankruptcy Tab. If mortgage
+bankruptcy activity has been initiated for a Loan, the Bankruptcy tab in the Loan Record window will be
+highlighted in light blue and will display the current bankruptcy activity of that Loan.
+
+Loan Summary Loan Detail’ Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release = Exceptions © Servicing
+
+@ Bankruptcy
+
+B.Chapter 7 (A)
+
+Scheduled Date | = ActionDate §= | CreatedBy = | Create Date =|, | ChangedBy = |= Change Date =, | Status
+
+BiChapter 12 ()
+
+ed 021162018 0211672018
+
+02/16/2018 o2212018 o2re2018
+
+02/21/2018 027162018 @ Eait tem
+
+03182018, 02162018
+
+04172018 02162018
+
+Figure 180: Bankruptcy Tab (Partial Claim)
+
+: Exports the data from the table into an excel
+E E ] Bi Excel
+xport to Exce (= spreadsheet.
+Export to PDF BiPDF Exports the data from the table into a .pdf file.
+Print Displays the data from the table into a printable page.
+Add Bankruptcy Adds a new Bankruptcy Step to the Bankruptcy
+Steps Activity selected for the Loan.
+Bankruptcy View the information for the Bankruptcy Activity
+Management selected for the Loan.
+View Notes BW View Notes ae you to the Notes tab for the loan. See Section
+Search search Search and filter the page by specific keywords. The
+main table will filter based off of the keyword search.
+
+Table 6: Data Table Buttons
+The following Bankruptcy Activities apply to all loan programs: Chapter 7, Chapter 11, Chapter 12, and
+Chapter 13. HECM-Assigned, HECM-Insured, and SF Data Request is read-only and the user can not add
+
+new Bankruptcy Activities for these loan programs.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property Inspection Transactions ‘Documents. Notes Mortgage Release Exceptions — Servicing Foreclosure Customer Service
+
+@ Bankruptcy
+
+Bankruptcy Activity
+
+BAad Chapter 7
+
+Figure 181: Bankruptcy Tab — No Bankruptcy Activity (235-Insured)
+If there is no Bankruptcy Activity recorded for the loan, there will be no Data Table displayed on the
+
+right side of the Bankruptcy tab (see Figure 9). The Bankruptcy Activity data table will display on the left
+with all of the Bankruptcy Activities displayed with a blue plus mark (&).
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 82
+
+@SMART
+
+6.1.1 View an Active Bankruptcy Activity
+
+In the Bankruptcy Activity table, a green document icon (&) and (A) means that the Bankruptcy Activity is
+Active. The active Bankruptcy type will open with its timeline displayed in the main data table. See
+Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Loan Summary Loam Detail Loan Filing Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Drsburse Bankruptcy Activity
+© Bankruptcy
+
+Ooo = Bi Chapter 7 (A)
+Bi.Chapter 7 (A)
+over — _— ——n mn E Chapter 12 (I)
+ean me - prevevn Add Chapter 7
+fi Add Chapter 12 Bankruptcy Discharged 02/16/2018 0221/2018 02/16/2018
+BiAdd Chapter 13 Proof of claim fled oz2u2018 02/16/2018
+: Add Chapter 11
+Powe Cur Race oe wore | Add Chapter 12
+Figure 182: Active Bankruptcy Activity
+(Chapter 13 — Partial Claim) Add Chapter 13
+
+6.1.2. View an Inactive Bankruptcy Activity
+
+In the Bankruptcy Activity table, a grey document icon (8) and (1) means that the Bankruptcy Activity is
+Inactive. The active Bankruptcy Activity will open with its timeline displayed in the main data table. See
+Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Loon Summary || Leen Dou || LeunFaing ][ Loon Recersing )[ Bonne || Preoory epecton || Documents Sa =a. fo! Bankruptcy Activity
+@ Bankruptcy
+Chapter 7 (A
+DD Ic E Chapter 7 (A)
+GB Chapter 7 (A)
+soueaw Bankruptcy Stops Schedule ‘Acton Date =] Chapter 12 (I)
+
+Contato of Pan Statameat of een consc0%8
+€ Add Chapter7
+apter 7
+Baad Chi 2 Bankruptcy Filed 02162018 02/162018 Pp
+Add Chapter 13 Bansruptcy notification is recewed 02/21/2018 027162018
+Add Chapter 11
+
+Figure 183: Inactive Bankruptcy Activity
+
+Add Chapter 12
+(Chapter 12 — Partial Claim)
+
+Add Chapter 13
+
+6.1.3. Add New Bankruptcy Activity
+
+In the Bankruptcy Activity table, a blue plus box (&) means add new Bankruptcy Activity.
+
+Step1: Click on the blue plus box (&) for the Bankruptcy Activity.
+Step 2: Inthe add screen for that Bankruptcy Activity, complete all the required fields.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents Notes Mortgage Release Exceptions Servicing ‘Foreclosure Disbursements Payot! Transactions Customer Service
+
+B Bankruptcy Management (ADD MODE):
+
+Ls
+New Bankruptcy Management Information
+Bankruptcy Filed Date: {oarawao18 v
+Status { Actve “|
+state
+case Nn
+Dist Selec a0
+vio File
+Contested Acto Jo Cone
+
+Figure 184: Add New Bankruptcy Activity (Chapter 7 — Partial Claim)
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 83
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+Bankruptcy Activity
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents Notes Mortgage Release Exceptions — Servicing Foreclosure Disbur
+
+ried o2282018 ozzaa0is 018 & Chapter 7 (1)
+aoscore czesnore Add Chapter 7
+Proof Cam Record oxaoaore TEST Add Chapter 11
+Figure 185: New Bankruptcy Activity Added Add Chapter 12
+(Chapter 7 — Partial Claim) Add Chapter 13
+
+The new Bankruptcy Activity will display in the Bankruptcy Activity Table located on the left and all
+information and timeline inserted in the add screen will save in the main table and the Bankruptcy
+Management screen. Any existing active bankruptcy activities will change from active to inactive.
+
+An auto-note and auto-exception will generate if the user creates a new Chapter 7, Chapter 11, or
+Chapter 13. An auto-note and auto-exception will not generate if the user creates a new Chapter 12.
+
+Notes; HECM-Assigned, HECM-Insured, and SF Data Request are read-only and new Bankruptcy
+Activities cannot be added for these loan programs.
+
+6.1.4 Add Bankruptcy Steps
+
+A predefined template of Bankruptcy Activity steps is generated for a loan when the user adds a
+Bankruptcy Activity. Various additional Bankruptcy activity steps are also available and may be added as
+needed.
+
+Step 1: Click on the [ADD BANKRUPTCY STEPS] button.
+
+Step 2: Complete all required fields.
+
+Loan Summary Loan Detail Loan Filmg Loan Recording Borrowers Property Inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Disbursements Payoff Transactions Customer Service
+
+A Bankruptcy Steps (ADD MODE)
+
+Brusxx #¢ f, &@&& Qu Be EE = 9 B\k See Te
+
+Figure 186: Add New Bankruptcy Step (Chapter 7 — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 84
+
+@SMART
+
+The new Bankruptcy step and all information inserted in the add screen will display in the correct
+Bankruptcy Activity’s timeline. If the user inserts a note into the Note field, then a Bankruptcy note will
+generate in the notes tab.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 85
+
+@SMART
+
+6.1.5 Bankruptcy Management
+
+The Bankruptcy Management button offers a general summary of the Bankruptcy template and permits
+the user to update the status of the selected Bankruptcy template.
+
+Step1: Click on the [BANKRUPTCY MANAGEMENT] button.
+Step 2: Complete all required fields.
+
+B Bankruptcy Management (EDIT MODE)
+
+Bankruptcy Management For Chapter 7
+
+Figure 187: Bankruptcy Management (Chapter 7 — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Bankruptcy management information will display in the main table and the Service
+Management screen. If an edit is made to the Contested Action Concluded field, then an auto-note will
+generate into the Notes Tab.
+
+6.1.6 —_Inactivate Bankruptcy Activity
+
+The status of Bankruptcy Activities may be changed to inactive if the user added them in error or if they
+are no longer applicable for the loan.
+
+Step1: Select Bankruptcy Activity to inactivate and click on the [BANKRUPTCY MANAGEMENT]
+button.
+Step 2: From the status column, select “Inactive”.
+
+® Bankruptcy Management (EDIT MODE):
+
+Bankruptcy Management For Chapter 7
+
+state.
+
+Figure 188: Bankruptcy Management (Chapter 7 — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Bankruptcy tab. The selected Bankruptcy Activity will now display
+with a grey document icon (8) and (I) in the name.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 86
+
+@SMART
+
+6.1.7. Reactivate Bankruptcy Activity
+Step1: Select Bankruptcy Activity to reactivate and click on the [BANKRUPTCY MANAGEMENT]
+button.
+Step 2: From the status column, select “Active”.
+
+B Bankruptcy Management (EDIT MODE):
+
+Pre [cane] i Status: Inactive
+
+Active
+
+Bankruptcy Management For Chapter 7
+
+Figure 189: Bankruptcy Management (Chapter 7 — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Bankruptcy tab. The selected Bankruptcy Activity will now display
+with a green document icon (&) and (A) in the name.
+
+6.1.8 View Notes
+
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+doo ee Se | LNT | cee soe
+
+19
+0145.00 PM EST
+oannz019
+11.00.55 AM EST
+03082019
+02.1532 PMEST
+oxn62019
+11.1932 AM EST
+
+03062019
+111506 AM EST
+
+Mortgage Release Activity @& rssres
+
+018
+045513 PMEST
+
+01.2030 PM EST
+
+oxozors
+0433.05 PM EST
+
+127262018
+1228-40 PM EST
+
+Gf 7se535
+
+s2212018
+12.0335 PM EST
+
+Ato Note 12212018
+120315 PMEST
+
+Figure 190: Notes Tab (Partial Claim)
+
+To go back to the Bankruptcy Tab, click on [BACK TO BANKRUPTCY].
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 87
+
+@®SMART
+6.1.9 Edit an Original Bankruptcy Step
+
+The Edit Item action permits the user to update the status of the selected Bankruptcy step when there is
+a need for an update or change.
+
+Step 1: = Click on [EpIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+B Bankruptcy Steps (EDIT MODE).
+
+Bankruptcy Steps For Proof of claim filed
+
+Figure 191: Edit Bankruptcy Step (Chapter 7 — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Bankruptcy step and all edited information will display in that timeline’s step.
+
+For a Chapter 7, Chapter 11, and Chapter 13 Bankruptcy, if the user saves the action date for any of the
+original bankruptcy steps below, then an auto-note will generate.
+
+e Proof of Claim Filed
+
+e Proof of Claim Recorded
+
+For a Chapter 12 Bankruptcy, if the user saves the action date for any of the original bankruptcy steps
+below, then an auto-note will generate.
+
+e Bankruptcy Filed
+
+e Proof of Claim Filed
+
+e Proof of Claim Recorded
+
+6.1.10 Edit a New Bankruptcy Step
+
+Step 1: = Click on [EpIT ITEM], located in the actions column of the main table.
+Step 2: Complete all required fields.
+
+® Bankruptcy Steps (EDIT MODE):
+
+“J
+
+Scheduled Date 2212018 v |
+
+Figure 192: Edit Bankruptcy Step (Chapter 7 — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The edited Bankruptcy step and all edited information will display in that timeline’s step.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 88
+
+@SMART
+
+If the user saves the action date for any of the original bankruptcy steps below, then an auto-note will
+generate.
+
+e Bankruptcy Discharged
+
+e Bankruptcy Dismissed
+
+e Contested Action
+
+e Ordered Missing Mortgage/DOT
+
+e Write Off Requested/Approved
+
+If the user saves the action date for any of the new bankruptcy steps below, then an auto-exception will
+generate.
+
+e Bankruptcy Discharged
+
+e Bankruptcy Dismissed
+
+e Contested Action
+
+Loan Summary Loan Detail Loan Filing Loan Recording ‘Borrowers Property Inspection Documents Notes Mortgage Reease EPIRA serving Foreclosure ankruptcy Disbursements Payot Transactions Customer Service
+
+A Exceptions
+
+em Jos To]
+
+Figure 193: Auto-Exception Generated (Chapter 7 — Partial Claim)
+
+6.1.11 Inactivate Bankruptcy Step
+The status of Bankruptcy steps may be changed to inactive if the user added them in error or if they are
+no longer applicable for the loan.
+
+Step1: Click on the [EpiT ITEM] link for the desired Bankruptcy step.
+Step 2: From the status column, select Inactive.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Documents Notes Mortgage Release Exceptions Servicing Foreclosure Desbursements Payoff Transactions. Customer Service
+
+B Bankruptcy Steps (EDIT MODE)
+
+Inactive
+
+Figure 194: Inactivate Bankruptcy Step (Chapter 7 — Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+This directs the user back to the Bankruptcy tab. The selected Bankruptcy step will now display a grey
+inactive button in the status column.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 89
+
+@SMART
+
+7 Using the Foreclosure Module
+
+7.1 Foreclosure Tab
+
+Once the Loan record is open, the Foreclosure Module is found on the Foreclosure Tab. If mortgage
+Foreclosure activity has been initiated for a Loan, the Foreclosure tab in the Loan Record window will be
+highlighted in light blue and will display the current Foreclosure activity of that Loan.
+
+Loan Summary Loan Detail Loan Filing = Loan Recording “Borrowers. © Property inspection Documents Notes. «= Mortgage Release = Exceptions Servicing
+
+© Foreclosure
+
+= oo00
+
+‘BForectosure (A)
+
+Changed By
+
+Request to HUD to assign commissioner o2ni62018 o22e2018 & Esit item
+
+& Edit item
+
+o2ea2018 o2n62018 Of Eait item
+
+022572018 022772018 02162018 02282018 O Esit item
+
+31072018 o2nez018 & Esit tem
+
+o4oarz018 oze2018 & Edit item
+
+oa2a2018 o2ne2018 OF Eait tem
+
+oazaz018 o2ne2018 & Esit item
+
+05042018 o2ne2018 & Ecit item
+
+95/08/2018 o2ne2018 OF Edit item
+
+06/162018 o2r62018 Gf Eait item
+
+Figure 195: Foreclosure Tab (Partial Claim)
+
+: Exports the data from the table into an excel
+E | Bi Excel
+Export to Exce (= spreadsheet.
+Export to PDF Exports the data from the table into a .pdf file.
+Print © Print Displays the data from the table into a printable page.
+Add Foreclosure |) Add Foreclosure Spe | Adds a new Foreclosure Step to the Foreclosure
+Add Foreclosure Steps
+Steps Activity selected for the Loan.
+Foreclosure View the information for the Foreclosure Activity
+Management selected for the Loan.
+View Notes Takes you to the Notes tab for the loan. See Section
+3.2.8.
+Search search Search and filter the page by specific keywords. The
+main table will filter based off of the keyword search.
+
+Table 7: Data Table Buttons
+
+HECM-Assigned, HECM-Insured, and SF Data Request is read-only and the user can not add new
+Foreclosure Activities for these loan programs.
+
+Loan Summary Loan Detail Loan Filing Loan Recording Borrowers Property inspection Transactions Documents Notes Mortgage Release Exceptions Servicing Bankruptcy Customer Service
+
+@ Foreclosure
+
+Badd New
+Foreclosure
+
+Figure 196: Foreclosure Tab — No Foreclosure Activity (235-Insured)
+
+If there is no Foreclosure Activity recorded for the loan, there will be no Data Table displayed on the
+right side of the Foreclosure tab (see Figure 9). The Foreclosure Type data table will display on the left
+with all of the Foreclosure Activities displayed with a blue plus mark (&).
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 90
+
+7.1.1 View an Active Foreclosure Activity
+
+In the Foreclosure Activity table, a green document icon (&) and (A) means that the Foreclosure Activity
+is Active. The active Foreclosure Activity will open with its timeline displayed in the main data table.
+See Table 3 for a description of the buttons that display on top of the main Data Table.
+
+Foreclosure Activity
+
+B Foreclosure (A)
+
+ee oc
+
+@ Foreclosure
+
+BForectosure (A)
+
+Request to HUD to a:
+
+canes 02/16/2018
+
+o2232018 o2ne2018
+
+3102018 02/16/2018
+
+o2i62018
+
+Ee
+SZ Eaten
+
+Figure 197: Active Foreclosure Activity (Partial Claim)
+
+7.1.2. View an Inactive Foreclosure Activity
+
+In the Foreclosure Activity table, a grey document icon (8) and (I) means that the Foreclosure Activity is
+Inactive. The active Foreclosure Activity will open with its timeline displayed in the main data table. See
+Table 3 for a description of the buttons that display on top of the main Data Table.
+
+7.1.3. Add Foreclosure Steps
+
+A predefined template of Foreclosure Activity steps is generated for a loan when the user adds a
+Foreclosure Activity. Various additional Foreclosure activity steps are also available and may be added
+as needed.
+
+Step 1: Click on the [ADD FORECLOSURE STEPS] button.
+Step 2: Complete all required fields.
+
+B Foreclosure Steps (ADD MODE):
+
+New Foreclosure Step
+Foreclosure Step: Select a Forecio
+
+sonure Step x |
+“)
+caava0%s Y)
+
+BIrUusSxe I, & @ @ Qa) MS Sekeeaeere
+
+4 ei 99
+Format + | Font + | See ‘A Olen MiamMeonn
+
+Figure 198: Add New Foreclosure Step (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Foreclosure step and all information inserted in the add screen will display in the correct
+
+Foreclosure Activity’s timeline. If the user inserts a note into the Note field, then a Foreclosure note will
+generate in the notes tab.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 91
+
+@SMART
+
+7.1.4. Foreclosure Management
+
+The Foreclosure Management button offers a general summary of the Foreclosure template and permits
+the user to update the status of the selected Foreclosure template.
+
+Step1: Click on the [FORECLOSURE MANAGEMENT] button.
+Step 2: Complete all required fields.
+
+Foreclosure Management
+
+Figure 199: Foreclosure Management (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The new Foreclosure management information will display in the main table and the Service
+Management screen.
+
+7.1.5 — Inactivate Foreclosure Activity
+
+The status of Foreclosure Activities may be changed to inactive if the user added them in error or if they
+are no longer applicable for the loan.
+
+Step1: Select Foreclosure Activity to inactivate and click on the [FORECLOSURE MANAGEMENT]
+button.
+Step 2: From the status column, select “Inactive”.
+
+B Foreclosure Management (EDIT MODE):
+
+Inactive
+
+Figure 200: Foreclosure Management (Partial Claim)
+
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Foreclosure tab. The selected Foreclosure Activity will now display
+with a grey document icon (8) and (I) in the name.
+
+SMART USER MANUAL | LSC.DOCMGMTSUPERVISOR | VERSION 1.43.0 | JUNE 2, 2020 | 92
+
+@SMART
+
+7.1.6 | Reactivate Foreclosure Activity
+
+Step1: Select Foreclosure Activity to reactivate and click on the [FORECLOSURE MANAGEMENT]
+button.
+Step 2: From the status column, select “Active”.
+® Foreclosure Management (EDIT MODE):
+
+Foreclosure Management
+
+Active
+
+Attorney
+
+Petitoner
+
+Figure 201: Foreclosure Management (Partial Claim)
+Step 3: = Click [SAVE].
+Step 4: On the Confirmation Pop-up, click [SUBMIT].
+
+The user will be directed back to the Foreclosure tab. The selected Foreclosure Activity will now display
+with a green document icon (&) and (A) in the name.
+
+7.1.7. View Notes
+
+To view notes, click on the [VIEW NoTEs] button. This will redirect the user to the Notes Tab within the
+Loan Record.
+
+Figure 202: Notes Tab (Partial Claim)
+
+To go back to the Foreclosure Tab, click on [BACK TO FORECLOSURE].
+
+7.1.8 — Edit Foreclosure Step
+
+The Edit Item action permits the user to update the status of the selected Foreclosure step when there
+is a need for an upda
